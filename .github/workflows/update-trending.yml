@@ -56,11 +56,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: 'npm'
+          # 移除缓存配置，直接安装依赖
 
       # 3. 安装依赖
       - name: 📦 Install dependencies
-        run: npm ci
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       # 4. 设置时区
       - name: 🌏 Set timezone
