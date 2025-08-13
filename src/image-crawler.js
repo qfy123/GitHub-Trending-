@@ -85,11 +85,12 @@ class ImageCrawler {
         
         console.log(`发现 ${allImageUrls.length} 个图片链接在 ${repo.full_name}`);
         
-        for (let i = 0; i < allImageUrls.length; i++) {
-            const imageUrl = allImageUrls[i];
+        // 只处理第一张图片
+        if (allImageUrls.length > 0) {
+            const imageUrl = allImageUrls[0];
             try {
                 const absoluteUrl = this.resolveImageUrl(imageUrl, repo);
-                const imageInfo = await this.downloadImage(absoluteUrl, targetDir, i);
+                const imageInfo = await this.downloadImage(absoluteUrl, targetDir, 0);
                 
                 if (imageInfo) {
                     images.push({
@@ -97,14 +98,14 @@ class ImageCrawler {
                         original_url: imageUrl,
                         absolute_url: absoluteUrl
                     });
+                    console.log(`✅ 成功下载项目代表图片: ${imageInfo.filename}`);
                 }
-                
-                // 添加延迟避免过快请求
-                await this.delay(500);
                 
             } catch (error) {
                 console.warn(`下载图片失败 ${imageUrl}:`, error.message);
             }
+        } else {
+            console.log(`${repo.full_name} 的README中没有找到图片`);
         }
         
         return images;

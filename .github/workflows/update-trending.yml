@@ -38,6 +38,11 @@ jobs:
   update-trending:
     runs-on: ubuntu-latest
     
+    # 设置权限
+    permissions:
+      contents: write
+      actions: read
+      
     # 设置超时时间（30分钟）
     timeout-minutes: 30
     
@@ -75,10 +80,19 @@ jobs:
 
       # 5. 检查配置
       - name: ⚙️ Check configuration
-        run: node scripts/update-trending.js --check
+        run: |
+          echo "🔍 检查环境变量..."
+          echo "GITHUB_TOKEN: ${GITHUB_TOKEN:0:10}..."
+          echo "SILICONFLOW_API_KEY: ${SILICONFLOW_API_KEY:0:10}..."
+          echo "AI_BASE_URL: $AI_BASE_URL"
+          echo "AI_MODEL: $AI_MODEL"
+          echo ""
+          node scripts/update-trending.js --check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-ai/DeepSeek-R1' }}
 
       # 6. 执行趋势更新
       - name: 🚀 Update trending repositories
@@ -105,7 +119,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
-          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-chat' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-ai/DeepSeek-R1' }}
 
       # 7. 检查是否有变更
       - name: 📋 Check for changes
