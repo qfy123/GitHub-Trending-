@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "每周GitHub趋势项目排行榜，自动爬取热门项目并生成中文报告",
   "main": "scripts/update-trending.js",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  },
   "scripts": {
     "start": "node scripts/update-trending.js",
     "test": "echo \"Error: no test specified\" && exit 1"
