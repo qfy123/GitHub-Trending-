@@ -7,7 +7,7 @@
       "start": "2025-08-10",
       "end": "2025-08-16"
     },
-    "total_repositories": 1,
+    "total_repositories": 3,
     "generation_date": "2025-08-16 23:59:59",
     "next_update": "2025-08-23"
   },
@@ -15,10 +15,24 @@
     {
       "full_name": "mendableai/open-lovable",
       "rank": 1,
-      "stars": 7348,
-      "forks": 1227,
+      "stars": 7455,
+      "forks": 1241,
       "overall_score": 87
+    },
+    {
+      "full_name": "office-sec/AionUi",
+      "rank": 2,
+      "stars": 1223,
+      "forks": 87,
+      "overall_score": 71
+    },
+    {
+      "full_name": "openai/gpt-5-coding-examples",
+      "rank": 3,
+      "stars": 1075,
+      "forks": 125,
+      "overall_score": 66
     }
   ],
-  "generated_at": "2025-08-13T05:35:57.825Z"
+  "generated_at": "2025-08-13T06:28:57.842Z"
 }

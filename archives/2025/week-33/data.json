@@ -7,7 +7,7 @@
       "start": "2025-08-10",
       "end": "2025-08-16"
     },
-    "total_repositories": 1,
+    "total_repositories": 3,
     "generation_date": "2025-08-16 23:59:59",
     "next_update": "2025-08-23"
   },
@@ -18,10 +18,10 @@
       "full_name": "mendableai/open-lovable",
       "owner": "mendableai",
       "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "stars": 7348,
-      "forks": 1227,
+      "stars": 7455,
+      "forks": 1241,
       "issues": 29,
-      "watchers": 7348,
+      "watchers": 7455,
       "description": "🔥 Clone and recreate any website as a modern React app in seconds",
       "homepage": "",
       "clone_url": "https://github.com/mendableai/open-lovable.git",
@@ -42,17 +42,17 @@
       ],
       "topics": [],
       "created_at": "2025-08-08T13:04:02Z",
-      "updated_at": "2025-08-13T05:34:24Z",
+      "updated_at": "2025-08-13T06:26:29Z",
       "pushed_at": "2025-08-12T15:16:27Z",
       "ai_summary": {
-        "summary": "open-lovable是一个AI驱动的开源工具，能在几秒钟内克隆并重构任何网站为现代React应用，大幅提升前端开发效率，因其创新性和高效性而广受欢迎。",
+        "summary": "Open Lovable是一个AI驱动的开源工具，能在几秒钟内克隆并重建任何网站为现代React应用，大幅提升开发效率，解决网站原型快速创建问题，因其创新性和实用性获得高Star和Fork。",
         "highlights": [
-          "AI聊天快速转换网站",
-          "即时生成React应用",
-          "简易设置流程"
+          "AI辅助快速构建React应用",
+          "一键克隆网站功能节省时间",
+          "简单设置流程易于集成"
         ],
-        "tech_summary": "基于TypeScript、React和现代Web技术栈构建。",
-        "use_case": "适用于快速原型开发、网站迁移或React框架学习。",
+        "tech_summary": "基于React、TypeScript和JavaScript的前端技术栈。",
+        "use_case": "适用于开发者快速原型设计、网站克隆或React学习场景。",
         "source": "ai"
       },
       "images": {
@@ -60,21 +60,21 @@
         "image_list": [
           {
             "filename": "1_giphy.gif",
-            "filepath": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable\\1_giphy.gif",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/open-lovable/1_giphy.gif",
             "size": 2893297,
             "content_type": "image/gif",
-            "downloaded_at": "2025-08-13T05:35:57.319Z",
+            "downloaded_at": "2025-08-13T06:28:55.766Z",
             "original_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif",
             "absolute_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif"
           }
         ],
-        "image_dir": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/open-lovable",
         "representative_image": {
           "filename": "1_giphy.gif",
-          "filepath": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable\\1_giphy.gif",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/open-lovable/1_giphy.gif",
           "size": 2893297,
           "content_type": "image/gif",
-          "downloaded_at": "2025-08-13T05:35:57.319Z",
+          "downloaded_at": "2025-08-13T06:28:55.766Z",
           "original_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif",
           "absolute_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif"
         }
@@ -89,26 +89,242 @@
         "rank_change": 0,
         "is_new": true
       }
+    },
+    {
+      "rank": 2,
+      "name": "AionUi",
+      "full_name": "office-sec/AionUi",
+      "owner": "office-sec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145246968?v=4",
+      "stars": 1223,
+      "forks": 87,
+      "issues": 22,
+      "watchers": 1223,
+      "description": "Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!",
+      "homepage": "https://www.aionui.com",
+      "clone_url": "https://github.com/office-sec/AionUi.git",
+      "ssh_url": "git@github.com:office-sec/AionUi.git",
+      "html_url": "https://github.com/office-sec/AionUi",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 171931,
+        "JavaScript": 959,
+        "CSS": 458,
+        "HTML": 307
+      },
+      "tech_stack": [
+        "TypeScript",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "ai",
+        "ai-agent",
+        "gemini",
+        "gemini-ai"
+      ],
+      "topics": [
+        "ai",
+        "ai-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "gemini-pro",
+        "gui",
+        "gui-application",
+        "ide",
+        "llm",
+        "llm-code",
+        "multi-agent",
+        "nodejs",
+        "react",
+        "typescript"
+      ],
+      "created_at": "2025-08-07T10:29:51Z",
+      "updated_at": "2025-08-13T06:24:34Z",
+      "pushed_at": "2025-08-12T10:21:59Z",
+      "ai_summary": {
+        "summary": "AionUi 是一个免费、本地化的开源 GUI 应用，用于增强 Gemini CLI 的使用体验，提供聊天优化、多任务处理、代码差异视图及文件项目管理功能，提升 AI 开发效率。",
+        "highlights": [
+          "增强 Gemini 聊天体验",
+          "支持多任务并行处理",
+          "内置代码差异视图和文件管理工具"
+        ],
+        "tech_summary": "基于 TypeScript 和 React，集成 AI 模型开发工具。",
+        "use_case": "为 AI 开发者提供直观界面，简化 Gemini 模型的日常开发与调试工作。",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_aionui_readme_header_0807.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/aionui/1_aionui_readme_header_0807.png",
+            "size": 445766,
+            "content_type": "image/png",
+            "downloaded_at": "2025-08-13T06:28:56.835Z",
+            "original_url": "./resources/aionui_readme_header_0807.png",
+            "absolute_url": "https://raw.githubusercontent.com/office-sec/AionUi/main/resources/aionui_readme_header_0807.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/aionui",
+        "representative_image": {
+          "filename": "1_aionui_readme_header_0807.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/aionui/1_aionui_readme_header_0807.png",
+          "size": 445766,
+          "content_type": "image/png",
+          "downloaded_at": "2025-08-13T06:28:56.835Z",
+          "original_url": "./resources/aionui_readme_header_0807.png",
+          "absolute_url": "https://raw.githubusercontent.com/office-sec/AionUi/main/resources/aionui_readme_header_0807.png"
+        }
+      },
+      "activity_score": 65,
+      "popularity_score": 63,
+      "freshness_score": 100,
+      "overall_score": 71,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "gpt-5-coding-examples",
+      "full_name": "openai/gpt-5-coding-examples",
+      "owner": "openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "stars": 1075,
+      "forks": 125,
+      "issues": 1,
+      "watchers": 1075,
+      "description": "GPT-5 coding examples",
+      "homepage": "https://platform.openai.com/docs/guides/latest-model",
+      "clone_url": "https://github.com/openai/gpt-5-coding-examples.git",
+      "ssh_url": "org-14957082@github.com:openai/gpt-5-coding-examples.git",
+      "html_url": "https://github.com/openai/gpt-5-coding-examples",
+      "language": "HTML",
+      "primary_language": "HTML",
+      "languages": {
+        "HTML": 2938128,
+        "CSS": 27410,
+        "JavaScript": 24262,
+        "TypeScript": 21531
+      },
+      "tech_stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "codex",
+        "coding",
+        "frontend",
+        "gpt"
+      ],
+      "topics": [
+        "codex",
+        "coding",
+        "frontend",
+        "gpt",
+        "openai",
+        "web",
+        "website"
+      ],
+      "created_at": "2025-08-07T01:06:40Z",
+      "updated_at": "2025-08-13T06:03:46Z",
+      "pushed_at": "2025-08-08T04:36:36Z",
+      "ai_summary": {
+        "summary": "一个使用HTML开发的开源项目：GPT-5 coding examples，已获得1,075个star。",
+        "highlights": [
+          "1,075 stars",
+          "HTML"
+        ],
+        "tech_summary": "HTML",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-33/gpt-5-coding-examples",
+        "representative_image": null
+      },
+      "activity_score": 48,
+      "popularity_score": 63,
+      "freshness_score": 100,
+      "overall_score": 66,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
     }
   ],
   "statistics": {
-    "total_stars": 7348,
-    "total_forks": 1227,
-    "average_stars": 7348,
-    "average_forks": 1227,
+    "total_stars": 9753,
+    "total_forks": 1453,
+    "average_stars": 3251,
+    "average_forks": 484,
     "top_languages": [
       {
         "name": "TypeScript",
+        "count": 2
+      },
+      {
+        "name": "HTML",
         "count": 1
       }
     ],
-    "top_topics": [],
+    "top_topics": [
+      {
+        "name": "ai",
+        "count": 1
+      },
+      {
+        "name": "ai-agent",
+        "count": 1
+      },
+      {
+        "name": "gemini",
+        "count": 1
+      },
+      {
+        "name": "gemini-ai",
+        "count": 1
+      },
+      {
+        "name": "gemini-cli",
+        "count": 1
+      },
+      {
+        "name": "gemini-pro",
+        "count": 1
+      },
+      {
+        "name": "gui",
+        "count": 1
+      },
+      {
+        "name": "gui-application",
+        "count": 1
+      },
+      {
+        "name": "ide",
+        "count": 1
+      },
+      {
+        "name": "llm",
+        "count": 1
+      }
+    ],
     "score_distribution": {
-      "min": 87,
+      "min": 66,
       "max": 87,
-      "average": 87,
-      "median": 87
+      "average": 75,
+      "median": 71
     }
   },
-  "generated_at": "2025-08-13T05:35:57.825Z"
+  "generated_at": "2025-08-13T06:28:57.842Z"
 }
