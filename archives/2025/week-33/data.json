@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第33周",
+    "year": 2025,
+    "week": 33,
+    "week_range": {
+      "start": "2025-08-10",
+      "end": "2025-08-16"
+    },
+    "total_repositories": 1,
+    "generation_date": "2025-08-16 23:59:59",
+    "next_update": "2025-08-23"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "open-lovable",
+      "full_name": "mendableai/open-lovable",
+      "owner": "mendableai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "stars": 7348,
+      "forks": 1227,
+      "issues": 29,
+      "watchers": 7348,
+      "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+      "homepage": "",
+      "clone_url": "https://github.com/mendableai/open-lovable.git",
+      "ssh_url": "git@github.com:mendableai/open-lovable.git",
+      "html_url": "https://github.com/mendableai/open-lovable",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 439978,
+        "CSS": 3913,
+        "JavaScript": 756
+      },
+      "tech_stack": [
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "topics": [],
+      "created_at": "2025-08-08T13:04:02Z",
+      "updated_at": "2025-08-13T05:34:24Z",
+      "pushed_at": "2025-08-12T15:16:27Z",
+      "ai_summary": {
+        "summary": "open-lovable是一个AI驱动的开源工具，能在几秒钟内克隆并重构任何网站为现代React应用，大幅提升前端开发效率，因其创新性和高效性而广受欢迎。",
+        "highlights": [
+          "AI聊天快速转换网站",
+          "即时生成React应用",
+          "简易设置流程"
+        ],
+        "tech_summary": "基于TypeScript、React和现代Web技术栈构建。",
+        "use_case": "适用于快速原型开发、网站迁移或React框架学习。",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_giphy.gif",
+            "filepath": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable\\1_giphy.gif",
+            "size": 2893297,
+            "content_type": "image/gif",
+            "downloaded_at": "2025-08-13T05:35:57.319Z",
+            "original_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif",
+            "absolute_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif"
+          }
+        ],
+        "image_dir": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable",
+        "representative_image": {
+          "filename": "1_giphy.gif",
+          "filepath": "C:\\Users\\79334\\source\\vscode\\GitHub-Trending\\images\\2025\\week-33\\open-lovable\\1_giphy.gif",
+          "size": 2893297,
+          "content_type": "image/gif",
+          "downloaded_at": "2025-08-13T05:35:57.319Z",
+          "original_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif",
+          "absolute_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif"
+        }
+      },
+      "activity_score": 87,
+      "popularity_score": 81,
+      "freshness_score": 100,
+      "overall_score": 87,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 7348,
+    "total_forks": 1227,
+    "average_stars": 7348,
+    "average_forks": 1227,
+    "top_languages": [
+      {
+        "name": "TypeScript",
+        "count": 1
+      }
+    ],
+    "top_topics": [],
+    "score_distribution": {
+      "min": 87,
+      "max": 87,
+      "average": 87,
+      "median": 87
+    }
+  },
+  "generated_at": "2025-08-13T05:35:57.825Z"
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第33周",
+    "year": 2025,
+    "week": 33,
+    "week_range": {
+      "start": "2025-08-10",
+      "end": "2025-08-16"
+    },
+    "total_repositories": 1,
+    "generation_date": "2025-08-16 23:59:59",
+    "next_update": "2025-08-23"
+  },
+  "repositories": [
+    {
+      "full_name": "mendableai/open-lovable",
+      "rank": 1,
+      "stars": 7348,
+      "forks": 1227,
+      "overall_score": 87
+    }
+  ],
+  "generated_at": "2025-08-13T05:35:57.825Z"
+}

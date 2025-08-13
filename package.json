@@ -1,0 +1,27 @@
+{
+  "name": "github-trending",
+  "version": "1.0.0",
+  "description": "每周GitHub趋势项目排行榜，自动爬取热门项目并生成中文报告",
+  "main": "scripts/update-trending.js",
+  "scripts": {
+    "start": "node scripts/update-trending.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "ranking",
+    "ai",
+    "crawler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7",
+    "moment": "^2.29.4"
+  }
+}
