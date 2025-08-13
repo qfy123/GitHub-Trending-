@@ -2,8 +2,8 @@
 
 🔥 每周自动爬取GitHub最受欢迎的开源项目，生成AI智能总结的中文排行榜
 
-[![GitHub Actions](https://github.com/your-username/GitHub-Trending/workflows/Update%20GitHub%20Trending/badge.svg)](https://github.com/your-username/GitHub-Trending/actions)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D14-brightgreen)](https://nodejs.org/)
+[![GitHub Actions](https://github.com/qfy123/GitHub-Trending-/workflows/Update%20GitHub%20Trending/badge.svg)](https://github.com/qfy123/GitHub-Trending-/actions)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## ✨ 特性
