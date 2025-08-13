@@ -12,7 +12,7 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-package-lock.json
+# package-lock.json  # 注释掉，我们需要这个文件
 yarn.lock
 
 # 运行时数据
