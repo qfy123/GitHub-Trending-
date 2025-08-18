@@ -5,7 +5,7 @@ class AISummarizer {
     constructor() {
         this.apiKey = process.env.SILICONFLOW_API_KEY;
         this.baseURL = process.env.AI_BASE_URL || 'https://api.siliconflow.cn/v1';
-        this.model = process.env.AI_MODEL || 'deepseek-chat';
+        this.model = process.env.AI_MODEL || 'Pro/moonshotai/Kimi-K2-Instruct';
         
         if (!this.apiKey) {
             throw new Error('请设置 SILICONFLOW_API_KEY 环境变量');
