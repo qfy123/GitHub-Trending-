@@ -189,7 +189,7 @@ SILICONFLOW_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # 基础配置
 AI_BASE_URL=https://api.siliconflow.cn/v1
-AI_MODEL=deepseek-chat
+AI_MODEL=Pro/moonshotai/Kimi-K2-Instruct
 REPO_LIMIT=10
 SINCE=weekly
 

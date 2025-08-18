@@ -92,7 +92,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
-          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-ai/DeepSeek-R1' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'Pro/moonshotai/Kimi-K2-Instruct' }}
 
       # 6. 执行趋势更新
       - name: 🚀 Update trending repositories
@@ -119,7 +119,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
-          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-ai/DeepSeek-R1' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'Pro/moonshotai/Kimi-K2-Instruct' }}
 
       # 7. 检查是否有变更
       - name: 📋 Check for changes
