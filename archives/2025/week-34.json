@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第34周",
+    "year": 2025,
+    "week": 34,
+    "week_range": {
+      "start": "2025-08-17",
+      "end": "2025-08-23"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-08-23 23:59:59",
+    "next_update": "2025-08-30"
+  },
+  "repositories": [
+    {
+      "full_name": "MoonTechLab/LunaTV",
+      "rank": 1,
+      "stars": 2179,
+      "forks": 924,
+      "overall_score": 78
+    },
+    {
+      "full_name": "anthugeist/synapse-bot",
+      "rank": 2,
+      "stars": 630,
+      "forks": 465,
+      "overall_score": 69
+    },
+    {
+      "full_name": "cnrad/keyboard-signature",
+      "rank": 3,
+      "stars": 519,
+      "forks": 50,
+      "overall_score": 64
+    },
+    {
+      "full_name": "bgreenwell/doxx",
+      "rank": 4,
+      "stars": 700,
+      "forks": 7,
+      "overall_score": 63
+    },
+    {
+      "full_name": "WeChatCV/Stand-In",
+      "rank": 5,
+      "stars": 419,
+      "forks": 35,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Tencent-Hunyuan/Hunyuan-GameCraft-1.0",
+      "rank": 6,
+      "stars": 388,
+      "forks": 34,
+      "overall_score": 62
+    },
+    {
+      "full_name": "panphora/overtype",
+      "rank": 7,
+      "stars": 490,
+      "forks": 7,
+      "overall_score": 61
+    },
+    {
+      "full_name": "stepfun-ai/NextStep-1",
+      "rank": 8,
+      "stars": 398,
+      "forks": 10,
+      "overall_score": 60
+    },
+    {
+      "full_name": "mingyin0312/RLFromScratch",
+      "rank": 9,
+      "stars": 391,
+      "forks": 28,
+      "overall_score": 60
+    },
+    {
+      "full_name": "BO6-Warzone-cheat/warzone-cheat",
+      "rank": 10,
+      "stars": 362,
+      "forks": 1,
+      "overall_score": 57
+    }
+  ],
+  "generated_at": "2025-08-18T12:28:19.947Z"
+}
