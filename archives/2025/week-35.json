@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第35周",
+    "year": 2025,
+    "week": 35,
+    "week_range": {
+      "start": "2025-08-24",
+      "end": "2025-08-30"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-08-30 23:59:59",
+    "next_update": "2025-09-06"
+  },
+  "repositories": [
+    {
+      "full_name": "openai/agents.md",
+      "rank": 1,
+      "stars": 3387,
+      "forks": 230,
+      "overall_score": 75
+    },
+    {
+      "full_name": "karpathy/rendergit",
+      "rank": 2,
+      "stars": 1175,
+      "forks": 101,
+      "overall_score": 68
+    },
+    {
+      "full_name": "opactorai/Claudable",
+      "rank": 3,
+      "stars": 810,
+      "forks": 97,
+      "overall_score": 67
+    },
+    {
+      "full_name": "printz-labs/pumpfun-bundler",
+      "rank": 4,
+      "stars": 348,
+      "forks": 279,
+      "overall_score": 65
+    },
+    {
+      "full_name": "printz-labs/copytrading-bot-solana",
+      "rank": 5,
+      "stars": 347,
+      "forks": 284,
+      "overall_score": 64
+    },
+    {
+      "full_name": "auv-sh/av",
+      "rank": 6,
+      "stars": 499,
+      "forks": 77,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Growth-Kinetics/DiffMem",
+      "rank": 7,
+      "stars": 485,
+      "forks": 29,
+      "overall_score": 62
+    },
+    {
+      "full_name": "lunarengine/lunar-test",
+      "rank": 8,
+      "stars": 372,
+      "forks": 19,
+      "overall_score": 62
+    },
+    {
+      "full_name": "tobi/try",
+      "rank": 9,
+      "stars": 502,
+      "forks": 17,
+      "overall_score": 61
+    },
+    {
+      "full_name": "shuding/nstr",
+      "rank": 10,
+      "stars": 445,
+      "forks": 8,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2025-08-25T03:20:59.132Z"
+}

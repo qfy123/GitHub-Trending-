@@ -18,225 +18,228 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第34周
+### GitHub趋势排行榜 - 2025年第35周
 
-**📅 统计周期**: 2025-08-17 ~ 2025-08-23  
+**📅 统计周期**: 2025-08-24 ~ 2025-08-30  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 6,476  
-**🔄 更新时间**: 2025-08-23 23:59:59  
+**⭐ 总Star数**: 8,370  
+**🔄 更新时间**: 2025-08-30 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [LunaTV](https://github.com/MoonTechLab/LunaTV) | 跨平台影视聚合播放器，一键聚合多源搜索、在线播放、收藏同步，免广告畅享海量免费影视。 | 2,179 | 924 | Unknown | 🆕 |
-| 2 | [synapse-bot](https://github.com/anthugeist/synapse-bot) | 开源多功能加密货币交易机器人，实时整合行情、社媒情绪与历史模式，提供AI信号、回测与Telegram远程控制。 | 630 | 465 | Python | 🆕 |
-| 3 | [keyboard-signature](https://github.com/cnrad/keyboard-signature) | 将键盘输入转化为独一无二的二维“指纹”签名，替代传统手写签名，实现数字化身份标识。 | 519 | 50 | TypeScript | 🆕 |
-| 4 | [doxx](https://github.com/bgreenwell/doxx) | 用Rust编写的终端级.docx查看器，无需Office即可在命令行中快速、安全地浏览Word文档。 | 700 | 7 | Rust | 🆕 |
-| 5 | [Stand-In](https://github.com/WeChatCV/Stand-In) | 轻量级即插即用框架，仅需训练1%参数即可在视频生成中保持人物身份一致性，无需重训大模型。 | 419 | 35 | Python | 🆕 |
-| 6 | [Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) | 腾讯混元团队开源的高动态交互式游戏视频生成模型，支持根据历史帧与动作指令实时生成连贯游戏画面。 | 388 | 34 | Python | 🆕 |
-| 7 | [overtype](https://github.com/panphora/overtype) | 超轻量 Markdown 编辑器，用隐藏 textarea 覆盖预览层，实现所见即所得，体积仅 45 KB。 | 490 | 7 | JavaScript | 🆕 |
-| 8 | [NextStep-1](https://github.com/stepfun-ai/NextStep-1) | 140亿参数的自回归图像生成模型，用连续token替代离散VQ，兼顾质量与效率，突破扩散模型高成本瓶颈。 | 398 | 10 | Python | 🆕 |
-| 9 | [RLFromScratch](https://github.com/mingyin0312/RLFromScratch) | 纯PyTorch手写GRPO与DPO算法，揭开大模型对齐黑箱，1小时让1B模型GSM8K提升13%。 | 391 | 28 | Python | 🆕 |
-| 10 | [warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat) | 为《使命召唤：Warzone》提供自瞄、透视、全解锁等外挂功能，提升射击精度与战场感知。 | 362 | 1 | Unknown | 🆕 |
+| 1 | [agents.md](https://github.com/openai/agents.md) | AGENTS.md 为 AI 编程助手提供统一的项目说明格式，让代码代理像读 README 一样快速理解仓库上下文。 | 3,387 | 230 | TypeScript | 🆕 |
+| 2 | [rendergit](https://github.com/karpathy/rendergit) | 一键把任意 GitHub 仓库渲染成单页静态 HTML，告别层层点击，代码一览无余。 | 1,175 | 101 | Python | 🆕 |
+| 3 | [Claudable](https://github.com/opactorai/Claudable) | 开源可视化建站平台，通过本地 Claude Code/Cursor 等 AI Agent 一键生成并部署完整产品。 | 810 | 97 | TypeScript | 🆕 |
+| 4 | [pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler) | 一键在PumpFun上创建代币并同时用20个钱包抢购的极速捆绑脚本，提升首发成功率。 | 348 | 279 | TypeScript | 🆕 |
+| 5 | [copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana) | 一键跟单Solana链上高手钱包，实时同步买卖，自动复制顶级交易者策略，支持所有DEX。 | 347 | 284 | TypeScript | 🆕 |
+| 6 | [av](https://github.com/auv-sh/av) | 自称“极快”的电影管理工具，用Rust编写，README却警告用户安装后可能“自伤”，更像一场兄弟间的玩笑。 | 499 | 77 | Rust | 🆕 |
+| 7 | [DiffMem](https://github.com/Growth-Kinetics/DiffMem) | 用 Git 做 AI 记忆库：把对话历史存成 Markdown，自动版本化并可快速检索。 | 485 | 29 | Python | 🆕 |
+| 8 | [lunar-test](https://github.com/lunarengine/lunar-test) | LunarEngine 是一个开源的 Luau 3D 引擎，与 Roblox Luau API 兼容，方便开发者快... | 372 | 19 | C++ | 🆕 |
+| 9 | [try](https://github.com/tobi/try) | 单文件 Ruby 脚本，一键创建并跳转到带时间戳的干净实验目录，告别 test、test2 混乱。 | 502 | 17 | Ruby | 🆕 |
+| 10 | [nstr](https://github.com/shuding/nstr) | 智能数字转字符串库，自动修复浮点精度误差，让 UI 不再出现 0.30000000000000004 等丑陋数字。 | 445 | 8 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [LunaTV](https://github.com/MoonTechLab/LunaTV) ![Star](https://img.shields.io/github/stars/MoonTechLab/LunaTV?style=social)
+#### 1. [agents.md](https://github.com/openai/agents.md) ![Star](https://img.shields.io/github/stars/openai/agents.md?style=social)
 
-**📝 项目简介**: 跨平台影视聚合播放器，一键聚合多源搜索、在线播放、收藏同步，免广告畅享海量免费影视。
+<img src="./images/2025/week-35/agents.md/1_og.png" alt="agents.md" width="500"/>
 
-**✨ 核心特性**:
-- 多源聚合搜索，秒出结果
-- 多端同步收藏与播放进度
-- PWA离线安装，移动端原生体验
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,179
-- **🔀 Fork数**: 924
-- **👀 Watch数**: 2,179
-- **📝 语言**: Unknown
-- **💻 技术栈**: Docker, Redis, TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [synapse-bot](https://github.com/anthugeist/synapse-bot) ![Star](https://img.shields.io/github/stars/anthugeist/synapse-bot?style=social)
-
-**📝 项目简介**: 开源多功能加密货币交易机器人，实时整合行情、社媒情绪与历史模式，提供AI信号、回测与Telegram远程控制。
+**📝 项目简介**: AGENTS.md 为 AI 编程助手提供统一的项目说明格式，让代码代理像读 README 一样快速理解仓库上下文。
 
 **✨ 核心特性**:
-- AI驱动的实时交易信号
-- 支持回测与多交易所接入
-- Telegram远程监控与操作
+- 类 README 的开放标准
+- 帮助 AI 代理快速上手项目
+- 简单 Markdown 即可配置
 
 **📊 项目统计**:
-- **⭐ Star数**: 630
-- **🔀 Fork数**: 465
-- **👀 Watch数**: 630
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile, Dockerfile, bitcoin, bitcoin-trading, crypto
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [keyboard-signature](https://github.com/cnrad/keyboard-signature) ![Star](https://img.shields.io/github/stars/cnrad/keyboard-signature?style=social)
-
-**📝 项目简介**: 将键盘输入转化为独一无二的二维“指纹”签名，替代传统手写签名，实现数字化身份标识。
-
-**✨ 核心特性**:
-- 零依赖轻量实现
-- 实时可视化签名
-- 可嵌入任何网页
-
-**📊 项目统计**:
-- **⭐ Star数**: 519
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 519
+- **⭐ Star数**: 3,387
+- **🔀 Fork数**: 230
+- **👀 Watch数**: 3,387
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://signature.cnrad.dev](https://signature.cnrad.dev)
-- **💻 技术栈**: TypeScript, JavaScript, CSS
+- **🌐 官网**: [https://agents.md](https://agents.md)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [doxx](https://github.com/bgreenwell/doxx) ![Star](https://img.shields.io/github/stars/bgreenwell/doxx?style=social)
+#### 2. [rendergit](https://github.com/karpathy/rendergit) ![Star](https://img.shields.io/github/stars/karpathy/rendergit?style=social)
 
-<img src="./images/2025/week-34/doxx/1_badge.svg" alt="doxx" width="500"/>
-
-**📝 项目简介**: 用Rust编写的终端级.docx查看器，无需Office即可在命令行中快速、安全地浏览Word文档。
+**📝 项目简介**: 一键把任意 GitHub 仓库渲染成单页静态 HTML，告别层层点击，代码一览无余。
 
 **✨ 核心特性**:
-- 终端原生渲染，无需Word
-- 极速解析，占用极低
-- 支持表格、导出与美化显示
+- 单页展示全部源码，支持语法高亮与 Markdown
+- 侧边栏导航+全文搜索，浏览效率翻倍
+- 零依赖安装，一行命令即可使用
 
 **📊 项目统计**:
-- **⭐ Star数**: 700
-- **🔀 Fork数**: 7
-- **👀 Watch数**: 700
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [Stand-In](https://github.com/WeChatCV/Stand-In) ![Star](https://img.shields.io/github/stars/WeChatCV/Stand-In?style=social)
-
-<img src="./images/2025/week-34/stand-in/1_stand-in.png" alt="Stand-In" width="500"/>
-
-**📝 项目简介**: 轻量级即插即用框架，仅需训练1%参数即可在视频生成中保持人物身份一致性，无需重训大模型。
-
-**✨ 核心特性**:
-- 训练成本低
-- 即插即用
-- 身份一致性高
-
-**📊 项目统计**:
-- **⭐ Star数**: 419
-- **🔀 Fork数**: 35
-- **👀 Watch数**: 419
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-GameCraft-1.0?style=social)
-
-**📝 项目简介**: 腾讯混元团队开源的高动态交互式游戏视频生成模型，支持根据历史帧与动作指令实时生成连贯游戏画面。
-
-**✨ 核心特性**:
-- 高动态范围画质，保持帧间一致性
-- 混合历史条件建模，精准响应用户操作
-- 开源完整推理与微调代码，支持Docker一键部署
-
-**📊 项目统计**:
-- **⭐ Star数**: 388
-- **🔀 Fork数**: 34
-- **👀 Watch数**: 388
-- **📝 语言**: Python
-- **🌐 官网**: [https://hunyuan-gamecraft.github.io/](https://hunyuan-gamecraft.github.io/)
-- **💻 技术栈**: Python, Shell, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [overtype](https://github.com/panphora/overtype) ![Star](https://img.shields.io/github/stars/panphora/overtype?style=social)
-
-<img src="./images/2025/week-34/overtype/1_diagram.png" alt="overtype" width="500"/>
-
-**📝 项目简介**: 超轻量 Markdown 编辑器，用隐藏 textarea 覆盖预览层，实现所见即所得，体积仅 45 KB。
-
-**✨ 核心特性**:
-- 隐形输入层实现完美 WYSIWYG
-- 内置明暗主题与快捷键
-- 移动端优化，开箱即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 490
-- **🔀 Fork数**: 7
-- **👀 Watch数**: 490
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, React, Vue, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [NextStep-1](https://github.com/stepfun-ai/NextStep-1) ![Star](https://img.shields.io/github/stars/stepfun-ai/NextStep-1?style=social)
-
-<img src="./images/2025/week-34/nextstep-1/1_arxiv-2508.10711-b31b1b.svg" alt="NextStep-1" width="500"/>
-
-**📝 项目简介**: 140亿参数的自回归图像生成模型，用连续token替代离散VQ，兼顾质量与效率，突破扩散模型高成本瓶颈。
-
-**✨ 核心特性**:
-- 140亿参数规模
-- 连续token无需VQ压缩
-- 自回归生成高质量图像
-
-**📊 项目统计**:
-- **⭐ Star数**: 398
-- **🔀 Fork数**: 10
-- **👀 Watch数**: 398
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [RLFromScratch](https://github.com/mingyin0312/RLFromScratch) ![Star](https://img.shields.io/github/stars/mingyin0312/RLFromScratch?style=social)
-
-**📝 项目简介**: 纯PyTorch手写GRPO与DPO算法，揭开大模型对齐黑箱，1小时让1B模型GSM8K提升13%。
-
-**✨ 核心特性**:
-- 零依赖实现GRPO/DPO
-- 完整训练细节公开
-- 1B模型1epoch显著提升
-
-**📊 项目统计**:
-- **⭐ Star数**: 391
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 391
+- **⭐ Star数**: 1,175
+- **🔀 Fork数**: 101
+- **👀 Watch数**: 1,175
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat) ![Star](https://img.shields.io/github/stars/BO6-Warzone-cheat/warzone-cheat?style=social)
+#### 3. [Claudable](https://github.com/opactorai/Claudable) ![Star](https://img.shields.io/github/stars/opactorai/Claudable?style=social)
 
-**📝 项目简介**: 为《使命召唤：Warzone》提供自瞄、透视、全解锁等外挂功能，提升射击精度与战场感知。
+<img src="./images/2025/week-35/claudable/1_claudable_main.png" alt="Claudable" width="500"/>
+
+**📝 项目简介**: 开源可视化建站平台，通过本地 Claude Code/Cursor 等 AI Agent 一键生成并部署完整产品。
 
 **✨ 核心特性**:
-- 精准自瞄
-- ESP透视与墙体透视
-- 一键解锁全部皮肤与道具
+- 零代码拖拽生成
+- 本地 AI Agent 驱动
+- 一键部署上线
 
 **📊 项目统计**:
-- **⭐ Star数**: 362
-- **🔀 Fork数**: 1
-- **👀 Watch数**: 362
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://discord.gg/elusiongg](https://discord.gg/elusiongg)
-- **💻 技术栈**: Express
+- **⭐ Star数**: 810
+- **🔀 Fork数**: 97
+- **👀 Watch数**: 810
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Python, JavaScript, CSS, HTML, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler) ![Star](https://img.shields.io/github/stars/printz-labs/pumpfun-bundler?style=social)
+
+<img src="./images/2025/week-35/pumpfun-bundler/1_image.png" alt="pumpfun-bundler" width="500"/>
+
+**📝 项目简介**: 一键在PumpFun上创建代币并同时用20个钱包抢购的极速捆绑脚本，提升首发成功率。
+
+**✨ 核心特性**:
+- 20钱包并发抢购
+- 单bundle完成创建+买入
+- 极速高效，降低滑点
+
+**📊 项目统计**:
+- **⭐ Star数**: 348
+- **🔀 Fork数**: 279
+- **👀 Watch数**: 348
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, bundler, bundler-bot, pumpfun-bundler
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana) ![Star](https://img.shields.io/github/stars/printz-labs/copytrading-bot-solana?style=social)
+
+**📝 项目简介**: 一键跟单Solana链上高手钱包，实时同步买卖，自动复制顶级交易者策略，支持所有DEX。
+
+**✨ 核心特性**:
+- 实时跟单任意钱包
+- 覆盖Solana全部DEX
+- 零门槛自动执行
+
+**📊 项目统计**:
+- **⭐ Star数**: 347
+- **🔀 Fork数**: 284
+- **👀 Watch数**: 347
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, auto-trade-bot, bot, copy-trade, copy-trading, copytrading
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [av](https://github.com/auv-sh/av) ![Star](https://img.shields.io/github/stars/auv-sh/av?style=social)
+
+**📝 项目简介**: 自称“极快”的电影管理工具，用Rust编写，README却警告用户安装后可能“自伤”，更像一场兄弟间的玩笑。
+
+**✨ 核心特性**:
+- Rust实现的高性能
+- README幽默警告
+- Shell脚本集成
+
+**📊 项目统计**:
+- **⭐ Star数**: 499
+- **🔀 Fork数**: 77
+- **👀 Watch数**: 499
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [DiffMem](https://github.com/Growth-Kinetics/DiffMem) ![Star](https://img.shields.io/github/stars/Growth-Kinetics/DiffMem?style=social)
+
+<img src="./images/2025/week-35/diffmem/1_license-mit-yellow.svg" alt="DiffMem" width="500"/>
+
+**📝 项目简介**: 用 Git 做 AI 记忆库：把对话历史存成 Markdown，自动版本化并可快速检索。
+
+**✨ 核心特性**:
+- Git 版本化记忆，天然可追溯
+- Markdown 存储，人类可读易编辑
+- 内置 BM25 检索，秒级召回相关记忆
+
+**📊 项目统计**:
+- **⭐ Star数**: 485
+- **🔀 Fork数**: 29
+- **👀 Watch数**: 485
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Dockerfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [lunar-test](https://github.com/lunarengine/lunar-test) ![Star](https://img.shields.io/github/stars/lunarengine/lunar-test?style=social)
+
+<img src="./images/2025/week-35/lunar-test/1_lunarengine.png" alt="lunar-test" width="500"/>
+
+**📝 项目简介**: LunarEngine 是一个开源的 Luau 3D 引擎，与 Roblox Luau API 兼容，方便开发者快速构建跨平台 3D 游戏。
+
+**✨ 核心特性**:
+- 与 Luau API 兼容，降低 Roblox 开发者迁移成本
+- C++ 高性能核心，支持 Lua 脚本快速迭代
+- 开源免费，社区活跃，已有 372 Star
+
+**📊 项目统计**:
+- **⭐ Star数**: 372
+- **🔀 Fork数**: 19
+- **👀 Watch数**: 372
+- **📝 语言**: C++
+- **💻 技术栈**: C++, Lua, Luau, C, Python, CMake
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [try](https://github.com/tobi/try) ![Star](https://img.shields.io/github/stars/tobi/try?style=social)
+
+<img src="./images/2025/week-35/try/1_ve8axbaphkkz40ybqptlvjqgs.svg" alt="try" width="500"/>
+
+**📝 项目简介**: 单文件 Ruby 脚本，一键创建并跳转到带时间戳的干净实验目录，告别 test、test2 混乱。
+
+**✨ 核心特性**:
+- 秒级目录创建与自动 cd
+- 按日期自动命名，永不重名
+- 单文件零依赖，随拷随用
+
+**📊 项目统计**:
+- **⭐ Star数**: 502
+- **🔀 Fork数**: 17
+- **👀 Watch数**: 502
+- **📝 语言**: Ruby
+- **💻 技术栈**: Ruby, Nix, Redis
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [nstr](https://github.com/shuding/nstr) ![Star](https://img.shields.io/github/stars/shuding/nstr?style=social)
+
+**📝 项目简介**: 智能数字转字符串库，自动修复浮点精度误差，让 UI 不再出现 0.30000000000000004 等丑陋数字。
+
+**✨ 核心特性**:
+- 自动检测并修正浮点误差
+- 零配置，一行代码接入
+- 支持多种格式化风格
+
+**📊 项目统计**:
+- **⭐ Star数**: 445
+- **🔀 Fork数**: 8
+- **👀 Watch数**: 445
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://nstr.vercel.app](https://nstr.vercel.app)
+- **💻 技术栈**: TypeScript, JavaScript, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,21 +247,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (5 个项目)
-2. **Unknown** (2 个项目)
-3. **TypeScript** (1 个项目)
-4. **Rust** (1 个项目)
-5. **JavaScript** (1 个项目)
+1. **TypeScript** (5 个项目)
+2. **Python** (2 个项目)
+3. **Rust** (1 个项目)
+4. **C++** (1 个项目)
+5. **Ruby** (1 个项目)
 
 **🏷️ 热门话题**:
-1. bitcoin (1)
-2. bitcoin-trading (1)
-3. crypto (1)
-4. cryptocurrency (1)
-5. open-source (1)
-6. trading (1)
-7. trading-bot (1)
-8. trading-strategies (1)
+1. bundler (1)
+2. bundler-bot (1)
+3. pumpfun-bundler (1)
+4. auto-trade-bot (1)
+5. bot (1)
+6. copy-trade (1)
+7. copy-trading (1)
+8. copytrading (1)
 
 
 <!-- TRENDING-END -->
@@ -268,6 +271,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 08-30 | 2025年第35周 | 10 个 | [查看详情](./archives/2025/week-35/report.md) |
 | 08-23 | 2025年第34周 | 10 个 | [查看详情](./archives/2025/week-34/report.md) |
 | 08-16 | 2025年第33周 | 3 个 | [查看详情](./archives/2025/week-33/report.md) |
 
