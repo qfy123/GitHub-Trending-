@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第36周",
+    "year": 2025,
+    "week": 36,
+    "week_range": {
+      "start": "2025-08-31",
+      "end": "2025-09-06"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-09-06 23:59:59",
+    "next_update": "2025-09-13"
+  },
+  "repositories": [
+    {
+      "full_name": "renzorlive/vimmaster",
+      "rank": 1,
+      "stars": 1069,
+      "forks": 46,
+      "overall_score": 66
+    },
+    {
+      "full_name": "ox1nec/Pharos-Testnet-Bot",
+      "rank": 2,
+      "stars": 406,
+      "forks": 48,
+      "overall_score": 63
+    },
+    {
+      "full_name": "0x23/MicroManipulatorStepper",
+      "rank": 3,
+      "stars": 303,
+      "forks": 34,
+      "overall_score": 61
+    },
+    {
+      "full_name": "YXYAXA/yangbing_prompt",
+      "rank": 4,
+      "stars": 287,
+      "forks": 31,
+      "overall_score": 60
+    },
+    {
+      "full_name": "google-deepmind/limit",
+      "rank": 5,
+      "stars": 347,
+      "forks": 21,
+      "overall_score": 59
+    },
+    {
+      "full_name": "meituan-longcat/LongCat-Flash-Chat",
+      "rank": 6,
+      "stars": 331,
+      "forks": 9,
+      "overall_score": 59
+    },
+    {
+      "full_name": "vllm-project/semantic-router",
+      "rank": 7,
+      "stars": 208,
+      "forks": 17,
+      "overall_score": 58
+    },
+    {
+      "full_name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+      "rank": 8,
+      "stars": 232,
+      "forks": 9,
+      "overall_score": 57
+    },
+    {
+      "full_name": "ethz-vlg/mvtracker",
+      "rank": 9,
+      "stars": 214,
+      "forks": 5,
+      "overall_score": 57
+    },
+    {
+      "full_name": "Nasogaa/immich-drop",
+      "rank": 10,
+      "stars": 226,
+      "forks": 5,
+      "overall_score": 56
+    }
+  ],
+  "generated_at": "2025-09-01T03:26:14.962Z"
+}

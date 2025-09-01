@@ -18,228 +18,228 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第35周
+### GitHub趋势排行榜 - 2025年第36周
 
-**📅 统计周期**: 2025-08-24 ~ 2025-08-30  
+**📅 统计周期**: 2025-08-31 ~ 2025-09-06  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 8,370  
-**🔄 更新时间**: 2025-08-30 23:59:59  
+**⭐ 总Star数**: 3,623  
+**🔄 更新时间**: 2025-09-06 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [agents.md](https://github.com/openai/agents.md) | AGENTS.md 为 AI 编程助手提供统一的项目说明格式，让代码代理像读 README 一样快速理解仓库上下文。 | 3,387 | 230 | TypeScript | 🆕 |
-| 2 | [rendergit](https://github.com/karpathy/rendergit) | 一键把任意 GitHub 仓库渲染成单页静态 HTML，告别层层点击，代码一览无余。 | 1,175 | 101 | Python | 🆕 |
-| 3 | [Claudable](https://github.com/opactorai/Claudable) | 开源可视化建站平台，通过本地 Claude Code/Cursor 等 AI Agent 一键生成并部署完整产品。 | 810 | 97 | TypeScript | 🆕 |
-| 4 | [pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler) | 一键在PumpFun上创建代币并同时用20个钱包抢购的极速捆绑脚本，提升首发成功率。 | 348 | 279 | TypeScript | 🆕 |
-| 5 | [copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana) | 一键跟单Solana链上高手钱包，实时同步买卖，自动复制顶级交易者策略，支持所有DEX。 | 347 | 284 | TypeScript | 🆕 |
-| 6 | [av](https://github.com/auv-sh/av) | 自称“极快”的电影管理工具，用Rust编写，README却警告用户安装后可能“自伤”，更像一场兄弟间的玩笑。 | 499 | 77 | Rust | 🆕 |
-| 7 | [DiffMem](https://github.com/Growth-Kinetics/DiffMem) | 用 Git 做 AI 记忆库：把对话历史存成 Markdown，自动版本化并可快速检索。 | 485 | 29 | Python | 🆕 |
-| 8 | [lunar-test](https://github.com/lunarengine/lunar-test) | LunarEngine 是一个开源的 Luau 3D 引擎，与 Roblox Luau API 兼容，方便开发者快... | 372 | 19 | C++ | 🆕 |
-| 9 | [try](https://github.com/tobi/try) | 单文件 Ruby 脚本，一键创建并跳转到带时间戳的干净实验目录，告别 test、test2 混乱。 | 502 | 17 | Ruby | 🆕 |
-| 10 | [nstr](https://github.com/shuding/nstr) | 智能数字转字符串库，自动修复浮点精度误差，让 UI 不再出现 0.30000000000000004 等丑陋数字。 | 445 | 8 | TypeScript | 🆕 |
+| 1 | [vimmaster](https://github.com/renzorlive/vimmaster) | 零安装浏览器小游戏，用闯关方式快速掌握 Vim 核心移动与编辑指令，打开 index.html 即练。 | 1,069 | 46 | HTML | 🆕 |
+| 2 | [Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot) | Pharos测试网一站式自动化脚本，支持签到、领水、交易、流动性、转账等全链路操作，多线程+代理，一键跑量。 | 406 | 48 | Python | 🆕 |
+| 3 | [MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) | 开源低成本XYZ微操作平台，步进电机驱动，亚微米级精度，适合科研与电子测试。 | 303 | 34 | C++ | 🆕 |
+| 4 | [yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt) | 提供魅魔女友角色扮演提示词，支持表情与姿势图片交互，适配Gemini模型，突破常规对话限制。 | 287 | 31 | Unknown | 🆕 |
+| 5 | [limit](https://github.com/google-deepmind/limit) | DeepMind开源的LIMIT数据集，用于理论验证嵌入检索的极限缺陷，揭示高维模型也无法覆盖全部查询场景。 | 347 | 21 | Jupyter Notebook | 🆕 |
+| 6 | [LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat) | 美团开源的极速对话系统，主打低延迟、高并发，支持云端一键部署，适用于企业级实时聊天场景。 | 331 | 9 | Unknown | 🆕 |
+| 7 | [semantic-router](https://github.com/vllm-project/semantic-router) | 基于BERT语义理解的智能路由系统，自动将OpenAI API请求分发到最合适的模型，实现低成本、高性能的LLM推理。 | 208 | 17 | Python | 🆕 |
+| 8 | [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) | 作者持续更新的“nano-banana”创意玩法合集，整合各种小巧有趣的玩法与灵感。 | 232 | 9 | Unknown | 🆕 |
+| 9 | [mvtracker](https://github.com/ethz-vlg/mvtracker) | ICCV 2025 Oral 提出的多视角3D点跟踪框架，可在复杂动态场景中跨视图稳定追踪任意3D点。 | 214 | 5 | Python | 🆕 |
+| 10 | [immich-drop](https://github.com/Nasogaa/immich-drop) | 无需登录的极简网页，任何人都能把照片/视频直接上传到指定Immich服务器，自动去重并保留原始拍摄时间。 | 226 | 5 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [agents.md](https://github.com/openai/agents.md) ![Star](https://img.shields.io/github/stars/openai/agents.md?style=social)
+#### 1. [vimmaster](https://github.com/renzorlive/vimmaster) ![Star](https://img.shields.io/github/stars/renzorlive/vimmaster?style=social)
 
-<img src="./images/2025/week-35/agents.md/1_og.png" alt="agents.md" width="500"/>
+<img src="./images/2025/week-36/vimmaster/1_vm.gif" alt="vimmaster" width="500"/>
 
-**📝 项目简介**: AGENTS.md 为 AI 编程助手提供统一的项目说明格式，让代码代理像读 README 一样快速理解仓库上下文。
+**📝 项目简介**: 零安装浏览器小游戏，用闯关方式快速掌握 Vim 核心移动与编辑指令，打开 index.html 即练。
 
 **✨ 核心特性**:
-- 类 README 的开放标准
-- 帮助 AI 代理快速上手项目
-- 简单 Markdown 即可配置
+- 免安装即开即玩
+- 关卡式渐进教学
+- 完整模拟 Vim 正常/插入模式
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,387
-- **🔀 Fork数**: 230
-- **👀 Watch数**: 3,387
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://agents.md](https://agents.md)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, React
+- **⭐ Star数**: 1,069
+- **🔀 Fork数**: 46
+- **👀 Watch数**: 1,069
+- **📝 语言**: HTML
+- **🌐 官网**: [https://renzorlive.github.io/vimmaster/](https://renzorlive.github.io/vimmaster/)
+- **💻 技术栈**: HTML, coding, education, game, indie-game, vim
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [rendergit](https://github.com/karpathy/rendergit) ![Star](https://img.shields.io/github/stars/karpathy/rendergit?style=social)
+#### 2. [Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot) ![Star](https://img.shields.io/github/stars/ox1nec/Pharos-Testnet-Bot?style=social)
 
-**📝 项目简介**: 一键把任意 GitHub 仓库渲染成单页静态 HTML，告别层层点击，代码一览无余。
+**📝 项目简介**: Pharos测试网一站式自动化脚本，支持签到、领水、交易、流动性、转账等全链路操作，多线程+代理，一键跑量。
 
 **✨ 核心特性**:
-- 单页展示全部源码，支持语法高亮与 Markdown
-- 侧边栏导航+全文搜索，浏览效率翻倍
-- 零依赖安装，一行命令即可使用
+- 每日自动签到领水
+- 全功能DeFi自动化
+- 多线程+全代理支持
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,175
-- **🔀 Fork数**: 101
-- **👀 Watch数**: 1,175
+- **⭐ Star数**: 406
+- **🔀 Fork数**: 48
+- **👀 Watch数**: 406
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, Batchfile, pharos-bot, pharos-testnet, pharos-testnet-automation, pharos-testnet-bot
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [Claudable](https://github.com/opactorai/Claudable) ![Star](https://img.shields.io/github/stars/opactorai/Claudable?style=social)
+#### 3. [MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) ![Star](https://img.shields.io/github/stars/0x23/MicroManipulatorStepper?style=social)
 
-<img src="./images/2025/week-35/claudable/1_claudable_main.png" alt="Claudable" width="500"/>
+<img src="./images/2025/week-36/micromanipulatorstepper/1_overview.gif" alt="MicroManipulatorStepper" width="500"/>
 
-**📝 项目简介**: 开源可视化建站平台，通过本地 Claude Code/Cursor 等 AI Agent 一键生成并部署完整产品。
+**📝 项目简介**: 开源低成本XYZ微操作平台，步进电机驱动，亚微米级精度，适合科研与电子测试。
 
 **✨ 核心特性**:
-- 零代码拖拽生成
-- 本地 AI Agent 驱动
-- 一键部署上线
+- 亚微米级精度
+- 低成本易组装
+- 并行运动结构+微型球铰
 
 **📊 项目统计**:
-- **⭐ Star数**: 810
-- **🔀 Fork数**: 97
-- **👀 Watch数**: 810
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Python, JavaScript, CSS, HTML, Shell
+- **⭐ Star数**: 303
+- **🔀 Fork数**: 34
+- **👀 Watch数**: 303
+- **📝 语言**: C++
+- **💻 技术栈**: C++, Python, C, Angular
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler) ![Star](https://img.shields.io/github/stars/printz-labs/pumpfun-bundler?style=social)
+#### 4. [yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt) ![Star](https://img.shields.io/github/stars/YXYAXA/yangbing_prompt?style=social)
 
-<img src="./images/2025/week-35/pumpfun-bundler/1_image.png" alt="pumpfun-bundler" width="500"/>
-
-**📝 项目简介**: 一键在PumpFun上创建代币并同时用20个钱包抢购的极速捆绑脚本，提升首发成功率。
+**📝 项目简介**: 提供魅魔女友角色扮演提示词，支持表情与姿势图片交互，适配Gemini模型，突破常规对话限制。
 
 **✨ 核心特性**:
-- 20钱包并发抢购
-- 单bundle完成创建+买入
-- 极速高效，降低滑点
+- 无敏感词安全使用
+- 支持R18图片与表情
+- 专为Gemini优化
 
 **📊 项目统计**:
-- **⭐ Star数**: 348
-- **🔀 Fork数**: 279
-- **👀 Watch数**: 348
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, bundler, bundler-bot, pumpfun-bundler
+- **⭐ Star数**: 287
+- **🔀 Fork数**: 31
+- **👀 Watch数**: 287
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://login.yuychat.cn](https://login.yuychat.cn)
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana) ![Star](https://img.shields.io/github/stars/printz-labs/copytrading-bot-solana?style=social)
+#### 5. [limit](https://github.com/google-deepmind/limit) ![Star](https://img.shields.io/github/stars/google-deepmind/limit?style=social)
 
-**📝 项目简介**: 一键跟单Solana链上高手钱包，实时同步买卖，自动复制顶级交易者策略，支持所有DEX。
+<img src="./images/2025/week-36/limit/1_limit.png" alt="limit" width="500"/>
+
+**📝 项目简介**: DeepMind开源的LIMIT数据集，用于理论验证嵌入检索的极限缺陷，揭示高维模型也无法覆盖全部查询场景。
 
 **✨ 核心特性**:
-- 实时跟单任意钱包
-- 覆盖Solana全部DEX
-- 零门槛自动执行
+- 理论证明嵌入维度存在不可检索文档
+- 构建LIMIT数据集压力测试SOTA模型
+- 揭示当前检索系统的根本局限
 
 **📊 项目统计**:
 - **⭐ Star数**: 347
-- **🔀 Fork数**: 284
+- **🔀 Fork数**: 21
 - **👀 Watch数**: 347
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, auto-trade-bot, bot, copy-trade, copy-trading, copytrading
+- **📝 语言**: Jupyter Notebook
+- **🌐 官网**: [https://arxiv.org/abs/2508.21038](https://arxiv.org/abs/2508.21038)
+- **💻 技术栈**: Jupyter Notebook, Python, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [av](https://github.com/auv-sh/av) ![Star](https://img.shields.io/github/stars/auv-sh/av?style=social)
+#### 6. [LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat) ![Star](https://img.shields.io/github/stars/meituan-longcat/LongCat-Flash-Chat?style=social)
 
-**📝 项目简介**: 自称“极快”的电影管理工具，用Rust编写，README却警告用户安装后可能“自伤”，更像一场兄弟间的玩笑。
+<img src="./images/2025/week-36/longcat-flash-chat/1_longcat_logo.svg" alt="LongCat-Flash-Chat" width="500"/>
+
+**📝 项目简介**: 美团开源的极速对话系统，主打低延迟、高并发，支持云端一键部署，适用于企业级实时聊天场景。
 
 **✨ 核心特性**:
-- Rust实现的高性能
-- README幽默警告
-- Shell脚本集成
+- 毫秒级响应
+- AWS云原生架构
+- 零配置快速上线
 
 **📊 项目统计**:
-- **⭐ Star数**: 499
-- **🔀 Fork数**: 77
-- **👀 Watch数**: 499
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Shell
+- **⭐ Star数**: 331
+- **🔀 Fork数**: 9
+- **👀 Watch数**: 331
+- **📝 语言**: Unknown
+- **💻 技术栈**: AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [DiffMem](https://github.com/Growth-Kinetics/DiffMem) ![Star](https://img.shields.io/github/stars/Growth-Kinetics/DiffMem?style=social)
+#### 7. [semantic-router](https://github.com/vllm-project/semantic-router) ![Star](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social)
 
-<img src="./images/2025/week-35/diffmem/1_license-mit-yellow.svg" alt="DiffMem" width="500"/>
+<img src="./images/2025/week-36/semantic-router/1_license-apache%202.0-blue.svg" alt="semantic-router" width="500"/>
 
-**📝 项目简介**: 用 Git 做 AI 记忆库：把对话历史存成 Markdown，自动版本化并可快速检索。
-
-**✨ 核心特性**:
-- Git 版本化记忆，天然可追溯
-- Markdown 存储，人类可读易编辑
-- 内置 BM25 检索，秒级召回相关记忆
-
-**📊 项目统计**:
-- **⭐ Star数**: 485
-- **🔀 Fork数**: 29
-- **👀 Watch数**: 485
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Dockerfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [lunar-test](https://github.com/lunarengine/lunar-test) ![Star](https://img.shields.io/github/stars/lunarengine/lunar-test?style=social)
-
-<img src="./images/2025/week-35/lunar-test/1_lunarengine.png" alt="lunar-test" width="500"/>
-
-**📝 项目简介**: LunarEngine 是一个开源的 Luau 3D 引擎，与 Roblox Luau API 兼容，方便开发者快速构建跨平台 3D 游戏。
+**📝 项目简介**: 基于BERT语义理解的智能路由系统，自动将OpenAI API请求分发到最合适的模型，实现低成本、高性能的LLM推理。
 
 **✨ 核心特性**:
-- 与 Luau API 兼容，降低 Roblox 开发者迁移成本
-- C++ 高性能核心，支持 Lua 脚本快速迭代
-- 开源免费，社区活跃，已有 372 Star
+- 语义级模型路由
+- 自动选择最优模型
+- 支持混合模型池
 
 **📊 项目统计**:
-- **⭐ Star数**: 372
-- **🔀 Fork数**: 19
-- **👀 Watch数**: 372
-- **📝 语言**: C++
-- **💻 技术栈**: C++, Lua, Luau, C, Python, CMake
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [try](https://github.com/tobi/try) ![Star](https://img.shields.io/github/stars/tobi/try?style=social)
-
-<img src="./images/2025/week-35/try/1_ve8axbaphkkz40ybqptlvjqgs.svg" alt="try" width="500"/>
-
-**📝 项目简介**: 单文件 Ruby 脚本，一键创建并跳转到带时间戳的干净实验目录，告别 test、test2 混乱。
-
-**✨ 核心特性**:
-- 秒级目录创建与自动 cd
-- 按日期自动命名，永不重名
-- 单文件零依赖，随拷随用
-
-**📊 项目统计**:
-- **⭐ Star数**: 502
+- **⭐ Star数**: 208
 - **🔀 Fork数**: 17
-- **👀 Watch数**: 502
-- **📝 语言**: Ruby
-- **💻 技术栈**: Ruby, Nix, Redis
+- **👀 Watch数**: 208
+- **📝 语言**: Python
+- **🌐 官网**: [https://vllm-semantic-router.com](https://vllm-semantic-router.com)
+- **💻 技术栈**: Python, Go, Rust, CSS, JavaScript, Makefile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [nstr](https://github.com/shuding/nstr) ![Star](https://img.shields.io/github/stars/shuding/nstr?style=social)
+#### 8. [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) ![Star](https://img.shields.io/github/stars/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation?style=social)
 
-**📝 项目简介**: 智能数字转字符串库，自动修复浮点精度误差，让 UI 不再出现 0.30000000000000004 等丑陋数字。
+**📝 项目简介**: 作者持续更新的“nano-banana”创意玩法合集，整合各种小巧有趣的玩法与灵感。
 
 **✨ 核心特性**:
-- 自动检测并修正浮点误差
-- 零配置，一行代码接入
-- 支持多种格式化风格
+- 持续更新
+- 玩法多样
+- 灵感合集
 
 **📊 项目统计**:
-- **⭐ Star数**: 445
-- **🔀 Fork数**: 8
-- **👀 Watch数**: 445
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://nstr.vercel.app](https://nstr.vercel.app)
-- **💻 技术栈**: TypeScript, JavaScript, CSS
+- **⭐ Star数**: 232
+- **🔀 Fork数**: 9
+- **👀 Watch数**: 232
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [mvtracker](https://github.com/ethz-vlg/mvtracker) ![Star](https://img.shields.io/github/stars/ethz-vlg/mvtracker?style=social)
+
+**📝 项目简介**: ICCV 2025 Oral 提出的多视角3D点跟踪框架，可在复杂动态场景中跨视图稳定追踪任意3D点。
+
+**✨ 核心特性**:
+- 多视角一致性3D点跟踪
+- 无需额外标注的端到端训练
+- 支持动态遮挡与长时序追踪
+
+**📊 项目统计**:
+- **⭐ Star数**: 214
+- **🔀 Fork数**: 5
+- **👀 Watch数**: 214
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [immich-drop](https://github.com/Nasogaa/immich-drop) ![Star](https://img.shields.io/github/stars/Nasogaa/immich-drop?style=social)
+
+<img src="./images/2025/week-36/immich-drop/1_screenshot.png" alt="immich-drop" width="500"/>
+
+**📝 项目简介**: 无需登录的极简网页，任何人都能把照片/视频直接上传到指定Immich服务器，自动去重并保留原始拍摄时间。
+
+**✨ 核心特性**:
+- 零登录上传
+- 实时进度与去重
+- 移动端友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 226
+- **🔀 Fork数**: 5
+- **👀 Watch数**: 226
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript, HTML, Dockerfile, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -247,21 +247,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (5 个项目)
-2. **Python** (2 个项目)
-3. **Rust** (1 个项目)
+1. **Python** (4 个项目)
+2. **Unknown** (3 个项目)
+3. **HTML** (1 个项目)
 4. **C++** (1 个项目)
-5. **Ruby** (1 个项目)
+5. **Jupyter Notebook** (1 个项目)
 
 **🏷️ 热门话题**:
-1. bundler (1)
-2. bundler-bot (1)
-3. pumpfun-bundler (1)
-4. auto-trade-bot (1)
-5. bot (1)
-6. copy-trade (1)
-7. copy-trading (1)
-8. copytrading (1)
+1. python (2)
+2. coding (1)
+3. education (1)
+4. game (1)
+5. indie-game (1)
+6. vim (1)
+7. pharos-bot (1)
+8. pharos-testnet (1)
 
 
 <!-- TRENDING-END -->
@@ -271,6 +271,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
 | 08-30 | 2025年第35周 | 10 个 | [查看详情](./archives/2025/week-35/report.md) |
 | 08-23 | 2025年第34周 | 10 个 | [查看详情](./archives/2025/week-34/report.md) |
 | 08-16 | 2025年第33周 | 3 个 | [查看详情](./archives/2025/week-33/report.md) |
