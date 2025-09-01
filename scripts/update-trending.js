@@ -12,7 +12,7 @@ require('dotenv').config();
 class TrendingUpdater {
     constructor() {
         this.github = new GitHubAPI();
-        this.aiSummarizer = new AISummarizer();
+        this._aiSummarizer = null;  // 延迟初始化
         this.imageCrawler = new ImageCrawler();
         this.dataProcessor = new DataProcessor();
         this.fileManager = new FileManager();
@@ -25,6 +25,14 @@ class TrendingUpdater {
             retryAttempts: 3,
             retryDelay: 5000
         };
+    }
+
+    // 延迟初始化 AISummarizer
+    get aiSummarizer() {
+        if (!this._aiSummarizer) {
+            this._aiSummarizer = new AISummarizer();
+        }
+        return this._aiSummarizer;
     }
 
     /**

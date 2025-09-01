@@ -101,16 +101,16 @@ jobs:
           COMMAND="node scripts/update-trending.js"
           
           # 添加手动触发的参数
-          if [ "${{ github.event.inputs.repo_limit }}" != "" ]; then
-            COMMAND="$COMMAND --limit ${{ github.event.inputs.repo_limit }}"
+          if [ "${REPO_LIMIT}" != "" ]; then
+            COMMAND="$COMMAND --limit $REPO_LIMIT"
           fi
           
-          if [ "${{ github.event.inputs.language }}" != "" ]; then
-            COMMAND="$COMMAND --language ${{ github.event.inputs.language }}"
+          if [ "${LANGUAGE}" != "" ]; then
+            COMMAND="$COMMAND --language $LANGUAGE"
           fi
           
-          if [ "${{ github.event.inputs.since }}" != "" ]; then
-            COMMAND="$COMMAND --since ${{ github.event.inputs.since }}"
+          if [ "${SINCE}" != "" ]; then
+            COMMAND="$COMMAND --since $SINCE"
           fi
           
           echo "执行命令: $COMMAND"
@@ -120,6 +120,9 @@ jobs:
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
           AI_MODEL: ${{ secrets.AI_MODEL || 'Pro/moonshotai/Kimi-K2-Instruct' }}
+          REPO_LIMIT: ${{ github.event.inputs.repo_limit || '' }}
+          LANGUAGE: ${{ github.event.inputs.language || '' }}
+          SINCE: ${{ github.event.inputs.since || '' }}
 
       # 7. 检查是否有变更
       - name: 📋 Check for changes
@@ -199,6 +202,11 @@ jobs:
           else
             echo "⏭️ 非月初第一周，跳过数据清理"
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.siliconflow.cn/v1' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'Pro/moonshotai/Kimi-K2-Instruct' }}
 
       # 11. 生成报告摘要
       - name: 📊 Generate summary
