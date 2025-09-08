@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第37周",
+    "year": 2025,
+    "week": 37,
+    "week_range": {
+      "start": "2025-09-07",
+      "end": "2025-09-13"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-09-13 23:59:59",
+    "next_update": "2025-09-20"
+  },
+  "repositories": [
+    {
+      "full_name": "samhenrigold/LidAngleSensor",
+      "rank": 1,
+      "stars": 1472,
+      "forks": 58,
+      "overall_score": 70
+    },
+    {
+      "full_name": "little-book-of/linear-algebra",
+      "rank": 2,
+      "stars": 1525,
+      "forks": 43,
+      "overall_score": 67
+    },
+    {
+      "full_name": "google-gemini/nano-banana-hackathon-kit",
+      "rank": 3,
+      "stars": 622,
+      "forks": 111,
+      "overall_score": 66
+    },
+    {
+      "full_name": "seezatnap/nano-banana-infinimap",
+      "rank": 4,
+      "stars": 374,
+      "forks": 64,
+      "overall_score": 63
+    },
+    {
+      "full_name": "callstack/liquid-glass",
+      "rank": 5,
+      "stars": 280,
+      "forks": 11,
+      "overall_score": 59
+    },
+    {
+      "full_name": "Varietyz/Disciplined-AI-Software-Development",
+      "rank": 6,
+      "stars": 242,
+      "forks": 14,
+      "overall_score": 59
+    },
+    {
+      "full_name": "ZHO-ZHO-ZHO/Nano-Bananary",
+      "rank": 7,
+      "stars": 217,
+      "forks": 36,
+      "overall_score": 59
+    },
+    {
+      "full_name": "ccheshirecat/flint",
+      "rank": 8,
+      "stars": 270,
+      "forks": 6,
+      "overall_score": 58
+    },
+    {
+      "full_name": "yoavf/absolutelyright",
+      "rank": 9,
+      "stars": 233,
+      "forks": 8,
+      "overall_score": 58
+    },
+    {
+      "full_name": "mandatoryprogrammer/thermoptic",
+      "rank": 10,
+      "stars": 215,
+      "forks": 11,
+      "overall_score": 57
+    }
+  ],
+  "generated_at": "2025-09-08T03:12:54.190Z"
+}
