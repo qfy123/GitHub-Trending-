@@ -18,227 +18,227 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第37周
+### GitHub趋势排行榜 - 2025年第38周
 
-**📅 统计周期**: 2025-09-07 ~ 2025-09-13  
+**📅 统计周期**: 2025-09-14 ~ 2025-09-20  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,450  
-**🔄 更新时间**: 2025-09-13 23:59:59  
+**⭐ 总Star数**: 4,203  
+**🔄 更新时间**: 2025-09-20 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) | 实时读取并显示 MacBook 铰链角度的小工具，还能在缓慢开合时播放木门吱呀声，趣味十足。 | 1,472 | 58 | Objective-C | 🆕 |
-| 2 | [linear-algebra](https://github.com/little-book-of/linear-algebra) | 一本极简线性代数入门书，用直观方式讲清向量、矩阵与空间变换的核心概念，适合零基础读者。 | 1,525 | 43 | TeX | 🆕 |
-| 3 | [nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit) | Google DeepMind官方为Nano Banana黑客松准备的48小时极速开发套件，含Gemini 2.5... | 622 | 111 | Jupyter Notebook | 🆕 |
-| 4 | [nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap) | 基于 Gemini Nano Banana 的实验性 AI 无限地图生成器，可实时生成无缝、邻接感知的瓦片地图。 | 374 | 64 | TypeScript | 🆕 |
-| 5 | [liquid-glass](https://github.com/callstack/liquid-glass) | 为React Native应用带来iOS 26液态玻璃视效，一键实现模糊与色彩叠加的沉浸式UI体验。 | 280 | 11 | TypeScript | 🆕 |
-| 6 | [Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development) | 一套与AI协作开发软件的规范方法，通过系统化约束与验证节点，解决代码膨胀、架构漂移和上下文稀释等常见痛点。 | 242 | 14 | Python | 🆕 |
-| 7 | [Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) | 零门槛AI图像生成工具，支持局部涂选与连续编辑，无需输入提示词即可一键产出多样玩法。 | 217 | 36 | TypeScript | 🆕 |
-| 8 | [flint](https://github.com/ccheshirecat/flint) | Flint 是一个仅 11 MB 的轻量级 KVM 虚拟机管理工具，通过现代化 Web UI、CLI 与 REST... | 270 | 6 | TypeScript | 🆕 |
-| 9 | [absolutelyright](https://github.com/yoavf/absolutelyright) | 用科学方法记录并可视化Claude Code对你人生选择的肯定次数，生成1美元幽默网站的实时数据。 | 233 | 8 | Python | 🆕 |
-| 10 | [thermoptic](https://github.com/mandatoryprogrammer/thermoptic) | 下一代HTTP隐形代理，将curl等客户端伪装成Chrome浏览器，绕过指纹检测封锁。 | 215 | 11 | JavaScript | 🆕 |
+| 1 | [Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | 基于God引擎的《超级马里奥兄弟》高清重制版，新增角色、关卡与编辑器，致敬经典并支持自定义创作。 | 353 | 44 | GDScript | 🆕 |
+| 2 | [ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) | 基于C#的隐蔽信息窃取工具，可提取浏览器密码、Cookie等敏感数据并回传服务器。 | 432 | 381 | C# | 🆕 |
+| 3 | [nano11](https://github.com/ntdevlabs/nano11) | 一键生成极度精简、无预装软件、可启动的Windows 11镜像脚本，让系统体积最小化。 | 438 | 30 | PowerShell | 🆕 |
+| 4 | [batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops) | 用可复现的“批无关”算子替换PyTorch核心kernel，让LLM推理结果完全确定，不再因batch size不... | 563 | 28 | Python | 🆕 |
+| 5 | [SRPO](https://github.com/Tencent-Hunyuan/SRPO) | 腾讯混元开源的SRPO框架，通过细粒度人类偏好直接对齐扩散模型完整生成轨迹，提升图像生成质量与可控性。 | 533 | 11 | Python | 🆕 |
+| 6 | [docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) | NetworkChuck出品的Docker版MCP服务器速成教程，含视频配套代码与模板，5分钟可跑通首个AI工具服务。 | 333 | 76 | Unknown | 🆕 |
+| 7 | [oq](https://github.com/plutov/oq) | 终端里的OpenAPI文档浏览器，支持本地/远程YAML/JSON一键预览，键盘交互式浏览接口详情。 | 481 | 6 | Go | 🆕 |
+| 8 | [ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) | 围绕 Vercel AI SDK 打造的实用工具包，提供状态管理、调试与产物处理，帮助开发者快速构建可上线的 AI... | 369 | 19 | TypeScript | 🆕 |
+| 9 | [elden-github](https://github.com/SaltyAom/elden-github) | 把GitHub界面改造成《艾尔登法环》风格，提供沉浸式游戏化浏览体验。 | 384 | 10 | TypeScript | 🆕 |
+| 10 | [Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO) | 首个开源的离散扩散式多模态大模型，实现文本、图像统一理解与生成，打破传统自回归范式。 | 317 | 18 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) ![Star](https://img.shields.io/github/stars/samhenrigold/LidAngleSensor?style=social)
+#### 1. [Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) ![Star](https://img.shields.io/github/stars/JHDev2006/Super-Mario-Bros.-Remastered-Public?style=social)
 
-**📝 项目简介**: 实时读取并显示 MacBook 铰链角度的小工具，还能在缓慢开合时播放木门吱呀声，趣味十足。
+**📝 项目简介**: 基于God引擎的《超级马里奥兄弟》高清重制版，新增角色、关卡与编辑器，致敬经典并支持自定义创作。
 
 **✨ 核心特性**:
-- 支持 2019 及以后 MacBook Pro 的 lid angle 传感器
-- 可选木门吱呀音效，增加互动乐趣
-- 极简 Objective-C 实现，零依赖
+- 新增关卡与角色
+- 内置关卡编辑器
+- 支持自定义关卡分享
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,472
-- **🔀 Fork数**: 58
-- **👀 Watch数**: 1,472
-- **📝 语言**: Objective-C
-- **🌐 官网**: [https://samhenri.gold](https://samhenri.gold)
-- **💻 技术栈**: Objective-C
+- **⭐ Star数**: 353
+- **🔀 Fork数**: 44
+- **👀 Watch数**: 353
+- **📝 语言**: GDScript
+- **💻 技术栈**: GDScript, GAP, C#, GDShader
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [linear-algebra](https://github.com/little-book-of/linear-algebra) ![Star](https://img.shields.io/github/stars/little-book-of/linear-algebra?style=social)
+#### 2. [ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) ![Star](https://img.shields.io/github/stars/luis22d/ZeroTrace-Stealer-13-2026?style=social)
 
-**📝 项目简介**: 一本极简线性代数入门书，用直观方式讲清向量、矩阵与空间变换的核心概念，适合零基础读者。
+<img src="./images/2025/week-38/zerotrace-stealer-13-2026/1_version-1.0.0-blue.svg" alt="ZeroTrace-Stealer-13-2026" width="500"/>
+
+**📝 项目简介**: 基于C#的隐蔽信息窃取工具，可提取浏览器密码、Cookie等敏感数据并回传服务器。
 
 **✨ 核心特性**:
-- 公式少、图解多，降低入门门槛
-- 提供打印、电子书及 LaTeX 源码三种格式
-- MIT 许可证，可自由再创作
+- 支持最新Chrome数据提取
+- 内置FUD加密绕过检测
+- 提供可视化控制面板
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,525
-- **🔀 Fork数**: 43
-- **👀 Watch数**: 1,525
-- **📝 语言**: TeX
-- **💻 技术栈**: TeX, React, Angular, Express
+- **⭐ Star数**: 432
+- **🔀 Fork数**: 381
+- **👀 Watch数**: 432
+- **📝 语言**: C#
+- **💻 技术栈**: C#, crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit) ![Star](https://img.shields.io/github/stars/google-gemini/nano-banana-hackathon-kit?style=social)
+#### 3. [nano11](https://github.com/ntdevlabs/nano11) ![Star](https://img.shields.io/github/stars/ntdevlabs/nano11?style=social)
 
-<img src="./images/2025/week-37/nano-banana-hackathon-kit/1_header.png" alt="nano-banana-hackathon-kit" width="500"/>
-
-**📝 项目简介**: Google DeepMind官方为Nano Banana黑客松准备的48小时极速开发套件，含Gemini 2.5 Flash免费额度。
+**📝 项目简介**: 一键生成极度精简、无预装软件、可启动的Windows 11镜像脚本，让系统体积最小化。
 
 **✨ 核心特性**:
-- 48小时Gemini API免费额度
-- 官方认证黑客松起点
-- 一键克隆即可开跑
+- 纯PowerShell+官方工具，无需第三方组件
+- 自动下载oscdimg并集成无人值守应答，跳过微软账户
+- 保留核心功能，显著降低内存与磁盘占用
 
 **📊 项目统计**:
-- **⭐ Star数**: 622
-- **🔀 Fork数**: 111
-- **👀 Watch数**: 622
-- **📝 语言**: Jupyter Notebook
-- **💻 技术栈**: Jupyter Notebook
+- **⭐ Star数**: 438
+- **🔀 Fork数**: 30
+- **👀 Watch数**: 438
+- **📝 语言**: PowerShell
+- **💻 技术栈**: PowerShell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap) ![Star](https://img.shields.io/github/stars/seezatnap/nano-banana-infinimap?style=social)
+#### 4. [batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops) ![Star](https://img.shields.io/github/stars/thinking-machines-lab/batch_invariant_ops?style=social)
 
-**📝 项目简介**: 基于 Gemini Nano Banana 的实验性 AI 无限地图生成器，可实时生成无缝、邻接感知的瓦片地图。
-
-**✨ 核心特性**:
-- AI 驱动的无限地图
-- 实时无缝瓦片生成
-- 邻接感知一致性
-
-**📊 项目统计**:
-- **⭐ Star数**: 374
-- **🔀 Fork数**: 64
-- **👀 Watch数**: 374
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, React, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [liquid-glass](https://github.com/callstack/liquid-glass) ![Star](https://img.shields.io/github/stars/callstack/liquid-glass?style=social)
-
-<img src="./images/2025/week-37/liquid-glass/1_vibe-d.svg" alt="liquid-glass" width="500"/>
-
-**📝 项目简介**: 为React Native应用带来iOS 26液态玻璃视效，一键实现模糊与色彩叠加的沉浸式UI体验。
+**📝 项目简介**: 用可复现的“批无关”算子替换PyTorch核心kernel，让LLM推理结果完全确定，不再因batch size不同而出差。
 
 **✨ 核心特性**:
-- iOS 26原生液态玻璃效果
-- 支持自定义色调
-- 清晰/普通两种模式
+- 一行代码启用，零侵入改造
+- 自带vLLM示例，即刻获得确定性输出
+- 基于torch.Library，开销极低
 
 **📊 项目统计**:
-- **⭐ Star数**: 280
-- **🔀 Fork数**: 11
-- **👀 Watch数**: 280
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Objective-C++, JavaScript, Swift, Kotlin, Ruby
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development) ![Star](https://img.shields.io/github/stars/Varietyz/Disciplined-AI-Software-Development?style=social)
-
-<img src="./images/2025/week-37/disciplined-ai-software-development/1_700px_main_animated.gif" alt="Disciplined-AI-Software-Development" width="500"/>
-
-**📝 项目简介**: 一套与AI协作开发软件的规范方法，通过系统化约束与验证节点，解决代码膨胀、架构漂移和上下文稀释等常见痛点。
-
-**✨ 核心特性**:
-- 系统化约束防止代码膨胀
-- 验证节点实时纠正架构漂移
-- 上下文保持机制减少信息稀释
-
-**📊 项目统计**:
-- **⭐ Star数**: 242
-- **🔀 Fork数**: 14
-- **👀 Watch数**: 242
+- **⭐ Star数**: 563
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 563
 - **📝 语言**: Python
-- **🌐 官网**: [https://banes-lab.com](https://banes-lab.com)
-- **💻 技术栈**: Python, ai, ai-agents, ai-collaboration, best-practices, collaborate
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) ![Star](https://img.shields.io/github/stars/ZHO-ZHO-ZHO/Nano-Bananary?style=social)
+#### 5. [SRPO](https://github.com/Tencent-Hunyuan/SRPO) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/SRPO?style=social)
 
-**📝 项目简介**: 零门槛AI图像生成工具，支持局部涂选与连续编辑，无需输入提示词即可一键产出多样玩法。
+<img src="./images/2025/week-38/srpo/1_head.jpg" alt="SRPO" width="500"/>
+
+**📝 项目简介**: 腾讯混元开源的SRPO框架，通过细粒度人类偏好直接对齐扩散模型完整生成轨迹，提升图像生成质量与可控性。
 
 **✨ 核心特性**:
-- 无需提示词即可生成
-- 局部涂选精准编辑
-- 连续创作无缝衔接
+- 端到端轨迹级对齐
+- 细粒度人类偏好学习
+- 开源预训练模型与代码
 
 **📊 项目统计**:
-- **⭐ Star数**: 217
-- **🔀 Fork数**: 36
-- **👀 Watch数**: 217
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, HTML, Node.js
+- **⭐ Star数**: 533
+- **🔀 Fork数**: 11
+- **👀 Watch数**: 533
+- **📝 语言**: Python
+- **🌐 官网**: [https://tencent.github.io/srpo-project-page/](https://tencent.github.io/srpo-project-page/)
+- **💻 技术栈**: Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [flint](https://github.com/ccheshirecat/flint) ![Star](https://img.shields.io/github/stars/ccheshirecat/flint?style=social)
+#### 6. [docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) ![Star](https://img.shields.io/github/stars/theNetworkChuck/docker-mcp-tutorial?style=social)
 
-<img src="./images/2025/week-37/flint/1_screenshot-2025-09-07-at-3-51-58-am.png" alt="flint" width="500"/>
-
-**📝 项目简介**: Flint 是一个仅 11 MB 的轻量级 KVM 虚拟机管理工具，通过现代化 Web UI、CLI 与 REST API 一键创建、快照、串口调试 Linux 虚拟机，告别 XML 配置。
+**📝 项目简介**: NetworkChuck出品的Docker版MCP服务器速成教程，含视频配套代码与模板，5分钟可跑通首个AI工具服务。
 
 **✨ 核心特性**:
-- 单文件 <11 MB 零依赖
-- Web+CLI+API 三合一操作
-- 内建快照、串口、cloud-init 支持
+- 5分钟极速上手
+- 配套视频+完整示例
+- Docker一键部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 270
+- **⭐ Star数**: 333
+- **🔀 Fork数**: 76
+- **👀 Watch数**: 333
+- **📝 语言**: Unknown
+- **💻 技术栈**: Docker, REST API
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [oq](https://github.com/plutov/oq) ![Star](https://img.shields.io/github/stars/plutov/oq?style=social)
+
+<img src="./images/2025/week-38/oq/1_preview.gif" alt="oq" width="500"/>
+
+**📝 项目简介**: 终端里的OpenAPI文档浏览器，支持本地/远程YAML/JSON一键预览，键盘交互式浏览接口详情。
+
+**✨ 核心特性**:
+- 终端即开即用，无需浏览器
+- 支持OpenAPI 3.0/3.1与YAML/JSON
+- 管道输入，可curl远程Spec直接查看
+
+**📊 项目统计**:
+- **⭐ Star数**: 481
 - **🔀 Fork数**: 6
-- **👀 Watch数**: 270
+- **👀 Watch数**: 481
+- **📝 语言**: Go
+- **💻 技术栈**: Go
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) ![Star](https://img.shields.io/github/stars/midday-ai/ai-sdk-tools?style=social)
+
+<img src="./images/2025/week-38/ai-sdk-tools/1_image.png" alt="ai-sdk-tools" width="500"/>
+
+**📝 项目简介**: 围绕 Vercel AI SDK 打造的实用工具包，提供状态管理、调试与产物处理，帮助开发者快速构建可上线的 AI 应用。
+
+**✨ 核心特性**:
+- 消除 Chat 组件 prop drilling
+- 内置调试与日志工具
+- 开箱即用的产物/文件处理
+
+**📊 项目统计**:
+- **⭐ Star数**: 369
+- **🔀 Fork数**: 19
+- **👀 Watch数**: 369
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Go, CSS, Makefile, HTML, Shell
+- **🌐 官网**: [https://ai-sdk-tools.dev](https://ai-sdk-tools.dev)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, ai-sdk, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [absolutelyright](https://github.com/yoavf/absolutelyright) ![Star](https://img.shields.io/github/stars/yoavf/absolutelyright?style=social)
+#### 9. [elden-github](https://github.com/SaltyAom/elden-github) ![Star](https://img.shields.io/github/stars/SaltyAom/elden-github?style=social)
 
-**📝 项目简介**: 用科学方法记录并可视化Claude Code对你人生选择的肯定次数，生成1美元幽默网站的实时数据。
+**📝 项目简介**: 把GitHub界面改造成《艾尔登法环》风格，提供沉浸式游戏化浏览体验。
 
 **✨ 核心特性**:
-- Rust后端+SQLite轻量API
-- 前端仅用1美元成本实现图表
-- Python脚本自动收集验证数据
+- 一键切换魂系视觉主题
+- 保留完整GitHub功能
+- TypeScript实现轻量高性能
 
 **📊 项目统计**:
-- **⭐ Star数**: 233
-- **🔀 Fork数**: 8
-- **👀 Watch数**: 233
+- **⭐ Star数**: 384
+- **🔀 Fork数**: 10
+- **👀 Watch数**: 384
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO?style=social)
+
+<img src="./images/2025/week-38/lumina-dimoo/1_lumina-dimoo.png" alt="Lumina-DiMOO" width="500"/>
+
+**📝 项目简介**: 首个开源的离散扩散式多模态大模型，实现文本、图像统一理解与生成，打破传统自回归范式。
+
+**✨ 核心特性**:
+- 离散扩散架构，生成质量高
+- 统一多模态理解与生成
+- 完全开源，社区可复现
+
+**📊 项目统计**:
+- **⭐ Star数**: 317
+- **🔀 Fork数**: 18
+- **👀 Watch数**: 317
 - **📝 语言**: Python
-- **🌐 官网**: [https://absolutelyright.lol](https://absolutelyright.lol)
-- **💻 技术栈**: Python, Rust, JavaScript, CSS, HTML, Dockerfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [thermoptic](https://github.com/mandatoryprogrammer/thermoptic) ![Star](https://img.shields.io/github/stars/mandatoryprogrammer/thermoptic?style=social)
-
-<img src="./images/2025/week-37/thermoptic/1_diagram.png" alt="thermoptic" width="500"/>
-
-**📝 项目简介**: 下一代HTTP隐形代理，将curl等客户端伪装成Chrome浏览器，绕过指纹检测封锁。
-
-**✨ 核心特性**:
-- 完美模拟Chrome指纹
-- 全栈层隐身
-- 支持curl等常用客户端
-
-**📊 项目统计**:
-- **⭐ Star数**: 215
-- **🔀 Fork数**: 11
-- **👀 Watch数**: 215
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, Pug, Dockerfile, Shell, Docker
+- **🌐 官网**: [https://synbol.github.io/Lumina-DiMOO/](https://synbol.github.io/Lumina-DiMOO/)
+- **💻 技术栈**: Python, diffusion-large-language-model, discrete-diffusion-models, unified-multimodal-understanding-and-generation
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -246,21 +246,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (4 个项目)
-2. **Python** (2 个项目)
-3. **Objective-C** (1 个项目)
-4. **TeX** (1 个项目)
-5. **Jupyter Notebook** (1 个项目)
+1. **Python** (3 个项目)
+2. **TypeScript** (2 个项目)
+3. **GDScript** (1 个项目)
+4. **C#** (1 个项目)
+5. **PowerShell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (1)
-2. ai-agents (1)
-3. ai-collaboration (1)
-4. best-practices (1)
-5. collaborate (1)
-6. collaboration (1)
-7. collaborative (1)
-8. context (1)
+1. crypter (1)
+2. crypter-fud (1)
+3. fud-crypter (1)
+4. fud-stealer (1)
+5. panel-stealer (1)
+6. stealer (1)
+7. stealer-files (1)
+8. stealer-fud (1)
 
 
 <!-- TRENDING-END -->
@@ -270,6 +270,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 | 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
 | 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
 | 08-30 | 2025年第35周 | 10 个 | [查看详情](./archives/2025/week-35/report.md) |

@@ -1,0 +1,773 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第38周",
+    "year": 2025,
+    "week": 38,
+    "week_range": {
+      "start": "2025-09-14",
+      "end": "2025-09-20"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-09-20 23:59:59",
+    "next_update": "2025-09-27"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "Super-Mario-Bros.-Remastered-Public",
+      "full_name": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "owner": "JHDev2006",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97353363?v=4",
+      "stars": 353,
+      "forks": 44,
+      "issues": 103,
+      "watchers": 353,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public.git",
+      "ssh_url": "git@github.com:JHDev2006/Super-Mario-Bros.-Remastered-Public.git",
+      "html_url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "language": "GDScript",
+      "primary_language": "GDScript",
+      "languages": {
+        "GDScript": 934042,
+        "GAP": 36590,
+        "C#": 10724,
+        "GDShader": 2322
+      },
+      "tech_stack": [
+        "GDScript",
+        "GAP",
+        "C#",
+        "GDShader"
+      ],
+      "topics": [],
+      "created_at": "2025-09-13T15:29:58Z",
+      "updated_at": "2025-09-15T03:09:35Z",
+      "pushed_at": "2025-09-14T19:55:06Z",
+      "ai_summary": {
+        "summary": "基于God引擎的《超级马里奥兄弟》高清重制版，新增角色、关卡与编辑器，致敬经典并支持自定义创作。",
+        "highlights": [
+          "新增关卡与角色",
+          "内置关卡编辑器",
+          "支持自定义关卡分享"
+        ],
+        "tech_summary": "Godot+GDScript为主，少量C#与着色器",
+        "use_case": "怀旧玩家与创作者快速体验并扩展马里奥世界",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/super-mario-bros.-remastered-public",
+        "representative_image": null
+      },
+      "activity_score": 81,
+      "popularity_score": 52,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 2,
+      "name": "ZeroTrace-Stealer-13-2026",
+      "full_name": "luis22d/ZeroTrace-Stealer-13-2026",
+      "owner": "luis22d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21263423?v=4",
+      "stars": 432,
+      "forks": 381,
+      "issues": 0,
+      "watchers": 432,
+      "description": "ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.",
+      "homepage": "",
+      "clone_url": "https://github.com/luis22d/ZeroTrace-Stealer-13-2026.git",
+      "ssh_url": "git@github.com:luis22d/ZeroTrace-Stealer-13-2026.git",
+      "html_url": "https://github.com/luis22d/ZeroTrace-Stealer-13-2026",
+      "language": "C#",
+      "primary_language": "C#",
+      "languages": {
+        "C#": 205270
+      },
+      "tech_stack": [
+        "C#",
+        "crypter",
+        "crypter-fud",
+        "fud-crypter",
+        "fud-stealer",
+        "panel-stealer",
+        "stealer",
+        "stealer-files"
+      ],
+      "topics": [
+        "crypter",
+        "crypter-fud",
+        "fud-crypter",
+        "fud-stealer",
+        "panel-stealer",
+        "stealer",
+        "stealer-files",
+        "stealer-fud",
+        "stealer-panel",
+        "stealing"
+      ],
+      "created_at": "2025-09-12T08:01:09Z",
+      "updated_at": "2025-09-15T03:02:33Z",
+      "pushed_at": "2025-09-12T08:12:29Z",
+      "ai_summary": {
+        "summary": "基于C#的隐蔽信息窃取工具，可提取浏览器密码、Cookie等敏感数据并回传服务器。",
+        "highlights": [
+          "支持最新Chrome数据提取",
+          "内置FUD加密绕过检测",
+          "提供可视化控制面板"
+        ],
+        "tech_summary": "C#编写的FUD窃密器+控制面板",
+        "use_case": "红队演练中的数据泄露模拟",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_version-1.0.0-blue.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/zerotrace-stealer-13-2026/1_version-1.0.0-blue.svg",
+            "size": 1095,
+            "content_type": "image/svg+xml;charset=utf-8",
+            "downloaded_at": "2025-09-15T03:13:38.594Z",
+            "original_url": "https://img.shields.io/badge/version-1.0.0-blue.svg",
+            "absolute_url": "https://img.shields.io/badge/version-1.0.0-blue.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/zerotrace-stealer-13-2026",
+        "representative_image": {
+          "filename": "1_version-1.0.0-blue.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/zerotrace-stealer-13-2026/1_version-1.0.0-blue.svg",
+          "size": 1095,
+          "content_type": "image/svg+xml;charset=utf-8",
+          "downloaded_at": "2025-09-15T03:13:38.594Z",
+          "original_url": "https://img.shields.io/badge/version-1.0.0-blue.svg",
+          "absolute_url": "https://img.shields.io/badge/version-1.0.0-blue.svg"
+        }
+      },
+      "activity_score": 56,
+      "popularity_score": 60,
+      "freshness_score": 100,
+      "overall_score": 67,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "nano11",
+      "full_name": "ntdevlabs/nano11",
+      "owner": "ntdevlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38796849?v=4",
+      "stars": 438,
+      "forks": 30,
+      "issues": 9,
+      "watchers": 438,
+      "description": "Script to build possibly the most trimmed-down Windows 11 experience.",
+      "homepage": null,
+      "clone_url": "https://github.com/ntdevlabs/nano11.git",
+      "ssh_url": "git@github.com:ntdevlabs/nano11.git",
+      "html_url": "https://github.com/ntdevlabs/nano11",
+      "language": "PowerShell",
+      "primary_language": "PowerShell",
+      "languages": {
+        "PowerShell": 41833
+      },
+      "tech_stack": [
+        "PowerShell"
+      ],
+      "topics": [],
+      "created_at": "2025-09-10T21:09:53Z",
+      "updated_at": "2025-09-15T03:10:38Z",
+      "pushed_at": "2025-09-14T19:26:34Z",
+      "ai_summary": {
+        "summary": "一键生成极度精简、无预装软件、可启动的Windows 11镜像脚本，让系统体积最小化。",
+        "highlights": [
+          "纯PowerShell+官方工具，无需第三方组件",
+          "自动下载oscdimg并集成无人值守应答，跳过微软账户",
+          "保留核心功能，显著降低内存与磁盘占用"
+        ],
+        "tech_summary": "PowerShell+DISM+oscdimg",
+        "use_case": "老旧/低配置电脑、轻量虚拟机、极简测试环境",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/nano11",
+        "representative_image": null
+      },
+      "activity_score": 56,
+      "popularity_score": 53,
+      "freshness_score": 100,
+      "overall_score": 63,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "batch_invariant_ops",
+      "full_name": "thinking-machines-lab/batch_invariant_ops",
+      "owner": "thinking-machines-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220441404?v=4",
+      "stars": 563,
+      "forks": 28,
+      "issues": 1,
+      "watchers": 563,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/thinking-machines-lab/batch_invariant_ops.git",
+      "ssh_url": "git@github.com:thinking-machines-lab/batch_invariant_ops.git",
+      "html_url": "https://github.com/thinking-machines-lab/batch_invariant_ops",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 18886
+      },
+      "tech_stack": [
+        "Python"
+      ],
+      "topics": [],
+      "created_at": "2025-09-10T00:08:08Z",
+      "updated_at": "2025-09-15T03:05:47Z",
+      "pushed_at": "2025-09-10T16:58:34Z",
+      "ai_summary": {
+        "summary": "用可复现的“批无关”算子替换PyTorch核心kernel，让LLM推理结果完全确定，不再因batch size不同而出差。",
+        "highlights": [
+          "一行代码启用，零侵入改造",
+          "自带vLLM示例，即刻获得确定性输出",
+          "基于torch.Library，开销极低"
+        ],
+        "tech_summary": "纯Python+PyTorch自定义算子",
+        "use_case": "需要可复现LLM推理的科研、调试与生产部署",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/batch_invariant_ops",
+        "representative_image": null
+      },
+      "activity_score": 47,
+      "popularity_score": 55,
+      "freshness_score": 100,
+      "overall_score": 62,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "SRPO",
+      "full_name": "Tencent-Hunyuan/SRPO",
+      "owner": "Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "stars": 533,
+      "forks": 11,
+      "issues": 3,
+      "watchers": 533,
+      "description": "Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference",
+      "homepage": "https://tencent.github.io/srpo-project-page/",
+      "clone_url": "https://github.com/Tencent-Hunyuan/SRPO.git",
+      "ssh_url": "git@github.com:Tencent-Hunyuan/SRPO.git",
+      "html_url": "https://github.com/Tencent-Hunyuan/SRPO",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 712645,
+        "Shell": 4058
+      },
+      "tech_stack": [
+        "Python",
+        "Shell"
+      ],
+      "topics": [],
+      "created_at": "2025-09-09T07:36:49Z",
+      "updated_at": "2025-09-15T03:08:07Z",
+      "pushed_at": "2025-09-15T00:44:13Z",
+      "ai_summary": {
+        "summary": "腾讯混元开源的SRPO框架，通过细粒度人类偏好直接对齐扩散模型完整生成轨迹，提升图像生成质量与可控性。",
+        "highlights": [
+          "端到端轨迹级对齐",
+          "细粒度人类偏好学习",
+          "开源预训练模型与代码"
+        ],
+        "tech_summary": "Python扩散模型优化框架",
+        "use_case": "高质量可控图像生成、AIGC内容优化",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_head.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/srpo/1_head.jpg",
+            "size": 4859879,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2025-09-15T03:13:35.258Z",
+            "original_url": "assets/head.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/Tencent-Hunyuan/SRPO/main/assets/head.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/srpo",
+        "representative_image": {
+          "filename": "1_head.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/srpo/1_head.jpg",
+          "size": 4859879,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2025-09-15T03:13:35.258Z",
+          "original_url": "assets/head.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/Tencent-Hunyuan/SRPO/main/assets/head.jpg"
+        }
+      },
+      "activity_score": 52,
+      "popularity_score": 52,
+      "freshness_score": 100,
+      "overall_score": 62,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "docker-mcp-tutorial",
+      "full_name": "theNetworkChuck/docker-mcp-tutorial",
+      "owner": "theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4",
+      "stars": 333,
+      "forks": 76,
+      "issues": 4,
+      "watchers": 333,
+      "description": "Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video",
+      "homepage": null,
+      "clone_url": "https://github.com/theNetworkChuck/docker-mcp-tutorial.git",
+      "ssh_url": "git@github.com:theNetworkChuck/docker-mcp-tutorial.git",
+      "html_url": "https://github.com/theNetworkChuck/docker-mcp-tutorial",
+      "language": null,
+      "primary_language": "Unknown",
+      "languages": {},
+      "tech_stack": [
+        "Docker",
+        "REST API"
+      ],
+      "topics": [],
+      "created_at": "2025-09-12T15:16:38Z",
+      "updated_at": "2025-09-15T03:06:27Z",
+      "pushed_at": "2025-09-12T15:21:49Z",
+      "ai_summary": {
+        "summary": "NetworkChuck出品的Docker版MCP服务器速成教程，含视频配套代码与模板，5分钟可跑通首个AI工具服务。",
+        "highlights": [
+          "5分钟极速上手",
+          "配套视频+完整示例",
+          "Docker一键部署"
+        ],
+        "tech_summary": "Docker容器+REST API",
+        "use_case": "快速构建与部署AI上下文协议服务",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/docker-mcp-tutorial",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 53,
+      "freshness_score": 100,
+      "overall_score": 62,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "oq",
+      "full_name": "plutov/oq",
+      "owner": "plutov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1124859?v=4",
+      "stars": 481,
+      "forks": 6,
+      "issues": 4,
+      "watchers": 481,
+      "description": "Terminal OpenAPI Spec viewer",
+      "homepage": "",
+      "clone_url": "https://github.com/plutov/oq.git",
+      "ssh_url": "git@github.com:plutov/oq.git",
+      "html_url": "https://github.com/plutov/oq",
+      "language": "Go",
+      "primary_language": "Go",
+      "languages": {
+        "Go": 68085
+      },
+      "tech_stack": [
+        "Go"
+      ],
+      "topics": [],
+      "created_at": "2025-09-12T14:04:46Z",
+      "updated_at": "2025-09-15T02:16:58Z",
+      "pushed_at": "2025-09-14T14:57:20Z",
+      "ai_summary": {
+        "summary": "终端里的OpenAPI文档浏览器，支持本地/远程YAML/JSON一键预览，键盘交互式浏览接口详情。",
+        "highlights": [
+          "终端即开即用，无需浏览器",
+          "支持OpenAPI 3.0/3.1与YAML/JSON",
+          "管道输入，可curl远程Spec直接查看"
+        ],
+        "tech_summary": "纯Go实现，零依赖",
+        "use_case": "后端开发调试、CI快速校验接口文档",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_preview.gif",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/oq/1_preview.gif",
+            "size": 530437,
+            "content_type": "image/gif",
+            "downloaded_at": "2025-09-15T03:13:36.295Z",
+            "original_url": "preview.gif",
+            "absolute_url": "https://raw.githubusercontent.com/plutov/oq/main/preview.gif"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/oq",
+        "representative_image": {
+          "filename": "1_preview.gif",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/oq/1_preview.gif",
+          "size": 530437,
+          "content_type": "image/gif",
+          "downloaded_at": "2025-09-15T03:13:36.295Z",
+          "original_url": "preview.gif",
+          "absolute_url": "https://raw.githubusercontent.com/plutov/oq/main/preview.gif"
+        }
+      },
+      "activity_score": 53,
+      "popularity_score": 50,
+      "freshness_score": 100,
+      "overall_score": 61,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "ai-sdk-tools",
+      "full_name": "midday-ai/ai-sdk-tools",
+      "owner": "midday-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145366395?v=4",
+      "stars": 369,
+      "forks": 19,
+      "issues": 1,
+      "watchers": 369,
+      "description": "A collection of essential utilities for AI development. State management, debugging tools, and artifact handling - everything you need to build production-ready AI applications.",
+      "homepage": "https://ai-sdk-tools.dev",
+      "clone_url": "https://github.com/midday-ai/ai-sdk-tools.git",
+      "ssh_url": "git@github.com:midday-ai/ai-sdk-tools.git",
+      "html_url": "https://github.com/midday-ai/ai-sdk-tools",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 219003,
+        "CSS": 57596,
+        "JavaScript": 162
+      },
+      "tech_stack": [
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "ai-sdk",
+        "React"
+      ],
+      "topics": [
+        "ai-sdk"
+      ],
+      "created_at": "2025-09-10T12:22:20Z",
+      "updated_at": "2025-09-15T02:52:00Z",
+      "pushed_at": "2025-09-14T21:52:37Z",
+      "ai_summary": {
+        "summary": "围绕 Vercel AI SDK 打造的实用工具包，提供状态管理、调试与产物处理，帮助开发者快速构建可上线的 AI 应用。",
+        "highlights": [
+          "消除 Chat 组件 prop drilling",
+          "内置调试与日志工具",
+          "开箱即用的产物/文件处理"
+        ],
+        "tech_summary": "TypeScript + React + AI SDK",
+        "use_case": "基于 AI SDK 的生产级聊天与生成式应用",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_image.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/ai-sdk-tools/1_image.png",
+            "size": 534252,
+            "content_type": "image/png",
+            "downloaded_at": "2025-09-15T03:13:40.607Z",
+            "original_url": "image.png",
+            "absolute_url": "https://raw.githubusercontent.com/midday-ai/ai-sdk-tools/main/image.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/ai-sdk-tools",
+        "representative_image": {
+          "filename": "1_image.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/ai-sdk-tools/1_image.png",
+          "size": 534252,
+          "content_type": "image/png",
+          "downloaded_at": "2025-09-15T03:13:40.607Z",
+          "original_url": "image.png",
+          "absolute_url": "https://raw.githubusercontent.com/midday-ai/ai-sdk-tools/main/image.png"
+        }
+      },
+      "activity_score": 51,
+      "popularity_score": 51,
+      "freshness_score": 100,
+      "overall_score": 61,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "elden-github",
+      "full_name": "SaltyAom/elden-github",
+      "owner": "SaltyAom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35027979?v=4",
+      "stars": 384,
+      "forks": 10,
+      "issues": 4,
+      "watchers": 384,
+      "description": "Elden Ring experience for GitHub",
+      "homepage": null,
+      "clone_url": "https://github.com/SaltyAom/elden-github.git",
+      "ssh_url": "git@github.com:SaltyAom/elden-github.git",
+      "html_url": "https://github.com/SaltyAom/elden-github",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 11457
+      },
+      "tech_stack": [
+        "TypeScript"
+      ],
+      "topics": [],
+      "created_at": "2025-09-13T14:50:14Z",
+      "updated_at": "2025-09-15T03:06:57Z",
+      "pushed_at": "2025-09-13T15:10:29Z",
+      "ai_summary": {
+        "summary": "把GitHub界面改造成《艾尔登法环》风格，提供沉浸式游戏化浏览体验。",
+        "highlights": [
+          "一键切换魂系视觉主题",
+          "保留完整GitHub功能",
+          "TypeScript实现轻量高性能"
+        ],
+        "tech_summary": "TypeScript单语言开发",
+        "use_case": "为开发者提供趣味化代码浏览与展示",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/elden-github",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 49,
+      "freshness_score": 100,
+      "overall_score": 60,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 10,
+      "name": "Lumina-DiMOO",
+      "full_name": "Alpha-VLLM/Lumina-DiMOO",
+      "owner": "Alpha-VLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140153551?v=4",
+      "stars": 317,
+      "forks": 18,
+      "issues": 1,
+      "watchers": 317,
+      "description": "Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model",
+      "homepage": "https://synbol.github.io/Lumina-DiMOO/",
+      "clone_url": "https://github.com/Alpha-VLLM/Lumina-DiMOO.git",
+      "ssh_url": "git@github.com:Alpha-VLLM/Lumina-DiMOO.git",
+      "html_url": "https://github.com/Alpha-VLLM/Lumina-DiMOO",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 146667
+      },
+      "tech_stack": [
+        "Python",
+        "diffusion-large-language-model",
+        "discrete-diffusion-models",
+        "unified-multimodal-understanding-and-generation"
+      ],
+      "topics": [
+        "diffusion-large-language-model",
+        "discrete-diffusion-models",
+        "unified-multimodal-understanding-and-generation"
+      ],
+      "created_at": "2025-09-09T18:19:24Z",
+      "updated_at": "2025-09-15T03:10:30Z",
+      "pushed_at": "2025-09-13T17:37:37Z",
+      "ai_summary": {
+        "summary": "首个开源的离散扩散式多模态大模型，实现文本、图像统一理解与生成，打破传统自回归范式。",
+        "highlights": [
+          "离散扩散架构，生成质量高",
+          "统一多模态理解与生成",
+          "完全开源，社区可复现"
+        ],
+        "tech_summary": "Python+离散扩散大模型",
+        "use_case": "图文创作、跨模态问答、统一生成理解任务",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_lumina-dimoo.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/lumina-dimoo/1_lumina-dimoo.png",
+            "size": 562581,
+            "content_type": "image/png",
+            "downloaded_at": "2025-09-15T03:13:43.648Z",
+            "original_url": "./assets/Lumina-DiMOO.png",
+            "absolute_url": "https://raw.githubusercontent.com/Alpha-VLLM/Lumina-DiMOO/main/assets/Lumina-DiMOO.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/lumina-dimoo",
+        "representative_image": {
+          "filename": "1_lumina-dimoo.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2025/week-38/lumina-dimoo/1_lumina-dimoo.png",
+          "size": 562581,
+          "content_type": "image/png",
+          "downloaded_at": "2025-09-15T03:13:43.648Z",
+          "original_url": "./assets/Lumina-DiMOO.png",
+          "absolute_url": "https://raw.githubusercontent.com/Alpha-VLLM/Lumina-DiMOO/main/assets/Lumina-DiMOO.png"
+        }
+      },
+      "activity_score": 50,
+      "popularity_score": 49,
+      "freshness_score": 100,
+      "overall_score": 60,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 4203,
+    "total_forks": 623,
+    "average_stars": 420,
+    "average_forks": 62,
+    "top_languages": [
+      {
+        "name": "Python",
+        "count": 3
+      },
+      {
+        "name": "TypeScript",
+        "count": 2
+      },
+      {
+        "name": "GDScript",
+        "count": 1
+      },
+      {
+        "name": "C#",
+        "count": 1
+      },
+      {
+        "name": "PowerShell",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "crypter",
+        "count": 1
+      },
+      {
+        "name": "crypter-fud",
+        "count": 1
+      },
+      {
+        "name": "fud-crypter",
+        "count": 1
+      },
+      {
+        "name": "fud-stealer",
+        "count": 1
+      },
+      {
+        "name": "panel-stealer",
+        "count": 1
+      },
+      {
+        "name": "stealer",
+        "count": 1
+      },
+      {
+        "name": "stealer-files",
+        "count": 1
+      },
+      {
+        "name": "stealer-fud",
+        "count": 1
+      },
+      {
+        "name": "stealer-panel",
+        "count": 1
+      },
+      {
+        "name": "stealing",
+        "count": 1
+      }
+    ],
+    "score_distribution": {
+      "min": 60,
+      "max": 70,
+      "average": 63,
+      "median": 62
+    }
+  },
+  "generated_at": "2025-09-15T03:13:43.655Z"
+}

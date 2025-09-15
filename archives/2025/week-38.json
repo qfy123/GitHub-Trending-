@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第38周",
+    "year": 2025,
+    "week": 38,
+    "week_range": {
+      "start": "2025-09-14",
+      "end": "2025-09-20"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-09-20 23:59:59",
+    "next_update": "2025-09-27"
+  },
+  "repositories": [
+    {
+      "full_name": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "rank": 1,
+      "stars": 353,
+      "forks": 44,
+      "overall_score": 70
+    },
+    {
+      "full_name": "luis22d/ZeroTrace-Stealer-13-2026",
+      "rank": 2,
+      "stars": 432,
+      "forks": 381,
+      "overall_score": 67
+    },
+    {
+      "full_name": "ntdevlabs/nano11",
+      "rank": 3,
+      "stars": 438,
+      "forks": 30,
+      "overall_score": 63
+    },
+    {
+      "full_name": "thinking-machines-lab/batch_invariant_ops",
+      "rank": 4,
+      "stars": 563,
+      "forks": 28,
+      "overall_score": 62
+    },
+    {
+      "full_name": "Tencent-Hunyuan/SRPO",
+      "rank": 5,
+      "stars": 533,
+      "forks": 11,
+      "overall_score": 62
+    },
+    {
+      "full_name": "theNetworkChuck/docker-mcp-tutorial",
+      "rank": 6,
+      "stars": 333,
+      "forks": 76,
+      "overall_score": 62
+    },
+    {
+      "full_name": "plutov/oq",
+      "rank": 7,
+      "stars": 481,
+      "forks": 6,
+      "overall_score": 61
+    },
+    {
+      "full_name": "midday-ai/ai-sdk-tools",
+      "rank": 8,
+      "stars": 369,
+      "forks": 19,
+      "overall_score": 61
+    },
+    {
+      "full_name": "SaltyAom/elden-github",
+      "rank": 9,
+      "stars": 384,
+      "forks": 10,
+      "overall_score": 60
+    },
+    {
+      "full_name": "Alpha-VLLM/Lumina-DiMOO",
+      "rank": 10,
+      "stars": 317,
+      "forks": 18,
+      "overall_score": 60
+    }
+  ],
+  "generated_at": "2025-09-15T03:13:43.655Z"
+}
