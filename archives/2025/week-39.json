@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第39周",
+    "year": 2025,
+    "week": 39,
+    "week_range": {
+      "start": "2025-09-21",
+      "end": "2025-09-27"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-09-27 23:59:59",
+    "next_update": "2025-10-04"
+  },
+  "repositories": [
+    {
+      "full_name": "OpenBMB/VoxCPM",
+      "rank": 1,
+      "stars": 1081,
+      "forks": 111,
+      "overall_score": 70
+    },
+    {
+      "full_name": "RoversX/LaunchNext",
+      "rank": 2,
+      "stars": 340,
+      "forks": 18,
+      "overall_score": 67
+    },
+    {
+      "full_name": "XiaomiMiMo/MiMo-Audio",
+      "rank": 3,
+      "stars": 485,
+      "forks": 38,
+      "overall_score": 65
+    },
+    {
+      "full_name": "torvalds/GuitarPedal",
+      "rank": 4,
+      "stars": 648,
+      "forks": 21,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "rank": 5,
+      "stars": 540,
+      "forks": 12,
+      "overall_score": 62
+    },
+    {
+      "full_name": "QwenLM/Qwen3-ASR-Toolkit",
+      "rank": 6,
+      "stars": 448,
+      "forks": 35,
+      "overall_score": 62
+    },
+    {
+      "full_name": "rxi/sj.h",
+      "rank": 7,
+      "stars": 601,
+      "forks": 9,
+      "overall_score": 61
+    },
+    {
+      "full_name": "stateless-me/uuidv47",
+      "rank": 8,
+      "stars": 561,
+      "forks": 11,
+      "overall_score": 61
+    },
+    {
+      "full_name": "comfy-deploy/comfydeploy",
+      "rank": 9,
+      "stars": 405,
+      "forks": 52,
+      "overall_score": 61
+    },
+    {
+      "full_name": "subnetmarco/pgmcp",
+      "rank": 10,
+      "stars": 354,
+      "forks": 36,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2025-09-22T03:13:36.632Z"
+}

@@ -18,227 +18,224 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第38周
+### GitHub趋势排行榜 - 2025年第39周
 
-**📅 统计周期**: 2025-09-14 ~ 2025-09-20  
+**📅 统计周期**: 2025-09-21 ~ 2025-09-27  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 4,203  
-**🔄 更新时间**: 2025-09-20 23:59:59  
+**⭐ 总Star数**: 5,463  
+**🔄 更新时间**: 2025-09-27 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | 基于God引擎的《超级马里奥兄弟》高清重制版，新增角色、关卡与编辑器，致敬经典并支持自定义创作。 | 353 | 44 | GDScript | 🆕 |
-| 2 | [ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) | 基于C#的隐蔽信息窃取工具，可提取浏览器密码、Cookie等敏感数据并回传服务器。 | 432 | 381 | C# | 🆕 |
-| 3 | [nano11](https://github.com/ntdevlabs/nano11) | 一键生成极度精简、无预装软件、可启动的Windows 11镜像脚本，让系统体积最小化。 | 438 | 30 | PowerShell | 🆕 |
-| 4 | [batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops) | 用可复现的“批无关”算子替换PyTorch核心kernel，让LLM推理结果完全确定，不再因batch size不... | 563 | 28 | Python | 🆕 |
-| 5 | [SRPO](https://github.com/Tencent-Hunyuan/SRPO) | 腾讯混元开源的SRPO框架，通过细粒度人类偏好直接对齐扩散模型完整生成轨迹，提升图像生成质量与可控性。 | 533 | 11 | Python | 🆕 |
-| 6 | [docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) | NetworkChuck出品的Docker版MCP服务器速成教程，含视频配套代码与模板，5分钟可跑通首个AI工具服务。 | 333 | 76 | Unknown | 🆕 |
-| 7 | [oq](https://github.com/plutov/oq) | 终端里的OpenAPI文档浏览器，支持本地/远程YAML/JSON一键预览，键盘交互式浏览接口详情。 | 481 | 6 | Go | 🆕 |
-| 8 | [ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) | 围绕 Vercel AI SDK 打造的实用工具包，提供状态管理、调试与产物处理，帮助开发者快速构建可上线的 AI... | 369 | 19 | TypeScript | 🆕 |
-| 9 | [elden-github](https://github.com/SaltyAom/elden-github) | 把GitHub界面改造成《艾尔登法环》风格，提供沉浸式游戏化浏览体验。 | 384 | 10 | TypeScript | 🆕 |
-| 10 | [Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO) | 首个开源的离散扩散式多模态大模型，实现文本、图像统一理解与生成，打破传统自回归范式。 | 317 | 18 | Python | 🆕 |
+| 1 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | 无需分词器的TTS系统，用连续空间建模实现高保真语音克隆与上下文感知合成，效果逼近真人。 | 1,081 | 111 | Python | 🆕 |
+| 2 | [LaunchNext](https://github.com/RoversX/LaunchNext) | 为macOS 26+找回被官方移除的Launchpad，提供高度可定制、免费且性能更强的替代方案。 | 340 | 18 | Swift | 🆕 |
+| 3 | [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) | 小米开源的音频语言模型，主打小样本即可快速适配新任务，降低语音应用门槛。 | 485 | 38 | Python | 🆕 |
+| 4 | [GuitarPedal](https://github.com/torvalds/GuitarPedal) | Linus Torvalds用OpenSCAD设计的模块化吉他效果器外壳，像成人乐高一样可自由拼装，专为电子实验而生。 | 648 | 21 | OpenSCAD | 🆕 |
+| 5 | [Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) | 深入剖析华硕ROG笔记本ACPI固件缺陷导致的DPC延迟卡顿、音视频爆音与鼠标冻结问题，提供ASL级修复方案。 | 540 | 12 | ASL | 🆕 |
+| 6 | [Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) | 官方Python工具包，突破Qwen3-ASR 3分钟限制，智能切分并行转写超长音视频，实现小时级内容秒级转录。 | 448 | 35 | Python | 🆕 |
+| 7 | [sj.h](https://github.com/rxi/sj.h) | 单头文件极简JSON解析库，约150行C99代码，零内存分配，可快速嵌入任意C项目完成轻量级JSON读取。 | 601 | 9 | C | 🆕 |
+| 8 | [uuidv47](https://github.com/stateless-me/uuidv47) | 数据库内用可排序UUIDv7存储，API对外返回隐私UUIDv4，一键双向映射，零依赖C头文件库。 | 561 | 11 | C | 🆕 |
+| 9 | [comfydeploy](https://github.com/comfy-deploy/comfydeploy) | 一键将ComfyUI工作流部署为生产级Serverless API，解决复杂环境配置与扩缩容难题。 | 405 | 52 | Unknown | 🆕 |
+| 10 | [pgmcp](https://github.com/subnetmarco/pgmcp) | 把自然语言直接变成PostgreSQL查询的MCP服务器，AI助手无需写SQL即可实时取数。 | 354 | 36 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) ![Star](https://img.shields.io/github/stars/JHDev2006/Super-Mario-Bros.-Remastered-Public?style=social)
+#### 1. [VoxCPM](https://github.com/OpenBMB/VoxCPM) ![Star](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social)
 
-**📝 项目简介**: 基于God引擎的《超级马里奥兄弟》高清重制版，新增角色、关卡与编辑器，致敬经典并支持自定义创作。
+<img src="./images/2025/week-39/voxcpm/1_voxcpm_logo.png" alt="VoxCPM" width="500"/>
+
+**📝 项目简介**: 无需分词器的TTS系统，用连续空间建模实现高保真语音克隆与上下文感知合成，效果逼近真人。
 
 **✨ 核心特性**:
-- 新增关卡与角色
-- 内置关卡编辑器
-- 支持自定义关卡分享
+- 无需分词器，连续空间建模
+- 上下文感知，语调自然
+- 零样本语音克隆，高保真还原
 
 **📊 项目统计**:
-- **⭐ Star数**: 353
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 353
-- **📝 语言**: GDScript
-- **💻 技术栈**: GDScript, GAP, C#, GDShader
+- **⭐ Star数**: 1,081
+- **🔀 Fork数**: 111
+- **👀 Watch数**: 1,081
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) ![Star](https://img.shields.io/github/stars/luis22d/ZeroTrace-Stealer-13-2026?style=social)
+#### 2. [LaunchNext](https://github.com/RoversX/LaunchNext) ![Star](https://img.shields.io/github/stars/RoversX/LaunchNext?style=social)
 
-<img src="./images/2025/week-38/zerotrace-stealer-13-2026/1_version-1.0.0-blue.svg" alt="ZeroTrace-Stealer-13-2026" width="500"/>
+<img src="./images/2025/week-39/launchnext/1_banner.webp" alt="LaunchNext" width="500"/>
 
-**📝 项目简介**: 基于C#的隐蔽信息窃取工具，可提取浏览器密码、Cookie等敏感数据并回传服务器。
+**📝 项目简介**: 为macOS 26+找回被官方移除的Launchpad，提供高度可定制、免费且性能更强的替代方案。
 
 **✨ 核心特性**:
-- 支持最新Chrome数据提取
-- 内置FUD加密绕过检测
-- 提供可视化控制面板
+- 原生Swift重写，GPU加速流畅动画
+- 支持主题、布局、快捷键深度自定义
+- 一键安装，与系统无缝集成
 
 **📊 项目统计**:
-- **⭐ Star数**: 432
-- **🔀 Fork数**: 381
-- **👀 Watch数**: 432
-- **📝 语言**: C#
-- **💻 技术栈**: C#, crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer
+- **⭐ Star数**: 340
+- **🔀 Fork数**: 18
+- **👀 Watch数**: 340
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [nano11](https://github.com/ntdevlabs/nano11) ![Star](https://img.shields.io/github/stars/ntdevlabs/nano11?style=social)
+#### 3. [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Audio?style=social)
 
-**📝 项目简介**: 一键生成极度精简、无预装软件、可启动的Windows 11镜像脚本，让系统体积最小化。
+<img src="./images/2025/week-39/mimo-audio/1_results.png" alt="MiMo-Audio" width="500"/>
 
-**✨ 核心特性**:
-- 纯PowerShell+官方工具，无需第三方组件
-- 自动下载oscdimg并集成无人值守应答，跳过微软账户
-- 保留核心功能，显著降低内存与磁盘占用
-
-**📊 项目统计**:
-- **⭐ Star数**: 438
-- **🔀 Fork数**: 30
-- **👀 Watch数**: 438
-- **📝 语言**: PowerShell
-- **💻 技术栈**: PowerShell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops) ![Star](https://img.shields.io/github/stars/thinking-machines-lab/batch_invariant_ops?style=social)
-
-**📝 项目简介**: 用可复现的“批无关”算子替换PyTorch核心kernel，让LLM推理结果完全确定，不再因batch size不同而出差。
+**📝 项目简介**: 小米开源的音频语言模型，主打小样本即可快速适配新任务，降低语音应用门槛。
 
 **✨ 核心特性**:
-- 一行代码启用，零侵入改造
-- 自带vLLM示例，即刻获得确定性输出
-- 基于torch.Library，开销极低
+- 小样本学习，无需大量数据微调
+- 开源模型与代码，社区可二次开发
+- 小米背书，中文场景优化
 
 **📊 项目统计**:
-- **⭐ Star数**: 563
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 563
+- **⭐ Star数**: 485
+- **🔀 Fork数**: 38
+- **👀 Watch数**: 485
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [SRPO](https://github.com/Tencent-Hunyuan/SRPO) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/SRPO?style=social)
+#### 4. [GuitarPedal](https://github.com/torvalds/GuitarPedal) ![Star](https://img.shields.io/github/stars/torvalds/GuitarPedal?style=social)
 
-<img src="./images/2025/week-38/srpo/1_head.jpg" alt="SRPO" width="500"/>
-
-**📝 项目简介**: 腾讯混元开源的SRPO框架，通过细粒度人类偏好直接对齐扩散模型完整生成轨迹，提升图像生成质量与可控性。
+**📝 项目简介**: Linus Torvalds用OpenSCAD设计的模块化吉他效果器外壳，像成人乐高一样可自由拼装，专为电子实验而生。
 
 **✨ 核心特性**:
-- 端到端轨迹级对齐
-- 细粒度人类偏好学习
-- 开源预训练模型与代码
+- 开源硬件乐高式拼装
+- OpenSCAD参数化建模
+- 面向电子DIY教学
 
 **📊 项目统计**:
-- **⭐ Star数**: 533
+- **⭐ Star数**: 648
+- **🔀 Fork数**: 21
+- **👀 Watch数**: 648
+- **📝 语言**: OpenSCAD
+- **💻 技术栈**: OpenSCAD
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) ![Star](https://img.shields.io/github/stars/Zephkek/Asus-ROG-Aml-Deep-Dive?style=social)
+
+**📝 项目简介**: 深入剖析华硕ROG笔记本ACPI固件缺陷导致的DPC延迟卡顿、音视频爆音与鼠标冻结问题，提供ASL级修复方案。
+
+**✨ 核心特性**:
+- 定位ACPI.sys高延迟根因
+- 提供可刷写ASL补丁
+- 覆盖RTX30/40全系ROG机型
+
+**📊 项目统计**:
+- **⭐ Star数**: 540
+- **🔀 Fork数**: 12
+- **👀 Watch数**: 540
+- **📝 语言**: ASL
+- **💻 技术栈**: ASL, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-ASR-Toolkit?style=social)
+
+<img src="./images/2025/week-39/qwen3-asr-toolkit/1_qwen3-asr-toolkit.svg" alt="Qwen3-ASR-Toolkit" width="500"/>
+
+**📝 项目简介**: 官方Python工具包，突破Qwen3-ASR 3分钟限制，智能切分并行转写超长音视频，实现小时级内容秒级转录。
+
+**✨ 核心特性**:
+- 突破3分钟API限制
+- 并行高吞吐长音频转写
+- 多采样率自动适配
+
+**📊 项目统计**:
+- **⭐ Star数**: 448
+- **🔀 Fork数**: 35
+- **👀 Watch数**: 448
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [sj.h](https://github.com/rxi/sj.h) ![Star](https://img.shields.io/github/stars/rxi/sj.h?style=social)
+
+**📝 项目简介**: 单头文件极简JSON解析库，约150行C99代码，零内存分配，可快速嵌入任意C项目完成轻量级JSON读取。
+
+**✨ 核心特性**:
+- 单头文件即插即用
+- 零堆分配，极低资源占用
+- 提供行列号精准错误定位
+
+**📊 项目统计**:
+- **⭐ Star数**: 601
+- **🔀 Fork数**: 9
+- **👀 Watch数**: 601
+- **📝 语言**: C
+- **💻 技术栈**: C
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [uuidv47](https://github.com/stateless-me/uuidv47) ![Star](https://img.shields.io/github/stars/stateless-me/uuidv47?style=social)
+
+**📝 项目简介**: 数据库内用可排序UUIDv7存储，API对外返回隐私UUIDv4，一键双向映射，零依赖C头文件库。
+
+**✨ 核心特性**:
+- 存储有序、接口匿名，兼顾性能与隐私
+- SipHash掩码可逆，往返无数据丢失
+- 头文件即库，C89零依赖，PostgreSQL扩展现成
+
+**📊 项目统计**:
+- **⭐ Star数**: 561
 - **🔀 Fork数**: 11
-- **👀 Watch数**: 533
-- **📝 语言**: Python
-- **🌐 官网**: [https://tencent.github.io/srpo-project-page/](https://tencent.github.io/srpo-project-page/)
-- **💻 技术栈**: Python, Shell
+- **👀 Watch数**: 561
+- **📝 语言**: C
+- **💻 技术栈**: C, PLpgSQL, Makefile, c, c89, database
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) ![Star](https://img.shields.io/github/stars/theNetworkChuck/docker-mcp-tutorial?style=social)
+#### 9. [comfydeploy](https://github.com/comfy-deploy/comfydeploy) ![Star](https://img.shields.io/github/stars/comfy-deploy/comfydeploy?style=social)
 
-**📝 项目简介**: NetworkChuck出品的Docker版MCP服务器速成教程，含视频配套代码与模板，5分钟可跑通首个AI工具服务。
+**📝 项目简介**: 一键将ComfyUI工作流部署为生产级Serverless API，解决复杂环境配置与扩缩容难题。
 
 **✨ 核心特性**:
-- 5分钟极速上手
-- 配套视频+完整示例
-- Docker一键部署
+- 开源全栈前后端
+- Docker秒级容器化
+- Redis+AWS弹性扩缩
 
 **📊 项目统计**:
-- **⭐ Star数**: 333
-- **🔀 Fork数**: 76
-- **👀 Watch数**: 333
+- **⭐ Star数**: 405
+- **🔀 Fork数**: 52
+- **👀 Watch数**: 405
 - **📝 语言**: Unknown
-- **💻 技术栈**: Docker, REST API
+- **💻 技术栈**: Docker, Redis, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [oq](https://github.com/plutov/oq) ![Star](https://img.shields.io/github/stars/plutov/oq?style=social)
+#### 10. [pgmcp](https://github.com/subnetmarco/pgmcp) ![Star](https://img.shields.io/github/stars/subnetmarco/pgmcp?style=social)
 
-<img src="./images/2025/week-38/oq/1_preview.gif" alt="oq" width="500"/>
+<img src="./images/2025/week-39/pgmcp/1_badge.svg" alt="pgmcp" width="500"/>
 
-**📝 项目简介**: 终端里的OpenAPI文档浏览器，支持本地/远程YAML/JSON一键预览，键盘交互式浏览接口详情。
+**📝 项目简介**: 把自然语言直接变成PostgreSQL查询的MCP服务器，AI助手无需写SQL即可实时取数。
 
 **✨ 核心特性**:
-- 终端即开即用，无需浏览器
-- 支持OpenAPI 3.0/3.1与YAML/JSON
-- 管道输入，可curl远程Spec直接查看
+- 自然语言转SQL，零代码查询
+- 流式返回结果，自动容错
+- 兼容Cursor、Claude、VS Code等主流AI客户端
 
 **📊 项目统计**:
-- **⭐ Star数**: 481
-- **🔀 Fork数**: 6
-- **👀 Watch数**: 481
+- **⭐ Star数**: 354
+- **🔀 Fork数**: 36
+- **👀 Watch数**: 354
 - **📝 语言**: Go
-- **💻 技术栈**: Go
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) ![Star](https://img.shields.io/github/stars/midday-ai/ai-sdk-tools?style=social)
-
-<img src="./images/2025/week-38/ai-sdk-tools/1_image.png" alt="ai-sdk-tools" width="500"/>
-
-**📝 项目简介**: 围绕 Vercel AI SDK 打造的实用工具包，提供状态管理、调试与产物处理，帮助开发者快速构建可上线的 AI 应用。
-
-**✨ 核心特性**:
-- 消除 Chat 组件 prop drilling
-- 内置调试与日志工具
-- 开箱即用的产物/文件处理
-
-**📊 项目统计**:
-- **⭐ Star数**: 369
-- **🔀 Fork数**: 19
-- **👀 Watch数**: 369
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://ai-sdk-tools.dev](https://ai-sdk-tools.dev)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, ai-sdk, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [elden-github](https://github.com/SaltyAom/elden-github) ![Star](https://img.shields.io/github/stars/SaltyAom/elden-github?style=social)
-
-**📝 项目简介**: 把GitHub界面改造成《艾尔登法环》风格，提供沉浸式游戏化浏览体验。
-
-**✨ 核心特性**:
-- 一键切换魂系视觉主题
-- 保留完整GitHub功能
-- TypeScript实现轻量高性能
-
-**📊 项目统计**:
-- **⭐ Star数**: 384
-- **🔀 Fork数**: 10
-- **👀 Watch数**: 384
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO?style=social)
-
-<img src="./images/2025/week-38/lumina-dimoo/1_lumina-dimoo.png" alt="Lumina-DiMOO" width="500"/>
-
-**📝 项目简介**: 首个开源的离散扩散式多模态大模型，实现文本、图像统一理解与生成，打破传统自回归范式。
-
-**✨ 核心特性**:
-- 离散扩散架构，生成质量高
-- 统一多模态理解与生成
-- 完全开源，社区可复现
-
-**📊 项目统计**:
-- **⭐ Star数**: 317
-- **🔀 Fork数**: 18
-- **👀 Watch数**: 317
-- **📝 语言**: Python
-- **🌐 官网**: [https://synbol.github.io/Lumina-DiMOO/](https://synbol.github.io/Lumina-DiMOO/)
-- **💻 技术栈**: Python, diffusion-large-language-model, discrete-diffusion-models, unified-multimodal-understanding-and-generation
+- **💻 技术栈**: Go, agent, agentic-ai, ai, analytics, artificial-intelligence
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -247,20 +244,20 @@
 
 **🔥 热门语言**:
 1. **Python** (3 个项目)
-2. **TypeScript** (2 个项目)
-3. **GDScript** (1 个项目)
-4. **C#** (1 个项目)
-5. **PowerShell** (1 个项目)
+2. **C** (2 个项目)
+3. **Swift** (1 个项目)
+4. **OpenSCAD** (1 个项目)
+5. **ASL** (1 个项目)
 
 **🏷️ 热门话题**:
-1. crypter (1)
-2. crypter-fud (1)
-3. fud-crypter (1)
-4. fud-stealer (1)
-5. panel-stealer (1)
-6. stealer (1)
-7. stealer-files (1)
-8. stealer-fud (1)
+1. database (2)
+2. postgres (2)
+3. c (1)
+4. c89 (1)
+5. header-only (1)
+6. libpq (1)
+7. postgresql-extension (1)
+8. siphash (1)
 
 
 <!-- TRENDING-END -->
@@ -270,6 +267,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 | 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
 | 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
