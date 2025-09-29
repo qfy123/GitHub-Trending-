@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第40周",
+    "year": 2025,
+    "week": 40,
+    "week_range": {
+      "start": "2025-09-28",
+      "end": "2025-10-04"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-10-04 23:59:59",
+    "next_update": "2025-10-11"
+  },
+  "repositories": [
+    {
+      "full_name": "JerryZLiu/Dayflow",
+      "rank": 1,
+      "stars": 2384,
+      "forks": 88,
+      "overall_score": 73
+    },
+    {
+      "full_name": "subhashchy/The-Accidental-CTO",
+      "rank": 2,
+      "stars": 995,
+      "forks": 60,
+      "overall_score": 67
+    },
+    {
+      "full_name": "iChochy/NCE",
+      "rank": 3,
+      "stars": 755,
+      "forks": 116,
+      "overall_score": 66
+    },
+    {
+      "full_name": "vercel-labs/coding-agent-template",
+      "rank": 4,
+      "stars": 703,
+      "forks": 93,
+      "overall_score": 65
+    },
+    {
+      "full_name": "apple/ml-simplefold",
+      "rank": 5,
+      "stars": 688,
+      "forks": 34,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Tencent-Hunyuan/HunyuanImage-3.0",
+      "rank": 6,
+      "stars": 621,
+      "forks": 26,
+      "overall_score": 65
+    },
+    {
+      "full_name": "apple/swift-configuration",
+      "rank": 7,
+      "stars": 311,
+      "forks": 5,
+      "overall_score": 62
+    },
+    {
+      "full_name": "duckpigdog/Sec-Interview",
+      "rank": 8,
+      "stars": 281,
+      "forks": 48,
+      "overall_score": 61
+    },
+    {
+      "full_name": "Tencent-Hunyuan/Hunyuan3D-Omni",
+      "rank": 9,
+      "stars": 280,
+      "forks": 15,
+      "overall_score": 60
+    },
+    {
+      "full_name": "bitox123/Wallpaper-Engine",
+      "rank": 10,
+      "stars": 229,
+      "forks": 0,
+      "overall_score": 53
+    }
+  ],
+  "generated_at": "2025-09-29T03:10:40.518Z"
+}

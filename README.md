@@ -18,224 +18,225 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第39周
+### GitHub趋势排行榜 - 2025年第40周
 
-**📅 统计周期**: 2025-09-21 ~ 2025-09-27  
+**📅 统计周期**: 2025-09-28 ~ 2025-10-04  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,463  
-**🔄 更新时间**: 2025-09-27 23:59:59  
+**⭐ 总Star数**: 7,247  
+**🔄 更新时间**: 2025-10-04 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | 无需分词器的TTS系统，用连续空间建模实现高保真语音克隆与上下文感知合成，效果逼近真人。 | 1,081 | 111 | Python | 🆕 |
-| 2 | [LaunchNext](https://github.com/RoversX/LaunchNext) | 为macOS 26+找回被官方移除的Launchpad，提供高度可定制、免费且性能更强的替代方案。 | 340 | 18 | Swift | 🆕 |
-| 3 | [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) | 小米开源的音频语言模型，主打小样本即可快速适配新任务，降低语音应用门槛。 | 485 | 38 | Python | 🆕 |
-| 4 | [GuitarPedal](https://github.com/torvalds/GuitarPedal) | Linus Torvalds用OpenSCAD设计的模块化吉他效果器外壳，像成人乐高一样可自由拼装，专为电子实验而生。 | 648 | 21 | OpenSCAD | 🆕 |
-| 5 | [Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) | 深入剖析华硕ROG笔记本ACPI固件缺陷导致的DPC延迟卡顿、音视频爆音与鼠标冻结问题，提供ASL级修复方案。 | 540 | 12 | ASL | 🆕 |
-| 6 | [Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) | 官方Python工具包，突破Qwen3-ASR 3分钟限制，智能切分并行转写超长音视频，实现小时级内容秒级转录。 | 448 | 35 | Python | 🆕 |
-| 7 | [sj.h](https://github.com/rxi/sj.h) | 单头文件极简JSON解析库，约150行C99代码，零内存分配，可快速嵌入任意C项目完成轻量级JSON读取。 | 601 | 9 | C | 🆕 |
-| 8 | [uuidv47](https://github.com/stateless-me/uuidv47) | 数据库内用可排序UUIDv7存储，API对外返回隐私UUIDv4，一键双向映射，零依赖C头文件库。 | 561 | 11 | C | 🆕 |
-| 9 | [comfydeploy](https://github.com/comfy-deploy/comfydeploy) | 一键将ComfyUI工作流部署为生产级Serverless API，解决复杂环境配置与扩缩容难题。 | 405 | 52 | Unknown | 🆕 |
-| 10 | [pgmcp](https://github.com/subnetmarco/pgmcp) | 把自然语言直接变成PostgreSQL查询的MCP服务器，AI助手无需写SQL即可实时取数。 | 354 | 36 | Go | 🆕 |
+| 1 | [Dayflow](https://github.com/JerryZLiu/Dayflow) | macOS端Swift应用，自动记录屏幕活动并生成带AI摘要与分心提醒的每日时间线，帮助用户复盘时间使用。 | 2,384 | 88 | Swift | 🆕 |
+| 2 | [The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) | 非科班CTO亲述如何零起步把Dukaan扩至百万店铺的系统设计实战手册，含踩坑与AWS架构经验。 | 995 | 60 | Unknown | 🆕 |
+| 3 | [NCE](https://github.com/iChochy/NCE) | 在线点读《新概念英语》1-4册，支持逐句朗读与循环播放，零配置随时随地练听说。 | 755 | 116 | JavaScript | 🆕 |
+| 4 | [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | Vercel出品的多智能体AI编程平台，一键部署即可让Claude、OpenAI Codex等自动在隔离沙箱里完成... | 703 | 93 | TypeScript | 🆕 |
+| 5 | [ml-simplefold](https://github.com/apple/ml-simplefold) | 苹果开源的极简蛋白质折叠模型，仅用通用Transformer层+流匹配即可预测三维结构，无需复杂几何模块。 | 688 | 34 | Python | 🆕 |
+| 6 | [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) | 腾讯开源的原生多模态图像生成大模型，统一文本与视觉理解，一键生成高质量图像。 | 621 | 26 | Python | 🆕 |
+| 7 | [swift-configuration](https://github.com/apple/swift-configuration) | 苹果官方Swift库，为应用与库提供统一、可扩展的配置读取抽象层，解耦配置源与业务代码。 | 311 | 5 | Swift | 🆕 |
+| 8 | [Sec-Interview](https://github.com/duckpigdog/Sec-Interview) | 收录上万道网络安全各方向面试题并附参考答案，一站式解决护网、渗透、红队、逆向、密码学等岗位笔试面试备战需求。 | 281 | 48 | Unknown | 🆕 |
+| 9 | [Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) | 腾讯开源的统一3D资产生成框架，支持图像/文本等多模态输入，一键生成可控高质量3D模型，大幅降低游戏、影视等内容制... | 280 | 15 | Python | 🆕 |
+| 10 | [Wallpaper-Engine](https://github.com/bitox123/Wallpaper-Engine) | 提供2025版Wallpaper Engine下载，支持4K/8K动态壁纸、交互场景与Steam Workshop... | 229 | 0 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [VoxCPM](https://github.com/OpenBMB/VoxCPM) ![Star](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social)
+#### 1. [Dayflow](https://github.com/JerryZLiu/Dayflow) ![Star](https://img.shields.io/github/stars/JerryZLiu/Dayflow?style=social)
 
-<img src="./images/2025/week-39/voxcpm/1_voxcpm_logo.png" alt="VoxCPM" width="500"/>
+<img src="./images/2025/week-40/dayflow/1_dayflow_header.png" alt="Dayflow" width="500"/>
 
-**📝 项目简介**: 无需分词器的TTS系统，用连续空间建模实现高保真语音克隆与上下文感知合成，效果逼近真人。
-
-**✨ 核心特性**:
-- 无需分词器，连续空间建模
-- 上下文感知，语调自然
-- 零样本语音克隆，高保真还原
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,081
-- **🔀 Fork数**: 111
-- **👀 Watch数**: 1,081
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [LaunchNext](https://github.com/RoversX/LaunchNext) ![Star](https://img.shields.io/github/stars/RoversX/LaunchNext?style=social)
-
-<img src="./images/2025/week-39/launchnext/1_banner.webp" alt="LaunchNext" width="500"/>
-
-**📝 项目简介**: 为macOS 26+找回被官方移除的Launchpad，提供高度可定制、免费且性能更强的替代方案。
+**📝 项目简介**: macOS端Swift应用，自动记录屏幕活动并生成带AI摘要与分心提醒的每日时间线，帮助用户复盘时间使用。
 
 **✨ 核心特性**:
-- 原生Swift重写，GPU加速流畅动画
-- 支持主题、布局、快捷键深度自定义
-- 一键安装，与系统无缝集成
+- 自动截屏+OCR识别应用与网页
+- 集成Gemini/Ollama生成AI摘要
+- 一键标注分心时段，输出可视化时间线
 
 **📊 项目统计**:
-- **⭐ Star数**: 340
-- **🔀 Fork数**: 18
-- **👀 Watch数**: 340
+- **⭐ Star数**: 2,384
+- **🔀 Fork数**: 88
+- **👀 Watch数**: 2,384
 - **📝 语言**: Swift
-- **💻 技术栈**: Swift
+- **💻 技术栈**: Swift, Shell, gemini, lmstudio, ollama, productivity
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Audio?style=social)
+#### 2. [The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ![Star](https://img.shields.io/github/stars/subhashchy/The-Accidental-CTO?style=social)
 
-<img src="./images/2025/week-39/mimo-audio/1_results.png" alt="MiMo-Audio" width="500"/>
-
-**📝 项目简介**: 小米开源的音频语言模型，主打小样本即可快速适配新任务，降低语音应用门槛。
+**📝 项目简介**: 非科班CTO亲述如何零起步把Dukaan扩至百万店铺的系统设计实战手册，含踩坑与AWS架构经验。
 
 **✨ 核心特性**:
-- 小样本学习，无需大量数据微调
-- 开源模型与代码，社区可二次开发
-- 小米背书，中文场景优化
+- 真实百万级店铺扩展案例
+- 无CS背景的系统设计心法
+- AWS成本与性能优化实战
 
 **📊 项目统计**:
-- **⭐ Star数**: 485
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 485
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [GuitarPedal](https://github.com/torvalds/GuitarPedal) ![Star](https://img.shields.io/github/stars/torvalds/GuitarPedal?style=social)
-
-**📝 项目简介**: Linus Torvalds用OpenSCAD设计的模块化吉他效果器外壳，像成人乐高一样可自由拼装，专为电子实验而生。
-
-**✨ 核心特性**:
-- 开源硬件乐高式拼装
-- OpenSCAD参数化建模
-- 面向电子DIY教学
-
-**📊 项目统计**:
-- **⭐ Star数**: 648
-- **🔀 Fork数**: 21
-- **👀 Watch数**: 648
-- **📝 语言**: OpenSCAD
-- **💻 技术栈**: OpenSCAD
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) ![Star](https://img.shields.io/github/stars/Zephkek/Asus-ROG-Aml-Deep-Dive?style=social)
-
-**📝 项目简介**: 深入剖析华硕ROG笔记本ACPI固件缺陷导致的DPC延迟卡顿、音视频爆音与鼠标冻结问题，提供ASL级修复方案。
-
-**✨ 核心特性**:
-- 定位ACPI.sys高延迟根因
-- 提供可刷写ASL补丁
-- 覆盖RTX30/40全系ROG机型
-
-**📊 项目统计**:
-- **⭐ Star数**: 540
-- **🔀 Fork数**: 12
-- **👀 Watch数**: 540
-- **📝 语言**: ASL
-- **💻 技术栈**: ASL, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-ASR-Toolkit?style=social)
-
-<img src="./images/2025/week-39/qwen3-asr-toolkit/1_qwen3-asr-toolkit.svg" alt="Qwen3-ASR-Toolkit" width="500"/>
-
-**📝 项目简介**: 官方Python工具包，突破Qwen3-ASR 3分钟限制，智能切分并行转写超长音视频，实现小时级内容秒级转录。
-
-**✨ 核心特性**:
-- 突破3分钟API限制
-- 并行高吞吐长音频转写
-- 多采样率自动适配
-
-**📊 项目统计**:
-- **⭐ Star数**: 448
-- **🔀 Fork数**: 35
-- **👀 Watch数**: 448
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [sj.h](https://github.com/rxi/sj.h) ![Star](https://img.shields.io/github/stars/rxi/sj.h?style=social)
-
-**📝 项目简介**: 单头文件极简JSON解析库，约150行C99代码，零内存分配，可快速嵌入任意C项目完成轻量级JSON读取。
-
-**✨ 核心特性**:
-- 单头文件即插即用
-- 零堆分配，极低资源占用
-- 提供行列号精准错误定位
-
-**📊 项目统计**:
-- **⭐ Star数**: 601
-- **🔀 Fork数**: 9
-- **👀 Watch数**: 601
-- **📝 语言**: C
-- **💻 技术栈**: C
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [uuidv47](https://github.com/stateless-me/uuidv47) ![Star](https://img.shields.io/github/stars/stateless-me/uuidv47?style=social)
-
-**📝 项目简介**: 数据库内用可排序UUIDv7存储，API对外返回隐私UUIDv4，一键双向映射，零依赖C头文件库。
-
-**✨ 核心特性**:
-- 存储有序、接口匿名，兼顾性能与隐私
-- SipHash掩码可逆，往返无数据丢失
-- 头文件即库，C89零依赖，PostgreSQL扩展现成
-
-**📊 项目统计**:
-- **⭐ Star数**: 561
-- **🔀 Fork数**: 11
-- **👀 Watch数**: 561
-- **📝 语言**: C
-- **💻 技术栈**: C, PLpgSQL, Makefile, c, c89, database
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [comfydeploy](https://github.com/comfy-deploy/comfydeploy) ![Star](https://img.shields.io/github/stars/comfy-deploy/comfydeploy?style=social)
-
-**📝 项目简介**: 一键将ComfyUI工作流部署为生产级Serverless API，解决复杂环境配置与扩缩容难题。
-
-**✨ 核心特性**:
-- 开源全栈前后端
-- Docker秒级容器化
-- Redis+AWS弹性扩缩
-
-**📊 项目统计**:
-- **⭐ Star数**: 405
-- **🔀 Fork数**: 52
-- **👀 Watch数**: 405
+- **⭐ Star数**: 995
+- **🔀 Fork数**: 60
+- **👀 Watch数**: 995
 - **📝 语言**: Unknown
-- **💻 技术栈**: Docker, Redis, AWS
+- **💻 技术栈**: scaling, system-design, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [pgmcp](https://github.com/subnetmarco/pgmcp) ![Star](https://img.shields.io/github/stars/subnetmarco/pgmcp?style=social)
+#### 3. [NCE](https://github.com/iChochy/NCE) ![Star](https://img.shields.io/github/stars/iChochy/NCE?style=social)
 
-<img src="./images/2025/week-39/pgmcp/1_badge.svg" alt="pgmcp" width="500"/>
-
-**📝 项目简介**: 把自然语言直接变成PostgreSQL查询的MCP服务器，AI助手无需写SQL即可实时取数。
+**📝 项目简介**: 在线点读《新概念英语》1-4册，支持逐句朗读与循环播放，零配置随时随地练听说。
 
 **✨ 核心特性**:
-- 自然语言转SQL，零代码查询
-- 流式返回结果，自动容错
-- 兼容Cursor、Claude、VS Code等主流AI客户端
+- 全四册课文完整收录
+- 单句点读+整课循环
+- 纯前端离线可用
 
 **📊 项目统计**:
-- **⭐ Star数**: 354
-- **🔀 Fork数**: 36
-- **👀 Watch数**: 354
-- **📝 语言**: Go
-- **💻 技术栈**: Go, agent, agentic-ai, ai, analytics, artificial-intelligence
+- **⭐ Star数**: 755
+- **🔀 Fork数**: 116
+- **👀 Watch数**: 755
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://nce.ichochy.com/](https://nce.ichochy.com/)
+- **💻 技术栈**: JavaScript, CSS, HTML, english, learn, nce
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ![Star](https://img.shields.io/github/stars/vercel-labs/coding-agent-template?style=social)
+
+<img src="./images/2025/week-40/coding-agent-template/1_screenshot.png" alt="coding-agent-template" width="500"/>
+
+**📝 项目简介**: Vercel出品的多智能体AI编程平台，一键部署即可让Claude、OpenAI Codex等自动在隔离沙箱里完成仓库编码任务，最低1美元起用。
+
+**✨ 核心特性**:
+- 多智能体：Claude Code/Codex CLI/Cursor CLI/opencode任选
+- 安全隔离：Vercel Sandbox运行代码，防止污染主机
+- 一键上线：Vercel按钮秒级部署，1美元即可启动自动化
+
+**📊 项目统计**:
+- **⭐ Star数**: 703
+- **🔀 Fork数**: 93
+- **👀 Watch数**: 703
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, JavaScript, React, PostgreSQL, REST API
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [ml-simplefold](https://github.com/apple/ml-simplefold) ![Star](https://img.shields.io/github/stars/apple/ml-simplefold?style=social)
+
+<img src="./images/2025/week-40/ml-simplefold/1_intro.png" alt="ml-simplefold" width="500"/>
+
+**📝 项目简介**: 苹果开源的极简蛋白质折叠模型，仅用通用Transformer层+流匹配即可预测三维结构，无需复杂几何模块。
+
+**✨ 核心特性**:
+- 首个纯Transformer流匹配折叠模型
+- 训练推理代码与权重全开源
+- Docker一键复现，支持AWS弹性推理
+
+**📊 项目统计**:
+- **⭐ Star数**: 688
+- **🔀 Fork数**: 34
+- **👀 Watch数**: 688
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Jupyter Notebook, Docker, Redis, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanImage-3.0?style=social)
+
+<img src="./images/2025/week-40/hunyuanimage-3.0/1_logo.png" alt="HunyuanImage-3.0" width="500"/>
+
+**📝 项目简介**: 腾讯开源的原生多模态图像生成大模型，统一文本与视觉理解，一键生成高质量图像。
+
+**✨ 核心特性**:
+- 原生多模态架构，文本-视觉端到端训练
+- 中文与多风格高保真图像生成
+- 官方提供在线体验与模型权重，零门槛使用
+
+**📊 项目统计**:
+- **⭐ Star数**: 621
+- **🔀 Fork数**: 26
+- **👀 Watch数**: 621
+- **📝 语言**: Python
+- **🌐 官网**: [https://hunyuan.tencent.com/image](https://hunyuan.tencent.com/image)
+- **💻 技术栈**: Python, Shell, image-generation, native-multimodal-model, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [swift-configuration](https://github.com/apple/swift-configuration) ![Star](https://img.shields.io/github/stars/apple/swift-configuration?style=social)
+
+**📝 项目简介**: 苹果官方Swift库，为应用与库提供统一、可扩展的配置读取抽象层，解耦配置源与业务代码。
+
+**✨ 核心特性**:
+- 官方维护，Apache 2.0许可
+- 配置源与读取逻辑解耦，支持多后端
+- 文档、示例齐全，贡献友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 311
+- **🔀 Fork数**: 5
+- **👀 Watch数**: 311
+- **📝 语言**: Swift
+- **🌐 官网**: [https://swiftpackageindex.com/apple/swift-configuration/documentation](https://swiftpackageindex.com/apple/swift-configuration/documentation)
+- **💻 技术栈**: Swift, Python, Shell, configuration, server, swift
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [Sec-Interview](https://github.com/duckpigdog/Sec-Interview) ![Star](https://img.shields.io/github/stars/duckpigdog/Sec-Interview?style=social)
+
+**📝 项目简介**: 收录上万道网络安全各方向面试题并附参考答案，一站式解决护网、渗透、红队、逆向、密码学等岗位笔试面试备战需求。
+
+**✨ 核心特性**:
+- 题量庞大，覆盖10+安全细分方向
+- 提供在线浏览与离线Markdown双模式
+- 持续社区投稿，动态更新
+
+**📊 项目统计**:
+- **⭐ Star数**: 281
+- **🔀 Fork数**: 48
+- **👀 Watch数**: 281
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Omni?style=social)
+
+**📝 项目简介**: 腾讯开源的统一3D资产生成框架，支持图像/文本等多模态输入，一键生成可控高质量3D模型，大幅降低游戏、影视等内容制作门槛。
+
+**✨ 核心特性**:
+- 多模态输入：图生3D、文生3D一键完成
+- 统一框架：形状、纹理、姿态全链路可控
+- 开源模型+在线Demo，即刻体验
+
+**📊 项目统计**:
+- **⭐ Star数**: 280
+- **🔀 Fork数**: 15
+- **👀 Watch数**: 280
+- **📝 语言**: Python
+- **🌐 官网**: [https://3d.hunyuan.tencent.com/](https://3d.hunyuan.tencent.com/)
+- **💻 技术栈**: Python, 3d, 3d-aigc, 3d-generation, hunyuan3d, image-to-3d
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [Wallpaper-Engine](https://github.com/bitox123/Wallpaper-Engine) ![Star](https://img.shields.io/github/stars/bitox123/Wallpaper-Engine?style=social)
+
+**📝 项目简介**: 提供2025版Wallpaper Engine下载，支持4K/8K动态壁纸、交互场景与Steam Workshop，一键美化Windows桌面。
+
+**✨ 核心特性**:
+- 4K/8K超清动态壁纸
+- Steam Workshop海量资源
+- 低占用实时交互特效
+
+**📊 项目统计**:
+- **⭐ Star数**: 229
+- **🔀 Fork数**: 0
+- **👀 Watch数**: 229
+- **📝 语言**: Unknown
+- **💻 技术栈**: 4k-wallpapers, animated-wallpapers, custom-wallpapers, dynamic-wallpapers, hd-wallpapers, live-wallpapers
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -243,21 +244,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **C** (2 个项目)
-3. **Swift** (1 个项目)
-4. **OpenSCAD** (1 个项目)
-5. **ASL** (1 个项目)
+1. **Unknown** (3 个项目)
+2. **Python** (3 个项目)
+3. **Swift** (2 个项目)
+4. **JavaScript** (1 个项目)
+5. **TypeScript** (1 个项目)
 
 **🏷️ 热门话题**:
-1. database (2)
-2. postgres (2)
-3. c (1)
-4. c89 (1)
-5. header-only (1)
-6. libpq (1)
-7. postgresql-extension (1)
-8. siphash (1)
+1. swift (2)
+2. gemini (1)
+3. lmstudio (1)
+4. ollama (1)
+5. productivity (1)
+6. productivity-tools (1)
+7. time (1)
+8. timeline (1)
 
 
 <!-- TRENDING-END -->
@@ -267,6 +268,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 | 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
