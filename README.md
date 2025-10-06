@@ -18,225 +18,231 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第40周
+### GitHub趋势排行榜 - 2025年第41周
 
-**📅 统计周期**: 2025-09-28 ~ 2025-10-04  
+**📅 统计周期**: 2025-10-05 ~ 2025-10-11  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 7,247  
-**🔄 更新时间**: 2025-10-04 23:59:59  
+**⭐ 总Star数**: 5,749  
+**🔄 更新时间**: 2025-10-11 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [Dayflow](https://github.com/JerryZLiu/Dayflow) | macOS端Swift应用，自动记录屏幕活动并生成带AI摘要与分心提醒的每日时间线，帮助用户复盘时间使用。 | 2,384 | 88 | Swift | 🆕 |
-| 2 | [The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) | 非科班CTO亲述如何零起步把Dukaan扩至百万店铺的系统设计实战手册，含踩坑与AWS架构经验。 | 995 | 60 | Unknown | 🆕 |
-| 3 | [NCE](https://github.com/iChochy/NCE) | 在线点读《新概念英语》1-4册，支持逐句朗读与循环播放，零配置随时随地练听说。 | 755 | 116 | JavaScript | 🆕 |
-| 4 | [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | Vercel出品的多智能体AI编程平台，一键部署即可让Claude、OpenAI Codex等自动在隔离沙箱里完成... | 703 | 93 | TypeScript | 🆕 |
-| 5 | [ml-simplefold](https://github.com/apple/ml-simplefold) | 苹果开源的极简蛋白质折叠模型，仅用通用Transformer层+流匹配即可预测三维结构，无需复杂几何模块。 | 688 | 34 | Python | 🆕 |
-| 6 | [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) | 腾讯开源的原生多模态图像生成大模型，统一文本与视觉理解，一键生成高质量图像。 | 621 | 26 | Python | 🆕 |
-| 7 | [swift-configuration](https://github.com/apple/swift-configuration) | 苹果官方Swift库，为应用与库提供统一、可扩展的配置读取抽象层，解耦配置源与业务代码。 | 311 | 5 | Swift | 🆕 |
-| 8 | [Sec-Interview](https://github.com/duckpigdog/Sec-Interview) | 收录上万道网络安全各方向面试题并附参考答案，一站式解决护网、渗透、红队、逆向、密码学等岗位笔试面试备战需求。 | 281 | 48 | Unknown | 🆕 |
-| 9 | [Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) | 腾讯开源的统一3D资产生成框架，支持图像/文本等多模态输入，一键生成可控高质量3D模型，大幅降低游戏、影视等内容制... | 280 | 15 | Python | 🆕 |
-| 10 | [Wallpaper-Engine](https://github.com/bitox123/Wallpaper-Engine) | 提供2025版Wallpaper Engine下载，支持4K/8K动态壁纸、交互场景与Steam Workshop... | 229 | 0 | Unknown | 🆕 |
+| 1 | [bdh](https://github.com/pathwaycom/bdh) | 论文《The Dragon Hatchling》官方实现，提出介于Transformer与脑模型之间的新架构，附完... | 2,342 | 68 | Python | 🆕 |
+| 2 | [crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot) | 免费开源的多交易所加密货币套利机器人，可自动捕捉价差并执行跨平台搬砖交易，降低人工盯盘成本。 | 630 | 390 | TypeScript | 🆕 |
+| 3 | [neutts-air](https://github.com/neuphonic/neutts-air) | NeuTTS Air是全球首款可在本地运行的超逼真TTS引擎，无需联网即可生成高质量语音，彻底摆脱云端API依赖。 | 617 | 72 | Python | 🆕 |
+| 4 | [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) | 一键生成爆款短视频的自动化工具，自动完成文案、配音、数字人、字幕、封面到多平台发布的全流程。 | 529 | 42 | Python | 🆕 |
+| 5 | [run](https://github.com/Esubaalew/run) | Rust编写的多语言通用运行器与智能REPL，一键脚本、编译、交互25+语言，无需切换CLI。 | 464 | 8 | Rust | 🆕 |
+| 6 | [Gift-Buyer-Tg](https://github.com/ThunderTo/Gift-Buyer-Tg) | Telegram礼物抢购机器人，可按自定义条件秒级扫货并自动下单，已服务200+用户。 | 206 | 70 | Python | 🆕 |
+| 7 | [proofofthought](https://github.com/DebarghaG/proofofthought) | 结合大模型与Z3定理证明器，实现可解释、鲁棒的神经符号程序合成与推理，支持复杂问答与批量评估。 | 289 | 17 | Python | 🆕 |
+| 8 | [TTT3R](https://github.com/Inception3D/TTT3R) | TTT3R通过测试时训练策略，为CUT3R引入简单状态更新规则，显著提升长序列三维重建的泛化能力。 | 266 | 6 | Python | 🆕 |
+| 9 | [WindowMode](https://github.com/True3DLabs/WindowMode) | 将屏幕变成通往虚拟世界的“窗户”，用户可透过显示器实时观察并交互3D场景，实现沉浸式裸眼3D体验。 | 205 | 16 | TypeScript | 🆕 |
+| 10 | [reddix](https://github.com/ck-zhang/reddix) | Reddix 是一款终端 Reddit 客户端，支持多账号、键盘导航与图片预览，让开发者在命令行中高效浏览 Red... | 201 | 1 | Rust | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [Dayflow](https://github.com/JerryZLiu/Dayflow) ![Star](https://img.shields.io/github/stars/JerryZLiu/Dayflow?style=social)
+#### 1. [bdh](https://github.com/pathwaycom/bdh) ![Star](https://img.shields.io/github/stars/pathwaycom/bdh?style=social)
 
-<img src="./images/2025/week-40/dayflow/1_dayflow_header.png" alt="Dayflow" width="500"/>
+<img src="./images/2025/week-41/bdh/1_architecture.png" alt="bdh" width="500"/>
 
-**📝 项目简介**: macOS端Swift应用，自动记录屏幕活动并生成带AI摘要与分心提醒的每日时间线，帮助用户复盘时间使用。
+**📝 项目简介**: 论文《The Dragon Hatchling》官方实现，提出介于Transformer与脑模型之间的新架构，附完整训练与实验代码。
 
 **✨ 核心特性**:
-- 自动截屏+OCR识别应用与网页
-- 集成Gemini/Ollama生成AI摘要
-- 一键标注分心时段，输出可视化时间线
+- 填补Transformer与脑模型理论空白
+- 提供可复现的架构与训练脚本
+- 附Scaling Law实验数据与图表
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,384
-- **🔀 Fork数**: 88
-- **👀 Watch数**: 2,384
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell, gemini, lmstudio, ollama, productivity
+- **⭐ Star数**: 2,342
+- **🔀 Fork数**: 68
+- **👀 Watch数**: 2,342
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Express, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ![Star](https://img.shields.io/github/stars/subhashchy/The-Accidental-CTO?style=social)
+#### 2. [crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot) ![Star](https://img.shields.io/github/stars/yottjane/crypto-arbitrage-bot?style=social)
 
-**📝 项目简介**: 非科班CTO亲述如何零起步把Dukaan扩至百万店铺的系统设计实战手册，含踩坑与AWS架构经验。
+<img src="./images/2025/week-41/crypto-arbitrage-bot/1_badge.svg" alt="crypto-arbitrage-bot" width="500"/>
 
-**✨ 核心特性**:
-- 真实百万级店铺扩展案例
-- 无CS背景的系统设计心法
-- AWS成本与性能优化实战
-
-**📊 项目统计**:
-- **⭐ Star数**: 995
-- **🔀 Fork数**: 60
-- **👀 Watch数**: 995
-- **📝 语言**: Unknown
-- **💻 技术栈**: scaling, system-design, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [NCE](https://github.com/iChochy/NCE) ![Star](https://img.shields.io/github/stars/iChochy/NCE?style=social)
-
-**📝 项目简介**: 在线点读《新概念英语》1-4册，支持逐句朗读与循环播放，零配置随时随地练听说。
+**📝 项目简介**: 免费开源的多交易所加密货币套利机器人，可自动捕捉价差并执行跨平台搬砖交易，降低人工盯盘成本。
 
 **✨ 核心特性**:
-- 全四册课文完整收录
-- 单句点读+整课循环
-- 纯前端离线可用
+- 支持Binance等主流交易所
+- NestJS+Solidity双引擎，链上链下套利
+- TypeScript全栈，二次开发友好
 
 **📊 项目统计**:
-- **⭐ Star数**: 755
-- **🔀 Fork数**: 116
-- **👀 Watch数**: 755
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://nce.ichochy.com/](https://nce.ichochy.com/)
-- **💻 技术栈**: JavaScript, CSS, HTML, english, learn, nce
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ![Star](https://img.shields.io/github/stars/vercel-labs/coding-agent-template?style=social)
-
-<img src="./images/2025/week-40/coding-agent-template/1_screenshot.png" alt="coding-agent-template" width="500"/>
-
-**📝 项目简介**: Vercel出品的多智能体AI编程平台，一键部署即可让Claude、OpenAI Codex等自动在隔离沙箱里完成仓库编码任务，最低1美元起用。
-
-**✨ 核心特性**:
-- 多智能体：Claude Code/Codex CLI/Cursor CLI/opencode任选
-- 安全隔离：Vercel Sandbox运行代码，防止污染主机
-- 一键上线：Vercel按钮秒级部署，1美元即可启动自动化
-
-**📊 项目统计**:
-- **⭐ Star数**: 703
-- **🔀 Fork数**: 93
-- **👀 Watch数**: 703
+- **⭐ Star数**: 630
+- **🔀 Fork数**: 390
+- **👀 Watch数**: 630
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, JavaScript, React, PostgreSQL, REST API
+- **💻 技术栈**: TypeScript, Solidity, JavaScript, arbitrage, arbitrage-bots, binance
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [ml-simplefold](https://github.com/apple/ml-simplefold) ![Star](https://img.shields.io/github/stars/apple/ml-simplefold?style=social)
+#### 3. [neutts-air](https://github.com/neuphonic/neutts-air) ![Star](https://img.shields.io/github/stars/neuphonic/neutts-air?style=social)
 
-<img src="./images/2025/week-40/ml-simplefold/1_intro.png" alt="ml-simplefold" width="500"/>
-
-**📝 项目简介**: 苹果开源的极简蛋白质折叠模型，仅用通用Transformer层+流匹配即可预测三维结构，无需复杂几何模块。
+**📝 项目简介**: NeuTTS Air是全球首款可在本地运行的超逼真TTS引擎，无需联网即可生成高质量语音，彻底摆脱云端API依赖。
 
 **✨ 核心特性**:
-- 首个纯Transformer流匹配折叠模型
-- 训练推理代码与权重全开源
-- Docker一键复现，支持AWS弹性推理
+- 完全离线运行，保护隐私
+- 超小体积，适配端侧设备
+- 语音自然度媲美云端服务
 
 **📊 项目统计**:
-- **⭐ Star数**: 688
-- **🔀 Fork数**: 34
-- **👀 Watch数**: 688
+- **⭐ Star数**: 617
+- **🔀 Fork数**: 72
+- **👀 Watch数**: 617
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Jupyter Notebook, Docker, Redis, AWS
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanImage-3.0?style=social)
+#### 4. [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) ![Star](https://img.shields.io/github/stars/LuoGen-AI/LuoGen-agent?style=social)
 
-<img src="./images/2025/week-40/hunyuanimage-3.0/1_logo.png" alt="HunyuanImage-3.0" width="500"/>
+<img src="./images/2025/week-41/luogen-agent/1_show.png" alt="LuoGen-agent" width="500"/>
 
-**📝 项目简介**: 腾讯开源的原生多模态图像生成大模型，统一文本与视觉理解，一键生成高质量图像。
+**📝 项目简介**: 一键生成爆款短视频的自动化工具，自动完成文案、配音、数字人、字幕、封面到多平台发布的全流程。
 
 **✨ 核心特性**:
-- 原生多模态架构，文本-视觉端到端训练
-- 中文与多风格高保真图像生成
-- 官方提供在线体验与模型权重，零门槛使用
+- 对标文案自动提取与仿写
+- Whisper+CosyVoice高保真语音克隆
+- HeyGem数字人口播+多平台一键发布
 
 **📊 项目统计**:
-- **⭐ Star数**: 621
-- **🔀 Fork数**: 26
-- **👀 Watch数**: 621
+- **⭐ Star数**: 529
+- **🔀 Fork数**: 42
+- **👀 Watch数**: 529
 - **📝 语言**: Python
-- **🌐 官网**: [https://hunyuan.tencent.com/image](https://hunyuan.tencent.com/image)
-- **💻 技术栈**: Python, Shell, image-generation, native-multimodal-model, Express
+- **💻 技术栈**: Python, Batchfile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [swift-configuration](https://github.com/apple/swift-configuration) ![Star](https://img.shields.io/github/stars/apple/swift-configuration?style=social)
+#### 5. [run](https://github.com/Esubaalew/run) ![Star](https://img.shields.io/github/stars/Esubaalew/run?style=social)
 
-**📝 项目简介**: 苹果官方Swift库，为应用与库提供统一、可扩展的配置读取抽象层，解耦配置源与业务代码。
+<img src="./images/2025/week-41/run/1_badge.svg" alt="run" width="500"/>
+
+**📝 项目简介**: Rust编写的多语言通用运行器与智能REPL，一键脚本、编译、交互25+语言，无需切换CLI。
 
 **✨ 核心特性**:
-- 官方维护，Apache 2.0许可
-- 配置源与读取逻辑解耦，支持多后端
-- 文档、示例齐全，贡献友好
+- 25+语言零配置即跑
+- 内置智能REPL与缓存
+- 单二进制跨平台
 
 **📊 项目统计**:
-- **⭐ Star数**: 311
-- **🔀 Fork数**: 5
-- **👀 Watch数**: 311
-- **📝 语言**: Swift
-- **🌐 官网**: [https://swiftpackageindex.com/apple/swift-configuration/documentation](https://swiftpackageindex.com/apple/swift-configuration/documentation)
-- **💻 技术栈**: Swift, Python, Shell, configuration, server, swift
+- **⭐ Star数**: 464
+- **🔀 Fork数**: 8
+- **👀 Watch数**: 464
+- **📝 语言**: Rust
+- **🌐 官网**: [https://run.esubalew.et](https://run.esubalew.et)
+- **💻 技术栈**: Rust, Shell, Smarty, repl, rust, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [Sec-Interview](https://github.com/duckpigdog/Sec-Interview) ![Star](https://img.shields.io/github/stars/duckpigdog/Sec-Interview?style=social)
+#### 6. [Gift-Buyer-Tg](https://github.com/ThunderTo/Gift-Buyer-Tg) ![Star](https://img.shields.io/github/stars/ThunderTo/Gift-Buyer-Tg?style=social)
 
-**📝 项目简介**: 收录上万道网络安全各方向面试题并附参考答案，一站式解决护网、渗透、红队、逆向、密码学等岗位笔试面试备战需求。
-
-**✨ 核心特性**:
-- 题量庞大，覆盖10+安全细分方向
-- 提供在线浏览与离线Markdown双模式
-- 持续社区投稿，动态更新
-
-**📊 项目统计**:
-- **⭐ Star数**: 281
-- **🔀 Fork数**: 48
-- **👀 Watch数**: 281
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Omni?style=social)
-
-**📝 项目简介**: 腾讯开源的统一3D资产生成框架，支持图像/文本等多模态输入，一键生成可控高质量3D模型，大幅降低游戏、影视等内容制作门槛。
+**📝 项目简介**: Telegram礼物抢购机器人，可按自定义条件秒级扫货并自动下单，已服务200+用户。
 
 **✨ 核心特性**:
-- 多模态输入：图生3D、文生3D一键完成
-- 统一框架：形状、纹理、姿态全链路可控
-- 开源模型+在线Demo，即刻体验
+- 每秒抢购5+礼物
+- 全自动扫描与下单
+- 可接入自有Telegram Bot
 
 **📊 项目统计**:
-- **⭐ Star数**: 280
-- **🔀 Fork数**: 15
-- **👀 Watch数**: 280
+- **⭐ Star数**: 206
+- **🔀 Fork数**: 70
+- **👀 Watch数**: 206
 - **📝 语言**: Python
-- **🌐 官网**: [https://3d.hunyuan.tencent.com/](https://3d.hunyuan.tencent.com/)
-- **💻 技术栈**: Python, 3d, 3d-aigc, 3d-generation, hunyuan3d, image-to-3d
+- **💻 技术栈**: Python, Batchfile, gift-bot-telegram, gift-buyer, gift-sniper, telegram-gift
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [Wallpaper-Engine](https://github.com/bitox123/Wallpaper-Engine) ![Star](https://img.shields.io/github/stars/bitox123/Wallpaper-Engine?style=social)
+#### 7. [proofofthought](https://github.com/DebarghaG/proofofthought) ![Star](https://img.shields.io/github/stars/DebarghaG/proofofthought?style=social)
 
-**📝 项目简介**: 提供2025版Wallpaper Engine下载，支持4K/8K动态壁纸、交互场景与Steam Workshop，一键美化Windows桌面。
+**📝 项目简介**: 结合大模型与Z3定理证明器，实现可解释、鲁棒的神经符号程序合成与推理，支持复杂问答与批量评估。
 
 **✨ 核心特性**:
-- 4K/8K超清动态壁纸
-- Steam Workshop海量资源
-- 低占用实时交互特效
+- LLM+Z3神经符号融合，推理可解释
+- 支持单条/批量问答评估，快速验证逻辑
+- NeurIPS 2024官方认可，研究前沿
 
 **📊 项目统计**:
-- **⭐ Star数**: 229
-- **🔀 Fork数**: 0
-- **👀 Watch数**: 229
-- **📝 语言**: Unknown
-- **💻 技术栈**: 4k-wallpapers, animated-wallpapers, custom-wallpapers, dynamic-wallpapers, hd-wallpapers, live-wallpapers
+- **⭐ Star数**: 289
+- **🔀 Fork数**: 17
+- **👀 Watch数**: 289
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Azure
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [TTT3R](https://github.com/Inception3D/TTT3R) ![Star](https://img.shields.io/github/stars/Inception3D/TTT3R?style=social)
+
+<img src="./images/2025/week-41/ttt3r/1_arxiv-2509.26645-b31b1b.svg" alt="TTT3R" width="500"/>
+
+**📝 项目简介**: TTT3R通过测试时训练策略，为CUT3R引入简单状态更新规则，显著提升长序列三维重建的泛化能力。
+
+**✨ 核心特性**:
+- 测试时训练增强长序列泛化
+- 单状态更新规则即插即用
+- 兼容CUT3R无需重训练
+
+**📊 项目统计**:
+- **⭐ Star数**: 266
+- **🔀 Fork数**: 6
+- **👀 Watch数**: 266
+- **📝 语言**: Python
+- **🌐 官网**: [https://rover-xingyu.github.io/TTT3R/](https://rover-xingyu.github.io/TTT3R/)
+- **💻 技术栈**: Python, Jupyter Notebook, Shell, Cuda, C++, 3d-reconstruction
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [WindowMode](https://github.com/True3DLabs/WindowMode) ![Star](https://img.shields.io/github/stars/True3DLabs/WindowMode?style=social)
+
+<img src="./images/2025/week-41/windowmode/1_demo.gif" alt="WindowMode" width="500"/>
+
+**📝 项目简介**: 将屏幕变成通往虚拟世界的“窗户”，用户可透过显示器实时观察并交互3D场景，实现沉浸式裸眼3D体验。
+
+**✨ 核心特性**:
+- 裸眼3D窗口视角
+- 基于NextJS的轻量演示
+- 自定义体素格式(.vv)高效加载
+
+**📊 项目统计**:
+- **⭐ Star数**: 205
+- **🔀 Fork数**: 16
+- **👀 Watch数**: 205
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://lab.true3d.com/targets](https://lab.true3d.com/targets)
+- **💻 技术栈**: TypeScript, CSS, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [reddix](https://github.com/ck-zhang/reddix) ![Star](https://img.shields.io/github/stars/ck-zhang/reddix?style=social)
+
+<img src="./images/2025/week-41/reddix/1_license-mit-blue.svg" alt="reddix" width="500"/>
+
+**📝 项目简介**: Reddix 是一款终端 Reddit 客户端，支持多账号、键盘导航与图片预览，让开发者在命令行中高效浏览 Reddit。
+
+**✨ 核心特性**:
+- 终端原生体验，无需图形界面
+- Kitty 协议图片预览，信息更丰富
+- 多账号一键切换，键盘快捷导航
+
+**📊 项目统计**:
+- **⭐ Star数**: 201
+- **🔀 Fork数**: 1
+- **👀 Watch数**: 201
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, reddit, reddit-client
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,21 +250,19 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Unknown** (3 个项目)
-2. **Python** (3 个项目)
-3. **Swift** (2 个项目)
-4. **JavaScript** (1 个项目)
-5. **TypeScript** (1 个项目)
+1. **Python** (6 个项目)
+2. **TypeScript** (2 个项目)
+3. **Rust** (2 个项目)
 
 **🏷️ 热门话题**:
-1. swift (2)
-2. gemini (1)
-3. lmstudio (1)
-4. ollama (1)
-5. productivity (1)
-6. productivity-tools (1)
-7. time (1)
-8. timeline (1)
+1. arbitrage (1)
+2. arbitrage-bots (1)
+3. binance (1)
+4. bitcoin (1)
+5. crypto-trading (1)
+6. cryptocurrency (1)
+7. ethereum (1)
+8. smart-contracts (1)
 
 
 <!-- TRENDING-END -->
@@ -268,6 +272,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |

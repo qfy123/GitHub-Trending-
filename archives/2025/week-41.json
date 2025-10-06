@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第41周",
+    "year": 2025,
+    "week": 41,
+    "week_range": {
+      "start": "2025-10-05",
+      "end": "2025-10-11"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-10-11 23:59:59",
+    "next_update": "2025-10-18"
+  },
+  "repositories": [
+    {
+      "full_name": "pathwaycom/bdh",
+      "rank": 1,
+      "stars": 2342,
+      "forks": 68,
+      "overall_score": 68
+    },
+    {
+      "full_name": "yottjane/crypto-arbitrage-bot",
+      "rank": 2,
+      "stars": 630,
+      "forks": 390,
+      "overall_score": 68
+    },
+    {
+      "full_name": "neuphonic/neutts-air",
+      "rank": 3,
+      "stars": 617,
+      "forks": 72,
+      "overall_score": 66
+    },
+    {
+      "full_name": "LuoGen-AI/LuoGen-agent",
+      "rank": 4,
+      "stars": 529,
+      "forks": 42,
+      "overall_score": 62
+    },
+    {
+      "full_name": "Esubaalew/run",
+      "rank": 5,
+      "stars": 464,
+      "forks": 8,
+      "overall_score": 60
+    },
+    {
+      "full_name": "ThunderTo/Gift-Buyer-Tg",
+      "rank": 6,
+      "stars": 206,
+      "forks": 70,
+      "overall_score": 60
+    },
+    {
+      "full_name": "DebarghaG/proofofthought",
+      "rank": 7,
+      "stars": 289,
+      "forks": 17,
+      "overall_score": 59
+    },
+    {
+      "full_name": "Inception3D/TTT3R",
+      "rank": 8,
+      "stars": 266,
+      "forks": 6,
+      "overall_score": 57
+    },
+    {
+      "full_name": "True3DLabs/WindowMode",
+      "rank": 9,
+      "stars": 205,
+      "forks": 16,
+      "overall_score": 57
+    },
+    {
+      "full_name": "ck-zhang/reddix",
+      "rank": 10,
+      "stars": 201,
+      "forks": 1,
+      "overall_score": 55
+    }
+  ],
+  "generated_at": "2025-10-06T03:08:32.320Z"
+}
