@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第42周",
+    "year": 2025,
+    "week": 42,
+    "week_range": {
+      "start": "2025-10-12",
+      "end": "2025-10-18"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-10-18 23:59:59",
+    "next_update": "2025-10-25"
+  },
+  "repositories": [
+    {
+      "full_name": "SamsungSAILMontreal/TinyRecursiveModels",
+      "rank": 1,
+      "stars": 3829,
+      "forks": 454,
+      "overall_score": 76
+    },
+    {
+      "full_name": "Mordoria/unnamed_game_1_v2",
+      "rank": 2,
+      "stars": 996,
+      "forks": 93,
+      "overall_score": 66
+    },
+    {
+      "full_name": "obra/superpowers",
+      "rank": 3,
+      "stars": 727,
+      "forks": 44,
+      "overall_score": 66
+    },
+    {
+      "full_name": "KsanaDock/Microverse",
+      "rank": 4,
+      "stars": 626,
+      "forks": 129,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Uak0/crypto-tax-calculator",
+      "rank": 5,
+      "stars": 594,
+      "forks": 174,
+      "overall_score": 66
+    },
+    {
+      "full_name": "simonw/claude-skills",
+      "rank": 6,
+      "stars": 601,
+      "forks": 83,
+      "overall_score": 64
+    },
+    {
+      "full_name": "xbpeng/MimicKit",
+      "rank": 7,
+      "stars": 581,
+      "forks": 42,
+      "overall_score": 64
+    },
+    {
+      "full_name": "mshumer/sora-extend",
+      "rank": 8,
+      "stars": 411,
+      "forks": 75,
+      "overall_score": 62
+    },
+    {
+      "full_name": "ginobefun/agentic-design-patterns-cn",
+      "rank": 9,
+      "stars": 393,
+      "forks": 44,
+      "overall_score": 62
+    },
+    {
+      "full_name": "wizenheimer/blaze",
+      "rank": 10,
+      "stars": 360,
+      "forks": 6,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2025-10-13T03:16:26.503Z"
+}

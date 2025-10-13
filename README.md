@@ -18,231 +18,227 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第41周
+### GitHub趋势排行榜 - 2025年第42周
 
-**📅 统计周期**: 2025-10-05 ~ 2025-10-11  
+**📅 统计周期**: 2025-10-12 ~ 2025-10-18  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,749  
-**🔄 更新时间**: 2025-10-11 23:59:59  
+**⭐ 总Star数**: 9,118  
+**🔄 更新时间**: 2025-10-18 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [bdh](https://github.com/pathwaycom/bdh) | 论文《The Dragon Hatchling》官方实现，提出介于Transformer与脑模型之间的新架构，附完... | 2,342 | 68 | Python | 🆕 |
-| 2 | [crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot) | 免费开源的多交易所加密货币套利机器人，可自动捕捉价差并执行跨平台搬砖交易，降低人工盯盘成本。 | 630 | 390 | TypeScript | 🆕 |
-| 3 | [neutts-air](https://github.com/neuphonic/neutts-air) | NeuTTS Air是全球首款可在本地运行的超逼真TTS引擎，无需联网即可生成高质量语音，彻底摆脱云端API依赖。 | 617 | 72 | Python | 🆕 |
-| 4 | [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) | 一键生成爆款短视频的自动化工具，自动完成文案、配音、数字人、字幕、封面到多平台发布的全流程。 | 529 | 42 | Python | 🆕 |
-| 5 | [run](https://github.com/Esubaalew/run) | Rust编写的多语言通用运行器与智能REPL，一键脚本、编译、交互25+语言，无需切换CLI。 | 464 | 8 | Rust | 🆕 |
-| 6 | [Gift-Buyer-Tg](https://github.com/ThunderTo/Gift-Buyer-Tg) | Telegram礼物抢购机器人，可按自定义条件秒级扫货并自动下单，已服务200+用户。 | 206 | 70 | Python | 🆕 |
-| 7 | [proofofthought](https://github.com/DebarghaG/proofofthought) | 结合大模型与Z3定理证明器，实现可解释、鲁棒的神经符号程序合成与推理，支持复杂问答与批量评估。 | 289 | 17 | Python | 🆕 |
-| 8 | [TTT3R](https://github.com/Inception3D/TTT3R) | TTT3R通过测试时训练策略，为CUT3R引入简单状态更新规则，显著提升长序列三维重建的泛化能力。 | 266 | 6 | Python | 🆕 |
-| 9 | [WindowMode](https://github.com/True3DLabs/WindowMode) | 将屏幕变成通往虚拟世界的“窗户”，用户可透过显示器实时观察并交互3D场景，实现沉浸式裸眼3D体验。 | 205 | 16 | TypeScript | 🆕 |
-| 10 | [reddix](https://github.com/ck-zhang/reddix) | Reddix 是一款终端 Reddit 客户端，支持多账号、键盘导航与图片预览，让开发者在命令行中高效浏览 Red... | 201 | 1 | Rust | 🆕 |
+| 1 | [TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) | 用仅7M参数的微型递归网络，在ARC-AGI抽象推理基准上取得45%高分，证明“小模型+递归”也能挑战大模型。 | 3,829 | 454 | Python | 🆕 |
+| 2 | [unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) | ThePrimeagen等主播在24×7直播塔防挑战后开源的Lua游戏，社区持续迭代，首版已可玩。 | 996 | 93 | Lua | 🆕 |
+| 3 | [superpowers](https://github.com/obra/superpowers) | 为Claude Code注入“超能力”的Shell插件，一键拉取并本地管理可复用的技能库，让AI助手随用随增强。 | 727 | 44 | Shell | 🆕 |
+| 4 | [Microverse](https://github.com/KsanaDock/Microverse) | Godot 4打造的多智能体沙盒，AI角色自主思考、记忆并演化复杂社会关系，像斯坦福小镇般自运行。 | 626 | 129 | GDScript | 🆕 |
+| 5 | [crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) | 开源加密资产与个人所得税计算器，支持交易、质押、空投、NFT等多场景，一键生成符合美国等多辖区合规报表。 | 594 | 174 | Python | 🆕 |
+| 6 | [claude-skills](https://github.com/simonw/claude-skills) | 提取并公开Claude代码解释器/mnt/skills目录下的全部技能脚本，方便开发者研究、复用与二次开发。 | 601 | 83 | Python | 🆕 |
+| 7 | [MimicKit](https://github.com/xbpeng/MimicKit) | 基于Isaac Gym的Python套件，集成多种运动模仿与强化学习算法，一键训练高保真运动控制器。 | 581 | 42 | Python | 🆕 |
+| 8 | [sora-extend](https://github.com/mshumer/sora-extend) | 通过首尾帧接力与智能分镜，把Sora 2的12秒限制突破为任意长度，并保持画面连贯。 | 411 | 75 | Jupyter Notebook | 🆕 |
+| 9 | [agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) | Antonio Gulli《Agentic Design Patterns》双语对照译本，系统梳理AI智能体设计模... | 393 | 44 | Python | 🆕 |
+| 10 | [blaze](https://github.com/wizenheimer/blaze) | Blaze是一款轻量级全文搜索引擎，专为开发者打造，支持倒排索引、布尔/短语/邻近查询及BM25排序，可嵌入各类应用。 | 360 | 6 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [bdh](https://github.com/pathwaycom/bdh) ![Star](https://img.shields.io/github/stars/pathwaycom/bdh?style=social)
+#### 1. [TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ![Star](https://img.shields.io/github/stars/SamsungSAILMontreal/TinyRecursiveModels?style=social)
 
-<img src="./images/2025/week-41/bdh/1_architecture.png" alt="bdh" width="500"/>
+<img src="./images/2025/week-42/tinyrecursivemodels/1_trm_fig.png" alt="TinyRecursiveModels" width="500"/>
 
-**📝 项目简介**: 论文《The Dragon Hatchling》官方实现，提出介于Transformer与脑模型之间的新架构，附完整训练与实验代码。
-
-**✨ 核心特性**:
-- 填补Transformer与脑模型理论空白
-- 提供可复现的架构与训练脚本
-- 附Scaling Law实验数据与图表
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,342
-- **🔀 Fork数**: 68
-- **👀 Watch数**: 2,342
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot) ![Star](https://img.shields.io/github/stars/yottjane/crypto-arbitrage-bot?style=social)
-
-<img src="./images/2025/week-41/crypto-arbitrage-bot/1_badge.svg" alt="crypto-arbitrage-bot" width="500"/>
-
-**📝 项目简介**: 免费开源的多交易所加密货币套利机器人，可自动捕捉价差并执行跨平台搬砖交易，降低人工盯盘成本。
+**📝 项目简介**: 用仅7M参数的微型递归网络，在ARC-AGI抽象推理基准上取得45%高分，证明“小模型+递归”也能挑战大模型。
 
 **✨ 核心特性**:
-- 支持Binance等主流交易所
-- NestJS+Solidity双引擎，链上链下套利
-- TypeScript全栈，二次开发友好
+- 7M超小参数量
+- 递归推理架构
+- ARC-AGI-1达45%SOTA成绩
 
 **📊 项目统计**:
-- **⭐ Star数**: 630
-- **🔀 Fork数**: 390
-- **👀 Watch数**: 630
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Solidity, JavaScript, arbitrage, arbitrage-bots, binance
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [neutts-air](https://github.com/neuphonic/neutts-air) ![Star](https://img.shields.io/github/stars/neuphonic/neutts-air?style=social)
-
-**📝 项目简介**: NeuTTS Air是全球首款可在本地运行的超逼真TTS引擎，无需联网即可生成高质量语音，彻底摆脱云端API依赖。
-
-**✨ 核心特性**:
-- 完全离线运行，保护隐私
-- 超小体积，适配端侧设备
-- 语音自然度媲美云端服务
-
-**📊 项目统计**:
-- **⭐ Star数**: 617
-- **🔀 Fork数**: 72
-- **👀 Watch数**: 617
+- **⭐ Star数**: 3,829
+- **🔀 Fork数**: 454
+- **👀 Watch数**: 3,829
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) ![Star](https://img.shields.io/github/stars/LuoGen-AI/LuoGen-agent?style=social)
+#### 2. [unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ![Star](https://img.shields.io/github/stars/Mordoria/unnamed_game_1_v2?style=social)
 
-<img src="./images/2025/week-41/luogen-agent/1_show.png" alt="LuoGen-agent" width="500"/>
-
-**📝 项目简介**: 一键生成爆款短视频的自动化工具，自动完成文案、配音、数字人、字幕、封面到多平台发布的全流程。
+**📝 项目简介**: ThePrimeagen等主播在24×7直播塔防挑战后开源的Lua游戏，社区持续迭代，首版已可玩。
 
 **✨ 核心特性**:
-- 对标文案自动提取与仿写
-- Whisper+CosyVoice高保真语音克隆
-- HeyGem数字人口播+多平台一键发布
+- 直播共创、社区驱动开发
+- Lua+GLSL轻量高性能
+- 首版即放出完整可玩状态
 
 **📊 项目统计**:
-- **⭐ Star数**: 529
+- **⭐ Star数**: 996
+- **🔀 Fork数**: 93
+- **👀 Watch数**: 996
+- **📝 语言**: Lua
+- **💻 技术栈**: Lua, GLSL, Roff
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [superpowers](https://github.com/obra/superpowers) ![Star](https://img.shields.io/github/stars/obra/superpowers?style=social)
+
+**📝 项目简介**: 为Claude Code注入“超能力”的Shell插件，一键拉取并本地管理可复用的技能库，让AI助手随用随增强。
+
+**✨ 核心特性**:
+- 极简shim，自动克隆/更新技能仓库
+- 技能、脚本与文档独立维护，可自由贡献
+- 本地编辑即时生效，无需重启环境
+
+**📊 项目统计**:
+- **⭐ Star数**: 727
+- **🔀 Fork数**: 44
+- **👀 Watch数**: 727
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [Microverse](https://github.com/KsanaDock/Microverse) ![Star](https://img.shields.io/github/stars/KsanaDock/Microverse?style=social)
+
+<img src="./images/2025/week-42/microverse/1_cover.png" alt="Microverse" width="500"/>
+
+**📝 项目简介**: Godot 4打造的多智能体沙盒，AI角色自主思考、记忆并演化复杂社会关系，像斯坦福小镇般自运行。
+
+**✨ 核心特性**:
+- AI角色拥有独立思维与持久记忆
+- 多智能体实时社交、协作与任务执行
+- 支持大模型对话API，易扩展新行为
+
+**📊 项目统计**:
+- **⭐ Star数**: 626
+- **🔀 Fork数**: 129
+- **👀 Watch数**: 626
+- **📝 语言**: GDScript
+- **💻 技术栈**: GDScript, REST API
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) ![Star](https://img.shields.io/github/stars/Uak0/crypto-tax-calculator?style=social)
+
+<img src="./images/2025/week-42/crypto-tax-calculator/1_cloudposse.svg" alt="crypto-tax-calculator" width="500"/>
+
+**📝 项目简介**: 开源加密资产与个人所得税计算器，支持交易、质押、空投、NFT等多场景，一键生成符合美国等多辖区合规报表。
+
+**✨ 核心特性**:
+- 统一导入引擎（UIE）自动归集全平台数据
+- 覆盖交易、挖矿、质押、空投、NFT等全场景
+- 开源透明，可自定义规则适配多国税制
+
+**📊 项目统计**:
+- **⭐ Star数**: 594
+- **🔀 Fork数**: 174
+- **👀 Watch数**: 594
+- **📝 语言**: Python
+- **💻 技术栈**: Python, bitcoin, crypto, crypto-tax-reports, cryptocurrency, cryptotax
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [claude-skills](https://github.com/simonw/claude-skills) ![Star](https://img.shields.io/github/stars/simonw/claude-skills?style=social)
+
+**📝 项目简介**: 提取并公开Claude代码解释器/mnt/skills目录下的全部技能脚本，方便开发者研究、复用与二次开发。
+
+**✨ 核心特性**:
+- 完整还原Claude官方技能包
+- 一键获取所有内置工具源码
+- 开源可自由扩展与改进
+
+**📊 项目统计**:
+- **⭐ Star数**: 601
+- **🔀 Fork数**: 83
+- **👀 Watch数**: 601
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [MimicKit](https://github.com/xbpeng/MimicKit) ![Star](https://img.shields.io/github/stars/xbpeng/MimicKit?style=social)
+
+**📝 项目简介**: 基于Isaac Gym的Python套件，集成多种运动模仿与强化学习算法，一键训练高保真运动控制器。
+
+**✨ 核心特性**:
+- 集成主流运动模仿方法
+- 内置RL算法库
+- Isaac Gym高并行仿真加速
+
+**📊 项目统计**:
+- **⭐ Star数**: 581
 - **🔀 Fork数**: 42
-- **👀 Watch数**: 529
+- **👀 Watch数**: 581
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [run](https://github.com/Esubaalew/run) ![Star](https://img.shields.io/github/stars/Esubaalew/run?style=social)
+#### 8. [sora-extend](https://github.com/mshumer/sora-extend) ![Star](https://img.shields.io/github/stars/mshumer/sora-extend?style=social)
 
-<img src="./images/2025/week-41/run/1_badge.svg" alt="run" width="500"/>
+<img src="./images/2025/week-42/sora-extend/1_colab-badge.svg" alt="sora-extend" width="500"/>
 
-**📝 项目简介**: Rust编写的多语言通用运行器与智能REPL，一键脚本、编译、交互25+语言，无需切换CLI。
+**📝 项目简介**: 通过首尾帧接力与智能分镜，把Sora 2的12秒限制突破为任意长度，并保持画面连贯。
 
 **✨ 核心特性**:
-- 25+语言零配置即跑
-- 内置智能REPL与缓存
-- 单二进制跨平台
+- 首尾帧接力无缝衔接
+- 自动拆分提示词保持叙事一致
+- 纯Notebook零依赖一键运行
 
 **📊 项目统计**:
-- **⭐ Star数**: 464
-- **🔀 Fork数**: 8
-- **👀 Watch数**: 464
-- **📝 语言**: Rust
-- **🌐 官网**: [https://run.esubalew.et](https://run.esubalew.et)
-- **💻 技术栈**: Rust, Shell, Smarty, repl, rust, Node.js
+- **⭐ Star数**: 411
+- **🔀 Fork数**: 75
+- **👀 Watch数**: 411
+- **📝 语言**: Jupyter Notebook
+- **💻 技术栈**: Jupyter Notebook
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [Gift-Buyer-Tg](https://github.com/ThunderTo/Gift-Buyer-Tg) ![Star](https://img.shields.io/github/stars/ThunderTo/Gift-Buyer-Tg?style=social)
+#### 9. [agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ![Star](https://img.shields.io/github/stars/ginobefun/agentic-design-patterns-cn?style=social)
 
-**📝 项目简介**: Telegram礼物抢购机器人，可按自定义条件秒级扫货并自动下单，已服务200+用户。
+<img src="./images/2025/week-42/agentic-design-patterns-cn/1_license-cc%20by--nc%204.0-lightgrey.svg" alt="agentic-design-patterns-cn" width="500"/>
+
+**📝 项目简介**: Antonio Gulli《Agentic Design Patterns》双语对照译本，系统梳理AI智能体设计模式，帮助中文读者快速掌握构建智能系统的核心方法。
 
 **✨ 核心特性**:
-- 每秒抢购5+礼物
-- 全自动扫描与下单
-- 可接入自有Telegram Bot
+- 官方授权中英对照，术语准确
+- 覆盖现代AI智能体主流设计模式
+- 提供Python+Spring实战示例
 
 **📊 项目统计**:
-- **⭐ Star数**: 206
-- **🔀 Fork数**: 70
-- **👀 Watch数**: 206
+- **⭐ Star数**: 393
+- **🔀 Fork数**: 44
+- **👀 Watch数**: 393
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile, gift-bot-telegram, gift-buyer, gift-sniper, telegram-gift
+- **💻 技术栈**: Python, Spring
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [proofofthought](https://github.com/DebarghaG/proofofthought) ![Star](https://img.shields.io/github/stars/DebarghaG/proofofthought?style=social)
+#### 10. [blaze](https://github.com/wizenheimer/blaze) ![Star](https://img.shields.io/github/stars/wizenheimer/blaze?style=social)
 
-**📝 项目简介**: 结合大模型与Z3定理证明器，实现可解释、鲁棒的神经符号程序合成与推理，支持复杂问答与批量评估。
+<img src="./images/2025/week-42/blaze/1_image.png" alt="blaze" width="500"/>
 
-**✨ 核心特性**:
-- LLM+Z3神经符号融合，推理可解释
-- 支持单条/批量问答评估，快速验证逻辑
-- NeurIPS 2024官方认可，研究前沿
-
-**📊 项目统计**:
-- **⭐ Star数**: 289
-- **🔀 Fork数**: 17
-- **👀 Watch数**: 289
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Azure
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [TTT3R](https://github.com/Inception3D/TTT3R) ![Star](https://img.shields.io/github/stars/Inception3D/TTT3R?style=social)
-
-<img src="./images/2025/week-41/ttt3r/1_arxiv-2509.26645-b31b1b.svg" alt="TTT3R" width="500"/>
-
-**📝 项目简介**: TTT3R通过测试时训练策略，为CUT3R引入简单状态更新规则，显著提升长序列三维重建的泛化能力。
+**📝 项目简介**: Blaze是一款轻量级全文搜索引擎，专为开发者打造，支持倒排索引、布尔/短语/邻近查询及BM25排序，可嵌入各类应用。
 
 **✨ 核心特性**:
-- 测试时训练增强长序列泛化
-- 单状态更新规则即插即用
-- 兼容CUT3R无需重训练
+- 代码精简，可完全读懂与二次开发
+- 支持布尔、短语、邻近等多种查询
+- 内置BM25评分与Roaring Bitmaps加速
 
 **📊 项目统计**:
-- **⭐ Star数**: 266
+- **⭐ Star数**: 360
 - **🔀 Fork数**: 6
-- **👀 Watch数**: 266
-- **📝 语言**: Python
-- **🌐 官网**: [https://rover-xingyu.github.io/TTT3R/](https://rover-xingyu.github.io/TTT3R/)
-- **💻 技术栈**: Python, Jupyter Notebook, Shell, Cuda, C++, 3d-reconstruction
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [WindowMode](https://github.com/True3DLabs/WindowMode) ![Star](https://img.shields.io/github/stars/True3DLabs/WindowMode?style=social)
-
-<img src="./images/2025/week-41/windowmode/1_demo.gif" alt="WindowMode" width="500"/>
-
-**📝 项目简介**: 将屏幕变成通往虚拟世界的“窗户”，用户可透过显示器实时观察并交互3D场景，实现沉浸式裸眼3D体验。
-
-**✨ 核心特性**:
-- 裸眼3D窗口视角
-- 基于NextJS的轻量演示
-- 自定义体素格式(.vv)高效加载
-
-**📊 项目统计**:
-- **⭐ Star数**: 205
-- **🔀 Fork数**: 16
-- **👀 Watch数**: 205
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://lab.true3d.com/targets](https://lab.true3d.com/targets)
-- **💻 技术栈**: TypeScript, CSS, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [reddix](https://github.com/ck-zhang/reddix) ![Star](https://img.shields.io/github/stars/ck-zhang/reddix?style=social)
-
-<img src="./images/2025/week-41/reddix/1_license-mit-blue.svg" alt="reddix" width="500"/>
-
-**📝 项目简介**: Reddix 是一款终端 Reddit 客户端，支持多账号、键盘导航与图片预览，让开发者在命令行中高效浏览 Reddit。
-
-**✨ 核心特性**:
-- 终端原生体验，无需图形界面
-- Kitty 协议图片预览，信息更丰富
-- 多账号一键切换，键盘快捷导航
-
-**📊 项目统计**:
-- **⭐ Star数**: 201
-- **🔀 Fork数**: 1
-- **👀 Watch数**: 201
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, reddit, reddit-client
+- **👀 Watch数**: 360
+- **📝 语言**: Go
+- **🌐 官网**: [https://wizenheimer.github.io/blaze](https://wizenheimer.github.io/blaze)
+- **💻 技术栈**: Go, Makefile, Express, Django, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -250,19 +246,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (6 个项目)
-2. **TypeScript** (2 个项目)
-3. **Rust** (2 个项目)
+1. **Python** (5 个项目)
+2. **Lua** (1 个项目)
+3. **Shell** (1 个项目)
+4. **GDScript** (1 个项目)
+5. **Jupyter Notebook** (1 个项目)
 
 **🏷️ 热门话题**:
-1. arbitrage (1)
-2. arbitrage-bots (1)
-3. binance (1)
-4. bitcoin (1)
-5. crypto-trading (1)
-6. cryptocurrency (1)
-7. ethereum (1)
-8. smart-contracts (1)
+1. bitcoin (1)
+2. crypto (1)
+3. crypto-tax-reports (1)
+4. cryptocurrency (1)
+5. cryptotax (1)
+6. tax (1)
+7. tax-calculation (1)
+8. tax-calculator (1)
 
 
 <!-- TRENDING-END -->
@@ -272,6 +270,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-18 | 2025年第42周 | 10 个 | [查看详情](./archives/2025/week-42/report.md) |
 | 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
