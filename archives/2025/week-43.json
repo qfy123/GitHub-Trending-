@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第43周",
+    "year": 2025,
+    "week": 43,
+    "week_range": {
+      "start": "2025-10-19",
+      "end": "2025-10-25"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-10-25 23:59:59",
+    "next_update": "2025-11-01"
+  },
+  "repositories": [
+    {
+      "full_name": "UZDoom/UZDoom",
+      "rank": 1,
+      "stars": 748,
+      "forks": 37,
+      "overall_score": 73
+    },
+    {
+      "full_name": "virattt/dexter",
+      "rank": 2,
+      "stars": 1680,
+      "forks": 191,
+      "overall_score": 70
+    },
+    {
+      "full_name": "firecrawl/open-agent-builder",
+      "rank": 3,
+      "stars": 1124,
+      "forks": 181,
+      "overall_score": 68
+    },
+    {
+      "full_name": "samber/ro",
+      "rank": 4,
+      "stars": 283,
+      "forks": 9,
+      "overall_score": 68
+    },
+    {
+      "full_name": "yusufkaraaslan/Skill_Seekers",
+      "rank": 5,
+      "stars": 935,
+      "forks": 92,
+      "overall_score": 67
+    },
+    {
+      "full_name": "BehiSecc/awesome-claude-skills",
+      "rank": 6,
+      "stars": 865,
+      "forks": 58,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Acn6S/crypto-tax-calculator",
+      "rank": 7,
+      "stars": 593,
+      "forks": 148,
+      "overall_score": 65
+    },
+    {
+      "full_name": "hate0s/sora2-watermark-remover",
+      "rank": 8,
+      "stars": 287,
+      "forks": 94,
+      "overall_score": 62
+    },
+    {
+      "full_name": "travisvn/awesome-claude-skills",
+      "rank": 9,
+      "stars": 281,
+      "forks": 8,
+      "overall_score": 58
+    },
+    {
+      "full_name": "OpenImagingLab/FlashVSR",
+      "rank": 10,
+      "stars": 270,
+      "forks": 6,
+      "overall_score": 58
+    }
+  ],
+  "generated_at": "2025-10-20T03:21:34.303Z"
+}

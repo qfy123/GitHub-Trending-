@@ -18,227 +18,233 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第42周
+### GitHub趋势排行榜 - 2025年第43周
 
-**📅 统计周期**: 2025-10-12 ~ 2025-10-18  
+**📅 统计周期**: 2025-10-19 ~ 2025-10-25  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 9,118  
-**🔄 更新时间**: 2025-10-18 23:59:59  
+**⭐ 总Star数**: 7,066  
+**🔄 更新时间**: 2025-10-25 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) | 用仅7M参数的微型递归网络，在ARC-AGI抽象推理基准上取得45%高分，证明“小模型+递归”也能挑战大模型。 | 3,829 | 454 | Python | 🆕 |
-| 2 | [unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) | ThePrimeagen等主播在24×7直播塔防挑战后开源的Lua游戏，社区持续迭代，首版已可玩。 | 996 | 93 | Lua | 🆕 |
-| 3 | [superpowers](https://github.com/obra/superpowers) | 为Claude Code注入“超能力”的Shell插件，一键拉取并本地管理可复用的技能库，让AI助手随用随增强。 | 727 | 44 | Shell | 🆕 |
-| 4 | [Microverse](https://github.com/KsanaDock/Microverse) | Godot 4打造的多智能体沙盒，AI角色自主思考、记忆并演化复杂社会关系，像斯坦福小镇般自运行。 | 626 | 129 | GDScript | 🆕 |
-| 5 | [crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) | 开源加密资产与个人所得税计算器，支持交易、质押、空投、NFT等多场景，一键生成符合美国等多辖区合规报表。 | 594 | 174 | Python | 🆕 |
-| 6 | [claude-skills](https://github.com/simonw/claude-skills) | 提取并公开Claude代码解释器/mnt/skills目录下的全部技能脚本，方便开发者研究、复用与二次开发。 | 601 | 83 | Python | 🆕 |
-| 7 | [MimicKit](https://github.com/xbpeng/MimicKit) | 基于Isaac Gym的Python套件，集成多种运动模仿与强化学习算法，一键训练高保真运动控制器。 | 581 | 42 | Python | 🆕 |
-| 8 | [sora-extend](https://github.com/mshumer/sora-extend) | 通过首尾帧接力与智能分镜，把Sora 2的12秒限制突破为任意长度，并保持画面连贯。 | 411 | 75 | Jupyter Notebook | 🆕 |
-| 9 | [agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) | Antonio Gulli《Agentic Design Patterns》双语对照译本，系统梳理AI智能体设计模... | 393 | 44 | Python | 🆕 |
-| 10 | [blaze](https://github.com/wizenheimer/blaze) | Blaze是一款轻量级全文搜索引擎，专为开发者打造，支持倒排索引、布尔/短语/邻近查询及BM25排序，可嵌入各类应用。 | 360 | 6 | Go | 🆕 |
+| 1 | [UZDoom](https://github.com/UZDoom/UZDoom) | 基于GZDoom的高画质Doom引擎移植版，集成OpenGL/Vulkan渲染、高级脚本与模组支持，一站式畅玩所有... | 748 | 37 | C++ | 🆕 |
+| 2 | [dexter](https://github.com/virattt/dexter) | Dexter是面向金融研究的自主智能体，可自动拆解复杂问题、调用实时行情并完成深度分析，输出专业级研报。 | 1,680 | 191 | Python | 🆕 |
+| 3 | [open-agent-builder](https://github.com/firecrawl/open-agent-builder) | 基于Firecrawl的可视化无代码AI智能体工作流搭建平台，拖拽即可生成并实时运行网页抓取与数据处理流程。 | 1,124 | 181 | TypeScript | 🆕 |
+| 4 | [ro](https://github.com/samber/ro) | 为Go带来声明式、可组合的事件流处理，像RxJS一样写异步代码，显著降低回调复杂度。 | 283 | 9 | Go | 🆕 |
+| 5 | [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 一键把任意文档站点爬取、提炼并打包成可直接给 Claude 使用的技能包，省去人工阅读整理。 | 935 | 92 | Python | 🆕 |
+| 6 | [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | 精选Claude技能清单，集中展示文档、PDF、幻灯片、表格等AI自动化处理方案，帮助开发者快速集成Claude能力。 | 865 | 58 | Unknown | 🆕 |
+| 7 | [crypto-tax-calculator](https://github.com/Acn6S/crypto-tax-calculator) | 开源跨地区加密货币与个人所得税计算器，一键整合交易、质押、空投等全场景数据，生成合规税表。 | 593 | 148 | Python | 🆕 |
+| 8 | [sora2-watermark-remover](https://github.com/hate0s/sora2-watermark-remover) | 一键去除Sora 2 AI生成视频中的水印，基于逐帧检测与AI修复，输出干净素材，方便二次创作。 | 287 | 94 | Python | 🆕 |
+| 9 | [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 精选的Claude Skills资源清单，帮助开发者快速定制Claude AI工作流，实现可重复任务自动化。 | 281 | 8 | Unknown | 🆕 |
+| 10 | [FlashVSR](https://github.com/OpenImagingLab/FlashVSR) | FlashVSR用一步扩散模型把低清直播视频实时超分到高清，兼顾速度与画质，适合实时场景。 | 270 | 6 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ![Star](https://img.shields.io/github/stars/SamsungSAILMontreal/TinyRecursiveModels?style=social)
+#### 1. [UZDoom](https://github.com/UZDoom/UZDoom) ![Star](https://img.shields.io/github/stars/UZDoom/UZDoom?style=social)
 
-<img src="./images/2025/week-42/tinyrecursivemodels/1_trm_fig.png" alt="TinyRecursiveModels" width="500"/>
+<img src="./images/2025/week-43/uzdoom/1_badge.svg" alt="UZDoom" width="500"/>
 
-**📝 项目简介**: 用仅7M参数的微型递归网络，在ARC-AGI抽象推理基准上取得45%高分，证明“小模型+递归”也能挑战大模型。
+**📝 项目简介**: 基于GZDoom的高画质Doom引擎移植版，集成OpenGL/Vulkan渲染、高级脚本与模组支持，一站式畅玩所有Doom系列游戏。
 
 **✨ 核心特性**:
-- 7M超小参数量
-- 递归推理架构
-- ARC-AGI-1达45%SOTA成绩
+- OpenGL/Vulkan双渲染器，画面升级
+- 强大脚本系统，模组开发友好
+- 兼容全Doom引擎游戏，一键运行
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,829
-- **🔀 Fork数**: 454
-- **👀 Watch数**: 3,829
+- **⭐ Star数**: 748
+- **🔀 Fork数**: 37
+- **👀 Watch数**: 748
+- **📝 语言**: C++
+- **🌐 官网**: [http://zdoom.org](http://zdoom.org)
+- **💻 技术栈**: C++, C, ZenScript, CMake, Yacc, M4
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [dexter](https://github.com/virattt/dexter) ![Star](https://img.shields.io/github/stars/virattt/dexter?style=social)
+
+**📝 项目简介**: Dexter是面向金融研究的自主智能体，可自动拆解复杂问题、调用实时行情并完成深度分析，输出专业级研报。
+
+**✨ 核心特性**:
+- 任务规划+自我反思，持续学习优化
+- 接入实时市场数据，分析即问即答
+- 类Claude Code交互，零代码完成尽调
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,680
+- **🔀 Fork数**: 191
+- **👀 Watch数**: 1,680
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ![Star](https://img.shields.io/github/stars/Mordoria/unnamed_game_1_v2?style=social)
+#### 3. [open-agent-builder](https://github.com/firecrawl/open-agent-builder) ![Star](https://img.shields.io/github/stars/firecrawl/open-agent-builder?style=social)
 
-**📝 项目简介**: ThePrimeagen等主播在24×7直播塔防挑战后开源的Lua游戏，社区持续迭代，首版已可玩。
+<img src="./images/2025/week-43/open-agent-builder/1_license-mit-green.svg" alt="open-agent-builder" width="500"/>
+
+**📝 项目简介**: 基于Firecrawl的可视化无代码AI智能体工作流搭建平台，拖拽即可生成并实时运行网页抓取与数据处理流程。
 
 **✨ 核心特性**:
-- 直播共创、社区驱动开发
-- Lua+GLSL轻量高性能
-- 首版即放出完整可玩状态
+- 拖拽式流程设计
+- 实时执行与调试
+- 零代码即可上线
 
 **📊 项目统计**:
-- **⭐ Star数**: 996
-- **🔀 Fork数**: 93
-- **👀 Watch数**: 996
-- **📝 语言**: Lua
-- **💻 技术栈**: Lua, GLSL, Roff
+- **⭐ Star数**: 1,124
+- **🔀 Fork数**: 181
+- **👀 Watch数**: 1,124
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, JavaScript, React, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [superpowers](https://github.com/obra/superpowers) ![Star](https://img.shields.io/github/stars/obra/superpowers?style=social)
+#### 4. [ro](https://github.com/samber/ro) ![Star](https://img.shields.io/github/stars/samber/ro?style=social)
 
-**📝 项目简介**: 为Claude Code注入“超能力”的Shell插件，一键拉取并本地管理可复用的技能库，让AI助手随用随增强。
+<img src="./images/2025/week-43/ro/1_ro.svg" alt="ro" width="500"/>
+
+**📝 项目简介**: 为Go带来声明式、可组合的事件流处理，像RxJS一样写异步代码，显著降低回调复杂度。
 
 **✨ 核心特性**:
-- 极简shim，自动克隆/更新技能仓库
-- 技能、脚本与文档独立维护，可自由贡献
-- 本地编辑即时生效，无需重启环境
+- 泛型实现，类型安全零反射
+- 链式操作符，filter/map/merge即插即用
+- 轻量级无依赖，性能接近原生channel
 
 **📊 项目统计**:
-- **⭐ Star数**: 727
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 727
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell
+- **⭐ Star数**: 283
+- **🔀 Fork数**: 9
+- **👀 Watch数**: 283
+- **📝 语言**: Go
+- **🌐 官网**: [http://ro.samber.dev](http://ro.samber.dev)
+- **💻 技术栈**: Go, Makefile, event-driven, generics, go, golang
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [Microverse](https://github.com/KsanaDock/Microverse) ![Star](https://img.shields.io/github/stars/KsanaDock/Microverse?style=social)
+#### 5. [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ![Star](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=social)
 
-<img src="./images/2025/week-42/microverse/1_cover.png" alt="Microverse" width="500"/>
+<img src="./images/2025/week-43/skill_seekers/1_version-1.0.0-blue.svg" alt="Skill_Seekers" width="500"/>
 
-**📝 项目简介**: Godot 4打造的多智能体沙盒，AI角色自主思考、记忆并演化复杂社会关系，像斯坦福小镇般自运行。
+**📝 项目简介**: 一键把任意文档站点爬取、提炼并打包成可直接给 Claude 使用的技能包，省去人工阅读整理。
 
 **✨ 核心特性**:
-- AI角色拥有独立思维与持久记忆
-- 多智能体实时社交、协作与任务执行
-- 支持大模型对话API，易扩展新行为
+- 自动爬取整站文档并结构化
+- AI提炼示例与核心概念
+- 几分钟生成生产级Claude技能包
 
 **📊 项目统计**:
-- **⭐ Star数**: 626
-- **🔀 Fork数**: 129
-- **👀 Watch数**: 626
-- **📝 语言**: GDScript
-- **💻 技术栈**: GDScript, REST API
+- **⭐ Star数**: 935
+- **🔀 Fork数**: 92
+- **👀 Watch数**: 935
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, ai-tools, automation, claude-ai, claude-skills
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) ![Star](https://img.shields.io/github/stars/Uak0/crypto-tax-calculator?style=social)
+#### 6. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ![Star](https://img.shields.io/github/stars/BehiSecc/awesome-claude-skills?style=social)
 
-<img src="./images/2025/week-42/crypto-tax-calculator/1_cloudposse.svg" alt="crypto-tax-calculator" width="500"/>
-
-**📝 项目简介**: 开源加密资产与个人所得税计算器，支持交易、质押、空投、NFT等多场景，一键生成符合美国等多辖区合规报表。
+**📝 项目简介**: 精选Claude技能清单，集中展示文档、PDF、幻灯片、表格等AI自动化处理方案，帮助开发者快速集成Claude能力。
 
 **✨ 核心特性**:
-- 统一导入引擎（UIE）自动归集全平台数据
-- 覆盖交易、挖矿、质押、空投、NFT等全场景
-- 开源透明，可自定义规则适配多国税制
+- 覆盖文档/表格/幻灯片全场景
+- 提供可复用代码与模板
+- 持续更新社区贡献案例
 
 **📊 项目统计**:
-- **⭐ Star数**: 594
-- **🔀 Fork数**: 174
-- **👀 Watch数**: 594
+- **⭐ Star数**: 865
+- **🔀 Fork数**: 58
+- **👀 Watch数**: 865
+- **📝 语言**: Unknown
+- **💻 技术栈**: React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [crypto-tax-calculator](https://github.com/Acn6S/crypto-tax-calculator) ![Star](https://img.shields.io/github/stars/Acn6S/crypto-tax-calculator?style=social)
+
+<img src="./images/2025/week-43/crypto-tax-calculator/1_cloudposse.svg" alt="crypto-tax-calculator" width="500"/>
+
+**📝 项目简介**: 开源跨地区加密货币与个人所得税计算器，一键整合交易、质押、空投等全场景数据，生成合规税表。
+
+**✨ 核心特性**:
+- 统一导入引擎支持多交易所/钱包
+- 覆盖交易、NFT、质押、挖矿等全事件
+- 适配多国税制，透明可审计
+
+**📊 项目统计**:
+- **⭐ Star数**: 593
+- **🔀 Fork数**: 148
+- **👀 Watch数**: 593
 - **📝 语言**: Python
 - **💻 技术栈**: Python, bitcoin, crypto, crypto-tax-reports, cryptocurrency, cryptotax
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [claude-skills](https://github.com/simonw/claude-skills) ![Star](https://img.shields.io/github/stars/simonw/claude-skills?style=social)
+#### 8. [sora2-watermark-remover](https://github.com/hate0s/sora2-watermark-remover) ![Star](https://img.shields.io/github/stars/hate0s/sora2-watermark-remover?style=social)
 
-**📝 项目简介**: 提取并公开Claude代码解释器/mnt/skills目录下的全部技能脚本，方便开发者研究、复用与二次开发。
+<img src="./images/2025/week-43/sora2-watermark-remover/1_license-gplv3-green.svg" alt="sora2-watermark-remover" width="500"/>
+
+**📝 项目简介**: 一键去除Sora 2 AI生成视频中的水印，基于逐帧检测与AI修复，输出干净素材，方便二次创作。
 
 **✨ 核心特性**:
-- 完整还原Claude官方技能包
-- 一键获取所有内置工具源码
-- 开源可自由扩展与改进
+- AI逐帧检测定位水印
+- 自动修复画面不留痕迹
+- 支持Windows/MacOS/Linux多平台
 
 **📊 项目统计**:
-- **⭐ Star数**: 601
-- **🔀 Fork数**: 83
-- **👀 Watch数**: 601
+- **⭐ Star数**: 287
+- **🔀 Fork数**: 94
+- **👀 Watch数**: 287
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, sora-ai, sora-watermark-remover, sora2-api
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [MimicKit](https://github.com/xbpeng/MimicKit) ![Star](https://img.shields.io/github/stars/xbpeng/MimicKit?style=social)
+#### 9. [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ![Star](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=social)
 
-**📝 项目简介**: 基于Isaac Gym的Python套件，集成多种运动模仿与强化学习算法，一键训练高保真运动控制器。
+<img src="./images/2025/week-43/awesome-claude-skills/1_badge.svg" alt="awesome-claude-skills" width="500"/>
+
+**📝 项目简介**: 精选的Claude Skills资源清单，帮助开发者快速定制Claude AI工作流，实现可重复任务自动化。
 
 **✨ 核心特性**:
-- 集成主流运动模仿方法
-- 内置RL算法库
-- Isaac Gym高并行仿真加速
+- 一站式技能库，覆盖Claude Code与桌面版
+- 提供现成指令、脚本与资源包
+- 持续更新，社区共享最佳实践
 
 **📊 项目统计**:
-- **⭐ Star数**: 581
-- **🔀 Fork数**: 42
-- **👀 Watch数**: 581
-- **📝 语言**: Python
-- **💻 技术栈**: Python
+- **⭐ Star数**: 281
+- **🔀 Fork数**: 8
+- **👀 Watch数**: 281
+- **📝 语言**: Unknown
+- **💻 技术栈**: agentic-coding, anthropic, awesome, awesome-list, awesome-lists, claude
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [sora-extend](https://github.com/mshumer/sora-extend) ![Star](https://img.shields.io/github/stars/mshumer/sora-extend?style=social)
+#### 10. [FlashVSR](https://github.com/OpenImagingLab/FlashVSR) ![Star](https://img.shields.io/github/stars/OpenImagingLab/FlashVSR?style=social)
 
-<img src="./images/2025/week-42/sora-extend/1_colab-badge.svg" alt="sora-extend" width="500"/>
+<img src="./images/2025/week-43/flashvsr/1_arxiv-2510.12747-b31b1b.svg" alt="FlashVSR" width="500"/>
 
-**📝 项目简介**: 通过首尾帧接力与智能分镜，把Sora 2的12秒限制突破为任意长度，并保持画面连贯。
-
-**✨ 核心特性**:
-- 首尾帧接力无缝衔接
-- 自动拆分提示词保持叙事一致
-- 纯Notebook零依赖一键运行
-
-**📊 项目统计**:
-- **⭐ Star数**: 411
-- **🔀 Fork数**: 75
-- **👀 Watch数**: 411
-- **📝 语言**: Jupyter Notebook
-- **💻 技术栈**: Jupyter Notebook
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ![Star](https://img.shields.io/github/stars/ginobefun/agentic-design-patterns-cn?style=social)
-
-<img src="./images/2025/week-42/agentic-design-patterns-cn/1_license-cc%20by--nc%204.0-lightgrey.svg" alt="agentic-design-patterns-cn" width="500"/>
-
-**📝 项目简介**: Antonio Gulli《Agentic Design Patterns》双语对照译本，系统梳理AI智能体设计模式，帮助中文读者快速掌握构建智能系统的核心方法。
+**📝 项目简介**: FlashVSR用一步扩散模型把低清直播视频实时超分到高清，兼顾速度与画质，适合实时场景。
 
 **✨ 核心特性**:
-- 官方授权中英对照，术语准确
-- 覆盖现代AI智能体主流设计模式
-- 提供Python+Spring实战示例
+- 一步扩散，延迟最低
+- 局部稀疏注意力，算力省
+- 流式解码，逐帧输出不卡顿
 
 **📊 项目统计**:
-- **⭐ Star数**: 393
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 393
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Spring
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [blaze](https://github.com/wizenheimer/blaze) ![Star](https://img.shields.io/github/stars/wizenheimer/blaze?style=social)
-
-<img src="./images/2025/week-42/blaze/1_image.png" alt="blaze" width="500"/>
-
-**📝 项目简介**: Blaze是一款轻量级全文搜索引擎，专为开发者打造，支持倒排索引、布尔/短语/邻近查询及BM25排序，可嵌入各类应用。
-
-**✨ 核心特性**:
-- 代码精简，可完全读懂与二次开发
-- 支持布尔、短语、邻近等多种查询
-- 内置BM25评分与Roaring Bitmaps加速
-
-**📊 项目统计**:
-- **⭐ Star数**: 360
+- **⭐ Star数**: 270
 - **🔀 Fork数**: 6
-- **👀 Watch数**: 360
-- **📝 语言**: Go
-- **🌐 官网**: [https://wizenheimer.github.io/blaze](https://wizenheimer.github.io/blaze)
-- **💻 技术栈**: Go, Makefile, Express, Django, Redis
+- **👀 Watch数**: 270
+- **📝 语言**: Python
+- **🌐 官网**: [https://zhuang2002.github.io/FlashVSR/](https://zhuang2002.github.io/FlashVSR/)
+- **💻 技术栈**: Python, diffusion-models, video-super-resolution
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -247,20 +253,20 @@
 
 **🔥 热门语言**:
 1. **Python** (5 个项目)
-2. **Lua** (1 个项目)
-3. **Shell** (1 个项目)
-4. **GDScript** (1 个项目)
-5. **Jupyter Notebook** (1 个项目)
+2. **Unknown** (2 个项目)
+3. **C++** (1 个项目)
+4. **TypeScript** (1 个项目)
+5. **Go** (1 个项目)
 
 **🏷️ 热门话题**:
-1. bitcoin (1)
-2. crypto (1)
-3. crypto-tax-reports (1)
-4. cryptocurrency (1)
-5. cryptotax (1)
-6. tax (1)
-7. tax-calculation (1)
-8. tax-calculator (1)
+1. claude-ai (2)
+2. claude-skills (2)
+3. event-driven (1)
+4. generics (1)
+5. go (1)
+6. golang (1)
+7. hacktoberfest (1)
+8. observable (1)
 
 
 <!-- TRENDING-END -->
@@ -270,6 +276,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-25 | 2025年第43周 | 10 个 | [查看详情](./archives/2025/week-43/report.md) |
 | 10-18 | 2025年第42周 | 10 个 | [查看详情](./archives/2025/week-42/report.md) |
 | 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
