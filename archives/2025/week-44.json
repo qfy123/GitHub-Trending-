@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第44周",
+    "year": 2025,
+    "week": 44,
+    "week_range": {
+      "start": "2025-10-26",
+      "end": "2025-11-01"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-11-01 23:59:59",
+    "next_update": "2025-11-08"
+  },
+  "repositories": [
+    {
+      "full_name": "vercel/workflow",
+      "rank": 1,
+      "stars": 678,
+      "forks": 42,
+      "overall_score": 70
+    },
+    {
+      "full_name": "rdumasia303/deepseek_ocr_app",
+      "rank": 2,
+      "stars": 992,
+      "forks": 121,
+      "overall_score": 67
+    },
+    {
+      "full_name": "pguso/ai-agents-from-scratch",
+      "rank": 3,
+      "stars": 691,
+      "forks": 71,
+      "overall_score": 66
+    },
+    {
+      "full_name": "mocred/spyder-osint",
+      "rank": 4,
+      "stars": 566,
+      "forks": 263,
+      "overall_score": 66
+    },
+    {
+      "full_name": "HKUDS/AI-Trader",
+      "rank": 5,
+      "stars": 511,
+      "forks": 134,
+      "overall_score": 66
+    },
+    {
+      "full_name": "apple/pico-banana-400k",
+      "rank": 6,
+      "stars": 868,
+      "forks": 36,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+      "rank": 7,
+      "stars": 650,
+      "forks": 74,
+      "overall_score": 65
+    },
+    {
+      "full_name": "TimmyOVO/deepseek-ocr.rs",
+      "rank": 8,
+      "stars": 681,
+      "forks": 50,
+      "overall_score": 64
+    },
+    {
+      "full_name": "s4myot/crypto-tax-calculator",
+      "rank": 9,
+      "stars": 544,
+      "forks": 130,
+      "overall_score": 64
+    },
+    {
+      "full_name": "lightly-ai/lightly-studio",
+      "rank": 10,
+      "stars": 549,
+      "forks": 9,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2025-10-27T03:26:19.727Z"
+}
