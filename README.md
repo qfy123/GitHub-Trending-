@@ -18,230 +18,229 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第44周
+### GitHub趋势排行榜 - 2025年第45周
 
-**📅 统计周期**: 2025-10-26 ~ 2025-11-01  
+**📅 统计周期**: 2025-11-02 ~ 2025-11-08  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 6,730  
-**🔄 更新时间**: 2025-11-01 23:59:59  
+**⭐ 总Star数**: 12,769  
+**🔄 更新时间**: 2025-11-08 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [workflow](https://github.com/vercel/workflow) | Vercel开源的Workflow DevKit，用TypeScript编写，帮助开发者快速构建可持久、可观测、可... | 678 | 42 | TypeScript | 🆕 |
-| 2 | [deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) | 基于DeepSeek-OCR的现代化Web应用，一键上传图片即可秒级提取文字，支持框选区域识别，React界面美观易用。 | 992 | 121 | JavaScript | 🆕 |
-| 3 | [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 手把手教你从零构建本地AI Agent，彻底搞懂LLM、工具调用与ReAct模式，无需依赖黑盒框架。 | 691 | 71 | JavaScript | 🆕 |
-| 4 | [spyder-osint](https://github.com/mocred/spyder-osint) | Spyder是一款一体化开源情报工具，可一键查询手机号、IP、社媒、邮箱、域名、车牌等全球公开数据，大幅提升OSI... | 566 | 263 | Python | 🆕 |
-| 5 | [AI-Trader](https://github.com/HKUDS/AI-Trader) | 让DeepSeek、Claude-3.7、GPT-5等五大AI模型零人工干预、全自动交易NASDAQ100，实时比... | 511 | 134 | Python | 🆕 |
-| 6 | [pico-banana-400k](https://github.com/apple/pico-banana-400k) | 苹果开源的40万级文本驱动图像编辑数据集，含原图、人话指令与高质量编辑结果，覆盖35种操作8大语义类，助力多模态编... | 868 | 36 | Python | 🆕 |
-| 7 | [DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) | 基于DeepSeek-OCR的Docker化服务，一键把PDF批量转成Markdown，同时提供FastAPI接口... | 650 | 74 | Python | 🆕 |
-| 8 | [deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) | 零依赖Rust版DeepSeek-OCR，集成OpenAI兼容API与CLI，一键下载即可本地运行文档识别，无需P... | 681 | 50 | Rust | 🆕 |
-| 9 | [crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) | 开源加密货币与个人所得税计算器，支持交易、质押、空投、挖矿、NFT等全场景数据归集，一键生成符合美国等多司法辖区合... | 544 | 130 | Python | 🆕 |
-| 10 | [lightly-studio](https://github.com/lightly-ai/lightly-studio) | LightlyStudio一站式完成计算机视觉数据的筛选、标注与全生命周期管理，显著提升模型训练数据质量与效率。 | 549 | 9 | Python | 🆕 |
+| 1 | [nofx](https://github.com/NoFxAiOS/nofx) | NOFX是下一代AI交易操作系统，聚合多交易所与多模型AI，实现毫秒级自动交易闭环，降低门槛提升收益。 | 5,306 | 1,188 | Go | 🆕 |
+| 2 | [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | 展示如何让Claude Code在复杂TypeScript微服务项目中自动激活技能、使用钩子与代理的实战模式库，解... | 2,600 | 372 | Shell | 🆕 |
+| 3 | [Emu3.5](https://github.com/baaivision/Emu3.5) | Emu3.5是北京智源研究院开源的原生多模态大模型，统一处理文本、图像、视频，无需额外编码器即可“看世界”并学习世... | 951 | 35 | Python | 🆕 |
+| 4 | [Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) | 为《逃离鸭科夫》打造的官方联机合作模组，一键把单机变成稳定的多人局域网/在线合作生存体验。 | 908 | 105 | C# | 🆕 |
+| 5 | [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) | MoonshotAI开源的Kimi-Linear-48B-A3B-Instruct模型仓库，提供技术报告与Hugg... | 872 | 31 | Unknown | 🆕 |
+| 6 | [sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover) | 基于AI逐帧修复，一键无痕抹除Sora 2生成视频中的官方水印，保留原始画质。 | 405 | 151 | Python | 🆕 |
+| 7 | [react-native-godot](https://github.com/borndotcom/react-native-godot) | 把 Godot 游戏引擎完整嵌入 React Native 应用，一套代码同时跑在 Android 与 iOS，让... | 652 | 20 | C++ | 🆕 |
+| 8 | [sora2-api](https://github.com/jun6ry/sora2-api) | 一键调用Sora 2 API生成AI视频的Python工具，自带网页界面，零代码完成参数配置与任务提交，大幅降低视... | 366 | 108 | Python | 🆕 |
+| 9 | [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) | 精选世界模型研究资源清单，一站式汇总具身AI、自动驾驶、NLP与智能体相关论文与项目，降低检索门槛。 | 371 | 8 | Unknown | 🆕 |
+| 10 | [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) | Android Studio/IntelliJ 插件，实时扫描 Jetpack Compose 函数稳定性，一键定... | 338 | 7 | Kotlin | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [workflow](https://github.com/vercel/workflow) ![Star](https://img.shields.io/github/stars/vercel/workflow?style=social)
+#### 1. [nofx](https://github.com/NoFxAiOS/nofx) ![Star](https://img.shields.io/github/stars/NoFxAiOS/nofx?style=social)
 
-<img src="./images/2025/week-44/workflow/1_workflow-circle-symbol-light.svg" alt="workflow" width="500"/>
+<img src="./images/2025/week-45/nofx/1_license-mit-green.svg" alt="nofx" width="500"/>
 
-**📝 项目简介**: Vercel开源的Workflow DevKit，用TypeScript编写，帮助开发者快速构建可持久、可观测、可容错的异步工作流，降低复杂任务编排成本。
+**📝 项目简介**: NOFX是下一代AI交易操作系统，聚合多交易所与多模型AI，实现毫秒级自动交易闭环，降低门槛提升收益。
 
 **✨ 核心特性**:
-- TypeScript优先，开发体验友好
-- 内建重试、超时、状态持久化，天然高可用
-- 提供可视化监控，运行状态一目了然
+- 多交易所+多AI模型实时竞技
+- 统一风控+低延迟执行闭环
+- 可视化仪表盘一键部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 678
-- **🔀 Fork数**: 42
-- **👀 Watch数**: 678
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://useworkflow.dev](https://useworkflow.dev)
-- **💻 技术栈**: TypeScript, Rust, JavaScript, CSS, HTML, Shell
+- **⭐ Star数**: 5,306
+- **🔀 Fork数**: 1,188
+- **👀 Watch数**: 5,306
+- **📝 语言**: Go
+- **🌐 官网**: [https://nofxai.com](https://nofxai.com)
+- **💻 技术栈**: Go, TypeScript, Shell, CSS, JavaScript, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ![Star](https://img.shields.io/github/stars/rdumasia303/deepseek_ocr_app?style=social)
+#### 2. [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ![Star](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase?style=social)
 
-<img src="./images/2025/week-44/deepseek_ocr_app/1_multi-bird.png" alt="deepseek_ocr_app" width="500"/>
-
-**📝 项目简介**: 基于DeepSeek-OCR的现代化Web应用，一键上传图片即可秒级提取文字，支持框选区域识别，React界面美观易用。
+**📝 项目简介**: 展示如何让Claude Code在复杂TypeScript微服务项目中自动激活技能、使用钩子与代理的实战模式库，解决企业级落地难题。
 
 **✨ 核心特性**:
-- React+FastAPI全栈架构，体验流畅
-- 支持4种核心识别模式，稳定高效
-- 自动缩放坐标，框选区域精准还原
+- 技能自动激活方案
+- 生产级钩子与代理示例
+- 6个月真实项目沉淀，开箱即用
 
 **📊 项目统计**:
-- **⭐ Star数**: 992
-- **🔀 Fork数**: 121
-- **👀 Watch数**: 992
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Python, CSS, TypeScript, Dockerfile, HTML
+- **⭐ Star数**: 2,600
+- **🔀 Fork数**: 372
+- **👀 Watch数**: 2,600
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, JavaScript, React, Node.js, Express, TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ![Star](https://img.shields.io/github/stars/pguso/ai-agents-from-scratch?style=social)
+#### 3. [Emu3.5](https://github.com/baaivision/Emu3.5) ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5?style=social)
 
-**📝 项目简介**: 手把手教你从零构建本地AI Agent，彻底搞懂LLM、工具调用与ReAct模式，无需依赖黑盒框架。
-
-**✨ 核心特性**:
-- 本地LLM运行，数据完全私有
-- 逐步拆解函数调用与记忆机制
-- 3天收获600+ Star，社区高度认可
-
-**📊 项目统计**:
-- **⭐ Star数**: 691
-- **🔀 Fork数**: 71
-- **👀 Watch数**: 691
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, ai-agents, educational, function-calling, llm, llm-agent
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [spyder-osint](https://github.com/mocred/spyder-osint) ![Star](https://img.shields.io/github/stars/mocred/spyder-osint?style=social)
-
-<img src="./images/2025/week-44/spyder-osint/1_menu.jpg" alt="spyder-osint" width="500"/>
-
-**📝 项目简介**: Spyder是一款一体化开源情报工具，可一键查询手机号、IP、社媒、邮箱、域名、车牌等全球公开数据，大幅提升OSINT效率。
+**📝 项目简介**: Emu3.5是北京智源研究院开源的原生多模态大模型，统一处理文本、图像、视频，无需额外编码器即可“看世界”并学习世界规律。
 
 **✨ 核心特性**:
-- 集成9大类情报源，覆盖全球数据库
-- 支持社媒、邮箱、车牌等多维度关联查询
-- 开源免费，脚本化批量调查
+- 原生多模态架构，单模型端到端训练
+- 支持文本、图像、视频任意输入输出
+- 开源可商用，社区活跃持续更新
 
 **📊 项目统计**:
-- **⭐ Star数**: 566
-- **🔀 Fork数**: 263
-- **👀 Watch数**: 566
+- **⭐ Star数**: 951
+- **🔀 Fork数**: 35
+- **👀 Watch数**: 951
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile, Shell, osint, osint-python, osint-resources
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [AI-Trader](https://github.com/HKUDS/AI-Trader) ![Star](https://img.shields.io/github/stars/HKUDS/AI-Trader?style=social)
+#### 4. [Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ![Star](https://img.shields.io/github/stars/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview?style=social)
 
-<img src="./images/2025/week-44/ai-trader/1_python-3.8+-blue.svg" alt="AI-Trader" width="500"/>
+<img src="./images/2025/week-45/escape-from-duckov-coop-mod-preview/1_license-modified%20agpl--3.0-blue.svg" alt="Escape-From-Duckov-Coop-Mod-Preview" width="500"/>
 
-**📝 项目简介**: 让DeepSeek、Claude-3.7、GPT-5等五大AI模型零人工干预、全自动交易NASDAQ100，实时比拼谁能真正跑赢市场。
+**📝 项目简介**: 为《逃离鸭科夫》打造的官方联机合作模组，一键把单机变成稳定的多人局域网/在线合作生存体验。
 
 **✨ 核心特性**:
-- 多模型同台竞技，公开排行榜
-- 完全自动化，零人类信号干预
-- 真实资金收益实时更新，可复现
+- 零配置Steam创意工坊一键订阅
+- AI、战利品、战斗全同步
+- 支持死亡观战与局域网/在线双模式
 
 **📊 项目统计**:
-- **⭐ Star数**: 511
-- **🔀 Fork数**: 134
-- **👀 Watch数**: 511
+- **⭐ Star数**: 908
+- **🔀 Fork数**: 105
+- **👀 Watch数**: 908
+- **📝 语言**: C#
+- **💻 技术栈**: C#, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Linear?style=social)
+
+<img src="./images/2025/week-45/kimi-linear/1_banner.png" alt="Kimi-Linear" width="500"/>
+
+**📝 项目简介**: MoonshotAI开源的Kimi-Linear-48B-A3B-Instruct模型仓库，提供技术报告与HuggingFace一键调用，助力开发者快速集成高性能线性注意力大模型。
+
+**✨ 核心特性**:
+- 48B参数线性注意力架构
+- 官方技术报告与推理代码
+- HuggingFace直接加载推理
+
+**📊 项目统计**:
+- **⭐ Star数**: 872
+- **🔀 Fork数**: 31
+- **👀 Watch数**: 872
+- **📝 语言**: Unknown
+- **💻 技术栈**: Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover) ![Star](https://img.shields.io/github/stars/oyokki/sora2-watermark-remover?style=social)
+
+<img src="./images/2025/week-45/sora2-watermark-remover/1_license-gplv3-green.svg" alt="sora2-watermark-remover" width="500"/>
+
+**📝 项目简介**: 基于AI逐帧修复，一键无痕抹除Sora 2生成视频中的官方水印，保留原始画质。
+
+**✨ 核心特性**:
+- AI智能inpainting去水印，无需手动选区
+- 支持全平台，4G内存即可运行
+- 开源免费，已获400+Star社区验证
+
+**📊 项目统计**:
+- **⭐ Star数**: 405
+- **🔀 Fork数**: 151
+- **👀 Watch数**: 405
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell
+- **💻 技术栈**: Python, ai, sora-ai, sora-video, sora-watermark-remover, sora2
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [pico-banana-400k](https://github.com/apple/pico-banana-400k) ![Star](https://img.shields.io/github/stars/apple/pico-banana-400k?style=social)
+#### 7. [react-native-godot](https://github.com/borndotcom/react-native-godot) ![Star](https://img.shields.io/github/stars/borndotcom/react-native-godot?style=social)
 
-**📝 项目简介**: 苹果开源的40万级文本驱动图像编辑数据集，含原图、人话指令与高质量编辑结果，覆盖35种操作8大语义类，助力多模态编辑研究。
+**📝 项目简介**: 把 Godot 游戏引擎完整嵌入 React Native 应用，一套代码同时跑在 Android 与 iOS，让游戏与 App UI 无缝融合。
 
 **✨ 核心特性**:
-- 40万文本-图像-编辑三元组，规模大
-- 人工指令+Gemini-2.5-Pro质检，质量高
-- 35种编辑操作/8类语义，场景全
+- 双端原生支持，无需额外桥接
+- 引擎可动态启停与重配置，内存可控
+- 已在亿级用户 App 验证，稳定可靠
 
 **📊 项目统计**:
-- **⭐ Star数**: 868
-- **🔀 Fork数**: 36
-- **👀 Watch数**: 868
+- **⭐ Star数**: 652
+- **🔀 Fork数**: 20
+- **👀 Watch数**: 652
+- **📝 语言**: C++
+- **💻 技术栈**: C++, Objective-C++, TypeScript, Java, JavaScript, C
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [sora2-api](https://github.com/jun6ry/sora2-api) ![Star](https://img.shields.io/github/stars/jun6ry/sora2-api?style=social)
+
+<img src="./images/2025/week-45/sora2-api/1_license-mit-yellow.svg" alt="sora2-api" width="500"/>
+
+**📝 项目简介**: 一键调用Sora 2 API生成AI视频的Python工具，自带网页界面，零代码完成参数配置与任务提交，大幅降低视频创作门槛。
+
+**✨ 核心特性**:
+- 网页可视化配置，无需写代码
+- 自动对接Sora 2 API，快速生成视频
+- 开源轻量，本地即可部署使用
+
+**📊 项目统计**:
+- **⭐ Star数**: 366
+- **🔀 Fork数**: 108
+- **👀 Watch数**: 366
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Express, Redis, AWS
+- **💻 技术栈**: Python, artificial-intelligence, python-tools, sora, sora-ai, sora-api
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) ![Star](https://img.shields.io/github/stars/Bogdanovich77/DeekSeek-OCR---Dockerized-API?style=social)
+#### 9. [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Star](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)
 
-**📝 项目简介**: 基于DeepSeek-OCR的Docker化服务，一键把PDF批量转成Markdown，同时提供FastAPI接口，方便集成。
+<img src="./images/2025/week-45/awesome-world-models/1_badge.svg" alt="Awesome-World-Models" width="500"/>
+
+**📝 项目简介**: 精选世界模型研究资源清单，一站式汇总具身AI、自动驾驶、NLP与智能体相关论文与项目，降低检索门槛。
 
 **✨ 核心特性**:
-- Docker一键部署，开箱即用
-- 支持批量脚本+REST API双模式
-- 输出干净Markdown，便于二次编辑
+- 覆盖多领域世界模型成果
+- 持续更新、分类清晰
+- 面向研究者与开发者开放协作
 
 **📊 项目统计**:
-- **⭐ Star数**: 650
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 650
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile, Dockerfile, Docker, REST API
+- **⭐ Star数**: 371
+- **🔀 Fork数**: 8
+- **👀 Watch数**: 371
+- **📝 语言**: Unknown
+- **💻 技术栈**: React, Express, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ![Star](https://img.shields.io/github/stars/TimmyOVO/deepseek-ocr.rs?style=social)
+#### 10. [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ![Star](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=social)
 
-<img src="./images/2025/week-44/deepseek-ocr.rs/1_sample_1.png" alt="deepseek-ocr.rs" width="500"/>
+<img src="./images/2025/week-45/compose-stability-analyzer/1_preview0.png" alt="compose-stability-analyzer" width="500"/>
 
-**📝 项目简介**: 零依赖Rust版DeepSeek-OCR，集成OpenAI兼容API与CLI，一键下载即可本地运行文档识别，无需Python环境。
-
-**✨ 核心特性**:
-- 单文件下载、开箱即用
-- 支持CPU/Metal/CUDA多后端
-- OpenAI兼容接口，直接替换GPT Vision
-
-**📊 项目统计**:
-- **⭐ Star数**: 681
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 681
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Python, candle, ocr, ocr-recognition, openai
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) ![Star](https://img.shields.io/github/stars/s4myot/crypto-tax-calculator?style=social)
-
-<img src="./images/2025/week-44/crypto-tax-calculator/1_cloudposse.svg" alt="crypto-tax-calculator" width="500"/>
-
-**📝 项目简介**: 开源加密货币与个人所得税计算器，支持交易、质押、空投、挖矿、NFT等全场景数据归集，一键生成符合美国等多司法辖区合规要求的税报。
+**📝 项目简介**: Android Studio/IntelliJ 插件，实时扫描 Jetpack Compose 函数稳定性，一键定位重组性能瓶颈。
 
 **✨ 核心特性**:
-- 统一导入引擎（UIE）自动归集多平台数据
-- 覆盖交易、质押、空投、挖矿、NFT等全场景
-- 开源透明，可自定义规则适配多国税制
+- 实时标红不稳定参数，IDE 内即时提示
+- 基于 Kotlin 编译器插件，零配置接入
+- 支持跳转到源码，快速修复避免无效重组
 
 **📊 项目统计**:
-- **⭐ Star数**: 544
-- **🔀 Fork数**: 130
-- **👀 Watch数**: 544
-- **📝 语言**: Python
-- **💻 技术栈**: Python, bitcoin, crypto, crypto-tax-reports, cryptocurrency, cryptotax
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [lightly-studio](https://github.com/lightly-ai/lightly-studio) ![Star](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=social)
-
-<img src="./images/2025/week-44/lightly-studio/1_66dac501a8e9a90495970876_logo%20dark-short-p-800.png" alt="lightly-studio" width="500"/>
-
-**📝 项目简介**: LightlyStudio一站式完成计算机视觉数据的筛选、标注与全生命周期管理，显著提升模型训练数据质量与效率。
-
-**✨ 核心特性**:
-- 智能数据筛选去冗余
-- 可视化标注与协同管理
-- MLOps无缝集成持续迭代
-
-**📊 项目统计**:
-- **⭐ Star数**: 549
-- **🔀 Fork数**: 9
-- **👀 Watch数**: 549
-- **📝 语言**: Python
-- **🌐 官网**: [https://docs.lightly.ai/studio/](https://docs.lightly.ai/studio/)
-- **💻 技术栈**: Python, TypeScript, Svelte, MDX, CSS, Makefile
+- **⭐ Star数**: 338
+- **🔀 Fork数**: 7
+- **👀 Watch数**: 338
+- **📝 语言**: Kotlin
+- **💻 技术栈**: Kotlin, Java, android, compose, intellij-plugin, jetpack-compose
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -249,20 +248,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (6 个项目)
-2. **JavaScript** (2 个项目)
-3. **TypeScript** (1 个项目)
-4. **Rust** (1 个项目)
+1. **Python** (3 个项目)
+2. **Unknown** (2 个项目)
+3. **Go** (1 个项目)
+4. **Shell** (1 个项目)
+5. **C#** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agents (1)
-2. educational (1)
-3. function-calling (1)
-4. llm (1)
-5. llm-agent (1)
-6. node-llama-cpp (1)
-7. react-agent (1)
-8. tutorial (1)
+1. ai (2)
+2. sora-ai (2)
+3. sora2 (2)
+4. android (2)
+5. agentic-ai (1)
+6. agentictrading (1)
+7. ai-trading (1)
+8. aitradingos (1)
 
 
 <!-- TRENDING-END -->
@@ -272,6 +272,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 11-08 | 2025年第45周 | 10 个 | [查看详情](./archives/2025/week-45/report.md) |
 | 11-01 | 2025年第44周 | 10 个 | [查看详情](./archives/2025/week-44/report.md) |
 | 10-25 | 2025年第43周 | 10 个 | [查看详情](./archives/2025/week-43/report.md) |
 | 10-18 | 2025年第42周 | 10 个 | [查看详情](./archives/2025/week-42/report.md) |

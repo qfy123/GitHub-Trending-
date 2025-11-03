@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第45周",
+    "year": 2025,
+    "week": 45,
+    "week_range": {
+      "start": "2025-11-02",
+      "end": "2025-11-08"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-11-08 23:59:59",
+    "next_update": "2025-11-15"
+  },
+  "repositories": [
+    {
+      "full_name": "NoFxAiOS/nofx",
+      "rank": 1,
+      "stars": 5306,
+      "forks": 1188,
+      "overall_score": 90
+    },
+    {
+      "full_name": "diet103/claude-code-infrastructure-showcase",
+      "rank": 2,
+      "stars": 2600,
+      "forks": 372,
+      "overall_score": 74
+    },
+    {
+      "full_name": "baaivision/Emu3.5",
+      "rank": 3,
+      "stars": 951,
+      "forks": 35,
+      "overall_score": 68
+    },
+    {
+      "full_name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+      "rank": 4,
+      "stars": 908,
+      "forks": 105,
+      "overall_score": 68
+    },
+    {
+      "full_name": "MoonshotAI/Kimi-Linear",
+      "rank": 5,
+      "stars": 872,
+      "forks": 31,
+      "overall_score": 64
+    },
+    {
+      "full_name": "oyokki/sora2-watermark-remover",
+      "rank": 6,
+      "stars": 405,
+      "forks": 151,
+      "overall_score": 64
+    },
+    {
+      "full_name": "borndotcom/react-native-godot",
+      "rank": 7,
+      "stars": 652,
+      "forks": 20,
+      "overall_score": 63
+    },
+    {
+      "full_name": "jun6ry/sora2-api",
+      "rank": 8,
+      "stars": 366,
+      "forks": 108,
+      "overall_score": 62
+    },
+    {
+      "full_name": "knightnemo/Awesome-World-Models",
+      "rank": 9,
+      "stars": 371,
+      "forks": 8,
+      "overall_score": 59
+    },
+    {
+      "full_name": "skydoves/compose-stability-analyzer",
+      "rank": 10,
+      "stars": 338,
+      "forks": 7,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2025-11-03T03:23:33.132Z"
+}
