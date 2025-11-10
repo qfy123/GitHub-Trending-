@@ -18,229 +18,226 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第45周
+### GitHub趋势排行榜 - 2025年第46周
 
-**📅 统计周期**: 2025-11-02 ~ 2025-11-08  
+**📅 统计周期**: 2025-11-09 ~ 2025-11-15  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 12,769  
-**🔄 更新时间**: 2025-11-08 23:59:59  
+**⭐ 总Star数**: 8,562  
+**🔄 更新时间**: 2025-11-15 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [nofx](https://github.com/NoFxAiOS/nofx) | NOFX是下一代AI交易操作系统，聚合多交易所与多模型AI，实现毫秒级自动交易闭环，降低门槛提升收益。 | 5,306 | 1,188 | Go | 🆕 |
-| 2 | [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | 展示如何让Claude Code在复杂TypeScript微服务项目中自动激活技能、使用钩子与代理的实战模式库，解... | 2,600 | 372 | Shell | 🆕 |
-| 3 | [Emu3.5](https://github.com/baaivision/Emu3.5) | Emu3.5是北京智源研究院开源的原生多模态大模型，统一处理文本、图像、视频，无需额外编码器即可“看世界”并学习世... | 951 | 35 | Python | 🆕 |
-| 4 | [Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) | 为《逃离鸭科夫》打造的官方联机合作模组，一键把单机变成稳定的多人局域网/在线合作生存体验。 | 908 | 105 | C# | 🆕 |
-| 5 | [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) | MoonshotAI开源的Kimi-Linear-48B-A3B-Instruct模型仓库，提供技术报告与Hugg... | 872 | 31 | Unknown | 🆕 |
-| 6 | [sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover) | 基于AI逐帧修复，一键无痕抹除Sora 2生成视频中的官方水印，保留原始画质。 | 405 | 151 | Python | 🆕 |
-| 7 | [react-native-godot](https://github.com/borndotcom/react-native-godot) | 把 Godot 游戏引擎完整嵌入 React Native 应用，一套代码同时跑在 Android 与 iOS，让... | 652 | 20 | C++ | 🆕 |
-| 8 | [sora2-api](https://github.com/jun6ry/sora2-api) | 一键调用Sora 2 API生成AI视频的Python工具，自带网页界面，零代码完成参数配置与任务提交，大幅降低视... | 366 | 108 | Python | 🆕 |
-| 9 | [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) | 精选世界模型研究资源清单，一站式汇总具身AI、自动驾驶、NLP与智能体相关论文与项目，降低检索门槛。 | 371 | 8 | Unknown | 🆕 |
-| 10 | [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) | Android Studio/IntelliJ 插件，实时扫描 Jetpack Compose 函数稳定性，一键定... | 338 | 7 | Kotlin | 🆕 |
+| 1 | [Valdi](https://github.com/Snapchat/Valdi) | Snap开源的跨平台UI框架，用TypeScript写一次界面即可编译成iOS/Android原生代码，兼顾性能与... | 3,876 | 102 | C++ | 🆕 |
+| 2 | [Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) | 利用GitHub Actions定时自动登录Netlib.re，60天周期保活域名，支持多账户与Telegram通... | 560 | 1,255 | JavaScript | 🆕 |
+| 3 | [pg_lake](https://github.com/Snowflake-Labs/pg_lake) | 让PostgreSQL直接读写Iceberg表与S3数据湖，零拷贝实现事务级湖仓一体查询，无需额外引擎。 | 1,132 | 43 | C | 🆕 |
+| 4 | [sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover) | 基于AI逐帧修复，一键无痕去除Sora 2生成视频中的官方水印，保留画质并重新渲染输出。 | 381 | 171 | Python | 🆕 |
+| 5 | [openpcc](https://github.com/openpcc/openpcc) | 开源版Apple PCC，支持本地部署、加密推理，确保AI请求与日志全程可证私密。 | 756 | 21 | Go | 🆕 |
+| 6 | [acemcp](https://github.com/qy527145/acemcp) | Acemcp把ACE语义引擎封装成MCP服务器，为代码库提供一键索引与智能语义搜索，显著提升开发检索效率。 | 297 | 66 | Python | 🆕 |
+| 7 | [kimi-writer](https://github.com/Doriandarko/kimi-writer) | 基于kimi-k2-thinking模型的AI写作代理，可自主规划并完成小说、书籍及短篇集的创意写作，全程无需人工干预。 | 274 | 57 | Python | 🆕 |
+| 8 | [solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit) | Solana全栈dApp快速启动模板，集成Anchor合约、TypeScript SDK与Next.js前端，一键... | 699 | 3 | Unknown | 🆕 |
+| 9 | [NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | NoteDiscovery 是一款轻量级自托管笔记系统，用 Markdown 写作并本地保存，完全掌控数据，界面现... | 292 | 15 | JavaScript | 🆕 |
+| 10 | [casino-bonus](https://github.com/stake-com-casino-bonus/casino-bonus) | 聚合2025年主流加密赌场（Stake、BC.Game等）最新注册/存款优惠码与无KYC领奖攻略，帮助玩家一键领取... | 295 | 1 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [nofx](https://github.com/NoFxAiOS/nofx) ![Star](https://img.shields.io/github/stars/NoFxAiOS/nofx?style=social)
+#### 1. [Valdi](https://github.com/Snapchat/Valdi) ![Star](https://img.shields.io/github/stars/Snapchat/Valdi?style=social)
 
-<img src="./images/2025/week-45/nofx/1_license-mit-green.svg" alt="nofx" width="500"/>
+<img src="./images/2025/week-46/valdi/1_license-mit-blue.svg" alt="Valdi" width="500"/>
 
-**📝 项目简介**: NOFX是下一代AI交易操作系统，聚合多交易所与多模型AI，实现毫秒级自动交易闭环，降低门槛提升收益。
+**📝 项目简介**: Snap开源的跨平台UI框架，用TypeScript写一次界面即可编译成iOS/Android原生代码，兼顾性能与开发效率。
 
 **✨ 核心特性**:
-- 多交易所+多AI模型实时竞技
-- 统一风控+低延迟执行闭环
-- 可视化仪表盘一键部署
+- 一次编写，双端原生运行
+- 已在Snap全系App实战8年
+- Beta阶段即获近4k Star
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,306
-- **🔀 Fork数**: 1,188
-- **👀 Watch数**: 5,306
+- **⭐ Star数**: 3,876
+- **🔀 Fork数**: 102
+- **👀 Watch数**: 3,876
+- **📝 语言**: C++
+- **🌐 官网**: [https://discord.gg/uJyNEeYX2U](https://discord.gg/uJyNEeYX2U)
+- **💻 技术栈**: C++, TypeScript, JavaScript, Swift, C, Kotlin
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ![Star](https://img.shields.io/github/stars/eooce/Auto-login-netlib?style=social)
+
+**📝 项目简介**: 利用GitHub Actions定时自动登录Netlib.re，60天周期保活域名，支持多账户与Telegram通知，零运维续期。
+
+**✨ 核心特性**:
+- 完全免费自动保活
+- 多账户批量处理
+- Telegram即时通知
+
+**📊 项目统计**:
+- **⭐ Star数**: 560
+- **🔀 Fork数**: 1,255
+- **👀 Watch数**: 560
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [pg_lake](https://github.com/Snowflake-Labs/pg_lake) ![Star](https://img.shields.io/github/stars/Snowflake-Labs/pg_lake?style=social)
+
+<img src="./images/2025/week-46/pg_lake/1_pglake-arch.png" alt="pg_lake" width="500"/>
+
+**📝 项目简介**: 让PostgreSQL直接读写Iceberg表与S3数据湖，零拷贝实现事务级湖仓一体查询，无需额外引擎。
+
+**✨ 核心特性**:
+- 原生PG内读写Iceberg表
+- 支持S3等对象存储事务查询
+- 单节点即可当湖仓系统
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,132
+- **🔀 Fork数**: 43
+- **👀 Watch数**: 1,132
+- **📝 语言**: C
+- **🌐 官网**: [https://github.com/Snowflake-Labs/pg_lake/blob/main/docs/README.md](https://github.com/Snowflake-Labs/pg_lake/blob/main/docs/README.md)
+- **💻 技术栈**: C, Python, C++, PLpgSQL, Makefile, Dockerfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover) ![Star](https://img.shields.io/github/stars/rakkiez/sora2-watermark-remover?style=social)
+
+<img src="./images/2025/week-46/sora2-watermark-remover/1_license-gplv3-green.svg" alt="sora2-watermark-remover" width="500"/>
+
+**📝 项目简介**: 基于AI逐帧修复，一键无痕去除Sora 2生成视频中的官方水印，保留画质并重新渲染输出。
+
+**✨ 核心特性**:
+- AI智能检测与修复
+- 支持多平台运行
+- 操作零门槛，一键完成
+
+**📊 项目统计**:
+- **⭐ Star数**: 381
+- **🔀 Fork数**: 171
+- **👀 Watch数**: 381
+- **📝 语言**: Python
+- **💻 技术栈**: Python, ai, artificial-intelligence, sora-video, sora2-ai, watermark-remover
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [openpcc](https://github.com/openpcc/openpcc) ![Star](https://img.shields.io/github/stars/openpcc/openpcc?style=social)
+
+**📝 项目简介**: 开源版Apple PCC，支持本地部署、加密推理，确保AI请求与日志全程可证私密。
+
+**✨ 核心特性**:
+- 端到端加密流式推理
+- 硬件可信证明+不可关联请求
+- 完全开源可审计，支持自定义模型
+
+**📊 项目统计**:
+- **⭐ Star数**: 756
+- **🔀 Fork数**: 21
+- **👀 Watch数**: 756
 - **📝 语言**: Go
-- **🌐 官网**: [https://nofxai.com](https://nofxai.com)
-- **💻 技术栈**: Go, TypeScript, Shell, CSS, JavaScript, HTML
+- **💻 技术栈**: Go, TeX, BibTeX Style
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ![Star](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase?style=social)
+#### 6. [acemcp](https://github.com/qy527145/acemcp) ![Star](https://img.shields.io/github/stars/qy527145/acemcp?style=social)
 
-**📝 项目简介**: 展示如何让Claude Code在复杂TypeScript微服务项目中自动激活技能、使用钩子与代理的实战模式库，解决企业级落地难题。
+**📝 项目简介**: Acemcp把ACE语义引擎封装成MCP服务器，为代码库提供一键索引与智能语义搜索，显著提升开发检索效率。
 
 **✨ 核心特性**:
-- 技能自动激活方案
-- 生产级钩子与代理示例
-- 6个月真实项目沉淀，开箱即用
+- 一键代码库索引
+- 语义级精准搜索
+- MCP标准接口即装即用
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,600
-- **🔀 Fork数**: 372
-- **👀 Watch数**: 2,600
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, JavaScript, React, Node.js, Express, TypeScript
+- **⭐ Star数**: 297
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 297
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [Emu3.5](https://github.com/baaivision/Emu3.5) ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5?style=social)
+#### 7. [kimi-writer](https://github.com/Doriandarko/kimi-writer) ![Star](https://img.shields.io/github/stars/Doriandarko/kimi-writer?style=social)
 
-**📝 项目简介**: Emu3.5是北京智源研究院开源的原生多模态大模型，统一处理文本、图像、视频，无需额外编码器即可“看世界”并学习世界规律。
+**📝 项目简介**: 基于kimi-k2-thinking模型的AI写作代理，可自主规划并完成小说、书籍及短篇集的创意写作，全程无需人工干预。
 
 **✨ 核心特性**:
-- 原生多模态架构，单模型端到端训练
-- 支持文本、图像、视频任意输入输出
-- 开源可商用，社区活跃持续更新
+- 自主规划章节与情节，实时流式输出
+- 智能上下文压缩，长文本不爆显存
+- 支持小说/短篇/合集多格式一键生成
 
 **📊 项目统计**:
-- **⭐ Star数**: 951
-- **🔀 Fork数**: 35
-- **👀 Watch数**: 951
+- **⭐ Star数**: 274
+- **🔀 Fork数**: 57
+- **👀 Watch数**: 274
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ![Star](https://img.shields.io/github/stars/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview?style=social)
+#### 8. [solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit) ![Star](https://img.shields.io/github/stars/SolanaUpdateTools/solana-starter-kit?style=social)
 
-<img src="./images/2025/week-45/escape-from-duckov-coop-mod-preview/1_license-modified%20agpl--3.0-blue.svg" alt="Escape-From-Duckov-Coop-Mod-Preview" width="500"/>
-
-**📝 项目简介**: 为《逃离鸭科夫》打造的官方联机合作模组，一键把单机变成稳定的多人局域网/在线合作生存体验。
+**📝 项目简介**: Solana全栈dApp快速启动模板，集成Anchor合约、TypeScript SDK与Next.js前端，一键启动链上应用开发。
 
 **✨ 核心特性**:
-- 零配置Steam创意工坊一键订阅
-- AI、战利品、战斗全同步
-- 支持死亡观战与局域网/在线双模式
+- Anchor Rust合约示例即开即用
+- 内置TypeScript SDK与钱包适配器
+- Next.js+React现代化UI模板
 
 **📊 项目统计**:
-- **⭐ Star数**: 908
-- **🔀 Fork数**: 105
-- **👀 Watch数**: 908
-- **📝 语言**: C#
-- **💻 技术栈**: C#, Batchfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Linear?style=social)
-
-<img src="./images/2025/week-45/kimi-linear/1_banner.png" alt="Kimi-Linear" width="500"/>
-
-**📝 项目简介**: MoonshotAI开源的Kimi-Linear-48B-A3B-Instruct模型仓库，提供技术报告与HuggingFace一键调用，助力开发者快速集成高性能线性注意力大模型。
-
-**✨ 核心特性**:
-- 48B参数线性注意力架构
-- 官方技术报告与推理代码
-- HuggingFace直接加载推理
-
-**📊 项目统计**:
-- **⭐ Star数**: 872
-- **🔀 Fork数**: 31
-- **👀 Watch数**: 872
+- **⭐ Star数**: 699
+- **🔀 Fork数**: 3
+- **👀 Watch数**: 699
 - **📝 语言**: Unknown
-- **💻 技术栈**: Express
+- **🌐 官网**: [https://github.com](https://github.com)
+- **💻 技术栈**: bitcoin-transaction, blockchain, blockchain-wallet, ethereum, ethereum-contract, ethereum-dapp
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover) ![Star](https://img.shields.io/github/stars/oyokki/sora2-watermark-remover?style=social)
+#### 9. [NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) ![Star](https://img.shields.io/github/stars/gamosoft/NoteDiscovery?style=social)
 
-<img src="./images/2025/week-45/sora2-watermark-remover/1_license-gplv3-green.svg" alt="sora2-watermark-remover" width="500"/>
+<img src="./images/2025/week-46/notediscovery/1_screenshot.jpg" alt="NoteDiscovery" width="500"/>
 
-**📝 项目简介**: 基于AI逐帧修复，一键无痕抹除Sora 2生成视频中的官方水印，保留原始画质。
+**📝 项目简介**: NoteDiscovery 是一款轻量级自托管笔记系统，用 Markdown 写作并本地保存，完全掌控数据，界面现代美观。
 
 **✨ 核心特性**:
-- AI智能inpainting去水印，无需手动选区
-- 支持全平台，4G内存即可运行
-- 开源免费，已获400+Star社区验证
+- 完全私有部署，数据自主掌控
+- Markdown+本地文件，迁移零成本
+- 界面简洁，支持搜索与标签发现
 
 **📊 项目统计**:
-- **⭐ Star数**: 405
-- **🔀 Fork数**: 151
-- **👀 Watch数**: 405
-- **📝 语言**: Python
-- **💻 技术栈**: Python, ai, sora-ai, sora-video, sora-watermark-remover, sora2
+- **⭐ Star数**: 292
+- **🔀 Fork数**: 15
+- **👀 Watch数**: 292
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, HTML, Python, CSS, Dockerfile, docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [react-native-godot](https://github.com/borndotcom/react-native-godot) ![Star](https://img.shields.io/github/stars/borndotcom/react-native-godot?style=social)
+#### 10. [casino-bonus](https://github.com/stake-com-casino-bonus/casino-bonus) ![Star](https://img.shields.io/github/stars/stake-com-casino-bonus/casino-bonus?style=social)
 
-**📝 项目简介**: 把 Godot 游戏引擎完整嵌入 React Native 应用，一套代码同时跑在 Android 与 iOS，让游戏与 App UI 无缝融合。
-
-**✨ 核心特性**:
-- 双端原生支持，无需额外桥接
-- 引擎可动态启停与重配置，内存可控
-- 已在亿级用户 App 验证，稳定可靠
-
-**📊 项目统计**:
-- **⭐ Star数**: 652
-- **🔀 Fork数**: 20
-- **👀 Watch数**: 652
-- **📝 语言**: C++
-- **💻 技术栈**: C++, Objective-C++, TypeScript, Java, JavaScript, C
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [sora2-api](https://github.com/jun6ry/sora2-api) ![Star](https://img.shields.io/github/stars/jun6ry/sora2-api?style=social)
-
-<img src="./images/2025/week-45/sora2-api/1_license-mit-yellow.svg" alt="sora2-api" width="500"/>
-
-**📝 项目简介**: 一键调用Sora 2 API生成AI视频的Python工具，自带网页界面，零代码完成参数配置与任务提交，大幅降低视频创作门槛。
+**📝 项目简介**: 聚合2025年主流加密赌场（Stake、BC.Game等）最新注册/存款优惠码与无KYC领奖攻略，帮助玩家一键领取高比例返现与空投。
 
 **✨ 核心特性**:
-- 网页可视化配置，无需写代码
-- 自动对接Sora 2 API，快速生成视频
-- 开源轻量，本地即可部署使用
+- 实时更新Stake/BC.Game等独家bonus码
+- 无KYC注册+即时提现流程指引
+- 覆盖存款返现、空投、VIP返水多场景
 
 **📊 项目统计**:
-- **⭐ Star数**: 366
-- **🔀 Fork数**: 108
-- **👀 Watch数**: 366
-- **📝 语言**: Python
-- **💻 技术栈**: Python, artificial-intelligence, python-tools, sora, sora-ai, sora-api
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Star](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)
-
-<img src="./images/2025/week-45/awesome-world-models/1_badge.svg" alt="Awesome-World-Models" width="500"/>
-
-**📝 项目简介**: 精选世界模型研究资源清单，一站式汇总具身AI、自动驾驶、NLP与智能体相关论文与项目，降低检索门槛。
-
-**✨ 核心特性**:
-- 覆盖多领域世界模型成果
-- 持续更新、分类清晰
-- 面向研究者与开发者开放协作
-
-**📊 项目统计**:
-- **⭐ Star数**: 371
-- **🔀 Fork数**: 8
-- **👀 Watch数**: 371
+- **⭐ Star数**: 295
+- **🔀 Fork数**: 1
+- **👀 Watch数**: 295
 - **📝 语言**: Unknown
-- **💻 技术栈**: React, Express, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ![Star](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=social)
-
-<img src="./images/2025/week-45/compose-stability-analyzer/1_preview0.png" alt="compose-stability-analyzer" width="500"/>
-
-**📝 项目简介**: Android Studio/IntelliJ 插件，实时扫描 Jetpack Compose 函数稳定性，一键定位重组性能瓶颈。
-
-**✨ 核心特性**:
-- 实时标红不稳定参数，IDE 内即时提示
-- 基于 Kotlin 编译器插件，零配置接入
-- 支持跳转到源码，快速修复避免无效重组
-
-**📊 项目统计**:
-- **⭐ Star数**: 338
-- **🔀 Fork数**: 7
-- **👀 Watch数**: 338
-- **📝 语言**: Kotlin
-- **💻 技术栈**: Kotlin, Java, android, compose, intellij-plugin, jetpack-compose
+- **🌐 官网**: [https://nexusroll.com/auth/register?promo=2025](https://nexusroll.com/auth/register?promo=2025)
+- **💻 技术栈**: bcgame, bcgame-casino, casino-bonus, crypto-casino-bonus, stake, stake-bonus
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -249,20 +246,20 @@
 
 **🔥 热门语言**:
 1. **Python** (3 个项目)
-2. **Unknown** (2 个项目)
-3. **Go** (1 个项目)
-4. **Shell** (1 个项目)
-5. **C#** (1 个项目)
+2. **JavaScript** (2 个项目)
+3. **Unknown** (2 个项目)
+4. **C++** (1 个项目)
+5. **C** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (2)
-2. sora-ai (2)
-3. sora2 (2)
-4. android (2)
-5. agentic-ai (1)
-6. agentictrading (1)
-7. ai-trading (1)
-8. aitradingos (1)
+1. android (1)
+2. cross-platform (1)
+3. ios (1)
+4. typescript (1)
+5. ai (1)
+6. artificial-intelligence (1)
+7. sora-video (1)
+8. sora2-ai (1)
 
 
 <!-- TRENDING-END -->
@@ -272,6 +269,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
 | 11-08 | 2025年第45周 | 10 个 | [查看详情](./archives/2025/week-45/report.md) |
 | 11-01 | 2025年第44周 | 10 个 | [查看详情](./archives/2025/week-44/report.md) |
 | 10-25 | 2025年第43周 | 10 个 | [查看详情](./archives/2025/week-43/report.md) |
