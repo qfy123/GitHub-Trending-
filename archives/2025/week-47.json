@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第47周",
+    "year": 2025,
+    "week": 47,
+    "week_range": {
+      "start": "2025-11-16",
+      "end": "2025-11-22"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-11-22 23:59:59",
+    "next_update": "2025-11-29"
+  },
+  "repositories": [
+    {
+      "full_name": "cryptocj520/crypto-trading-open",
+      "rank": 1,
+      "stars": 1151,
+      "forks": 655,
+      "overall_score": 73
+    },
+    {
+      "full_name": "ByteDance-Seed/Depth-Anything-3",
+      "rank": 2,
+      "stars": 1414,
+      "forks": 75,
+      "overall_score": 71
+    },
+    {
+      "full_name": "universal-tool-calling-protocol/code-mode",
+      "rank": 3,
+      "stars": 635,
+      "forks": 50,
+      "overall_score": 64
+    },
+    {
+      "full_name": "rbalestr-lab/lejepa",
+      "rank": 4,
+      "stars": 439,
+      "forks": 30,
+      "overall_score": 62
+    },
+    {
+      "full_name": "nusquama/n8nworkflows.xyz",
+      "rank": 5,
+      "stars": 361,
+      "forks": 91,
+      "overall_score": 62
+    },
+    {
+      "full_name": "straight-tamago/misaka26",
+      "rank": 6,
+      "stars": 325,
+      "forks": 11,
+      "overall_score": 61
+    },
+    {
+      "full_name": "Haleclipse/Claudix",
+      "rank": 7,
+      "stars": 277,
+      "forks": 15,
+      "overall_score": 61
+    },
+    {
+      "full_name": "tagal6727/SelfDiscord",
+      "rank": 8,
+      "stars": 274,
+      "forks": 95,
+      "overall_score": 61
+    },
+    {
+      "full_name": "kukuvitaminekcz58/binance-trading-bot",
+      "rank": 9,
+      "stars": 269,
+      "forks": 95,
+      "overall_score": 61
+    },
+    {
+      "full_name": "xPOURY4/CodeCraft-Architect",
+      "rank": 10,
+      "stars": 253,
+      "forks": 69,
+      "overall_score": 60
+    }
+  ],
+  "generated_at": "2025-11-17T03:21:50.070Z"
+}
