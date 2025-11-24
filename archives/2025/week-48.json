@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第48周",
+    "year": 2025,
+    "week": 48,
+    "week_range": {
+      "start": "2025-11-23",
+      "end": "2025-11-29"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-11-29 23:59:59",
+    "next_update": "2025-12-06"
+  },
+  "repositories": [
+    {
+      "full_name": "karpathy/llm-council",
+      "rank": 1,
+      "stars": 2586,
+      "forks": 372,
+      "overall_score": 75
+    },
+    {
+      "full_name": "karpathy/reader3",
+      "rank": 2,
+      "stars": 1997,
+      "forks": 222,
+      "overall_score": 70
+    },
+    {
+      "full_name": "supertone-inc/supertonic",
+      "rank": 3,
+      "stars": 827,
+      "forks": 65,
+      "overall_score": 68
+    },
+    {
+      "full_name": "Norsico/Video-Materials-AutoGEN-Workstation",
+      "rank": 4,
+      "stars": 657,
+      "forks": 145,
+      "overall_score": 66
+    },
+    {
+      "full_name": "hexagonal-sun/moss",
+      "rank": 5,
+      "stars": 628,
+      "forks": 18,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+      "rank": 6,
+      "stars": 522,
+      "forks": 34,
+      "overall_score": 64
+    },
+    {
+      "full_name": "dzhng/claude-agent-server",
+      "rank": 7,
+      "stars": 355,
+      "forks": 30,
+      "overall_score": 61
+    },
+    {
+      "full_name": "Ryandonofrio3/osgrep",
+      "rank": 8,
+      "stars": 326,
+      "forks": 19,
+      "overall_score": 61
+    },
+    {
+      "full_name": "PallavAg/iOS-Clone-SwiftUI",
+      "rank": 9,
+      "stars": 276,
+      "forks": 43,
+      "overall_score": 60
+    },
+    {
+      "full_name": "deepseek-ai/LPLB",
+      "rank": 10,
+      "stars": 337,
+      "forks": 14,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2025-11-24T03:38:27.684Z"
+}

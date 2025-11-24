@@ -18,224 +18,230 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第47周
+### GitHub趋势排行榜 - 2025年第48周
 
-**📅 统计周期**: 2025-11-16 ~ 2025-11-22  
+**📅 统计周期**: 2025-11-23 ~ 2025-11-29  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,398  
-**🔄 更新时间**: 2025-11-22 23:59:59  
+**⭐ 总Star数**: 8,511  
+**🔄 更新时间**: 2025-11-29 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) | 企业级多交易所加密资产自动交易框架，集成网格、马丁、套利、刷量等策略，支持Hyperliquid、Binance、... | 1,151 | 655 | Python | 🆕 |
-| 2 | [Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) | 字节跳动Seed团队开源的单目深度估计模型，可从任意视角图像精准恢复3D空间结构，无需额外传感器。 | 1,414 | 75 | Jupyter Notebook | 🆕 |
-| 3 | [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) | 让AI智能体通过代码执行直接调用MCP/UTCP工具，零配置即插即用，统一多协议工具链。 | 635 | 50 | TypeScript | 🆕 |
-| 4 | [lejepa](https://github.com/rbalestr-lab/lejepa) | LeJEPA提出可证明、可扩展的自监督联合嵌入预测架构，无需启发式训练技巧即可在图像等数据上高效学习表征。 | 439 | 30 | Python | 🆕 |
-| 5 | [n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) | 集中收录并展示n8n自动化工作流模板，用户可一键复用，快速搭建自己的业务流程，降低开发门槛。 | 361 | 91 | Unknown | 🆕 |
-| 6 | [misaka26](https://github.com/straight-tamago/misaka26) | 利用TrollRestore漏洞，为iOS/iPadOS 16.0–26.1提供一键深度美化与系统级自定义，无需越狱。 | 325 | 11 | Unknown | 🆕 |
-| 7 | [Claudix](https://github.com/Haleclipse/Claudix) | VSCode插件，把Claude AI装进编辑器，边写代码边对话，自动分析、改文件、跑命令，全程免切换。 | 277 | 15 | TypeScript | 🆕 |
-| 8 | [SelfDiscord](https://github.com/tagal6727/SelfDiscord) | 基于最新Discord API的Python自托管机器人，可自动回复、账号操作，2025持续维护。 | 274 | 95 | Python | 🆕 |
-| 9 | [binance-trading-bot](https://github.com/kukuvitaminekcz58/binance-trading-bot) | 一键部署的币安量化机器人，支持BTC/ETH等主流币自动买卖，2025年实测仍可稳定套利。 | 269 | 95 | Python | 🆕 |
-| 10 | [CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect) | 一套AI提示词模板，让大模型直接输出符合生产级架构、统一规范且自带质量门禁的React+Express全栈代码，开... | 253 | 69 | Unknown | 🆕 |
+| 1 | [llm-council](https://github.com/karpathy/llm-council) | 本地网页应用，通过OpenRouter把问题同时抛给多家LLM，让它们互评后由“主席”模型汇总，输出更高质量答案。 | 2,586 | 372 | Python | 🆕 |
+| 2 | [reader3](https://github.com/karpathy/reader3) | 极简自托管EPUB阅读器，一键分章复制内容到LLM，实现边读边与AI互动讨论。 | 1,997 | 222 | Python | 🆕 |
+| 3 | [supertonic](https://github.com/supertone-inc/supertonic) | 基于ONNX Runtime的超快离线TTS引擎，零依赖、零隐私泄露，可在树莓派实时朗读。 | 827 | 65 | Swift | 🆕 |
+| 4 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | 一站式短视频工厂：AI写脚本、TTS配音、AI绘图、自动字幕，一键批量生成完整视频项目，全流程可视化管理。 | 657 | 145 | Python | 🆕 |
+| 5 | [moss](https://github.com/hexagonal-sun/moss) | 用Rust重写的Linux兼容内核，可在Aarch64上原生运行BusyBox等Linux用户态程序，兼具异步现代... | 628 | 18 | Rust | 🆕 |
+| 6 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 腾讯开源的轻量级视频生成模型，仅8.3B参数即可在消费级GPU上生成高质量视频，大幅降低门槛。 | 522 | 34 | Python | 🆕 |
+| 7 | [claude-agent-server](https://github.com/dzhng/claude-agent-server) | 把Claude Code封装成WebSocket服务，一键部署到E2B沙箱，前端通过SDK即可实时驱动AI代理安全... | 355 | 30 | TypeScript | 🆕 |
+| 8 | [osgrep](https://github.com/Ryandonofrio3/osgrep) | 本地语义代码搜索工具，用自然语言快速定位“认证逻辑”等概念，无需联网，保护隐私。 | 326 | 19 | TypeScript | 🆕 |
+| 9 | [iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI) | 用SwiftUI 1:1复刻iOS系统应用（天气、日历、照片），验证AI生成代码能否达到像素级还原，为SwiftU... | 276 | 43 | Swift | 🆕 |
+| 10 | [LPLB](https://github.com/deepseek-ai/LPLB) | 基于线性规划的MoE并行负载均衡器，可动态重排专家并优化token分配，提升大模型训练效率。 | 337 | 14 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ![Star](https://img.shields.io/github/stars/cryptocj520/crypto-trading-open?style=social)
+#### 1. [llm-council](https://github.com/karpathy/llm-council) ![Star](https://img.shields.io/github/stars/karpathy/llm-council?style=social)
 
-**📝 项目简介**: 企业级多交易所加密资产自动交易框架，集成网格、马丁、套利、刷量等策略，支持Hyperliquid、Binance、OKX等主流所一站式托管运行。
+<img src="./images/2025/week-48/llm-council/1_header.jpg" alt="llm-council" width="500"/>
+
+**📝 项目简介**: 本地网页应用，通过OpenRouter把问题同时抛给多家LLM，让它们互评后由“主席”模型汇总，输出更高质量答案。
 
 **✨ 核心特性**:
-- 多交易所统一API，策略一键部署
-- 丰富网格/马丁/套利模板，开箱即用
-- Docker容器化，云端托管稳定运行
+- 多模型互评+主席裁决，提升回答可靠性
+- 本地运行，保护隐私
+- 支持任意OpenRouter模型，扩展灵活
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,151
-- **🔀 Fork数**: 655
-- **👀 Watch数**: 1,151
+- **⭐ Star数**: 2,586
+- **🔀 Fork数**: 372
+- **👀 Watch数**: 2,586
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, Docker, GraphQL, REST API
+- **💻 技术栈**: Python, JavaScript, CSS, Shell, HTML, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ![Star](https://img.shields.io/github/stars/ByteDance-Seed/Depth-Anything-3?style=social)
+#### 2. [reader3](https://github.com/karpathy/reader3) ![Star](https://img.shields.io/github/stars/karpathy/reader3?style=social)
 
-<img src="./images/2025/week-47/depth-anything-3/1_da3_radar.png" alt="Depth-Anything-3" width="500"/>
+<img src="./images/2025/week-48/reader3/1_reader3.png" alt="reader3" width="500"/>
 
-**📝 项目简介**: 字节跳动Seed团队开源的单目深度估计模型，可从任意视角图像精准恢复3D空间结构，无需额外传感器。
+**📝 项目简介**: 极简自托管EPUB阅读器，一键分章复制内容到LLM，实现边读边与AI互动讨论。
 
 **✨ 核心特性**:
-- 零样本跨域泛化，手机/无人机/网络图即拍即用
-- 1.4k星社区活跃，Jupyter示例一键跑通
-- 论文已公开，代码完整可复现
+- 轻量级本地部署，零依赖
+- 章节级文本复制，方便投喂LLM
+- vibe coding示例，展示快速原型能力
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,414
-- **🔀 Fork数**: 75
-- **👀 Watch数**: 1,414
-- **📝 语言**: Jupyter Notebook
-- **🌐 官网**: [https://depth-anything-3.github.io/](https://depth-anything-3.github.io/)
-- **💻 技术栈**: Jupyter Notebook, Python
+- **⭐ Star数**: 1,997
+- **🔀 Fork数**: 222
+- **👀 Watch数**: 1,997
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) ![Star](https://img.shields.io/github/stars/universal-tool-calling-protocol/code-mode?style=social)
+#### 3. [supertonic](https://github.com/supertone-inc/supertonic) ![Star](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
 
-**📝 项目简介**: 让AI智能体通过代码执行直接调用MCP/UTCP工具，零配置即插即用，统一多协议工具链。
+<img src="./images/2025/week-48/supertonic/1_supertonic_img_v02_4x.webp" alt="supertonic" width="500"/>
+
+**📝 项目简介**: 基于ONNX Runtime的超快离线TTS引擎，零依赖、零隐私泄露，可在树莓派实时朗读。
 
 **✨ 核心特性**:
-- 零配置即插即用
-- 同时支持MCP与UTCP双协议
-- TypeScript全栈类型安全
+- 毫秒级本地合成，无需网络
+- 跨十语言绑定，iOS/Android/嵌入式通吃
+- ONNX极致压缩，CPU占用极低
 
 **📊 项目统计**:
-- **⭐ Star数**: 635
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 635
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, ai-agents, codemode, mcp, model-context-protocol, toolchain
+- **⭐ Star数**: 827
+- **🔀 Fork数**: 65
+- **👀 Watch数**: 827
+- **📝 语言**: Swift
+- **🌐 官网**: [https://huggingface.co/spaces/Supertone/supertonic](https://huggingface.co/spaces/Supertone/supertonic)
+- **💻 技术栈**: Swift, JavaScript, C++, Java, C#, Go
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [lejepa](https://github.com/rbalestr-lab/lejepa) ![Star](https://img.shields.io/github/stars/rbalestr-lab/lejepa?style=social)
+#### 4. [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) ![Star](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=social)
 
-<img src="./images/2025/week-47/lejepa/1_output1.gif" alt="lejepa" width="500"/>
+<img src="./images/2025/week-48/video-materials-autogen-workstation/1_数据.png" alt="Video-Materials-AutoGEN-Workstation" width="500"/>
 
-**📝 项目简介**: LeJEPA提出可证明、可扩展的自监督联合嵌入预测架构，无需启发式训练技巧即可在图像等数据上高效学习表征。
+**📝 项目简介**: 一站式短视频工厂：AI写脚本、TTS配音、AI绘图、自动字幕，一键批量生成完整视频项目，全流程可视化管理。
 
 **✨ 核心特性**:
-- 无需负样本或不对称网络等启发式
-- 理论可证明的收敛与泛化保证
-- 支持线性评估与PCA可视化，易扩展
+- 模板化批量出片，脚本-画面-音频-字幕一键齐
+- Gemini+TTS自动改写并配带情绪人声
+- 图文分轨前端实时替换、即时预览
 
 **📊 项目统计**:
-- **⭐ Star数**: 439
+- **⭐ Star数**: 657
+- **🔀 Fork数**: 145
+- **👀 Watch数**: 657
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript, HTML, CSS, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [moss](https://github.com/hexagonal-sun/moss) ![Star](https://img.shields.io/github/stars/hexagonal-sun/moss?style=social)
+
+<img src="./images/2025/week-48/moss/1_moss_demo.gif" alt="moss" width="500"/>
+
+**📝 项目简介**: 用Rust重写的Linux兼容内核，可在Aarch64上原生运行BusyBox等Linux用户态程序，兼具异步现代架构与跨平台HAL。
+
+**✨ 核心特性**:
+- Linux二进制兼容，直接运行业已编译的BusyBox
+- Rust+异步核心，内存安全且高性能
+- 模块化HAL，轻松移植x86_64/RISC-V等架构
+
+**📊 项目统计**:
+- **⭐ Star数**: 628
+- **🔀 Fork数**: 18
+- **👀 Watch数**: 628
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Assembly, Shell, Linker Script, RenderScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=social)
+
+**📝 项目简介**: 腾讯开源的轻量级视频生成模型，仅8.3B参数即可在消费级GPU上生成高质量视频，大幅降低门槛。
+
+**✨ 核心特性**:
+- 8.3B参数即可媲美大模型效果
+- 消费级GPU流畅运行
+- 支持文本/图片到视频双模态生成
+
+**📊 项目统计**:
+- **⭐ Star数**: 522
+- **🔀 Fork数**: 34
+- **👀 Watch数**: 522
+- **📝 语言**: Python
+- **🌐 官网**: [https://hunyuan.tencent.com/video/zh?tabIndex=0](https://hunyuan.tencent.com/video/zh?tabIndex=0)
+- **💻 技术栈**: Python, image-to-video, text-to-video, video-generation, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [claude-agent-server](https://github.com/dzhng/claude-agent-server) ![Star](https://img.shields.io/github/stars/dzhng/claude-agent-server?style=social)
+
+**📝 项目简介**: 把Claude Code封装成WebSocket服务，一键部署到E2B沙箱，前端通过SDK即可实时驱动AI代理安全执行任务。
+
+**✨ 核心特性**:
+- 沙箱隔离运行，安全无侵入
+- WebSocket双向实时通信
+- 配套TypeScript客户端，三行代码接入
+
+**📊 项目统计**:
+- **⭐ Star数**: 355
 - **🔀 Fork数**: 30
-- **👀 Watch数**: 439
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) ![Star](https://img.shields.io/github/stars/nusquama/n8nworkflows.xyz?style=social)
-
-**📝 项目简介**: 集中收录并展示n8n自动化工作流模板，用户可一键复用，快速搭建自己的业务流程，降低开发门槛。
-
-**✨ 核心特性**:
-- 海量现成工作流模板
-- 一键导入n8n平台
-- 持续社区更新与共享
-
-**📊 项目统计**:
-- **⭐ Star数**: 361
-- **🔀 Fork数**: 91
-- **👀 Watch数**: 361
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://n8nworkflows.xyz/](https://n8nworkflows.xyz/)
-- **💻 技术栈**: n8n, n8n-automation, n8n-node, n8n-nodes, n8n-template, n8n-workflow
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [misaka26](https://github.com/straight-tamago/misaka26) ![Star](https://img.shields.io/github/stars/straight-tamago/misaka26?style=social)
-
-**📝 项目简介**: 利用TrollRestore漏洞，为iOS/iPadOS 16.0–26.1提供一键深度美化与系统级自定义，无需越狱。
-
-**✨ 核心特性**:
-- 支持全系统UI、图标、字体替换
-- 零越狱风险，一键备份还原
-- 覆盖iOS 16.0–26.2 beta 1全设备
-
-**📊 项目统计**:
-- **⭐ Star数**: 325
-- **🔀 Fork数**: 11
-- **👀 Watch数**: 325
-- **📝 语言**: Unknown
-- **💻 技术栈**: Spring
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [Claudix](https://github.com/Haleclipse/Claudix) ![Star](https://img.shields.io/github/stars/Haleclipse/Claudix?style=social)
-
-**📝 项目简介**: VSCode插件，把Claude AI装进编辑器，边写代码边对话，自动分析、改文件、跑命令，全程免切换。
-
-**✨ 核心特性**:
-- 编辑器内直接对话Claude
-- 会话历史与权限管理
-- 一键文件操作与终端命令
-
-**📊 项目统计**:
-- **⭐ Star数**: 277
-- **🔀 Fork数**: 15
-- **👀 Watch数**: 277
+- **👀 Watch数**: 355
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Vue, CSS, JavaScript, HTML, Node.js
+- **🌐 官网**: [https://x.com/dzhng/status/1991154972558581889?s=20](https://x.com/dzhng/status/1991154972558581889?s=20)
+- **💻 技术栈**: TypeScript, JavaScript, agent, ai, claude, claude-agent-sdk
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [SelfDiscord](https://github.com/tagal6727/SelfDiscord) ![Star](https://img.shields.io/github/stars/tagal6727/SelfDiscord?style=social)
+#### 8. [osgrep](https://github.com/Ryandonofrio3/osgrep) ![Star](https://img.shields.io/github/stars/Ryandonofrio3/osgrep?style=social)
 
-<img src="./images/2025/week-47/selfdiscord/1_3h9zpop.gif" alt="SelfDiscord" width="500"/>
+<img src="./images/2025/week-48/osgrep/1_license-apache%202.0-blue.svg" alt="osgrep" width="500"/>
 
-**📝 项目简介**: 基于最新Discord API的Python自托管机器人，可自动回复、账号操作，2025持续维护。
+**📝 项目简介**: 本地语义代码搜索工具，用自然语言快速定位“认证逻辑”等概念，无需联网，保护隐私。
 
 **✨ 核心特性**:
-- 官方API实时更新
-- 一键自动回复与账号管理
-- 零配置Python快速部署
+- 自然语言搜代码
+- 100%本地运行
+- 与编码助手无缝集成
 
 **📊 项目统计**:
-- **⭐ Star数**: 274
-- **🔀 Fork数**: 95
-- **👀 Watch数**: 274
+- **⭐ Star数**: 326
+- **🔀 Fork数**: 19
+- **👀 Watch数**: 326
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Shell, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI) ![Star](https://img.shields.io/github/stars/PallavAg/iOS-Clone-SwiftUI?style=social)
+
+**📝 项目简介**: 用SwiftUI 1:1复刻iOS系统应用（天气、日历、照片），验证AI生成代码能否达到像素级还原，为SwiftUI学习提供高质量参考实现。
+
+**✨ 核心特性**:
+- Gemini 3.0 Pro一键生成，展示AI代码上限
+- 已还原天气/日历/照片三大原生App，UI精度高
+- 纯SwiftUI实现，零Storyboard，代码简洁现代
+
+**📊 项目统计**:
+- **⭐ Star数**: 276
+- **🔀 Fork数**: 43
+- **👀 Watch数**: 276
+- **📝 语言**: Swift
+- **🌐 官网**: [https://twitter.com/pallavmac](https://twitter.com/pallavmac)
+- **💻 技术栈**: Swift, ios, swiftui
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [LPLB](https://github.com/deepseek-ai/LPLB) ![Star](https://img.shields.io/github/stars/deepseek-ai/LPLB?style=social)
+
+**📝 项目简介**: 基于线性规划的MoE并行负载均衡器，可动态重排专家并优化token分配，提升大模型训练效率。
+
+**✨ 核心特性**:
+- 动态重排专家，实时适配负载
+- 线性规划求解最优token分配
+- 支持拓扑感知的副本构建
+
+**📊 项目统计**:
+- **⭐ Star数**: 337
+- **🔀 Fork数**: 14
+- **👀 Watch数**: 337
 - **📝 语言**: Python
-- **💻 技术栈**: Python, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [binance-trading-bot](https://github.com/kukuvitaminekcz58/binance-trading-bot) ![Star](https://img.shields.io/github/stars/kukuvitaminekcz58/binance-trading-bot?style=social)
-
-**📝 项目简介**: 一键部署的币安量化机器人，支持BTC/ETH等主流币自动买卖，2025年实测仍可稳定套利。
-
-**✨ 核心特性**:
-- 开箱即用，Docker镜像5分钟上线
-- 内置多策略，支持网格与趋势跟踪
-- AWS云端托管，24h无人值守躺赚
-
-**📊 项目统计**:
-- **⭐ Star数**: 269
-- **🔀 Fork数**: 95
-- **👀 Watch数**: 269
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Docker, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect) ![Star](https://img.shields.io/github/stars/xPOURY4/CodeCraft-Architect?style=social)
-
-<img src="./images/2025/week-47/codecraft-architect/1_architecture-full--stack-blue.svg" alt="CodeCraft-Architect" width="500"/>
-
-**📝 项目简介**: 一套AI提示词模板，让大模型直接输出符合生产级架构、统一规范且自带质量门禁的React+Express全栈代码，开发者复制即可用。
-
-**✨ 核心特性**:
-- 一键生成生产级架构代码
-- 内置编码规范与自动化质检
-- 显著提升AI助手输出质量
-
-**📊 项目统计**:
-- **⭐ Star数**: 253
-- **🔀 Fork数**: 69
-- **👀 Watch数**: 253
-- **📝 语言**: Unknown
-- **💻 技术栈**: React, Express, Docker, TypeScript
+- **💻 技术栈**: Python, C++, Cuda, Shell, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -243,20 +249,20 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (4 个项目)
-2. **Unknown** (3 个项目)
+1. **Python** (5 个项目)
+2. **Swift** (2 个项目)
 3. **TypeScript** (2 个项目)
-4. **Jupyter Notebook** (1 个项目)
+4. **Rust** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agents (1)
-2. codemode (1)
-3. mcp (1)
-4. model-context-protocol (1)
-5. toolchain (1)
-6. utcp (1)
-7. n8n (1)
-8. n8n-automation (1)
+1. ios (2)
+2. cpp (1)
+3. csharp (1)
+4. go (1)
+5. java (1)
+6. lightweight (1)
+7. nodejs (1)
+8. on-device (1)
 
 
 <!-- TRENDING-END -->
@@ -266,6 +272,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
 | 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
 | 11-08 | 2025年第45周 | 10 个 | [查看详情](./archives/2025/week-45/report.md) |
