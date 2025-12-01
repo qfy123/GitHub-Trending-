@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第49周",
+    "year": 2025,
+    "week": 49,
+    "week_range": {
+      "start": "2025-11-30",
+      "end": "2025-12-06"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-12-06 23:59:59",
+    "next_update": "2025-12-13"
+  },
+  "repositories": [
+    {
+      "full_name": "Tongyi-MAI/Z-Image",
+      "rank": 1,
+      "stars": 2966,
+      "forks": 147,
+      "overall_score": 75
+    },
+    {
+      "full_name": "HisMax/RedInk",
+      "rank": 2,
+      "stars": 2062,
+      "forks": 414,
+      "overall_score": 73
+    },
+    {
+      "full_name": "deepseek-ai/DeepSeek-Math-V2",
+      "rank": 3,
+      "stars": 1195,
+      "forks": 69,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Rohithgilla12/data-peek",
+      "rank": 4,
+      "stars": 889,
+      "forks": 53,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+      "rank": 5,
+      "stars": 687,
+      "forks": 87,
+      "overall_score": 66
+    },
+    {
+      "full_name": "portrret/spyder-osint",
+      "rank": 6,
+      "stars": 637,
+      "forks": 135,
+      "overall_score": 66
+    },
+    {
+      "full_name": "022122/academic-doc-generator",
+      "rank": 7,
+      "stars": 317,
+      "forks": 192,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Gururagavendra/gmail-cleaner",
+      "rank": 8,
+      "stars": 563,
+      "forks": 24,
+      "overall_score": 63
+    },
+    {
+      "full_name": "chr15m/runprompt",
+      "rank": 9,
+      "stars": 333,
+      "forks": 13,
+      "overall_score": 60
+    },
+    {
+      "full_name": "gavrielc/Nano-PDF",
+      "rank": 10,
+      "stars": 331,
+      "forks": 11,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2025-12-01T03:56:44.731Z"
+}

@@ -18,230 +18,226 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第48周
+### GitHub趋势排行榜 - 2025年第49周
 
-**📅 统计周期**: 2025-11-23 ~ 2025-11-29  
+**📅 统计周期**: 2025-11-30 ~ 2025-12-06  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 8,511  
-**🔄 更新时间**: 2025-11-29 23:59:59  
+**⭐ 总Star数**: 9,980  
+**🔄 更新时间**: 2025-12-06 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [llm-council](https://github.com/karpathy/llm-council) | 本地网页应用，通过OpenRouter把问题同时抛给多家LLM，让它们互评后由“主席”模型汇总，输出更高质量答案。 | 2,586 | 372 | Python | 🆕 |
-| 2 | [reader3](https://github.com/karpathy/reader3) | 极简自托管EPUB阅读器，一键分章复制内容到LLM，实现边读边与AI互动讨论。 | 1,997 | 222 | Python | 🆕 |
-| 3 | [supertonic](https://github.com/supertone-inc/supertonic) | 基于ONNX Runtime的超快离线TTS引擎，零依赖、零隐私泄露，可在树莓派实时朗读。 | 827 | 65 | Swift | 🆕 |
-| 4 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | 一站式短视频工厂：AI写脚本、TTS配音、AI绘图、自动字幕，一键批量生成完整视频项目，全流程可视化管理。 | 657 | 145 | Python | 🆕 |
-| 5 | [moss](https://github.com/hexagonal-sun/moss) | 用Rust重写的Linux兼容内核，可在Aarch64上原生运行BusyBox等Linux用户态程序，兼具异步现代... | 628 | 18 | Rust | 🆕 |
-| 6 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 腾讯开源的轻量级视频生成模型，仅8.3B参数即可在消费级GPU上生成高质量视频，大幅降低门槛。 | 522 | 34 | Python | 🆕 |
-| 7 | [claude-agent-server](https://github.com/dzhng/claude-agent-server) | 把Claude Code封装成WebSocket服务，一键部署到E2B沙箱，前端通过SDK即可实时驱动AI代理安全... | 355 | 30 | TypeScript | 🆕 |
-| 8 | [osgrep](https://github.com/Ryandonofrio3/osgrep) | 本地语义代码搜索工具，用自然语言快速定位“认证逻辑”等概念，无需联网，保护隐私。 | 326 | 19 | TypeScript | 🆕 |
-| 9 | [iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI) | 用SwiftUI 1:1复刻iOS系统应用（天气、日历、照片），验证AI生成代码能否达到像素级还原，为SwiftU... | 276 | 43 | Swift | 🆕 |
-| 10 | [LPLB](https://github.com/deepseek-ai/LPLB) | 基于线性规划的MoE并行负载均衡器，可动态重排专家并优化token分配，提升大模型训练效率。 | 337 | 14 | Python | 🆕 |
+| 1 | [Z-Image](https://github.com/Tongyi-MAI/Z-Image) | Z-Image（造相）是通义MAI开源的高效图像生成基础模型，采用单流扩散Transformer架构，兼顾速度与质量。 | 2,966 | 147 | Unknown | 🆕 |
+| 2 | [RedInk](https://github.com/HisMax/RedInk) | 一句话即可自动生成小红书风格图文，零门槛完成种草内容创作，统一视觉与文案。 | 2,062 | 414 | Python | 🆕 |
+| 3 | [DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) | DeepSeek-Math-V2是深度求索团队推出的数学大模型，专注复杂数学推理与解题，性能对标国际顶尖模型。 | 1,195 | 69 | Unknown | 🆕 |
+| 4 | [data-peek](https://github.com/Rohithgilla12/data-peek) | 轻量级桌面数据库客户端，秒开 PostgreSQL/MySQL/SQL Server，去臃肿，专注快速查看与编辑数据。 | 889 | 53 | TypeScript | 🆕 |
+| 5 | [Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) | 集中归档2025-11-26大埔宏福苑火灾的公开资料，提供可验证时间线与技术分析，方便学界、媒体及公众查阅。 | 687 | 87 | HTML | 🆕 |
+| 6 | [spyder-osint](https://github.com/portrret/spyder-osint) | 一键整合全球公开数据库，快速反查手机号、IP、社媒、邮箱、车牌等9类关键信息，大幅提升OSINT效率。 | 637 | 135 | Python | 🆕 |
+| 7 | [academic-doc-generator](https://github.com/022122/academic-doc-generator) | React 驱动的学术证件模拟器，可快速生成逼真的学生证/教师证，用于身份验证流程测试与 UI 演示。 | 317 | 192 | JavaScript | 🆕 |
+| 8 | [gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) | 本地运行的Web工具，一键批量退订、删除或标记Gmail邮件，零订阅费、零数据上传，专注隐私。 | 563 | 24 | Python | 🆕 |
+| 9 | [runprompt](https://github.com/chr15m/runprompt) | 单文件脚本，把LLM提示词、模型与配置打包成.prompt一键运行，简化大模型调用流程。 | 333 | 13 | Python | 🆕 |
+| 10 | [Nano-PDF](https://github.com/gavrielc/Nano-PDF) | 基于Gemini 3 Pro的CLI工具，用自然语言一句话即可修改或新增PDF幻灯片，无需手动排版。 | 331 | 11 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [llm-council](https://github.com/karpathy/llm-council) ![Star](https://img.shields.io/github/stars/karpathy/llm-council?style=social)
+#### 1. [Z-Image](https://github.com/Tongyi-MAI/Z-Image) ![Star](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)
 
-<img src="./images/2025/week-48/llm-council/1_header.jpg" alt="llm-council" width="500"/>
+<img src="./images/2025/week-49/z-image/1_official%20site-333399.svg" alt="Z-Image" width="500"/>
 
-**📝 项目简介**: 本地网页应用，通过OpenRouter把问题同时抛给多家LLM，让它们互评后由“主席”模型汇总，输出更高质量答案。
+**📝 项目简介**: Z-Image（造相）是通义MAI开源的高效图像生成基础模型，采用单流扩散Transformer架构，兼顾速度与质量。
 
 **✨ 核心特性**:
-- 多模型互评+主席裁决，提升回答可靠性
-- 本地运行，保护隐私
-- 支持任意OpenRouter模型，扩展灵活
+- 单流扩散Transformer，推理更快
+- 同等算力下生成质量优于多流方案
+- 官方提供完整训练与推理代码及报告
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,586
-- **🔀 Fork数**: 372
-- **👀 Watch数**: 2,586
+- **⭐ Star数**: 2,966
+- **🔀 Fork数**: 147
+- **👀 Watch数**: 2,966
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [RedInk](https://github.com/HisMax/RedInk) ![Star](https://img.shields.io/github/stars/HisMax/RedInk?style=social)
+
+<img src="./images/2025/week-49/redink/1_logo.png" alt="RedInk" width="500"/>
+
+**📝 项目简介**: 一句话即可自动生成小红书风格图文，零门槛完成种草内容创作，统一视觉与文案。
+
+**✨ 核心特性**:
+- 输入一句话秒出完整图文
+- AI自动匹配封面、排版与文案
+- 支持批量生成，风格一致
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,062
+- **🔀 Fork数**: 414
+- **👀 Watch数**: 2,062
 - **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, CSS, Shell, HTML, React
+- **💻 技术栈**: Python, Vue, TypeScript, CSS, Dockerfile, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [reader3](https://github.com/karpathy/reader3) ![Star](https://img.shields.io/github/stars/karpathy/reader3?style=social)
+#### 3. [DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math-V2?style=social)
 
-<img src="./images/2025/week-48/reader3/1_reader3.png" alt="reader3" width="500"/>
+<img src="./images/2025/week-49/deepseek-math-v2/1_logo.svg" alt="DeepSeek-Math-V2" width="500"/>
 
-**📝 项目简介**: 极简自托管EPUB阅读器，一键分章复制内容到LLM，实现边读边与AI互动讨论。
+**📝 项目简介**: DeepSeek-Math-V2是深度求索团队推出的数学大模型，专注复杂数学推理与解题，性能对标国际顶尖模型。
 
 **✨ 核心特性**:
-- 轻量级本地部署，零依赖
-- 章节级文本复制，方便投喂LLM
-- vibe coding示例，展示快速原型能力
+- 数学推理能力领先
+- 支持多步复杂解题
+- 开源可商用
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,997
-- **🔀 Fork数**: 222
-- **👀 Watch数**: 1,997
-- **📝 语言**: Python
-- **💻 技术栈**: Python, HTML
+- **⭐ Star数**: 1,195
+- **🔀 Fork数**: 69
+- **👀 Watch数**: 1,195
+- **📝 语言**: Unknown
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [supertonic](https://github.com/supertone-inc/supertonic) ![Star](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
+#### 4. [data-peek](https://github.com/Rohithgilla12/data-peek) ![Star](https://img.shields.io/github/stars/Rohithgilla12/data-peek?style=social)
 
-<img src="./images/2025/week-48/supertonic/1_supertonic_img_v02_4x.webp" alt="supertonic" width="500"/>
-
-**📝 项目简介**: 基于ONNX Runtime的超快离线TTS引擎，零依赖、零隐私泄露，可在树莓派实时朗读。
+**📝 项目简介**: 轻量级桌面数据库客户端，秒开 PostgreSQL/MySQL/SQL Server，去臃肿，专注快速查看与编辑数据。
 
 **✨ 核心特性**:
-- 毫秒级本地合成，无需网络
-- 跨十语言绑定，iOS/Android/嵌入式通吃
-- ONNX极致压缩，CPU占用极低
+- 2秒内启动，内存占用低
+- Monaco SQL 编辑器+自动补全
+- 多标签、可视化ERD、行内编辑
 
 **📊 项目统计**:
-- **⭐ Star数**: 827
-- **🔀 Fork数**: 65
-- **👀 Watch数**: 827
-- **📝 语言**: Swift
-- **🌐 官网**: [https://huggingface.co/spaces/Supertone/supertonic](https://huggingface.co/spaces/Supertone/supertonic)
-- **💻 技术栈**: Swift, JavaScript, C++, Java, C#, Go
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) ![Star](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=social)
-
-<img src="./images/2025/week-48/video-materials-autogen-workstation/1_数据.png" alt="Video-Materials-AutoGEN-Workstation" width="500"/>
-
-**📝 项目简介**: 一站式短视频工厂：AI写脚本、TTS配音、AI绘图、自动字幕，一键批量生成完整视频项目，全流程可视化管理。
-
-**✨ 核心特性**:
-- 模板化批量出片，脚本-画面-音频-字幕一键齐
-- Gemini+TTS自动改写并配带情绪人声
-- 图文分轨前端实时替换、即时预览
-
-**📊 项目统计**:
-- **⭐ Star数**: 657
-- **🔀 Fork数**: 145
-- **👀 Watch数**: 657
-- **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, HTML, CSS, Batchfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [moss](https://github.com/hexagonal-sun/moss) ![Star](https://img.shields.io/github/stars/hexagonal-sun/moss?style=social)
-
-<img src="./images/2025/week-48/moss/1_moss_demo.gif" alt="moss" width="500"/>
-
-**📝 项目简介**: 用Rust重写的Linux兼容内核，可在Aarch64上原生运行BusyBox等Linux用户态程序，兼具异步现代架构与跨平台HAL。
-
-**✨ 核心特性**:
-- Linux二进制兼容，直接运行业已编译的BusyBox
-- Rust+异步核心，内存安全且高性能
-- 模块化HAL，轻松移植x86_64/RISC-V等架构
-
-**📊 项目统计**:
-- **⭐ Star数**: 628
-- **🔀 Fork数**: 18
-- **👀 Watch数**: 628
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Assembly, Shell, Linker Script, RenderScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=social)
-
-**📝 项目简介**: 腾讯开源的轻量级视频生成模型，仅8.3B参数即可在消费级GPU上生成高质量视频，大幅降低门槛。
-
-**✨ 核心特性**:
-- 8.3B参数即可媲美大模型效果
-- 消费级GPU流畅运行
-- 支持文本/图片到视频双模态生成
-
-**📊 项目统计**:
-- **⭐ Star数**: 522
-- **🔀 Fork数**: 34
-- **👀 Watch数**: 522
-- **📝 语言**: Python
-- **🌐 官网**: [https://hunyuan.tencent.com/video/zh?tabIndex=0](https://hunyuan.tencent.com/video/zh?tabIndex=0)
-- **💻 技术栈**: Python, image-to-video, text-to-video, video-generation, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [claude-agent-server](https://github.com/dzhng/claude-agent-server) ![Star](https://img.shields.io/github/stars/dzhng/claude-agent-server?style=social)
-
-**📝 项目简介**: 把Claude Code封装成WebSocket服务，一键部署到E2B沙箱，前端通过SDK即可实时驱动AI代理安全执行任务。
-
-**✨ 核心特性**:
-- 沙箱隔离运行，安全无侵入
-- WebSocket双向实时通信
-- 配套TypeScript客户端，三行代码接入
-
-**📊 项目统计**:
-- **⭐ Star数**: 355
-- **🔀 Fork数**: 30
-- **👀 Watch数**: 355
+- **⭐ Star数**: 889
+- **🔀 Fork数**: 53
+- **👀 Watch数**: 889
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://x.com/dzhng/status/1991154972558581889?s=20](https://x.com/dzhng/status/1991154972558581889?s=20)
-- **💻 技术栈**: TypeScript, JavaScript, agent, ai, claude, claude-agent-sdk
+- **🌐 官网**: [https://www.datapeek.dev/](https://www.datapeek.dev/)
+- **💻 技术栈**: TypeScript, MDX, CSS, JavaScript, HTML, developer-tools
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [osgrep](https://github.com/Ryandonofrio3/osgrep) ![Star](https://img.shields.io/github/stars/Ryandonofrio3/osgrep?style=social)
+#### 5. [Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) ![Star](https://img.shields.io/github/stars/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary?style=social)
 
-<img src="./images/2025/week-48/osgrep/1_license-apache%202.0-blue.svg" alt="osgrep" width="500"/>
-
-**📝 项目简介**: 本地语义代码搜索工具，用自然语言快速定位“认证逻辑”等概念，无需联网，保护隐私。
+**📝 项目简介**: 集中归档2025-11-26大埔宏福苑火灾的公开资料，提供可验证时间线与技术分析，方便学界、媒体及公众查阅。
 
 **✨ 核心特性**:
-- 自然语言搜代码
-- 100%本地运行
-- 与编码助手无缝集成
+- 整合Threads/IG/Telegram等分散信息
+- 开源可验证的火灾时间线
+- 涵盖工程标准与社区支援资料
 
 **📊 项目统计**:
-- **⭐ Star数**: 326
-- **🔀 Fork数**: 19
-- **👀 Watch数**: 326
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Shell, React
+- **⭐ Star数**: 687
+- **🔀 Fork数**: 87
+- **👀 Watch数**: 687
+- **📝 语言**: HTML
+- **🌐 官网**: [https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/](https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/)
+- **💻 技术栈**: HTML, Python, Shell, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI) ![Star](https://img.shields.io/github/stars/PallavAg/iOS-Clone-SwiftUI?style=social)
+#### 6. [spyder-osint](https://github.com/portrret/spyder-osint) ![Star](https://img.shields.io/github/stars/portrret/spyder-osint?style=social)
 
-**📝 项目简介**: 用SwiftUI 1:1复刻iOS系统应用（天气、日历、照片），验证AI生成代码能否达到像素级还原，为SwiftUI学习提供高质量参考实现。
+<img src="./images/2025/week-49/spyder-osint/1_menu.jpg" alt="spyder-osint" width="500"/>
 
-**✨ 核心特性**:
-- Gemini 3.0 Pro一键生成，展示AI代码上限
-- 已还原天气/日历/照片三大原生App，UI精度高
-- 纯SwiftUI实现，零Storyboard，代码简洁现代
-
-**📊 项目统计**:
-- **⭐ Star数**: 276
-- **🔀 Fork数**: 43
-- **👀 Watch数**: 276
-- **📝 语言**: Swift
-- **🌐 官网**: [https://twitter.com/pallavmac](https://twitter.com/pallavmac)
-- **💻 技术栈**: Swift, ios, swiftui
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [LPLB](https://github.com/deepseek-ai/LPLB) ![Star](https://img.shields.io/github/stars/deepseek-ai/LPLB?style=social)
-
-**📝 项目简介**: 基于线性规划的MoE并行负载均衡器，可动态重排专家并优化token分配，提升大模型训练效率。
+**📝 项目简介**: 一键整合全球公开数据库，快速反查手机号、IP、社媒、邮箱、车牌等9类关键信息，大幅提升OSINT效率。
 
 **✨ 核心特性**:
-- 动态重排专家，实时适配负载
-- 线性规划求解最优token分配
-- 支持拓扑感知的副本构建
+- 9大搜索维度一站式完成
+- 内置邮件轰炸与域名深度解析
+- 支持欧美亚车牌与多语言姓名反查
 
 **📊 项目统计**:
-- **⭐ Star数**: 337
-- **🔀 Fork数**: 14
-- **👀 Watch数**: 337
+- **⭐ Star数**: 637
+- **🔀 Fork数**: 135
+- **👀 Watch数**: 637
 - **📝 语言**: Python
-- **💻 技术栈**: Python, C++, Cuda, Shell, Redis
+- **💻 技术栈**: Python, Batchfile, Shell, dox, doxing, open-source-intelligence
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [academic-doc-generator](https://github.com/022122/academic-doc-generator) ![Star](https://img.shields.io/github/stars/022122/academic-doc-generator?style=social)
+
+**📝 项目简介**: React 驱动的学术证件模拟器，可快速生成逼真的学生证/教师证，用于身份验证流程测试与 UI 演示。
+
+**✨ 核心特性**:
+- 一键生成高清学生/教职工证件
+- 支持 Cloudflare Pages 免费托管上线
+- 专为验证流程与界面测试优化
+
+**📊 项目统计**:
+- **⭐ Star数**: 317
+- **🔀 Fork数**: 192
+- **👀 Watch数**: 317
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) ![Star](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner?style=social)
+
+<img src="./images/2025/week-49/gmail-cleaner/1_demo.gif" alt="gmail-cleaner" width="500"/>
+
+**📝 项目简介**: 本地运行的Web工具，一键批量退订、删除或标记Gmail邮件，零订阅费、零数据上传，专注隐私。
+
+**✨ 核心特性**:
+- 完全免费，无需订阅
+- 本地执行，数据不上传
+- 支持一键批量退订、删除、标已读
+
+**📊 项目统计**:
+- **⭐ Star数**: 563
+- **🔀 Fork数**: 24
+- **👀 Watch数**: 563
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript, HTML, CSS, Dockerfile, Procfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [runprompt](https://github.com/chr15m/runprompt) ![Star](https://img.shields.io/github/stars/chr15m/runprompt?style=social)
+
+**📝 项目简介**: 单文件脚本，把LLM提示词、模型与配置打包成.prompt一键运行，简化大模型调用流程。
+
+**✨ 核心特性**:
+- 单文件零依赖
+- 支持变量模板与多模型
+- curl即用无需安装
+
+**📊 项目统计**:
+- **⭐ Star数**: 333
+- **🔀 Fork数**: 13
+- **👀 Watch数**: 333
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [Nano-PDF](https://github.com/gavrielc/Nano-PDF) ![Star](https://img.shields.io/github/stars/gavrielc/Nano-PDF?style=social)
+
+<img src="./images/2025/week-49/nano-pdf/1_nano-pdf.svg" alt="Nano-PDF" width="500"/>
+
+**📝 项目简介**: 基于Gemini 3 Pro的CLI工具，用自然语言一句话即可修改或新增PDF幻灯片，无需手动排版。
+
+**✨ 核心特性**:
+- 自然语言改图/增页
+- 自动匹配原稿视觉风格
+- 开源轻量，本地一键安装
+
+**📊 项目统计**:
+- **⭐ Star数**: 331
+- **🔀 Fork数**: 11
+- **👀 Watch数**: 331
+- **📝 语言**: Python
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -250,19 +246,20 @@
 
 **🔥 热门语言**:
 1. **Python** (5 个项目)
-2. **Swift** (2 个项目)
-3. **TypeScript** (2 个项目)
-4. **Rust** (1 个项目)
+2. **Unknown** (2 个项目)
+3. **TypeScript** (1 个项目)
+4. **HTML** (1 个项目)
+5. **JavaScript** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ios (2)
-2. cpp (1)
-3. csharp (1)
-4. go (1)
-5. java (1)
-6. lightweight (1)
-7. nodejs (1)
-8. on-device (1)
+1. developer-tools (1)
+2. electron (1)
+3. dox (1)
+4. doxing (1)
+5. open-source-intelligence (1)
+6. osint (1)
+7. osint-python (1)
+8. osint-tool (1)
 
 
 <!-- TRENDING-END -->
@@ -272,6 +269,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
 | 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
