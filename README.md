@@ -18,226 +18,225 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第49周
+### GitHub趋势排行榜 - 2025年第50周
 
-**📅 统计周期**: 2025-11-30 ~ 2025-12-06  
+**📅 统计周期**: 2025-12-07 ~ 2025-12-13  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 9,980  
-**🔄 更新时间**: 2025-12-06 23:59:59  
+**⭐ 总Star数**: 5,058  
+**🔄 更新时间**: 2025-12-13 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [Z-Image](https://github.com/Tongyi-MAI/Z-Image) | Z-Image（造相）是通义MAI开源的高效图像生成基础模型，采用单流扩散Transformer架构，兼顾速度与质量。 | 2,966 | 147 | Unknown | 🆕 |
-| 2 | [RedInk](https://github.com/HisMax/RedInk) | 一句话即可自动生成小红书风格图文，零门槛完成种草内容创作，统一视觉与文案。 | 2,062 | 414 | Python | 🆕 |
-| 3 | [DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) | DeepSeek-Math-V2是深度求索团队推出的数学大模型，专注复杂数学推理与解题，性能对标国际顶尖模型。 | 1,195 | 69 | Unknown | 🆕 |
-| 4 | [data-peek](https://github.com/Rohithgilla12/data-peek) | 轻量级桌面数据库客户端，秒开 PostgreSQL/MySQL/SQL Server，去臃肿，专注快速查看与编辑数据。 | 889 | 53 | TypeScript | 🆕 |
-| 5 | [Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) | 集中归档2025-11-26大埔宏福苑火灾的公开资料，提供可验证时间线与技术分析，方便学界、媒体及公众查阅。 | 687 | 87 | HTML | 🆕 |
-| 6 | [spyder-osint](https://github.com/portrret/spyder-osint) | 一键整合全球公开数据库，快速反查手机号、IP、社媒、邮箱、车牌等9类关键信息，大幅提升OSINT效率。 | 637 | 135 | Python | 🆕 |
-| 7 | [academic-doc-generator](https://github.com/022122/academic-doc-generator) | React 驱动的学术证件模拟器，可快速生成逼真的学生证/教师证，用于身份验证流程测试与 UI 演示。 | 317 | 192 | JavaScript | 🆕 |
-| 8 | [gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) | 本地运行的Web工具，一键批量退订、删除或标记Gmail邮件，零订阅费、零数据上传，专注隐私。 | 563 | 24 | Python | 🆕 |
-| 9 | [runprompt](https://github.com/chr15m/runprompt) | 单文件脚本，把LLM提示词、模型与配置打包成.prompt一键运行，简化大模型调用流程。 | 333 | 13 | Python | 🆕 |
-| 10 | [Nano-PDF](https://github.com/gavrielc/Nano-PDF) | 基于Gemini 3 Pro的CLI工具，用自然语言一句话即可修改或新增PDF幻灯片，无需手动排版。 | 331 | 11 | Python | 🆕 |
+| 1 | [react2shell-scanner](https://github.com/assetnote/react2shell-scanner) | 命令行工具，精准检测Next.js RSC远程代码执行漏洞CVE-2025-55182与CVE-2025-6647... | 1,067 | 123 | Python | 🆕 |
+| 2 | [CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) | 公开React Flight协议远程代码执行漏洞(CVE-2025-55182)的完整利用链，供安全研究者验证与防御。 | 704 | 195 | JavaScript | 🆕 |
+| 3 | [CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) | 公开CVE-2025-55182的完整分析与远程代码执行PoC，揭示React Server Functions原... | 643 | 103 | Python | 🆕 |
+| 4 | [tgbot-verify](https://github.com/PastKing/tgbot-verify) | Telegram机器人，一键自动完成SheerID学生/教师身份认证，省去繁琐人工提交步骤。 | 338 | 223 | Python | 🆕 |
+| 5 | [norish](https://github.com/norish-recipes/norish) | Norish 是一款可自托管的实时食谱应用，方便家庭与好友共建共享菜谱、规划餐食，数据完全自主掌控。 | 323 | 18 | TypeScript | 🆕 |
+| 6 | [React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) | 公开React2Shell CVE-2025-55182的3套原始PoC，帮助开发者快速验证并修复Next.js远... | 519 | 37 | JavaScript | 🆕 |
+| 7 | [mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) | 终端一键扫描并清理macOS缓存、日志、垃圾文件，释放磁盘空间，开源免费，无需图形界面。 | 457 | 41 | TypeScript | 🆕 |
+| 8 | [GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent) | 用自然语言对话即可让AI自动抓取Google Maps商家信息，并整理到Google Sheets，一键完成潜在客... | 329 | 101 | Unknown | 🆕 |
+| 9 | [LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) | 实时音频驱动、无限时长流式数字人视频生成方案，支持低延迟直播级应用，代码将于12月初开源。 | 368 | 28 | Unknown | 🆕 |
+| 10 | [RSC_Detector](https://github.com/mrknow001/RSC_Detector) | Chrome插件，一键识别网页是否使用React Server Components，并演示相关漏洞利用，供安全研究。 | 310 | 43 | JavaScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [Z-Image](https://github.com/Tongyi-MAI/Z-Image) ![Star](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)
+#### 1. [react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ![Star](https://img.shields.io/github/stars/assetnote/react2shell-scanner?style=social)
 
-<img src="./images/2025/week-49/z-image/1_official%20site-333399.svg" alt="Z-Image" width="500"/>
-
-**📝 项目简介**: Z-Image（造相）是通义MAI开源的高效图像生成基础模型，采用单流扩散Transformer架构，兼顾速度与质量。
+**📝 项目简介**: 命令行工具，精准检测Next.js RSC远程代码执行漏洞CVE-2025-55182与CVE-2025-66478，一键验证应用是否易受攻击。
 
 **✨ 核心特性**:
-- 单流扩散Transformer，推理更快
-- 同等算力下生成质量优于多流方案
-- 官方提供完整训练与推理代码及报告
+- 基于多部分POST的PoC高保真检测
+- 覆盖React Server Components与Next.js RCE双CVE
+- 开源命令行，集成CI/CD即可批量扫描
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,966
-- **🔀 Fork数**: 147
-- **👀 Watch数**: 2,966
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [RedInk](https://github.com/HisMax/RedInk) ![Star](https://img.shields.io/github/stars/HisMax/RedInk?style=social)
-
-<img src="./images/2025/week-49/redink/1_logo.png" alt="RedInk" width="500"/>
-
-**📝 项目简介**: 一句话即可自动生成小红书风格图文，零门槛完成种草内容创作，统一视觉与文案。
-
-**✨ 核心特性**:
-- 输入一句话秒出完整图文
-- AI自动匹配封面、排版与文案
-- 支持批量生成，风格一致
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,062
-- **🔀 Fork数**: 414
-- **👀 Watch数**: 2,062
+- **⭐ Star数**: 1,067
+- **🔀 Fork数**: 123
+- **👀 Watch数**: 1,067
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Vue, TypeScript, CSS, Dockerfile, HTML
+- **💻 技术栈**: Python, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math-V2?style=social)
+#### 2. [CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ![Star](https://img.shields.io/github/stars/ejpir/CVE-2025-55182-research?style=social)
 
-<img src="./images/2025/week-49/deepseek-math-v2/1_logo.svg" alt="DeepSeek-Math-V2" width="500"/>
-
-**📝 项目简介**: DeepSeek-Math-V2是深度求索团队推出的数学大模型，专注复杂数学推理与解题，性能对标国际顶尖模型。
+**📝 项目简介**: 公开React Flight协议远程代码执行漏洞(CVE-2025-55182)的完整利用链，供安全研究者验证与防御。
 
 **✨ 核心特性**:
-- 数学推理能力领先
-- 支持多步复杂解题
-- 开源可商用
+- 提供稳定RCE POC
+- 含路径穿越+伪造块注入+$B处理器组合利用
+- 作者承诺持续更新新变种
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,195
-- **🔀 Fork数**: 69
-- **👀 Watch数**: 1,195
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [data-peek](https://github.com/Rohithgilla12/data-peek) ![Star](https://img.shields.io/github/stars/Rohithgilla12/data-peek?style=social)
-
-**📝 项目简介**: 轻量级桌面数据库客户端，秒开 PostgreSQL/MySQL/SQL Server，去臃肿，专注快速查看与编辑数据。
-
-**✨ 核心特性**:
-- 2秒内启动，内存占用低
-- Monaco SQL 编辑器+自动补全
-- 多标签、可视化ERD、行内编辑
-
-**📊 项目统计**:
-- **⭐ Star数**: 889
-- **🔀 Fork数**: 53
-- **👀 Watch数**: 889
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://www.datapeek.dev/](https://www.datapeek.dev/)
-- **💻 技术栈**: TypeScript, MDX, CSS, JavaScript, HTML, developer-tools
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) ![Star](https://img.shields.io/github/stars/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary?style=social)
-
-**📝 项目简介**: 集中归档2025-11-26大埔宏福苑火灾的公开资料，提供可验证时间线与技术分析，方便学界、媒体及公众查阅。
-
-**✨ 核心特性**:
-- 整合Threads/IG/Telegram等分散信息
-- 开源可验证的火灾时间线
-- 涵盖工程标准与社区支援资料
-
-**📊 项目统计**:
-- **⭐ Star数**: 687
-- **🔀 Fork数**: 87
-- **👀 Watch数**: 687
-- **📝 语言**: HTML
-- **🌐 官网**: [https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/](https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/)
-- **💻 技术栈**: HTML, Python, Shell, CSS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [spyder-osint](https://github.com/portrret/spyder-osint) ![Star](https://img.shields.io/github/stars/portrret/spyder-osint?style=social)
-
-<img src="./images/2025/week-49/spyder-osint/1_menu.jpg" alt="spyder-osint" width="500"/>
-
-**📝 项目简介**: 一键整合全球公开数据库，快速反查手机号、IP、社媒、邮箱、车牌等9类关键信息，大幅提升OSINT效率。
-
-**✨ 核心特性**:
-- 9大搜索维度一站式完成
-- 内置邮件轰炸与域名深度解析
-- 支持欧美亚车牌与多语言姓名反查
-
-**📊 项目统计**:
-- **⭐ Star数**: 637
-- **🔀 Fork数**: 135
-- **👀 Watch数**: 637
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Batchfile, Shell, dox, doxing, open-source-intelligence
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [academic-doc-generator](https://github.com/022122/academic-doc-generator) ![Star](https://img.shields.io/github/stars/022122/academic-doc-generator?style=social)
-
-**📝 项目简介**: React 驱动的学术证件模拟器，可快速生成逼真的学生证/教师证，用于身份验证流程测试与 UI 演示。
-
-**✨ 核心特性**:
-- 一键生成高清学生/教职工证件
-- 支持 Cloudflare Pages 免费托管上线
-- 专为验证流程与界面测试优化
-
-**📊 项目统计**:
-- **⭐ Star数**: 317
-- **🔀 Fork数**: 192
-- **👀 Watch数**: 317
+- **⭐ Star数**: 704
+- **🔀 Fork数**: 195
+- **👀 Watch数**: 704
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, HTML, React
+- **💻 技术栈**: JavaScript, React, Express, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) ![Star](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner?style=social)
+#### 3. [CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ![Star](https://img.shields.io/github/stars/msanft/CVE-2025-55182?style=social)
 
-<img src="./images/2025/week-49/gmail-cleaner/1_demo.gif" alt="gmail-cleaner" width="500"/>
-
-**📝 项目简介**: 本地运行的Web工具，一键批量退订、删除或标记Gmail邮件，零订阅费、零数据上传，专注隐私。
+**📝 项目简介**: 公开CVE-2025-55182的完整分析与远程代码执行PoC，揭示React Server Functions原型链缺陷，帮助开发者快速验证并修复Next.js等框架的RCE风险。
 
 **✨ 核心特性**:
-- 完全免费，无需订阅
-- 本地执行，数据不上传
-- 支持一键批量退订、删除、标已读
+- 提供可直接复现的RCE PoC
+- 覆盖React/Next.js Server Functions攻击面
+- 含详细漏洞原理与修复建议
 
 **📊 项目统计**:
-- **⭐ Star数**: 563
-- **🔀 Fork数**: 24
-- **👀 Watch数**: 563
+- **⭐ Star数**: 643
+- **🔀 Fork数**: 103
+- **👀 Watch数**: 643
 - **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, HTML, CSS, Dockerfile, Procfile
+- **💻 技术栈**: Python, TypeScript, JavaScript, CSS, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [runprompt](https://github.com/chr15m/runprompt) ![Star](https://img.shields.io/github/stars/chr15m/runprompt?style=social)
+#### 4. [tgbot-verify](https://github.com/PastKing/tgbot-verify) ![Star](https://img.shields.io/github/stars/PastKing/tgbot-verify?style=social)
 
-**📝 项目简介**: 单文件脚本，把LLM提示词、模型与配置打包成.prompt一键运行，简化大模型调用流程。
+<img src="./images/2025/week-50/tgbot-verify/1_license-mit-blue.svg" alt="tgbot-verify" width="500"/>
+
+**📝 项目简介**: Telegram机器人，一键自动完成SheerID学生/教师身份认证，省去繁琐人工提交步骤。
 
 **✨ 核心特性**:
-- 单文件零依赖
-- 支持变量模板与多模型
-- curl即用无需安装
+- 支持Gemini、ChatGPT、Bolt.new等多平台认证
+- 全自动模拟用户操作生成并提交材料
+- 开源可自建，个人免费使用
 
 **📊 项目统计**:
-- **⭐ Star数**: 333
-- **🔀 Fork数**: 13
-- **👀 Watch数**: 333
+- **⭐ Star数**: 338
+- **🔀 Fork数**: 223
+- **👀 Watch数**: 338
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell
+- **💻 技术栈**: Python, HTML, Dockerfile, Docker, MySQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [Nano-PDF](https://github.com/gavrielc/Nano-PDF) ![Star](https://img.shields.io/github/stars/gavrielc/Nano-PDF?style=social)
+#### 5. [norish](https://github.com/norish-recipes/norish) ![Star](https://img.shields.io/github/stars/norish-recipes/norish?style=social)
 
-<img src="./images/2025/week-49/nano-pdf/1_nano-pdf.svg" alt="Nano-PDF" width="500"/>
+<img src="./images/2025/week-50/norish/1_mockup-norish.png" alt="norish" width="500"/>
 
-**📝 项目简介**: 基于Gemini 3 Pro的CLI工具，用自然语言一句话即可修改或新增PDF幻灯片，无需手动排版。
+**📝 项目简介**: Norish 是一款可自托管的实时食谱应用，方便家庭与好友共建共享菜谱、规划餐食，数据完全自主掌控。
 
 **✨ 核心特性**:
-- 自然语言改图/增页
-- 自动匹配原稿视觉风格
-- 开源轻量，本地一键安装
+- 实时协作，多人同时编辑菜谱
+- 自托管部署，数据隐私安全
+- 内置餐食计划，快速生成购物清单
 
 **📊 项目统计**:
-- **⭐ Star数**: 331
-- **🔀 Fork数**: 11
-- **👀 Watch数**: 331
-- **📝 语言**: Python
-- **💻 技术栈**: Python
+- **⭐ Star数**: 323
+- **🔀 Fork数**: 18
+- **👀 Watch数**: 323
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, food, meal-planner
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ![Star](https://img.shields.io/github/stars/lachlan2k/React2Shell-CVE-2025-55182-original-poc?style=social)
+
+**📝 项目简介**: 公开React2Shell CVE-2025-55182的3套原始PoC，帮助开发者快速验证并修复Next.js远程代码执行漏洞。
+
+**✨ 核心特性**:
+- 首个RCE验证代码
+- 已提交Meta的官方PoC
+- 覆盖Webpack dev环境
+
+**📊 项目统计**:
+- **⭐ Star数**: 519
+- **🔀 Fork数**: 37
+- **👀 Watch数**: 519
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, cve-2025-55182, react2shell, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ![Star](https://img.shields.io/github/stars/guhcostan/mac-cleaner-cli?style=social)
+
+<img src="./images/2025/week-50/mac-cleaner-cli/1_badge.svg" alt="mac-cleaner-cli" width="500"/>
+
+**📝 项目简介**: 终端一键扫描并清理macOS缓存、日志、垃圾文件，释放磁盘空间，开源免费，无需图形界面。
+
+**✨ 核心特性**:
+- 支持缓存/日志/大文件等多类垃圾扫描
+- 提供删除前预览与白名单保护，可Docker运行
+- 轻量CLI，一键安装，自动化脚本友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 457
+- **🔀 Fork数**: 41
+- **👀 Watch数**: 457
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Node.js, Docker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent) ![Star](https://img.shields.io/github/stars/crowmd/GoogleMapAIagent?style=social)
+
+<img src="./images/2025/week-50/googlemapaiagent/1_lisans-mit-yellow.svg" alt="GoogleMapAIagent" width="500"/>
+
+**📝 项目简介**: 用自然语言对话即可让AI自动抓取Google Maps商家信息，并整理到Google Sheets，一键完成潜在客户挖掘。
+
+**✨ 核心特性**:
+- 自然语言指令搜索
+- 自动数据抓取与丰富
+- 直接导出Google Sheets
+
+**📊 项目统计**:
+- **⭐ Star数**: 329
+- **🔀 Fork数**: 101
+- **👀 Watch数**: 329
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ![Star](https://img.shields.io/github/stars/Alibaba-Quark/LiveAvatar?style=social)
+
+<img src="./images/2025/week-50/liveavatar/1_demo.png" alt="LiveAvatar" width="500"/>
+
+**📝 项目简介**: 实时音频驱动、无限时长流式数字人视频生成方案，支持低延迟直播级应用，代码将于12月初开源。
+
+**✨ 核心特性**:
+- 无限长度流式生成
+- 毫秒级唇音同步
+- 单张肖像即可驱动
+
+**📊 项目统计**:
+- **⭐ Star数**: 368
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 368
+- **📝 语言**: Unknown
+- **💻 技术栈**: Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [RSC_Detector](https://github.com/mrknow001/RSC_Detector) ![Star](https://img.shields.io/github/stars/mrknow001/RSC_Detector?style=social)
+
+<img src="./images/2025/week-50/rsc_detector/1_img1.png" alt="RSC_Detector" width="500"/>
+
+**📝 项目简介**: Chrome插件，一键识别网页是否使用React Server Components，并演示相关漏洞利用，供安全研究。
+
+**✨ 核心特性**:
+- 被动扫描自动标RSC指纹
+- 集成CVE-2025-55182 PoC验证
+- 开源免费，专注教育研究
+
+**📊 项目统计**:
+- **⭐ Star数**: 310
+- **🔀 Fork数**: 43
+- **👀 Watch数**: 310
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, HTML, React, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -245,21 +244,18 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (5 个项目)
-2. **Unknown** (2 个项目)
-3. **TypeScript** (1 个项目)
-4. **HTML** (1 个项目)
-5. **JavaScript** (1 个项目)
+1. **Python** (3 个项目)
+2. **JavaScript** (3 个项目)
+3. **TypeScript** (2 个项目)
+4. **Unknown** (2 个项目)
 
 **🏷️ 热门话题**:
-1. developer-tools (1)
-2. electron (1)
-3. dox (1)
-4. doxing (1)
-5. open-source-intelligence (1)
-6. osint (1)
-7. osint-python (1)
-8. osint-tool (1)
+1. food (1)
+2. meal-planner (1)
+3. recipes (1)
+4. self-hosted (1)
+5. cve-2025-55182 (1)
+6. react2shell (1)
 
 
 <!-- TRENDING-END -->
@@ -269,6 +265,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第50周",
+    "year": 2025,
+    "week": 50,
+    "week_range": {
+      "start": "2025-12-07",
+      "end": "2025-12-13"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-12-13 23:59:59",
+    "next_update": "2025-12-20"
+  },
+  "repositories": [
+    {
+      "full_name": "assetnote/react2shell-scanner",
+      "rank": 1,
+      "stars": 1067,
+      "forks": 123,
+      "overall_score": 68
+    },
+    {
+      "full_name": "ejpir/CVE-2025-55182-research",
+      "rank": 2,
+      "stars": 704,
+      "forks": 195,
+      "overall_score": 67
+    },
+    {
+      "full_name": "msanft/CVE-2025-55182",
+      "rank": 3,
+      "stars": 643,
+      "forks": 103,
+      "overall_score": 65
+    },
+    {
+      "full_name": "PastKing/tgbot-verify",
+      "rank": 4,
+      "stars": 338,
+      "forks": 223,
+      "overall_score": 64
+    },
+    {
+      "full_name": "norish-recipes/norish",
+      "rank": 5,
+      "stars": 323,
+      "forks": 18,
+      "overall_score": 63
+    },
+    {
+      "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+      "rank": 6,
+      "stars": 519,
+      "forks": 37,
+      "overall_score": 62
+    },
+    {
+      "full_name": "guhcostan/mac-cleaner-cli",
+      "rank": 7,
+      "stars": 457,
+      "forks": 41,
+      "overall_score": 62
+    },
+    {
+      "full_name": "crowmd/GoogleMapAIagent",
+      "rank": 8,
+      "stars": 329,
+      "forks": 101,
+      "overall_score": 62
+    },
+    {
+      "full_name": "Alibaba-Quark/LiveAvatar",
+      "rank": 9,
+      "stars": 368,
+      "forks": 28,
+      "overall_score": 61
+    },
+    {
+      "full_name": "mrknow001/RSC_Detector",
+      "rank": 10,
+      "stars": 310,
+      "forks": 43,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2025-12-08T03:27:13.215Z"
+}
