@@ -18,225 +18,226 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第50周
+### GitHub趋势排行榜 - 2025年第51周
 
-**📅 统计周期**: 2025-12-07 ~ 2025-12-13  
+**📅 统计周期**: 2025-12-14 ~ 2025-12-20  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,058  
-**🔄 更新时间**: 2025-12-13 23:59:59  
+**⭐ 总Star数**: 5,794  
+**🔄 更新时间**: 2025-12-20 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [react2shell-scanner](https://github.com/assetnote/react2shell-scanner) | 命令行工具，精准检测Next.js RSC远程代码执行漏洞CVE-2025-55182与CVE-2025-6647... | 1,067 | 123 | Python | 🆕 |
-| 2 | [CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) | 公开React Flight协议远程代码执行漏洞(CVE-2025-55182)的完整利用链，供安全研究者验证与防御。 | 704 | 195 | JavaScript | 🆕 |
-| 3 | [CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) | 公开CVE-2025-55182的完整分析与远程代码执行PoC，揭示React Server Functions原... | 643 | 103 | Python | 🆕 |
-| 4 | [tgbot-verify](https://github.com/PastKing/tgbot-verify) | Telegram机器人，一键自动完成SheerID学生/教师身份认证，省去繁琐人工提交步骤。 | 338 | 223 | Python | 🆕 |
-| 5 | [norish](https://github.com/norish-recipes/norish) | Norish 是一款可自托管的实时食谱应用，方便家庭与好友共建共享菜谱、规划餐食，数据完全自主掌控。 | 323 | 18 | TypeScript | 🆕 |
-| 6 | [React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) | 公开React2Shell CVE-2025-55182的3套原始PoC，帮助开发者快速验证并修复Next.js远... | 519 | 37 | JavaScript | 🆕 |
-| 7 | [mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) | 终端一键扫描并清理macOS缓存、日志、垃圾文件，释放磁盘空间，开源免费，无需图形界面。 | 457 | 41 | TypeScript | 🆕 |
-| 8 | [GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent) | 用自然语言对话即可让AI自动抓取Google Maps商家信息，并整理到Google Sheets，一键完成潜在客... | 329 | 101 | Unknown | 🆕 |
-| 9 | [LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) | 实时音频驱动、无限时长流式数字人视频生成方案，支持低延迟直播级应用，代码将于12月初开源。 | 368 | 28 | Unknown | 🆕 |
-| 10 | [RSC_Detector](https://github.com/mrknow001/RSC_Detector) | Chrome插件，一键识别网页是否使用React Server Components，并演示相关漏洞利用，供安全研究。 | 310 | 43 | JavaScript | 🆕 |
+| 1 | [API-mega-list](https://github.com/cporter202/API-mega-list) | 一站式收录海量可用API，开发者无需四处搜寻即可快速找到所需接口，显著降低集成成本。 | 967 | 216 | JavaScript | 🆕 |
+| 2 | [Gla-deploy](https://github.com/eooce/Gla-deploy) | 一键脚本合集，帮助用户在主流云平台上快速部署各类代理与科学上网服务，省去繁琐配置。 | 802 | 167 | JavaScript | 🆕 |
+| 3 | [scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) | 一站式收录可直接调用的网页抓取与数据API，帮助开发者零配置快速集成公开数据源，实现从脚本到完整应用的自动化。 | 785 | 173 | JavaScript | 🆕 |
+| 4 | [QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer) | 上传QQ群聊天记录，一键生成带热词、活跃度、表情包等多维度可视化年度报告，支持AI点评与在线/本地双模式。 | 411 | 33 | Python | 🆕 |
+| 5 | [android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) | 开源AI Agent库，让AI直接操控原生Android App，自动完成跨应用任务，无需Root或改代码。 | 657 | 74 | Python | 🆕 |
+| 6 | [GLM-ASR](https://github.com/zai-org/GLM-ASR) | 15亿参数开源语音识别模型，体积小巧却超越Whisper V3，方言与复杂场景鲁棒性突出。 | 503 | 44 | Python | 🆕 |
+| 7 | [clash-ip-checker](https://github.com/tombcato/clash-ip-checker) | 自动遍历Clash节点，用浏览器指纹检测IP纯净度与风险，并重命名标记，一键生成带评分的新配置。 | 573 | 38 | Python | 🆕 |
+| 8 | [claude-island](https://github.com/farouqaldori/claude-island) | macOS菜单栏小程序，把Claude Code CLI的进度与通知做成类似Dynamic Island的悬浮提示... | 392 | 35 | Swift | 🆕 |
+| 9 | [hn-time-capsule](https://github.com/karpathy/hn-time-capsule) | 用LLM复盘10年前Hacker News热帖，评估当时讨论的先见之明并生成可视化报告。 | 383 | 38 | Python | 🆕 |
+| 10 | [stoolap](https://github.com/stoolap/stoolap) | Stoolap是一款用Rust编写的现代嵌入式SQL数据库，主打轻量、零配置、事务安全，适合直接嵌入应用内部使用。 | 321 | 9 | Rust | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ![Star](https://img.shields.io/github/stars/assetnote/react2shell-scanner?style=social)
+#### 1. [API-mega-list](https://github.com/cporter202/API-mega-list) ![Star](https://img.shields.io/github/stars/cporter202/API-mega-list?style=social)
 
-**📝 项目简介**: 命令行工具，精准检测Next.js RSC远程代码执行漏洞CVE-2025-55182与CVE-2025-66478，一键验证应用是否易受攻击。
-
-**✨ 核心特性**:
-- 基于多部分POST的PoC高保真检测
-- 覆盖React Server Components与Next.js RCE双CVE
-- 开源命令行，集成CI/CD即可批量扫描
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,067
-- **🔀 Fork数**: 123
-- **👀 Watch数**: 1,067
-- **📝 语言**: Python
-- **💻 技术栈**: Python, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ![Star](https://img.shields.io/github/stars/ejpir/CVE-2025-55182-research?style=social)
-
-**📝 项目简介**: 公开React Flight协议远程代码执行漏洞(CVE-2025-55182)的完整利用链，供安全研究者验证与防御。
+**📝 项目简介**: 一站式收录海量可用API，开发者无需四处搜寻即可快速找到所需接口，显著降低集成成本。
 
 **✨ 核心特性**:
-- 提供稳定RCE POC
-- 含路径穿越+伪造块注入+$B处理器组合利用
-- 作者承诺持续更新新变种
+- 覆盖多领域公开API，分类清晰
+- Star近1k，社区持续维护
+- 零配置，复制即用
 
 **📊 项目统计**:
-- **⭐ Star数**: 704
-- **🔀 Fork数**: 195
-- **👀 Watch数**: 704
+- **⭐ Star数**: 967
+- **🔀 Fork数**: 216
+- **👀 Watch数**: 967
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, React, Express, AWS
+- **💻 技术栈**: JavaScript, api, api-library, api-list, apis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ![Star](https://img.shields.io/github/stars/msanft/CVE-2025-55182?style=social)
+#### 2. [Gla-deploy](https://github.com/eooce/Gla-deploy) ![Star](https://img.shields.io/github/stars/eooce/Gla-deploy?style=social)
 
-**📝 项目简介**: 公开CVE-2025-55182的完整分析与远程代码执行PoC，揭示React Server Functions原型链缺陷，帮助开发者快速验证并修复Next.js等框架的RCE风险。
-
-**✨ 核心特性**:
-- 提供可直接复现的RCE PoC
-- 覆盖React/Next.js Server Functions攻击面
-- 含详细漏洞原理与修复建议
-
-**📊 项目统计**:
-- **⭐ Star数**: 643
-- **🔀 Fork数**: 103
-- **👀 Watch数**: 643
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, JavaScript, CSS, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [tgbot-verify](https://github.com/PastKing/tgbot-verify) ![Star](https://img.shields.io/github/stars/PastKing/tgbot-verify?style=social)
-
-<img src="./images/2025/week-50/tgbot-verify/1_license-mit-blue.svg" alt="tgbot-verify" width="500"/>
-
-**📝 项目简介**: Telegram机器人，一键自动完成SheerID学生/教师身份认证，省去繁琐人工提交步骤。
+**📝 项目简介**: 一键脚本合集，帮助用户在主流云平台上快速部署各类代理与科学上网服务，省去繁琐配置。
 
 **✨ 核心特性**:
-- 支持Gemini、ChatGPT、Bolt.new等多平台认证
-- 全自动模拟用户操作生成并提交材料
-- 开源可自建，个人免费使用
+- 支持多平台一键部署
+- 集成常用代理协议
+- 持续更新，社区活跃
 
 **📊 项目统计**:
-- **⭐ Star数**: 338
-- **🔀 Fork数**: 223
-- **👀 Watch数**: 338
-- **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, Dockerfile, Docker, MySQL
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [norish](https://github.com/norish-recipes/norish) ![Star](https://img.shields.io/github/stars/norish-recipes/norish?style=social)
-
-<img src="./images/2025/week-50/norish/1_mockup-norish.png" alt="norish" width="500"/>
-
-**📝 项目简介**: Norish 是一款可自托管的实时食谱应用，方便家庭与好友共建共享菜谱、规划餐食，数据完全自主掌控。
-
-**✨ 核心特性**:
-- 实时协作，多人同时编辑菜谱
-- 自托管部署，数据隐私安全
-- 内置餐食计划，快速生成购物清单
-
-**📊 项目统计**:
-- **⭐ Star数**: 323
-- **🔀 Fork数**: 18
-- **👀 Watch数**: 323
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, food, meal-planner
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ![Star](https://img.shields.io/github/stars/lachlan2k/React2Shell-CVE-2025-55182-original-poc?style=social)
-
-**📝 项目简介**: 公开React2Shell CVE-2025-55182的3套原始PoC，帮助开发者快速验证并修复Next.js远程代码执行漏洞。
-
-**✨ 核心特性**:
-- 首个RCE验证代码
-- 已提交Meta的官方PoC
-- 覆盖Webpack dev环境
-
-**📊 项目统计**:
-- **⭐ Star数**: 519
-- **🔀 Fork数**: 37
-- **👀 Watch数**: 519
+- **⭐ Star数**: 802
+- **🔀 Fork数**: 167
+- **👀 Watch数**: 802
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, cve-2025-55182, react2shell, React
+- **💻 技术栈**: JavaScript, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ![Star](https://img.shields.io/github/stars/guhcostan/mac-cleaner-cli?style=social)
+#### 3. [scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) ![Star](https://img.shields.io/github/stars/cporter202/scraping-apis-for-devs?style=social)
 
-<img src="./images/2025/week-50/mac-cleaner-cli/1_badge.svg" alt="mac-cleaner-cli" width="500"/>
-
-**📝 项目简介**: 终端一键扫描并清理macOS缓存、日志、垃圾文件，释放磁盘空间，开源免费，无需图形界面。
+**📝 项目简介**: 一站式收录可直接调用的网页抓取与数据API，帮助开发者零配置快速集成公开数据源，实现从脚本到完整应用的自动化。
 
 **✨ 核心特性**:
-- 支持缓存/日志/大文件等多类垃圾扫描
-- 提供删除前预览与白名单保护，可Docker运行
-- 轻量CLI，一键安装，自动化脚本友好
+- 785星热门，社区持续贡献
+- 开箱即用，无需自建爬虫
+- 覆盖多领域公开数据接口
 
 **📊 项目统计**:
-- **⭐ Star数**: 457
-- **🔀 Fork数**: 41
-- **👀 Watch数**: 457
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Node.js, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent) ![Star](https://img.shields.io/github/stars/crowmd/GoogleMapAIagent?style=social)
-
-<img src="./images/2025/week-50/googlemapaiagent/1_lisans-mit-yellow.svg" alt="GoogleMapAIagent" width="500"/>
-
-**📝 项目简介**: 用自然语言对话即可让AI自动抓取Google Maps商家信息，并整理到Google Sheets，一键完成潜在客户挖掘。
-
-**✨ 核心特性**:
-- 自然语言指令搜索
-- 自动数据抓取与丰富
-- 直接导出Google Sheets
-
-**📊 项目统计**:
-- **⭐ Star数**: 329
-- **🔀 Fork数**: 101
-- **👀 Watch数**: 329
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ![Star](https://img.shields.io/github/stars/Alibaba-Quark/LiveAvatar?style=social)
-
-<img src="./images/2025/week-50/liveavatar/1_demo.png" alt="LiveAvatar" width="500"/>
-
-**📝 项目简介**: 实时音频驱动、无限时长流式数字人视频生成方案，支持低延迟直播级应用，代码将于12月初开源。
-
-**✨ 核心特性**:
-- 无限长度流式生成
-- 毫秒级唇音同步
-- 单张肖像即可驱动
-
-**📊 项目统计**:
-- **⭐ Star数**: 368
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 368
-- **📝 语言**: Unknown
-- **💻 技术栈**: Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [RSC_Detector](https://github.com/mrknow001/RSC_Detector) ![Star](https://img.shields.io/github/stars/mrknow001/RSC_Detector?style=social)
-
-<img src="./images/2025/week-50/rsc_detector/1_img1.png" alt="RSC_Detector" width="500"/>
-
-**📝 项目简介**: Chrome插件，一键识别网页是否使用React Server Components，并演示相关漏洞利用，供安全研究。
-
-**✨ 核心特性**:
-- 被动扫描自动标RSC指纹
-- 集成CVE-2025-55182 PoC验证
-- 开源免费，专注教育研究
-
-**📊 项目统计**:
-- **⭐ Star数**: 310
-- **🔀 Fork数**: 43
-- **👀 Watch数**: 310
+- **⭐ Star数**: 785
+- **🔀 Fork数**: 173
+- **👀 Watch数**: 785
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, React, AWS
+- **💻 技术栈**: JavaScript, api-library, api-list, developer-api, scraping-api
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer) ![Star](https://img.shields.io/github/stars/ZiHuixi/QQgroup-annual-report-analyzer?style=social)
+
+**📝 项目简介**: 上传QQ群聊天记录，一键生成带热词、活跃度、表情包等多维度可视化年度报告，支持AI点评与在线/本地双模式。
+
+**✨ 核心特性**:
+- jieba智能分词+新词发现
+- 多维度排行榜与精美HTML/PNG报告
+- 可选OpenAI年度总结与Web交互选词
+
+**📊 项目统计**:
+- **⭐ Star数**: 411
+- **🔀 Fork数**: 33
+- **👀 Watch数**: 411
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Vue, HTML, CSS, Batchfile, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) ![Star](https://img.shields.io/github/stars/actionstatelabs/android-action-kernel?style=social)
+
+**📝 项目简介**: 开源AI Agent库，让AI直接操控原生Android App，自动完成跨应用任务，无需Root或改代码。
+
+**✨ 核心特性**:
+- AI像人一样点击、输入、切换App
+- 专为外勤、物流、零工经济设计
+- AWS云端部署，1美元即可跑通全流程
+
+**📊 项目统计**:
+- **⭐ Star数**: 657
+- **🔀 Fork数**: 74
+- **👀 Watch数**: 657
+- **📝 语言**: Python
+- **💻 技术栈**: Python, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [GLM-ASR](https://github.com/zai-org/GLM-ASR) ![Star](https://img.shields.io/github/stars/zai-org/GLM-ASR?style=social)
+
+<img src="./images/2025/week-51/glm-asr/1_bench.png" alt="GLM-ASR" width="500"/>
+
+**📝 项目简介**: 15亿参数开源语音识别模型，体积小巧却超越Whisper V3，方言与复杂场景鲁棒性突出。
+
+**✨ 核心特性**:
+- 性能领先：多基准测试优于OpenAI Whisper V3
+- 方言强：超越标准普通话，覆盖多种地方口音
+- 轻量可边缘部署：1.5B参数，适合端侧与实时应用
+
+**📊 项目统计**:
+- **⭐ Star数**: 503
+- **🔀 Fork数**: 44
+- **👀 Watch数**: 503
+- **📝 语言**: Python
+- **🌐 官网**: [https://autoglm.zhipuai.cn/autotyper](https://autoglm.zhipuai.cn/autotyper)
+- **💻 技术栈**: Python, asr, edge, llm, voice
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [clash-ip-checker](https://github.com/tombcato/clash-ip-checker) ![Star](https://img.shields.io/github/stars/tombcato/clash-ip-checker?style=social)
+
+<img src="./images/2025/week-51/clash-ip-checker/1_clash-node-checked.png" alt="clash-ip-checker" width="500"/>
+
+**📝 项目简介**: 自动遍历Clash节点，用浏览器指纹检测IP纯净度与风险，并重命名标记，一键生成带评分的新配置。
+
+**✨ 核心特性**:
+- 自动切换节点并过滤失效
+- Playwright高拟真检测IP纯净度、Bot率、属性
+- 生成带Emoji评分的新配置文件
+
+**📊 项目统计**:
+- **⭐ Star数**: 573
+- **🔀 Fork数**: 38
+- **👀 Watch数**: 573
+- **📝 语言**: Python
+- **💻 技术栈**: Python, automation, clash, clash-verge, ippure, iprisk
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [claude-island](https://github.com/farouqaldori/claude-island) ![Star](https://img.shields.io/github/stars/farouqaldori/claude-island?style=social)
+
+<img src="./images/2025/week-51/claude-island/1_icon_128x128.png" alt="claude-island" width="500"/>
+
+**📝 项目简介**: macOS菜单栏小程序，把Claude Code CLI的进度与通知做成类似Dynamic Island的悬浮提示，避免反复切终端。
+
+**✨ 核心特性**:
+- 常驻菜单栏，零干扰查看会话
+- 实时推送任务完成、报错等关键通知
+- 一键展开/收起，支持深色模式与快捷键
+
+**📊 项目统计**:
+- **⭐ Star数**: 392
+- **🔀 Fork数**: 35
+- **👀 Watch数**: 392
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Shell, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [hn-time-capsule](https://github.com/karpathy/hn-time-capsule) ![Star](https://img.shields.io/github/stars/karpathy/hn-time-capsule?style=social)
+
+<img src="./images/2025/week-51/hn-time-capsule/1_hnhero.png" alt="hn-time-capsule" width="500"/>
+
+**📝 项目简介**: 用LLM复盘10年前Hacker News热帖，评估当时讨论的先见之明并生成可视化报告。
+
+**✨ 核心特性**:
+- 自动抓取10年前HN首页与原文
+- LLM hindsight分析评论预见性
+- 一键生成HTML复盘报告
+
+**📊 项目统计**:
+- **⭐ Star数**: 383
+- **🔀 Fork数**: 38
+- **👀 Watch数**: 383
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [stoolap](https://github.com/stoolap/stoolap) ![Star](https://img.shields.io/github/stars/stoolap/stoolap?style=social)
+
+<img src="./images/2025/week-51/stoolap/1_logo.svg" alt="stoolap" width="500"/>
+
+**📝 项目简介**: Stoolap是一款用Rust编写的现代嵌入式SQL数据库，主打轻量、零配置、事务安全，适合直接嵌入应用内部使用。
+
+**✨ 核心特性**:
+- Rust实现，内存安全高性能
+- 内置MVCC事务，支持并发读写
+- 零依赖部署，即插即用
+
+**📊 项目统计**:
+- **⭐ Star数**: 321
+- **🔀 Fork数**: 9
+- **👀 Watch数**: 321
+- **📝 语言**: Rust
+- **🌐 官网**: [https://stoolap.io](https://stoolap.io)
+- **💻 技术栈**: Rust, database, embedded-sql, mvcc, rust, sql
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,18 +245,20 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
+1. **Python** (5 个项目)
 2. **JavaScript** (3 个项目)
-3. **TypeScript** (2 个项目)
-4. **Unknown** (2 个项目)
+3. **Swift** (1 个项目)
+4. **Rust** (1 个项目)
 
 **🏷️ 热门话题**:
-1. food (1)
-2. meal-planner (1)
-3. recipes (1)
-4. self-hosted (1)
-5. cve-2025-55182 (1)
-6. react2shell (1)
+1. api-library (2)
+2. api-list (2)
+3. api (1)
+4. apis (1)
+5. developer-api (1)
+6. scraping-api (1)
+7. asr (1)
+8. edge (1)
 
 
 <!-- TRENDING-END -->
@@ -265,6 +268,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |

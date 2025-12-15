@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第51周",
+    "year": 2025,
+    "week": 51,
+    "week_range": {
+      "start": "2025-12-14",
+      "end": "2025-12-20"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-12-20 23:59:59",
+    "next_update": "2025-12-27"
+  },
+  "repositories": [
+    {
+      "full_name": "cporter202/API-mega-list",
+      "rank": 1,
+      "stars": 967,
+      "forks": 216,
+      "overall_score": 67
+    },
+    {
+      "full_name": "eooce/Gla-deploy",
+      "rank": 2,
+      "stars": 802,
+      "forks": 167,
+      "overall_score": 67
+    },
+    {
+      "full_name": "cporter202/scraping-apis-for-devs",
+      "rank": 3,
+      "stars": 785,
+      "forks": 173,
+      "overall_score": 66
+    },
+    {
+      "full_name": "ZiHuixi/QQgroup-annual-report-analyzer",
+      "rank": 4,
+      "stars": 411,
+      "forks": 33,
+      "overall_score": 66
+    },
+    {
+      "full_name": "actionstatelabs/android-action-kernel",
+      "rank": 5,
+      "stars": 657,
+      "forks": 74,
+      "overall_score": 65
+    },
+    {
+      "full_name": "zai-org/GLM-ASR",
+      "rank": 6,
+      "stars": 503,
+      "forks": 44,
+      "overall_score": 64
+    },
+    {
+      "full_name": "tombcato/clash-ip-checker",
+      "rank": 7,
+      "stars": 573,
+      "forks": 38,
+      "overall_score": 63
+    },
+    {
+      "full_name": "farouqaldori/claude-island",
+      "rank": 8,
+      "stars": 392,
+      "forks": 35,
+      "overall_score": 63
+    },
+    {
+      "full_name": "karpathy/hn-time-capsule",
+      "rank": 9,
+      "stars": 383,
+      "forks": 38,
+      "overall_score": 62
+    },
+    {
+      "full_name": "stoolap/stoolap",
+      "rank": 10,
+      "stars": 321,
+      "forks": 9,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2025-12-15T03:47:15.298Z"
+}
