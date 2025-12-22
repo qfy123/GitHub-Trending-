@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第52周",
+    "year": 2025,
+    "week": 52,
+    "week_range": {
+      "start": "2025-12-21",
+      "end": "2025-12-27"
+    },
+    "total_repositories": 10,
+    "generation_date": "2025-12-27 23:59:59",
+    "next_update": "2026-01-03"
+  },
+  "repositories": [
+    {
+      "full_name": "agentskills/agentskills",
+      "rank": 1,
+      "stars": 2654,
+      "forks": 115,
+      "overall_score": 73
+    },
+    {
+      "full_name": "productdevbook/port-killer",
+      "rank": 2,
+      "stars": 2372,
+      "forks": 66,
+      "overall_score": 73
+    },
+    {
+      "full_name": "2025Emma/vibe-coding-cn",
+      "rank": 3,
+      "stars": 1187,
+      "forks": 134,
+      "overall_score": 66
+    },
+    {
+      "full_name": "journey-ad/gemini-watermark-remover",
+      "rank": 4,
+      "stars": 689,
+      "forks": 67,
+      "overall_score": 64
+    },
+    {
+      "full_name": "QwenLM/Qwen-Image-Layered",
+      "rank": 5,
+      "stars": 531,
+      "forks": 34,
+      "overall_score": 64
+    },
+    {
+      "full_name": "gaearon/rscexplorer",
+      "rank": 6,
+      "stars": 828,
+      "forks": 24,
+      "overall_score": 63
+    },
+    {
+      "full_name": "MineDojo/NitroGen",
+      "rank": 7,
+      "stars": 550,
+      "forks": 51,
+      "overall_score": 63
+    },
+    {
+      "full_name": "lwj2015/lightron",
+      "rank": 8,
+      "stars": 510,
+      "forks": 45,
+      "overall_score": 63
+    },
+    {
+      "full_name": "GuDaStudio/skills",
+      "rank": 9,
+      "stars": 507,
+      "forks": 26,
+      "overall_score": 62
+    },
+    {
+      "full_name": "Lulzx/tinypdf",
+      "rank": 10,
+      "stars": 574,
+      "forks": 9,
+      "overall_score": 60
+    }
+  ],
+  "generated_at": "2025-12-22T03:48:40.244Z"
+}

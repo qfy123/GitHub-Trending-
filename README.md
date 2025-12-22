@@ -18,226 +18,232 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第51周
+### GitHub趋势排行榜 - 2025年第52周
 
-**📅 统计周期**: 2025-12-14 ~ 2025-12-20  
+**📅 统计周期**: 2025-12-21 ~ 2025-12-27  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,794  
-**🔄 更新时间**: 2025-12-20 23:59:59  
+**⭐ 总Star数**: 10,402  
+**🔄 更新时间**: 2025-12-27 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [API-mega-list](https://github.com/cporter202/API-mega-list) | 一站式收录海量可用API，开发者无需四处搜寻即可快速找到所需接口，显著降低集成成本。 | 967 | 216 | JavaScript | 🆕 |
-| 2 | [Gla-deploy](https://github.com/eooce/Gla-deploy) | 一键脚本合集，帮助用户在主流云平台上快速部署各类代理与科学上网服务，省去繁琐配置。 | 802 | 167 | JavaScript | 🆕 |
-| 3 | [scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) | 一站式收录可直接调用的网页抓取与数据API，帮助开发者零配置快速集成公开数据源，实现从脚本到完整应用的自动化。 | 785 | 173 | JavaScript | 🆕 |
-| 4 | [QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer) | 上传QQ群聊天记录，一键生成带热词、活跃度、表情包等多维度可视化年度报告，支持AI点评与在线/本地双模式。 | 411 | 33 | Python | 🆕 |
-| 5 | [android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) | 开源AI Agent库，让AI直接操控原生Android App，自动完成跨应用任务，无需Root或改代码。 | 657 | 74 | Python | 🆕 |
-| 6 | [GLM-ASR](https://github.com/zai-org/GLM-ASR) | 15亿参数开源语音识别模型，体积小巧却超越Whisper V3，方言与复杂场景鲁棒性突出。 | 503 | 44 | Python | 🆕 |
-| 7 | [clash-ip-checker](https://github.com/tombcato/clash-ip-checker) | 自动遍历Clash节点，用浏览器指纹检测IP纯净度与风险，并重命名标记，一键生成带评分的新配置。 | 573 | 38 | Python | 🆕 |
-| 8 | [claude-island](https://github.com/farouqaldori/claude-island) | macOS菜单栏小程序，把Claude Code CLI的进度与通知做成类似Dynamic Island的悬浮提示... | 392 | 35 | Swift | 🆕 |
-| 9 | [hn-time-capsule](https://github.com/karpathy/hn-time-capsule) | 用LLM复盘10年前Hacker News热帖，评估当时讨论的先见之明并生成可视化报告。 | 383 | 38 | Python | 🆕 |
-| 10 | [stoolap](https://github.com/stoolap/stoolap) | Stoolap是一款用Rust编写的现代嵌入式SQL数据库，主打轻量、零配置、事务安全，适合直接嵌入应用内部使用。 | 321 | 9 | Rust | 🆕 |
+| 1 | [agentskills](https://github.com/agentskills/agentskills) | agentskills 定义了一套开放规范，让开发者把能力封装成“技能包”，任何 AI 代理都能即插即用，实现一次... | 2,654 | 115 | Python | 🆕 |
+| 2 | [port-killer](https://github.com/productdevbook/port-killer) | 原生macOS菜单栏工具，一键扫描并强制释放被占用的端口，解决开发中“端口已被占用”痛点。 | 2,372 | 66 | Swift | 🆕 |
+| 3 | [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 中文Vibe Coding指南，教你与AI结对编程，把创意快速落地成可运行代码的完整工作站。 | 1,187 | 134 | Python | 🆕 |
+| 4 | [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) | 纯浏览器端一键无损移除Gemini AI图片水印，数学算法精准还原原图，无需上传、无需AI重绘。 | 689 | 67 | JavaScript | 🆕 |
+| 5 | [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) | 将单张图片自动拆成多层可编辑PSD，文字、物体、背景独立，支持精准替换与再创作。 | 531 | 34 | Python | 🆕 |
+| 6 | [rscexplorer](https://github.com/gaearon/rscexplorer) | 浏览器内运行React Server Components，逐帧可视化RSC协议流，帮助理解服务端与客户端组件如何... | 828 | 24 | TypeScript | 🆕 |
+| 7 | [NitroGen](https://github.com/MineDojo/NitroGen) | NitroGen是MineDojo推出的开源生成式模型，可基于文本提示快速生成高质量、可玩的Minecraft关卡... | 550 | 51 | Python | 🆕 |
+| 8 | [lightron](https://github.com/lwj2015/lightron) | 轻量级 Megatron 教学版，支持 4-D 并行与最新 LLM 架构，帮助研究者低成本复现分布式大模型训练。 | 510 | 45 | Python | 🆕 |
+| 9 | [skills](https://github.com/GuDaStudio/skills) | GudaStudio开源的Agent Skills仓库，用模块化脚本让Claude按需调用Codex/Gemini... | 507 | 26 | PowerShell | 🆕 |
+| 10 | [tinypdf](https://github.com/Lulzx/tinypdf) | 极致轻量的TypeScript PDF生成库，源码不足400行、零依赖，即可输出标准PDF，体积仅3.3KB，比主... | 574 | 9 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [API-mega-list](https://github.com/cporter202/API-mega-list) ![Star](https://img.shields.io/github/stars/cporter202/API-mega-list?style=social)
+#### 1. [agentskills](https://github.com/agentskills/agentskills) ![Star](https://img.shields.io/github/stars/agentskills/agentskills?style=social)
 
-**📝 项目简介**: 一站式收录海量可用API，开发者无需四处搜寻即可快速找到所需接口，显著降低集成成本。
-
-**✨ 核心特性**:
-- 覆盖多领域公开API，分类清晰
-- Star近1k，社区持续维护
-- 零配置，复制即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 967
-- **🔀 Fork数**: 216
-- **👀 Watch数**: 967
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, api, api-library, api-list, apis
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [Gla-deploy](https://github.com/eooce/Gla-deploy) ![Star](https://img.shields.io/github/stars/eooce/Gla-deploy?style=social)
-
-**📝 项目简介**: 一键脚本合集，帮助用户在主流云平台上快速部署各类代理与科学上网服务，省去繁琐配置。
+**📝 项目简介**: agentskills 定义了一套开放规范，让开发者把能力封装成“技能包”，任何 AI 代理都能即插即用，实现一次编写、多代理共享。
 
 **✨ 核心特性**:
-- 支持多平台一键部署
-- 集成常用代理协议
-- 持续更新，社区活跃
+- 开放文件夹格式，零配置即插即用
+- 一次开发，跨代理/平台复用
+- 官方提供 SDK 与示例，快速上手
 
 **📊 项目统计**:
-- **⭐ Star数**: 802
-- **🔀 Fork数**: 167
-- **👀 Watch数**: 802
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) ![Star](https://img.shields.io/github/stars/cporter202/scraping-apis-for-devs?style=social)
-
-**📝 项目简介**: 一站式收录可直接调用的网页抓取与数据API，帮助开发者零配置快速集成公开数据源，实现从脚本到完整应用的自动化。
-
-**✨ 核心特性**:
-- 785星热门，社区持续贡献
-- 开箱即用，无需自建爬虫
-- 覆盖多领域公开数据接口
-
-**📊 项目统计**:
-- **⭐ Star数**: 785
-- **🔀 Fork数**: 173
-- **👀 Watch数**: 785
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, api-library, api-list, developer-api, scraping-api
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer) ![Star](https://img.shields.io/github/stars/ZiHuixi/QQgroup-annual-report-analyzer?style=social)
-
-**📝 项目简介**: 上传QQ群聊天记录，一键生成带热词、活跃度、表情包等多维度可视化年度报告，支持AI点评与在线/本地双模式。
-
-**✨ 核心特性**:
-- jieba智能分词+新词发现
-- 多维度排行榜与精美HTML/PNG报告
-- 可选OpenAI年度总结与Web交互选词
-
-**📊 项目统计**:
-- **⭐ Star数**: 411
-- **🔀 Fork数**: 33
-- **👀 Watch数**: 411
+- **⭐ Star数**: 2,654
+- **🔀 Fork数**: 115
+- **👀 Watch数**: 2,654
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Vue, HTML, CSS, Batchfile, JavaScript
+- **🌐 官网**: [https://agentskills.io](https://agentskills.io)
+- **💻 技术栈**: Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) ![Star](https://img.shields.io/github/stars/actionstatelabs/android-action-kernel?style=social)
+#### 2. [port-killer](https://github.com/productdevbook/port-killer) ![Star](https://img.shields.io/github/stars/productdevbook/port-killer?style=social)
 
-**📝 项目简介**: 开源AI Agent库，让AI直接操控原生Android App，自动完成跨应用任务，无需Root或改代码。
+<img src="./images/2025/week-52/port-killer/1_appicon.svg" alt="port-killer" width="500"/>
 
-**✨ 核心特性**:
-- AI像人一样点击、输入、切换App
-- 专为外勤、物流、零工经济设计
-- AWS云端部署，1美元即可跑通全流程
-
-**📊 项目统计**:
-- **⭐ Star数**: 657
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 657
-- **📝 语言**: Python
-- **💻 技术栈**: Python, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [GLM-ASR](https://github.com/zai-org/GLM-ASR) ![Star](https://img.shields.io/github/stars/zai-org/GLM-ASR?style=social)
-
-<img src="./images/2025/week-51/glm-asr/1_bench.png" alt="GLM-ASR" width="500"/>
-
-**📝 项目简介**: 15亿参数开源语音识别模型，体积小巧却超越Whisper V3，方言与复杂场景鲁棒性突出。
+**📝 项目简介**: 原生macOS菜单栏工具，一键扫描并强制释放被占用的端口，解决开发中“端口已被占用”痛点。
 
 **✨ 核心特性**:
-- 性能领先：多基准测试优于OpenAI Whisper V3
-- 方言强：超越标准普通话，覆盖多种地方口音
-- 轻量可边缘部署：1.5B参数，适合端侧与实时应用
+- 菜单栏即时查杀，无需终端
+- SwiftUI原生体验，轻量极速
+- 支持多端口批量清理，自动识别进程
 
 **📊 项目统计**:
-- **⭐ Star数**: 503
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 503
-- **📝 语言**: Python
-- **🌐 官网**: [https://autoglm.zhipuai.cn/autotyper](https://autoglm.zhipuai.cn/autotyper)
-- **💻 技术栈**: Python, asr, edge, llm, voice
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [clash-ip-checker](https://github.com/tombcato/clash-ip-checker) ![Star](https://img.shields.io/github/stars/tombcato/clash-ip-checker?style=social)
-
-<img src="./images/2025/week-51/clash-ip-checker/1_clash-node-checked.png" alt="clash-ip-checker" width="500"/>
-
-**📝 项目简介**: 自动遍历Clash节点，用浏览器指纹检测IP纯净度与风险，并重命名标记，一键生成带评分的新配置。
-
-**✨ 核心特性**:
-- 自动切换节点并过滤失效
-- Playwright高拟真检测IP纯净度、Bot率、属性
-- 生成带Emoji评分的新配置文件
-
-**📊 项目统计**:
-- **⭐ Star数**: 573
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 573
-- **📝 语言**: Python
-- **💻 技术栈**: Python, automation, clash, clash-verge, ippure, iprisk
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [claude-island](https://github.com/farouqaldori/claude-island) ![Star](https://img.shields.io/github/stars/farouqaldori/claude-island?style=social)
-
-<img src="./images/2025/week-51/claude-island/1_icon_128x128.png" alt="claude-island" width="500"/>
-
-**📝 项目简介**: macOS菜单栏小程序，把Claude Code CLI的进度与通知做成类似Dynamic Island的悬浮提示，避免反复切终端。
-
-**✨ 核心特性**:
-- 常驻菜单栏，零干扰查看会话
-- 实时推送任务完成、报错等关键通知
-- 一键展开/收起，支持深色模式与快捷键
-
-**📊 项目统计**:
-- **⭐ Star数**: 392
-- **🔀 Fork数**: 35
-- **👀 Watch数**: 392
+- **⭐ Star数**: 2,372
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 2,372
 - **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell, Python
+- **💻 技术栈**: Swift, Shell, developer-tools, macos, macos-app, menu-bar
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [hn-time-capsule](https://github.com/karpathy/hn-time-capsule) ![Star](https://img.shields.io/github/stars/karpathy/hn-time-capsule?style=social)
+#### 3. [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) ![Star](https://img.shields.io/github/stars/2025Emma/vibe-coding-cn?style=social)
 
-<img src="./images/2025/week-51/hn-time-capsule/1_hnhero.png" alt="hn-time-capsule" width="500"/>
+<img src="./images/2025/week-52/vibe-coding-cn/1_tukuaiai.png" alt="vibe-coding-cn" width="500"/>
 
-**📝 项目简介**: 用LLM复盘10年前Hacker News热帖，评估当时讨论的先见之明并生成可视化报告。
+**📝 项目简介**: 中文Vibe Coding指南，教你与AI结对编程，把创意快速落地成可运行代码的完整工作站。
 
 **✨ 核心特性**:
-- 自动抓取10年前HN首页与原文
-- LLM hindsight分析评论预见性
-- 一键生成HTML复盘报告
+- 零门槛AI结对编程流程
+- 中文友好示例与模板
+- 一键环境搭建脚本
 
 **📊 项目统计**:
-- **⭐ Star数**: 383
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 383
+- **⭐ Star数**: 1,187
+- **🔀 Fork数**: 134
+- **👀 Watch数**: 1,187
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, Makefile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) ![Star](https://img.shields.io/github/stars/journey-ad/gemini-watermark-remover?style=social)
+
+<img src="./images/2025/week-52/gemini-watermark-remover/1_lossless_diff.webp" alt="gemini-watermark-remover" width="500"/>
+
+**📝 项目简介**: 纯浏览器端一键无损移除Gemini AI图片水印，数学算法精准还原原图，无需上传、无需AI重绘。
+
+**✨ 核心特性**:
+- 100%本地处理，零上传零隐私风险
+- 反向Alpha混合算法，像素级无损还原
+- 轻量JS实现，无需安装即开即用
+
+**📊 项目统计**:
+- **⭐ Star数**: 689
+- **🔀 Fork数**: 67
+- **👀 Watch数**: 689
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://banana.ovo.re](https://banana.ovo.re)
+- **💻 技术栈**: JavaScript, HTML, Express, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered?style=social)
+
+<img src="./images/2025/week-52/qwen-image-layered/1_0.jpg" alt="Qwen-Image-Layered" width="500"/>
+
+**📝 项目简介**: 将单张图片自动拆成多层可编辑PSD，文字、物体、背景独立，支持精准替换与再创作。
+
+**✨ 核心特性**:
+- 一键分层生成PSD，无需手动抠图
+- 文字、物体、背景解耦，可单独替换
+- 开源模型+论文，本地可跑，商用友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 531
+- **🔀 Fork数**: 34
+- **👀 Watch数**: 531
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [stoolap](https://github.com/stoolap/stoolap) ![Star](https://img.shields.io/github/stars/stoolap/stoolap?style=social)
+#### 6. [rscexplorer](https://github.com/gaearon/rscexplorer) ![Star](https://img.shields.io/github/stars/gaearon/rscexplorer?style=social)
 
-<img src="./images/2025/week-51/stoolap/1_logo.svg" alt="stoolap" width="500"/>
+<img src="./images/2025/week-52/rscexplorer/1_screenshot.png" alt="rscexplorer" width="500"/>
 
-**📝 项目简介**: Stoolap是一款用Rust编写的现代嵌入式SQL数据库，主打轻量、零配置、事务安全，适合直接嵌入应用内部使用。
+**📝 项目简介**: 浏览器内运行React Server Components，逐帧可视化RSC协议流，帮助理解服务端与客户端组件如何协同渲染。
 
 **✨ 核心特性**:
-- Rust实现，内存安全高性能
-- 内置MVCC事务，支持并发读写
-- 零依赖部署，即插即用
+- 零配置，一键启动Server与Client
+- 实时查看RSC流与React树变化
+- 内置交互示例，直观教学
 
 **📊 项目统计**:
-- **⭐ Star数**: 321
+- **⭐ Star数**: 828
+- **🔀 Fork数**: 24
+- **👀 Watch数**: 828
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://rscexplorer.dev/](https://rscexplorer.dev/)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, HTML, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [NitroGen](https://github.com/MineDojo/NitroGen) ![Star](https://img.shields.io/github/stars/MineDojo/NitroGen?style=social)
+
+**📝 项目简介**: NitroGen是MineDojo推出的开源生成式模型，可基于文本提示快速生成高质量、可玩的Minecraft关卡与场景。
+
+**✨ 核心特性**:
+- 文本驱动无限关卡生成
+- 与Minecraft原生兼容即开即玩
+- 提供预训练模型与大规模数据集
+
+**📊 项目统计**:
+- **⭐ Star数**: 550
+- **🔀 Fork数**: 51
+- **👀 Watch数**: 550
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [lightron](https://github.com/lwj2015/lightron) ![Star](https://img.shields.io/github/stars/lwj2015/lightron?style=social)
+
+**📝 项目简介**: 轻量级 Megatron 教学版，支持 4-D 并行与最新 LLM 架构，帮助研究者低成本复现分布式大模型训练。
+
+**✨ 核心特性**:
+- 4-D 并行（TP/PP/DP/CP）+ EP/FSDP V2
+- 集成 RMSNorm、SwiGLU、RoPE、FlashAttention V2
+- 代码简洁，专为教学与快速实验设计
+
+**📊 项目统计**:
+- **⭐ Star数**: 510
+- **🔀 Fork数**: 45
+- **👀 Watch数**: 510
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [skills](https://github.com/GuDaStudio/skills) ![Star](https://img.shields.io/github/stars/GuDaStudio/skills?style=social)
+
+<img src="./images/2025/week-52/skills/1_title.png" alt="skills" width="500"/>
+
+**📝 项目简介**: GudaStudio开源的Agent Skills仓库，用模块化脚本让Claude按需调用Codex/Gemini等模型，实现多AI协同编码、调试与审查。
+
+**✨ 核心特性**:
+- 一键切换OpenAI Codex与Google Gemini
+- PowerShell脚本即插即用，零配置集成
+- 覆盖原型开发、调试、代码审查全链路
+
+**📊 项目统计**:
+- **⭐ Star数**: 507
+- **🔀 Fork数**: 26
+- **👀 Watch数**: 507
+- **📝 语言**: PowerShell
+- **🌐 官网**: [https://code.guda.studio](https://code.guda.studio)
+- **💻 技术栈**: PowerShell, Shell, React, Vue
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [tinypdf](https://github.com/Lulzx/tinypdf) ![Star](https://img.shields.io/github/stars/Lulzx/tinypdf?style=social)
+
+<img src="./images/2025/week-52/tinypdf/1_invoice.png" alt="tinypdf" width="500"/>
+
+**📝 项目简介**: 极致轻量的TypeScript PDF生成库，源码不足400行、零依赖，即可输出标准PDF，体积仅3.3KB，比主流方案小70倍。
+
+**✨ 核心特性**:
+- <400行源码、零依赖、3.3KB
+- 直接生成合规PDF，支持文本与图片排版
+- 比jsPDF小70倍，快速集成、无冗余功能
+
+**📊 项目统计**:
+- **⭐ Star数**: 574
 - **🔀 Fork数**: 9
-- **👀 Watch数**: 321
-- **📝 语言**: Rust
-- **🌐 官网**: [https://stoolap.io](https://stoolap.io)
-- **💻 技术栈**: Rust, database, embedded-sql, mvcc, rust, sql
+- **👀 Watch数**: 574
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -246,19 +252,20 @@
 
 **🔥 热门语言**:
 1. **Python** (5 个项目)
-2. **JavaScript** (3 个项目)
+2. **TypeScript** (2 个项目)
 3. **Swift** (1 个项目)
-4. **Rust** (1 个项目)
+4. **JavaScript** (1 个项目)
+5. **PowerShell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. api-library (2)
-2. api-list (2)
-3. api (1)
-4. apis (1)
-5. developer-api (1)
-6. scraping-api (1)
-7. asr (1)
-8. edge (1)
+1. developer-tools (1)
+2. macos (1)
+3. macos-app (1)
+4. menu-bar (1)
+5. port-killer (1)
+6. process-manager (1)
+7. swift (1)
+8. swiftui (1)
 
 
 <!-- TRENDING-END -->
@@ -268,6 +275,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
 | 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
