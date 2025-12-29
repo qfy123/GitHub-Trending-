@@ -18,232 +18,230 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第52周
+### GitHub趋势排行榜 - 2025年第1周
 
-**📅 统计周期**: 2025-12-21 ~ 2025-12-27  
+**📅 统计周期**: 2025-12-28 ~ 2026-01-03  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 10,402  
-**🔄 更新时间**: 2025-12-27 23:59:59  
+**⭐ 总Star数**: 5,697  
+**🔄 更新时间**: 2026-01-03 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [agentskills](https://github.com/agentskills/agentskills) | agentskills 定义了一套开放规范，让开发者把能力封装成“技能包”，任何 AI 代理都能即插即用，实现一次... | 2,654 | 115 | Python | 🆕 |
-| 2 | [port-killer](https://github.com/productdevbook/port-killer) | 原生macOS菜单栏工具，一键扫描并强制释放被占用的端口，解决开发中“端口已被占用”痛点。 | 2,372 | 66 | Swift | 🆕 |
-| 3 | [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 中文Vibe Coding指南，教你与AI结对编程，把创意快速落地成可运行代码的完整工作站。 | 1,187 | 134 | Python | 🆕 |
-| 4 | [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) | 纯浏览器端一键无损移除Gemini AI图片水印，数学算法精准还原原图，无需上传、无需AI重绘。 | 689 | 67 | JavaScript | 🆕 |
-| 5 | [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) | 将单张图片自动拆成多层可编辑PSD，文字、物体、背景独立，支持精准替换与再创作。 | 531 | 34 | Python | 🆕 |
-| 6 | [rscexplorer](https://github.com/gaearon/rscexplorer) | 浏览器内运行React Server Components，逐帧可视化RSC协议流，帮助理解服务端与客户端组件如何... | 828 | 24 | TypeScript | 🆕 |
-| 7 | [NitroGen](https://github.com/MineDojo/NitroGen) | NitroGen是MineDojo推出的开源生成式模型，可基于文本提示快速生成高质量、可玩的Minecraft关卡... | 550 | 51 | Python | 🆕 |
-| 8 | [lightron](https://github.com/lwj2015/lightron) | 轻量级 Megatron 教学版，支持 4-D 并行与最新 LLM 架构，帮助研究者低成本复现分布式大模型训练。 | 510 | 45 | Python | 🆕 |
-| 9 | [skills](https://github.com/GuDaStudio/skills) | GudaStudio开源的Agent Skills仓库，用模块化脚本让Claude按需调用Codex/Gemini... | 507 | 26 | PowerShell | 🆕 |
-| 10 | [tinypdf](https://github.com/Lulzx/tinypdf) | 极致轻量的TypeScript PDF生成库，源码不足400行、零依赖，即可输出标准PDF，体积仅3.3KB，比主... | 574 | 9 | TypeScript | 🆕 |
+| 1 | [opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker) | Go实现的高频永续合约做市机器人，毫秒级挂单、撤单，专注震荡与上涨行情中的网格做多收益。 | 556 | 253 | Go | 🆕 |
+| 2 | [Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) | 为Claude Code提供会话连续、上下文隔离与MCP无污染执行，实现多Agent协同与状态持久化。 | 824 | 55 | Python | 🆕 |
+| 3 | [quotio](https://github.com/nguyenphutrong/quotio) | 原生macOS菜单栏工具，一键聚合Claude、Gemini、OpenAI等主流AI订阅，实时余量监控与智能故障切... | 766 | 52 | Swift | 🆕 |
+| 4 | [tuxmate](https://github.com/abusoww/tuxmate) | TuxMate 通过 Web 界面一键生成发行版专属脚本，实现 Linux 批量装机，解决重装后逐一手动安装软件的痛点。 | 694 | 28 | TypeScript | 🆕 |
+| 5 | [Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) | 收录Clash/Surge等主流代理工具的现成规则与配置，用户可一键导入，省去手动维护节点与策略的麻烦。 | 792 | 64 | Unknown | 🆕 |
+| 6 | [unredact](https://github.com/leedrake5/unredact) | 一键提取PDF中被黑框遮盖但仍存在于文件流中的“已删”文字，还原原始内容，验证打码是否真正安全。 | 454 | 58 | Python | 🆕 |
+| 7 | [mongobleed](https://github.com/joe-desimone/mongobleed) | 针对MongoDB zlib解压漏洞的PoC，可无认证读取服务端敏感内存，验证CVE-2025-14847危害。 | 428 | 69 | JavaScript | 🆕 |
+| 8 | [Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) | Fun-Audio-Chat是低延迟大音频语言模型，支持自然流畅的语音对话，可本地部署。 | 443 | 39 | Python | 🆕 |
+| 9 | [claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) | 将 Claude Code 的 JSON/JSONL 会话日志一键转为移动端友好的分页 HTML 报告，方便分享与归档。 | 367 | 36 | Python | 🆕 |
+| 10 | [nodecast-tv](https://github.com/technomancer702/nodecast-tv) | 自托管Web IPTV播放器，支持直播、点播、剧集与EPG，浏览器即点即看，轻松管理万级片库。 | 373 | 12 | JavaScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [agentskills](https://github.com/agentskills/agentskills) ![Star](https://img.shields.io/github/stars/agentskills/agentskills?style=social)
+#### 1. [opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker) ![Star](https://img.shields.io/github/stars/dennisyang1986/opensqt_market_maker?style=social)
 
-**📝 项目简介**: agentskills 定义了一套开放规范，让开发者把能力封装成“技能包”，任何 AI 代理都能即插即用，实现一次编写、多代理共享。
+<img src="./images/2025/week-1/opensqt_market_maker/1_go-1.21%2b-blue.svg" alt="opensqt_market_maker" width="500"/>
+
+**📝 项目简介**: Go实现的高频永续合约做市机器人，毫秒级挂单、撤单，专注震荡与上涨行情中的网格做多收益。
 
 **✨ 核心特性**:
-- 开放文件夹格式，零配置即插即用
-- 一次开发，跨代理/平台复用
-- 官方提供 SDK 与示例，快速上手
+- 毫秒级低延迟撮合
+- 支持Binance/Bitget/Gate.io多交易所
+- 实盘已跑1亿美元+交易量
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,654
-- **🔀 Fork数**: 115
-- **👀 Watch数**: 2,654
-- **📝 语言**: Python
-- **🌐 官网**: [https://agentskills.io](https://agentskills.io)
-- **💻 技术栈**: Python, Shell
+- **⭐ Star数**: 556
+- **🔀 Fork数**: 253
+- **👀 Watch数**: 556
+- **📝 语言**: Go
+- **🌐 官网**: [https://www.OpenSQT.com/](https://www.OpenSQT.com/)
+- **💻 技术栈**: Go, HTML, crypto, crypto-bot, marketmaker, marketmakerbot
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [port-killer](https://github.com/productdevbook/port-killer) ![Star](https://img.shields.io/github/stars/productdevbook/port-killer?style=social)
+#### 2. [Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) ![Star](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v2?style=social)
 
-<img src="./images/2025/week-52/port-killer/1_appicon.svg" alt="port-killer" width="500"/>
-
-**📝 项目简介**: 原生macOS菜单栏工具，一键扫描并强制释放被占用的端口，解决开发中“端口已被占用”痛点。
+**📝 项目简介**: 为Claude Code提供会话连续、上下文隔离与MCP无污染执行，实现多Agent协同与状态持久化。
 
 **✨ 核心特性**:
-- 菜单栏即时查杀，无需终端
-- SwiftUI原生体验，轻量极速
-- 支持多端口批量清理，自动识别进程
+- 会话断点续跑，token零浪费
+- Ledger记账+Handoff切换，上下文不污染
+- 子Agent隔离窗口，安全并行
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,372
-- **🔀 Fork数**: 66
-- **👀 Watch数**: 2,372
+- **⭐ Star数**: 824
+- **🔀 Fork数**: 55
+- **👀 Watch数**: 824
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, TypeScript, JavaScript, agents, claude-code
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [quotio](https://github.com/nguyenphutrong/quotio) ![Star](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=social)
+
+<img src="./images/2025/week-1/quotio/1_menu_bar.png" alt="quotio" width="500"/>
+
+**📝 项目简介**: 原生macOS菜单栏工具，一键聚合Claude、Gemini、OpenAI等主流AI订阅，实时余量监控与智能故障切换，告别多账号切换烦恼。
+
+**✨ 核心特性**:
+- 多AI服务统一管理与配额实时追踪
+- 智能自动故障切换保障工具链稳定
+- 原生Swift体验，零配置即开即用
+
+**📊 项目统计**:
+- **⭐ Star数**: 766
+- **🔀 Fork数**: 52
+- **👀 Watch数**: 766
 - **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell, developer-tools, macos, macos-app, menu-bar
+- **🌐 官网**: [https://www.quotio.dev](https://www.quotio.dev)
+- **💻 技术栈**: Swift, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) ![Star](https://img.shields.io/github/stars/2025Emma/vibe-coding-cn?style=social)
+#### 4. [tuxmate](https://github.com/abusoww/tuxmate) ![Star](https://img.shields.io/github/stars/abusoww/tuxmate?style=social)
 
-<img src="./images/2025/week-52/vibe-coding-cn/1_tukuaiai.png" alt="vibe-coding-cn" width="500"/>
+<img src="./images/2025/week-1/tuxmate/1_1.png" alt="tuxmate" width="500"/>
 
-**📝 项目简介**: 中文Vibe Coding指南，教你与AI结对编程，把创意快速落地成可运行代码的完整工作站。
+**📝 项目简介**: TuxMate 通过 Web 界面一键生成发行版专属脚本，实现 Linux 批量装机，解决重装后逐一手动安装软件的痛点。
 
 **✨ 核心特性**:
-- 零门槛AI结对编程流程
-- 中文友好示例与模板
-- 一键环境搭建脚本
+- 网页点选即生成脚本，零命令行门槛
+- 自动识别 apt/dnf/pacman 等包管理，支持主流发行版
+- 开源可自托管，脚本透明可审计
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,187
-- **🔀 Fork数**: 134
-- **👀 Watch数**: 1,187
+- **⭐ Star数**: 694
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 694
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://tuxmate.com](https://tuxmate.com)
+- **💻 技术栈**: TypeScript, CSS, Dockerfile, JavaScript, linux, tool
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) ![Star](https://img.shields.io/github/stars/ClashConnectRules/Self-Configuration?style=social)
+
+**📝 项目简介**: 收录Clash/Surge等主流代理工具的现成规则与配置，用户可一键导入，省去手动维护节点与策略的麻烦。
+
+**✨ 核心特性**:
+- 覆盖Clash Meta、Surge 5等主流客户端
+- MIT开源，持续更新社区共享规则
+- 结构清晰，支持按需取用与自定义
+
+**📊 项目统计**:
+- **⭐ Star数**: 792
+- **🔀 Fork数**: 64
+- **👀 Watch数**: 792
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [unredact](https://github.com/leedrake5/unredact) ![Star](https://img.shields.io/github/stars/leedrake5/unredact?style=social)
+
+<img src="./images/2025/week-1/unredact/1_an_example.png" alt="unredact" width="500"/>
+
+**📝 项目简介**: 一键提取PDF中被黑框遮盖但仍存在于文件流中的“已删”文字，还原原始内容，验证打码是否真正安全。
+
+**✨ 核心特性**:
+- 无需破解密码，仅读取残留文本
+- 保留原分页与排版，可读性高
+- 命令行简单，支持批量处理
+
+**📊 项目统计**:
+- **⭐ Star数**: 454
+- **🔀 Fork数**: 58
+- **👀 Watch数**: 454
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, Makefile
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) ![Star](https://img.shields.io/github/stars/journey-ad/gemini-watermark-remover?style=social)
+#### 7. [mongobleed](https://github.com/joe-desimone/mongobleed) ![Star](https://img.shields.io/github/stars/joe-desimone/mongobleed?style=social)
 
-<img src="./images/2025/week-52/gemini-watermark-remover/1_lossless_diff.webp" alt="gemini-watermark-remover" width="500"/>
-
-**📝 项目简介**: 纯浏览器端一键无损移除Gemini AI图片水印，数学算法精准还原原图，无需上传、无需AI重绘。
+**📝 项目简介**: 针对MongoDB zlib解压漏洞的PoC，可无认证读取服务端敏感内存，验证CVE-2025-14847危害。
 
 **✨ 核心特性**:
-- 100%本地处理，零上传零隐私风险
-- 反向Alpha混合算法，像素级无损还原
-- 轻量JS实现，无需安装即开即用
+- 零认证即可利用
+- PoC完整公开，含Docker一键复现
+- 揭示缓冲区大小返回缺陷，影响数据安全
 
 **📊 项目统计**:
-- **⭐ Star数**: 689
-- **🔀 Fork数**: 67
-- **👀 Watch数**: 689
+- **⭐ Star数**: 428
+- **🔀 Fork数**: 69
+- **👀 Watch数**: 428
 - **📝 语言**: JavaScript
-- **🌐 官网**: [https://banana.ovo.re](https://banana.ovo.re)
-- **💻 技术栈**: JavaScript, HTML, Express, AWS
+- **💻 技术栈**: JavaScript, Python, Docker, MongoDB
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered?style=social)
+#### 8. [Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat?style=social)
 
-<img src="./images/2025/week-52/qwen-image-layered/1_0.jpg" alt="Qwen-Image-Layered" width="500"/>
+<img src="./images/2025/week-1/fun-audio-chat/1_tongyi%20fun.png" alt="Fun-Audio-Chat" width="500"/>
 
-**📝 项目简介**: 将单张图片自动拆成多层可编辑PSD，文字、物体、背景独立，支持精准替换与再创作。
+**📝 项目简介**: Fun-Audio-Chat是低延迟大音频语言模型，支持自然流畅的语音对话，可本地部署。
 
 **✨ 核心特性**:
-- 一键分层生成PSD，无需手动抠图
-- 文字、物体、背景解耦，可单独替换
-- 开源模型+论文，本地可跑，商用友好
+- 端到端语音输入输出，无需ASR/TTS转换
+- 毫秒级延迟，接近人类对话节奏
+- 开源可商用，提供Docker一键部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 531
-- **🔀 Fork数**: 34
-- **👀 Watch数**: 531
+- **⭐ Star数**: 443
+- **🔀 Fork数**: 39
+- **👀 Watch数**: 443
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, TypeScript, Shell, CSS, HTML, Dockerfile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [rscexplorer](https://github.com/gaearon/rscexplorer) ![Star](https://img.shields.io/github/stars/gaearon/rscexplorer?style=social)
+#### 9. [claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) ![Star](https://img.shields.io/github/stars/simonw/claude-code-transcripts?style=social)
 
-<img src="./images/2025/week-52/rscexplorer/1_screenshot.png" alt="rscexplorer" width="500"/>
+<img src="./images/2025/week-1/claude-code-transcripts/1_claude-code-transcripts.svg" alt="claude-code-transcripts" width="500"/>
 
-**📝 项目简介**: 浏览器内运行React Server Components，逐帧可视化RSC协议流，帮助理解服务端与客户端组件如何协同渲染。
-
-**✨ 核心特性**:
-- 零配置，一键启动Server与Client
-- 实时查看RSC流与React树变化
-- 内置交互示例，直观教学
-
-**📊 项目统计**:
-- **⭐ Star数**: 828
-- **🔀 Fork数**: 24
-- **👀 Watch数**: 828
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://rscexplorer.dev/](https://rscexplorer.dev/)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, HTML, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [NitroGen](https://github.com/MineDojo/NitroGen) ![Star](https://img.shields.io/github/stars/MineDojo/NitroGen?style=social)
-
-**📝 项目简介**: NitroGen是MineDojo推出的开源生成式模型，可基于文本提示快速生成高质量、可玩的Minecraft关卡与场景。
+**📝 项目简介**: 将 Claude Code 的 JSON/JSONL 会话日志一键转为移动端友好的分页 HTML 报告，方便分享与归档。
 
 **✨ 核心特性**:
-- 文本驱动无限关卡生成
-- 与Minecraft原生兼容即开即玩
-- 提供预训练模型与大规模数据集
+- 零配置生成干净 HTML
+- 自动分页、适配手机
+- 支持 uv 一键安装/即用
 
 **📊 项目统计**:
-- **⭐ Star数**: 550
-- **🔀 Fork数**: 51
-- **👀 Watch数**: 550
+- **⭐ Star数**: 367
+- **🔀 Fork数**: 36
+- **👀 Watch数**: 367
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, HTML, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [lightron](https://github.com/lwj2015/lightron) ![Star](https://img.shields.io/github/stars/lwj2015/lightron?style=social)
+#### 10. [nodecast-tv](https://github.com/technomancer702/nodecast-tv) ![Star](https://img.shields.io/github/stars/technomancer702/nodecast-tv?style=social)
 
-**📝 项目简介**: 轻量级 Megatron 教学版，支持 4-D 并行与最新 LLM 架构，帮助研究者低成本复现分布式大模型训练。
+<img src="./images/2025/week-1/nodecast-tv/1_screenshot-1.png" alt="nodecast-tv" width="500"/>
 
-**✨ 核心特性**:
-- 4-D 并行（TP/PP/DP/CP）+ EP/FSDP V2
-- 集成 RMSNorm、SwiGLU、RoPE、FlashAttention V2
-- 代码简洁，专为教学与快速实验设计
-
-**📊 项目统计**:
-- **⭐ Star数**: 510
-- **🔀 Fork数**: 45
-- **👀 Watch数**: 510
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [skills](https://github.com/GuDaStudio/skills) ![Star](https://img.shields.io/github/stars/GuDaStudio/skills?style=social)
-
-<img src="./images/2025/week-52/skills/1_title.png" alt="skills" width="500"/>
-
-**📝 项目简介**: GudaStudio开源的Agent Skills仓库，用模块化脚本让Claude按需调用Codex/Gemini等模型，实现多AI协同编码、调试与审查。
+**📝 项目简介**: 自托管Web IPTV播放器，支持直播、点播、剧集与EPG，浏览器即点即看，轻松管理万级片库。
 
 **✨ 核心特性**:
-- 一键切换OpenAI Codex与Google Gemini
-- PowerShell脚本即插即用，零配置集成
-- 覆盖原型开发、调试、代码审查全链路
+- 直播秒切台与分组搜索
+- 可视化24h节目指南
+- 影剧聚合+统一收藏
 
 **📊 项目统计**:
-- **⭐ Star数**: 507
-- **🔀 Fork数**: 26
-- **👀 Watch数**: 507
-- **📝 语言**: PowerShell
-- **🌐 官网**: [https://code.guda.studio](https://code.guda.studio)
-- **💻 技术栈**: PowerShell, Shell, React, Vue
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [tinypdf](https://github.com/Lulzx/tinypdf) ![Star](https://img.shields.io/github/stars/Lulzx/tinypdf?style=social)
-
-<img src="./images/2025/week-52/tinypdf/1_invoice.png" alt="tinypdf" width="500"/>
-
-**📝 项目简介**: 极致轻量的TypeScript PDF生成库，源码不足400行、零依赖，即可输出标准PDF，体积仅3.3KB，比主流方案小70倍。
-
-**✨ 核心特性**:
-- <400行源码、零依赖、3.3KB
-- 直接生成合规PDF，支持文本与图片排版
-- 比jsPDF小70倍，快速集成、无冗余功能
-
-**📊 项目统计**:
-- **⭐ Star数**: 574
-- **🔀 Fork数**: 9
-- **👀 Watch数**: 574
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **⭐ Star数**: 373
+- **🔀 Fork数**: 12
+- **👀 Watch数**: 373
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML, Dockerfile, Node.js, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -251,21 +249,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (5 个项目)
-2. **TypeScript** (2 个项目)
-3. **Swift** (1 个项目)
-4. **JavaScript** (1 个项目)
-5. **PowerShell** (1 个项目)
+1. **Python** (4 个项目)
+2. **JavaScript** (2 个项目)
+3. **Go** (1 个项目)
+4. **Swift** (1 个项目)
+5. **TypeScript** (1 个项目)
 
 **🏷️ 热门话题**:
-1. developer-tools (1)
-2. macos (1)
-3. macos-app (1)
-4. menu-bar (1)
-5. port-killer (1)
-6. process-manager (1)
-7. swift (1)
-8. swiftui (1)
+1. crypto (1)
+2. crypto-bot (1)
+3. marketmaker (1)
+4. marketmakerbot (1)
+5. agents (1)
+6. claude-code (1)
+7. claude-code-cli (1)
+8. claude-code-hooks (1)
 
 
 <!-- TRENDING-END -->
@@ -296,6 +294,7 @@
 | 08-23 | 2025年第34周 | 10 个 | [查看详情](./archives/2025/week-34/report.md) |
 | 08-16 | 2025年第33周 | 3 个 | [查看详情](./archives/2025/week-33/report.md) |
 
+[查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
 
 ## 🚀 快速开始

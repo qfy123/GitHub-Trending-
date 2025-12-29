@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2025年第1周",
+    "year": 2025,
+    "week": 1,
+    "week_range": {
+      "start": "2025-12-28",
+      "end": "2026-01-03"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-01-03 23:59:59",
+    "next_update": "2026-01-10"
+  },
+  "repositories": [
+    {
+      "full_name": "dennisyang1986/opensqt_market_maker",
+      "rank": 1,
+      "stars": 556,
+      "forks": 253,
+      "overall_score": 66
+    },
+    {
+      "full_name": "parcadei/Continuous-Claude-v2",
+      "rank": 2,
+      "stars": 824,
+      "forks": 55,
+      "overall_score": 65
+    },
+    {
+      "full_name": "nguyenphutrong/quotio",
+      "rank": 3,
+      "stars": 766,
+      "forks": 52,
+      "overall_score": 65
+    },
+    {
+      "full_name": "abusoww/tuxmate",
+      "rank": 4,
+      "stars": 694,
+      "forks": 28,
+      "overall_score": 65
+    },
+    {
+      "full_name": "ClashConnectRules/Self-Configuration",
+      "rank": 5,
+      "stars": 792,
+      "forks": 64,
+      "overall_score": 64
+    },
+    {
+      "full_name": "leedrake5/unredact",
+      "rank": 6,
+      "stars": 454,
+      "forks": 58,
+      "overall_score": 63
+    },
+    {
+      "full_name": "joe-desimone/mongobleed",
+      "rank": 7,
+      "stars": 428,
+      "forks": 69,
+      "overall_score": 63
+    },
+    {
+      "full_name": "FunAudioLLM/Fun-Audio-Chat",
+      "rank": 8,
+      "stars": 443,
+      "forks": 39,
+      "overall_score": 62
+    },
+    {
+      "full_name": "simonw/claude-code-transcripts",
+      "rank": 9,
+      "stars": 367,
+      "forks": 36,
+      "overall_score": 62
+    },
+    {
+      "full_name": "technomancer702/nodecast-tv",
+      "rank": 10,
+      "stars": 373,
+      "forks": 12,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2025-12-29T03:54:53.940Z"
+}
