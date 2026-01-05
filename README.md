@@ -18,230 +18,229 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2025年第1周
+### GitHub趋势排行榜 - 2026年第2周
 
-**📅 统计周期**: 2025-12-28 ~ 2026-01-03  
+**📅 统计周期**: 2026-01-04 ~ 2026-01-10  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 5,697  
-**🔄 更新时间**: 2026-01-03 23:59:59  
+**⭐ 总Star数**: 6,338  
+**🔄 更新时间**: 2026-01-10 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker) | Go实现的高频永续合约做市机器人，毫秒级挂单、撤单，专注震荡与上涨行情中的网格做多收益。 | 556 | 253 | Go | 🆕 |
-| 2 | [Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) | 为Claude Code提供会话连续、上下文隔离与MCP无污染执行，实现多Agent协同与状态持久化。 | 824 | 55 | Python | 🆕 |
-| 3 | [quotio](https://github.com/nguyenphutrong/quotio) | 原生macOS菜单栏工具，一键聚合Claude、Gemini、OpenAI等主流AI订阅，实时余量监控与智能故障切... | 766 | 52 | Swift | 🆕 |
-| 4 | [tuxmate](https://github.com/abusoww/tuxmate) | TuxMate 通过 Web 界面一键生成发行版专属脚本，实现 Linux 批量装机，解决重装后逐一手动安装软件的痛点。 | 694 | 28 | TypeScript | 🆕 |
-| 5 | [Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) | 收录Clash/Surge等主流代理工具的现成规则与配置，用户可一键导入，省去手动维护节点与策略的麻烦。 | 792 | 64 | Unknown | 🆕 |
-| 6 | [unredact](https://github.com/leedrake5/unredact) | 一键提取PDF中被黑框遮盖但仍存在于文件流中的“已删”文字，还原原始内容，验证打码是否真正安全。 | 454 | 58 | Python | 🆕 |
-| 7 | [mongobleed](https://github.com/joe-desimone/mongobleed) | 针对MongoDB zlib解压漏洞的PoC，可无认证读取服务端敏感内存，验证CVE-2025-14847危害。 | 428 | 69 | JavaScript | 🆕 |
-| 8 | [Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) | Fun-Audio-Chat是低延迟大音频语言模型，支持自然流畅的语音对话，可本地部署。 | 443 | 39 | Python | 🆕 |
-| 9 | [claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) | 将 Claude Code 的 JSON/JSONL 会话日志一键转为移动端友好的分页 HTML 报告，方便分享与归档。 | 367 | 36 | Python | 🆕 |
-| 10 | [nodecast-tv](https://github.com/technomancer702/nodecast-tv) | 自托管Web IPTV播放器，支持直播、点播、剧集与EPG，浏览器即点即看，轻松管理万级片库。 | 373 | 12 | JavaScript | 🆕 |
+| 1 | [IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1) | IQuest-Coder-V1是一套开源的400亿参数代码大模型家族，提供Base、Instruct及Loop-I... | 1,004 | 61 | Python | 🆕 |
+| 2 | [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 为Claude Code提供通用工作流插件，集成多智能体、技能、钩子与命令，一键赋能任意软件项目。 | 952 | 151 | Python | 🆕 |
+| 3 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | 为Claude Code提供实时状态栏，直观展示上下文用量、活跃工具、运行代理与待办进度，提升开发透明度与效率。 | 618 | 36 | JavaScript | 🆕 |
+| 4 | [VoidNovelEngine](https://github.com/VoidmatrixHeathcliff/VoidNovelEngine) | 跨平台、开源的视觉小说引擎，零授权费、现代化工作流，让独立开发者快速发布高质量文字冒险游戏。 | 600 | 59 | Unknown | 🆕 |
+| 5 | [tradecat](https://github.com/tukuaiai/tradecat) | 交易猫是覆盖全市场的轻量级量化数据平台，聚合币安、比特币等行情，提供实时/历史K线、指标计算、交易信号与Teleg... | 472 | 144 | Python | 🆕 |
+| 6 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 复刻Meta 20亿美元收购的Manus工作流：用持久化Markdown文件做AI规划、进度追踪与知识沉淀，让Cl... | 504 | 74 | Unknown | 🆕 |
+| 7 | [smaug](https://github.com/alexknowshtml/smaug) | 一键把Twitter/X书签（及点赞）自动归档成Markdown，像巨龙囤宝般永久保存你的收藏。 | 484 | 50 | JavaScript | 🆕 |
+| 8 | [cc-mirror](https://github.com/numman-ali/cc-mirror) | 一键生成多个隔离的 Claude Code 实例，可自由切换 Z.ai、MiniMax、OpenRouter 等后... | 473 | 33 | TypeScript | 🆕 |
+| 9 | [zpdf](https://github.com/Lulzx/zpdf) | Zig编写的高性能零拷贝PDF文本提取库，内存映射+SIMD加速，无需外部依赖即可快速抽字。 | 729 | 22 | Zig | 🆕 |
+| 10 | [Skills](https://github.com/Dimillian/Skills) | 为iOS/Swift开发者整理的可复用技能脚本集，一键完成发版日志、调试、代码质量检查等高频任务。 | 502 | 24 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker) ![Star](https://img.shields.io/github/stars/dennisyang1986/opensqt_market_maker?style=social)
+#### 1. [IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1) ![Star](https://img.shields.io/github/stars/IQuestLab/IQuest-Coder-V1?style=social)
 
-<img src="./images/2025/week-1/opensqt_market_maker/1_go-1.21%2b-blue.svg" alt="opensqt_market_maker" width="500"/>
+<img src="./images/2026/week-2/iquest-coder-v1/1_iquest-coder-v1-logo.png" alt="IQuest-Coder-V1" width="500"/>
 
-**📝 项目简介**: Go实现的高频永续合约做市机器人，毫秒级挂单、撤单，专注震荡与上涨行情中的网格做多收益。
-
-**✨ 核心特性**:
-- 毫秒级低延迟撮合
-- 支持Binance/Bitget/Gate.io多交易所
-- 实盘已跑1亿美元+交易量
-
-**📊 项目统计**:
-- **⭐ Star数**: 556
-- **🔀 Fork数**: 253
-- **👀 Watch数**: 556
-- **📝 语言**: Go
-- **🌐 官网**: [https://www.OpenSQT.com/](https://www.OpenSQT.com/)
-- **💻 技术栈**: Go, HTML, crypto, crypto-bot, marketmaker, marketmakerbot
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) ![Star](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v2?style=social)
-
-**📝 项目简介**: 为Claude Code提供会话连续、上下文隔离与MCP无污染执行，实现多Agent协同与状态持久化。
+**📝 项目简介**: IQuest-Coder-V1是一套开源的400亿参数代码大模型家族，提供Base、Instruct及Loop-Instruct多版本，助力开发者高效生成与优化代码。
 
 **✨ 核心特性**:
-- 会话断点续跑，token零浪费
-- Ledger记账+Handoff切换，上下文不污染
-- 子Agent隔离窗口，安全并行
+- 400亿参数规模，性能强劲
+- 多阶段训练版本，灵活适配需求
+- 配套技术报告与博客，文档完整
 
 **📊 项目统计**:
-- **⭐ Star数**: 824
-- **🔀 Fork数**: 55
-- **👀 Watch数**: 824
+- **⭐ Star数**: 1,004
+- **🔀 Fork数**: 61
+- **👀 Watch数**: 1,004
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, TypeScript, JavaScript, agents, claude-code
+- **💻 技术栈**: Python, Shell, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [quotio](https://github.com/nguyenphutrong/quotio) ![Star](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=social)
+#### 2. [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) ![Star](https://img.shields.io/github/stars/CloudAI-X/claude-workflow-v2?style=social)
 
-<img src="./images/2025/week-1/quotio/1_menu_bar.png" alt="quotio" width="500"/>
+<img src="./images/2026/week-2/claude-workflow-v2/1_license-mit-yellow.svg" alt="claude-workflow-v2" width="500"/>
 
-**📝 项目简介**: 原生macOS菜单栏工具，一键聚合Claude、Gemini、OpenAI等主流AI订阅，实时余量监控与智能故障切换，告别多账号切换烦恼。
+**📝 项目简介**: 为Claude Code提供通用工作流插件，集成多智能体、技能、钩子与命令，一键赋能任意软件项目。
 
 **✨ 核心特性**:
-- 多AI服务统一管理与配额实时追踪
-- 智能自动故障切换保障工具链稳定
-- 原生Swift体验，零配置即开即用
+- 多智能体协同，开箱即用
+- 支持CLI与SDK双模式接入
+- 可插拔技能与钩子，灵活扩展
 
 **📊 项目统计**:
-- **⭐ Star数**: 766
-- **🔀 Fork数**: 52
-- **👀 Watch数**: 766
-- **📝 语言**: Swift
-- **🌐 官网**: [https://www.quotio.dev](https://www.quotio.dev)
-- **💻 技术栈**: Swift, Shell
+- **⭐ Star数**: 952
+- **🔀 Fork数**: 151
+- **👀 Watch数**: 952
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, Node.js, TypeScript, GraphQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [tuxmate](https://github.com/abusoww/tuxmate) ![Star](https://img.shields.io/github/stars/abusoww/tuxmate?style=social)
+#### 3. [claude-hud](https://github.com/jarrodwatts/claude-hud) ![Star](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=social)
 
-<img src="./images/2025/week-1/tuxmate/1_1.png" alt="tuxmate" width="500"/>
+<img src="./images/2026/week-2/claude-hud/1_claude-hud-preview-5-2.png" alt="claude-hud" width="500"/>
 
-**📝 项目简介**: TuxMate 通过 Web 界面一键生成发行版专属脚本，实现 Linux 批量装机，解决重装后逐一手动安装软件的痛点。
+**📝 项目简介**: 为Claude Code提供实时状态栏，直观展示上下文用量、活跃工具、运行代理与待办进度，提升开发透明度与效率。
 
 **✨ 核心特性**:
-- 网页点选即生成脚本，零命令行门槛
-- 自动识别 apt/dnf/pacman 等包管理，支持主流发行版
-- 开源可自托管，脚本透明可审计
+- 实时HUD常驻输入区下方
+- 一键安装零配置即生效
+- 可视化资源与任务进度
 
 **📊 项目统计**:
-- **⭐ Star数**: 694
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 694
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://tuxmate.com](https://tuxmate.com)
-- **💻 技术栈**: TypeScript, CSS, Dockerfile, JavaScript, linux, tool
+- **⭐ Star数**: 618
+- **🔀 Fork数**: 36
+- **👀 Watch数**: 618
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, TypeScript, anthropic, claude, claude-code, cli
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) ![Star](https://img.shields.io/github/stars/ClashConnectRules/Self-Configuration?style=social)
+#### 4. [VoidNovelEngine](https://github.com/VoidmatrixHeathcliff/VoidNovelEngine) ![Star](https://img.shields.io/github/stars/VoidmatrixHeathcliff/VoidNovelEngine?style=social)
 
-**📝 项目简介**: 收录Clash/Surge等主流代理工具的现成规则与配置，用户可一键导入，省去手动维护节点与策略的麻烦。
+<img src="./images/2026/week-2/voidnovelengine/1_snapshot_1.png" alt="VoidNovelEngine" width="500"/>
+
+**📝 项目简介**: 跨平台、开源的视觉小说引擎，零授权费、现代化工作流，让独立开发者快速发布高质量文字冒险游戏。
 
 **✨ 核心特性**:
-- 覆盖Clash Meta、Surge 5等主流客户端
-- MIT开源，持续更新社区共享规则
-- 结构清晰，支持按需取用与自定义
+- 完全免费开源，无版权限制
+- 现代化UI与脚本，开发门槛低
+- 跨Windows/macOS/Linux发布
 
 **📊 项目统计**:
-- **⭐ Star数**: 792
-- **🔀 Fork数**: 64
-- **👀 Watch数**: 792
+- **⭐ Star数**: 600
+- **🔀 Fork数**: 59
+- **👀 Watch数**: 600
 - **📝 语言**: Unknown
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [unredact](https://github.com/leedrake5/unredact) ![Star](https://img.shields.io/github/stars/leedrake5/unredact?style=social)
+#### 5. [tradecat](https://github.com/tukuaiai/tradecat) ![Star](https://img.shields.io/github/stars/tukuaiai/tradecat?style=social)
 
-<img src="./images/2025/week-1/unredact/1_an_example.png" alt="unredact" width="500"/>
+<img src="./images/2026/week-2/tradecat/1_badge.svg" alt="tradecat" width="500"/>
 
-**📝 项目简介**: 一键提取PDF中被黑框遮盖但仍存在于文件流中的“已删”文字，还原原始内容，验证打码是否真正安全。
+**📝 项目简介**: 交易猫是覆盖全市场的轻量级量化数据平台，聚合币安、比特币等行情，提供实时/历史K线、指标计算、交易信号与Telegram告警，一键部署即可监控与回测。
 
 **✨ 核心特性**:
-- 无需破解密码，仅读取残留文本
-- 保留原分页与排版，可读性高
-- 命令行简单，支持批量处理
+- 全市场数据一站式获取
+- 内置150+技术指标与Wyckoff分析
+- 支持实时告警与策略回测，代码开源可扩展
 
 **📊 项目统计**:
-- **⭐ Star数**: 454
-- **🔀 Fork数**: 58
-- **👀 Watch数**: 454
+- **⭐ Star数**: 472
+- **🔀 Fork数**: 144
+- **👀 Watch数**: 472
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **🌐 官网**: [https://x.com/tradecat_ai](https://x.com/tradecat_ai)
+- **💻 技术栈**: Python, JavaScript, Shell, PLpgSQL, Makefile, ai
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [mongobleed](https://github.com/joe-desimone/mongobleed) ![Star](https://img.shields.io/github/stars/joe-desimone/mongobleed?style=social)
+#### 6. [planning-with-files](https://github.com/OthmanAdi/planning-with-files) ![Star](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social)
 
-**📝 项目简介**: 针对MongoDB zlib解压漏洞的PoC，可无认证读取服务端敏感内存，验证CVE-2025-14847危害。
+<img src="./images/2026/week-2/planning-with-files/1_license-mit-yellow.svg" alt="planning-with-files" width="500"/>
+
+**📝 项目简介**: 复刻Meta 20亿美元收购的Manus工作流：用持久化Markdown文件做AI规划、进度追踪与知识沉淀，让Claude Code具备“上下文工程”能力。
 
 **✨ 核心特性**:
-- 零认证即可利用
-- PoC完整公开，含Docker一键复现
-- 揭示缓冲区大小返回缺陷，影响数据安全
+- Manus同款$2B工作流
+- 持久Markdown规划与复盘
+- Claude Code一键技能
 
 **📊 项目统计**:
-- **⭐ Star数**: 428
-- **🔀 Fork数**: 69
-- **👀 Watch数**: 428
+- **⭐ Star数**: 504
+- **🔀 Fork数**: 74
+- **👀 Watch数**: 504
+- **📝 语言**: Unknown
+- **💻 技术栈**: TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [smaug](https://github.com/alexknowshtml/smaug) ![Star](https://img.shields.io/github/stars/alexknowshtml/smaug?style=social)
+
+**📝 项目简介**: 一键把Twitter/X书签（及点赞）自动归档成Markdown，像巨龙囤宝般永久保存你的收藏。
+
+**✨ 核心特性**:
+- 零配置自动同步
+- 输出干净Markdown，方便本地搜索与备份
+- 支持书签+点赞双模式
+
+**📊 项目统计**:
+- **⭐ Star数**: 484
+- **🔀 Fork数**: 50
+- **👀 Watch数**: 484
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Python, Docker, MongoDB
+- **💻 技术栈**: JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat?style=social)
+#### 8. [cc-mirror](https://github.com/numman-ali/cc-mirror) ![Star](https://img.shields.io/github/stars/numman-ali/cc-mirror?style=social)
 
-<img src="./images/2025/week-1/fun-audio-chat/1_tongyi%20fun.png" alt="Fun-Audio-Chat" width="500"/>
+<img src="./images/2026/week-2/cc-mirror/1_cc-mirror-providers.png" alt="cc-mirror" width="500"/>
 
-**📝 项目简介**: Fun-Audio-Chat是低延迟大音频语言模型，支持自然流畅的语音对话，可本地部署。
+**📝 项目简介**: 一键生成多个隔离的 Claude Code 实例，可自由切换 Z.ai、MiniMax、OpenRouter 等后端，解决单账号限速与供应商锁定问题。
 
 **✨ 核心特性**:
-- 端到端语音输入输出，无需ASR/TTS转换
-- 毫秒级延迟，接近人类对话节奏
-- 开源可商用，提供Docker一键部署
+- 支持多供应商无缝切换
+- 容器级隔离，配置互不干扰
+- npm 一键安装，脚本自动化部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 443
-- **🔀 Fork数**: 39
-- **👀 Watch数**: 443
+- **⭐ Star数**: 473
+- **🔀 Fork数**: 33
+- **👀 Watch数**: 473
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Shell, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [zpdf](https://github.com/Lulzx/zpdf) ![Star](https://img.shields.io/github/stars/Lulzx/zpdf?style=social)
+
+**📝 项目简介**: Zig编写的高性能零拷贝PDF文本提取库，内存映射+SIMD加速，无需外部依赖即可快速抽字。
+
+**✨ 核心特性**:
+- 零拷贝内存映射，极致省内存
+- SIMD加速，单文件即可解析
+- 支持压缩、编码、标签PDF等完整特性
+
+**📊 项目统计**:
+- **⭐ Star数**: 729
+- **🔀 Fork数**: 22
+- **👀 Watch数**: 729
+- **📝 语言**: Zig
+- **🌐 官网**: [https://lulzx.com/zpdf](https://lulzx.com/zpdf)
+- **💻 技术栈**: Zig, Python, HTML, Shell, C, high-performance
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [Skills](https://github.com/Dimillian/Skills) ![Star](https://img.shields.io/github/stars/Dimillian/Skills?style=social)
+
+**📝 项目简介**: 为iOS/Swift开发者整理的可复用技能脚本集，一键完成发版日志、调试、代码质量检查等高频任务。
+
+**✨ 核心特性**:
+- 覆盖iOS开发全流程常用脚本
+- 即装即用，支持CODEX环境快速集成
+- 内置预提交钩子，自动同步技能索引
+
+**📊 项目统计**:
+- **⭐ Star数**: 502
+- **🔀 Fork数**: 24
+- **👀 Watch数**: 502
 - **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, Shell, CSS, HTML, Dockerfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) ![Star](https://img.shields.io/github/stars/simonw/claude-code-transcripts?style=social)
-
-<img src="./images/2025/week-1/claude-code-transcripts/1_claude-code-transcripts.svg" alt="claude-code-transcripts" width="500"/>
-
-**📝 项目简介**: 将 Claude Code 的 JSON/JSONL 会话日志一键转为移动端友好的分页 HTML 报告，方便分享与归档。
-
-**✨ 核心特性**:
-- 零配置生成干净 HTML
-- 自动分页、适配手机
-- 支持 uv 一键安装/即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 367
-- **🔀 Fork数**: 36
-- **👀 Watch数**: 367
-- **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [nodecast-tv](https://github.com/technomancer702/nodecast-tv) ![Star](https://img.shields.io/github/stars/technomancer702/nodecast-tv?style=social)
-
-<img src="./images/2025/week-1/nodecast-tv/1_screenshot-1.png" alt="nodecast-tv" width="500"/>
-
-**📝 项目简介**: 自托管Web IPTV播放器，支持直播、点播、剧集与EPG，浏览器即点即看，轻松管理万级片库。
-
-**✨ 核心特性**:
-- 直播秒切台与分组搜索
-- 可视化24h节目指南
-- 影剧聚合+统一收藏
-
-**📊 项目统计**:
-- **⭐ Star数**: 373
-- **🔀 Fork数**: 12
-- **👀 Watch数**: 373
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, HTML, Dockerfile, Node.js, Express
+- **💻 技术栈**: Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -251,19 +250,19 @@
 **🔥 热门语言**:
 1. **Python** (4 个项目)
 2. **JavaScript** (2 个项目)
-3. **Go** (1 个项目)
-4. **Swift** (1 个项目)
-5. **TypeScript** (1 个项目)
+3. **Unknown** (2 个项目)
+4. **TypeScript** (1 个项目)
+5. **Zig** (1 个项目)
 
 **🏷️ 热门话题**:
-1. crypto (1)
-2. crypto-bot (1)
-3. marketmaker (1)
-4. marketmakerbot (1)
-5. agents (1)
-6. claude-code (1)
-7. claude-code-cli (1)
-8. claude-code-hooks (1)
+1. anthropic (1)
+2. claude (1)
+3. claude-code (1)
+4. cli (1)
+5. plugin (1)
+6. statusline (1)
+7. typescript (1)
+8. ai (1)
 
 
 <!-- TRENDING-END -->
@@ -273,6 +272,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 01-10 | 2026年第2周 | 10 个 | [查看详情](./archives/2026/week-2/report.md) |
 | 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
 | 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
@@ -292,7 +292,6 @@
 | 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
 | 08-30 | 2025年第35周 | 10 个 | [查看详情](./archives/2025/week-35/report.md) |
 | 08-23 | 2025年第34周 | 10 个 | [查看详情](./archives/2025/week-34/report.md) |
-| 08-16 | 2025年第33周 | 3 个 | [查看详情](./archives/2025/week-33/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
