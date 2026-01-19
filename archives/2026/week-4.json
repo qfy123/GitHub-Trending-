@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第4周",
+    "year": 2026,
+    "week": 4,
+    "week_range": {
+      "start": "2026-01-18",
+      "end": "2026-01-24"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-01-24 23:59:59",
+    "next_update": "2026-01-31"
+  },
+  "repositories": [
+    {
+      "full_name": "vercel-labs/json-render",
+      "rank": 1,
+      "stars": 6674,
+      "forks": 326,
+      "overall_score": 78
+    },
+    {
+      "full_name": "accomplish-ai/openwork",
+      "rank": 2,
+      "stars": 1548,
+      "forks": 234,
+      "overall_score": 76
+    },
+    {
+      "full_name": "21st-dev/1code",
+      "rank": 3,
+      "stars": 1994,
+      "forks": 198,
+      "overall_score": 75
+    },
+    {
+      "full_name": "DevAgentForge/Claude-Cowork",
+      "rank": 4,
+      "stars": 1828,
+      "forks": 272,
+      "overall_score": 74
+    },
+    {
+      "full_name": "different-ai/openwork",
+      "rank": 5,
+      "stars": 1914,
+      "forks": 142,
+      "overall_score": 73
+    },
+    {
+      "full_name": "vercel-labs/add-skill",
+      "rank": 6,
+      "stars": 1234,
+      "forks": 65,
+      "overall_score": 70
+    },
+    {
+      "full_name": "trailofbits/skills",
+      "rank": 7,
+      "stars": 1329,
+      "forks": 98,
+      "overall_score": 69
+    },
+    {
+      "full_name": "vudovn/antigravity-kit",
+      "rank": 8,
+      "stars": 1097,
+      "forks": 225,
+      "overall_score": 69
+    },
+    {
+      "full_name": "affaan-m/everything-claude-code",
+      "rank": 9,
+      "stars": 1147,
+      "forks": 162,
+      "overall_score": 68
+    },
+    {
+      "full_name": "likaia/nginxpulse",
+      "rank": 10,
+      "stars": 946,
+      "forks": 76,
+      "overall_score": 66
+    }
+  ],
+  "generated_at": "2026-01-19T03:56:55.526Z"
+}

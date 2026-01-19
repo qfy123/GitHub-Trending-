@@ -18,223 +18,227 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第3周
+### GitHub趋势排行榜 - 2026年第4周
 
-**📅 统计周期**: 2026-01-11 ~ 2026-01-17  
+**📅 统计周期**: 2026-01-18 ~ 2026-01-24  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 14,314  
-**🔄 更新时间**: 2026-01-17 23:59:59  
+**⭐ 总Star数**: 19,711  
+**🔄 更新时间**: 2026-01-24 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [fnnas](https://github.com/ophub/fnnas) | 一键把电视盒子/开发板变成轻NAS：自动适配Amlogic、Rockchip、Allwinner主流芯片，刷机即用... | 1,510 | 259 | Shell | 🆕 |
-| 2 | [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | 示范如何把 Claude Code 配置成“超级队友”，提供 hooks、skills、agents、命令与 Gi... | 4,000 | 358 | JavaScript | 🆕 |
-| 3 | [ralph](https://github.com/snarktank/ralph) | Ralph 是一个自治 AI 代理循环，可自动迭代完成产品需求文档中的所有任务，直到全部实现。 | 2,716 | 385 | TypeScript | 🆕 |
-| 4 | [AudioNoise](https://github.com/torvalds/AudioNoise) | Linus Torvalds 用 RP2354+TAC5112 做的开源数字吉他效果器，提供随机噪声/失真等音效。 | 1,478 | 54 | C | 🆕 |
-| 5 | [claude-canvas](https://github.com/dvdsgl/claude-canvas) | 为Claude Code提供TUI外接显示器，一键生成邮件、日历、订票等交互终端界面，让AI拥有可视化操作屏。 | 1,142 | 115 | TypeScript | 🆕 |
-| 6 | [oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus) | 11个AI智能体持续协作，把复杂开发任务拆成可执行步骤并自动推进，直到全部完成，像西西弗推石上山般永不放弃。 | 738 | 72 | TypeScript | 🆕 |
-| 7 | [claude-code-config](https://github.com/jarrodwatts/claude-code-config) | 汇集社区精华的Claude Code一键配置库，集成规则、钩子、Agent与命令，开箱即用，省去繁琐手动搭建。 | 728 | 89 | Python | 🆕 |
-| 8 | [smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) | 把任意TCP流量伪装成SMTP邮件，高速穿透DPI防火墙，实现无感翻墙。 | 894 | 76 | Python | 🆕 |
-| 9 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 为AI智能体打造的极速无头浏览器CLI，一键安装即可驱动Chromium完成网页自动化任务。 | 553 | 25 | TypeScript | 🆕 |
-| 10 | [CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) | macOS原生SwiftUI工具，一站式浏览、预览、导入/删除本地及Clawdhub的Codex/Claude C... | 555 | 37 | Swift | 🆕 |
+| 1 | [json-render](https://github.com/vercel-labs/json-render) | 让AI按预设组件库生成JSON→UI，保证输出安全、可预测，用户一句话即可得仪表盘/组件。 | 6,674 | 326 | TypeScript | 🆕 |
+| 2 | [openwork](https://github.com/accomplish-ai/openwork) | 开源桌面AI同事，可调用自有API，自动完成文件整理、文档生成与浏览器操作，提升个人与团队效率。 | 1,548 | 234 | TypeScript | 🆕 |
+| 3 | [1code](https://github.com/21st-dev/1code) | 1Code为Claude Code等AI编程助手提供并行运行与隔离管理的可视化界面，让多任务开发更安全高效。 | 1,994 | 198 | TypeScript | 🆕 |
+| 4 | [Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) | 桌面端开源AI助手，集成MiniMax-M2.1模型，一句话即可自动完成编程、文件管理等复杂任务，让高级AI能力人... | 1,828 | 272 | TypeScript | 🆕 |
+| 5 | [openwork](https://github.com/different-ai/openwork) | 开源桌面版“Claude Cowork”替代，用可视化工作流帮知识工作者一键运行代码、管理任务与权限，成果可模板复用。 | 1,914 | 142 | TypeScript | 🆕 |
+| 6 | [add-skill](https://github.com/vercel-labs/add-skill) | 一键把Git仓库里的Agent Skill装到Opencode、Claude Code、Cursor等编码助手，扩... | 1,234 | 65 | TypeScript | 🆕 |
+| 7 | [skills](https://github.com/trailofbits/skills) | Trail of Bits为Claude Code打造的插件市场，提供安全研究、漏洞检测与审计工作流技能，一键扩展... | 1,329 | 98 | Python | 🆕 |
+| 8 | [antigravity-kit](https://github.com/vudovn/antigravity-kit) | 一键初始化AI Agent开发套件，内置16种专业角色与40项技能模板，快速搭建前端、后端、安全等智能工作流。 | 1,097 | 225 | Python | 🆕 |
+| 9 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | Anthropic黑客松冠军开源的Claude Code全家桶，含生产级Agent、技能、钩子、规则等配置，10个... | 1,147 | 162 | Unknown | 🆕 |
+| 10 | [nginxpulse](https://github.com/likaia/nginxpulse) | 轻量级Nginx日志实时分析与可视化面板，一键统计PV、IP地理分布及客户端信息，无需ELK即可快速洞察站点流量。 | 946 | 76 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [fnnas](https://github.com/ophub/fnnas) ![Star](https://img.shields.io/github/stars/ophub/fnnas?style=social)
+#### 1. [json-render](https://github.com/vercel-labs/json-render) ![Star](https://img.shields.io/github/stars/vercel-labs/json-render?style=social)
 
-**📝 项目简介**: 一键把电视盒子/开发板变成轻NAS：自动适配Amlogic、Rockchip、Allwinner主流芯片，刷机即用，告别安卓。
-
-**✨ 核心特性**:
-- 30+款盒子即插即用，Shell脚本全自动刷机
-- 基于Debian，内核新、驱动全，稳定跑Docker/SMB
-- U盘/硬盘灵活挂载，低成本家庭私有云
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,510
-- **🔀 Fork数**: 259
-- **👀 Watch数**: 1,510
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, a311d, allwinner, amlogic, arm64, debian
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) ![Star](https://img.shields.io/github/stars/ChrisWiles/claude-code-showcase?style=social)
-
-**📝 项目简介**: 示范如何把 Claude Code 配置成“超级队友”，提供 hooks、skills、agents、命令与 GitHub Actions 一站式模板，让 LLM 自动遵循团队规范并持续进化。
+**📝 项目简介**: 让AI按预设组件库生成JSON→UI，保证输出安全、可预测，用户一句话即可得仪表盘/组件。
 
 **✨ 核心特性**:
-- 开箱即用的 Claude Code 全栈配置模板
-- 内置 hooks+skills+agents 可复用资产
-- GitHub Actions 自动化持续集成与自进化
+- AI只能调用你定义的组件，防跑偏
+- 输出JSON严格符合Schema，100%可渲染
+- npm一行命令接入，React即插即用
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,000
-- **🔀 Fork数**: 358
-- **👀 Watch数**: 4,000
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Shell, React, Node.js, TypeScript, GraphQL
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [ralph](https://github.com/snarktank/ralph) ![Star](https://img.shields.io/github/stars/snarktank/ralph?style=social)
-
-<img src="./images/2026/week-3/ralph/1_ralph.webp" alt="ralph" width="500"/>
-
-**📝 项目简介**: Ralph 是一个自治 AI 代理循环，可自动迭代完成产品需求文档中的所有任务，直到全部实现。
-
-**✨ 核心特性**:
-- 无需人工干预，自动循环开发
-- 每次迭代全新环境，避免上下文污染
-- 通过 Git 记录与进度文件持久化记忆
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,716
-- **🔀 Fork数**: 385
-- **👀 Watch数**: 2,716
+- **⭐ Star数**: 6,674
+- **🔀 Fork数**: 326
+- **👀 Watch数**: 6,674
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://x.com/ryancarson/status/2008548371712135632](https://x.com/ryancarson/status/2008548371712135632)
-- **💻 技术栈**: TypeScript, CSS, Shell, JavaScript, HTML
+- **🌐 官网**: [https://json-render.dev](https://json-render.dev)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [AudioNoise](https://github.com/torvalds/AudioNoise) ![Star](https://img.shields.io/github/stars/torvalds/AudioNoise?style=social)
+#### 2. [openwork](https://github.com/accomplish-ai/openwork) ![Star](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 
-**📝 项目简介**: Linus Torvalds 用 RP2354+TAC5112 做的开源数字吉他效果器，提供随机噪声/失真等音效。
+<img src="./images/2026/week-4/openwork/1_banner.svg" alt="openwork" width="500"/>
 
-**✨ 核心特性**:
-- 硬件+固件全开源
-- 随机数字音效算法
-- 兼作固件烧录的脚踏开关
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,478
-- **🔀 Fork数**: 54
-- **👀 Watch数**: 1,478
-- **📝 语言**: C
-- **💻 技术栈**: C, Python, Makefile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [claude-canvas](https://github.com/dvdsgl/claude-canvas) ![Star](https://img.shields.io/github/stars/dvdsgl/claude-canvas?style=social)
-
-<img src="./images/2026/week-3/claude-canvas/1_screenshot.png" alt="claude-canvas" width="500"/>
-
-**📝 项目简介**: 为Claude Code提供TUI外接显示器，一键生成邮件、日历、订票等交互终端界面，让AI拥有可视化操作屏。
+**📝 项目简介**: 开源桌面AI同事，可调用自有API，自动完成文件整理、文档生成与浏览器操作，提升个人与团队效率。
 
 **✨ 核心特性**:
-- AI专属外接终端显示器
-- 一键生成邮件/日历/订票等交互界面
-- 分屏实时展示，提升AI任务可视化
+- 本地运行，数据私密
+- 支持自定义AI API，灵活切换模型
+- 一键自动化文件、文档、浏览器任务
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,142
-- **🔀 Fork数**: 115
-- **👀 Watch数**: 1,142
+- **⭐ Star数**: 1,548
+- **🔀 Fork数**: 234
+- **👀 Watch数**: 1,548
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Shell
+- **🌐 官网**: [https://openwork.me](https://openwork.me)
+- **💻 技术栈**: TypeScript, JavaScript, Shell, CSS, Dockerfile, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus) ![Star](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claude-sisyphus?style=social)
+#### 3. [1code](https://github.com/21st-dev/1code) ![Star](https://img.shields.io/github/stars/21st-dev/1code?style=social)
 
-<img src="./images/2026/week-3/oh-my-claude-sisyphus/1_social-preview.png" alt="oh-my-claude-sisyphus" width="500"/>
+<img src="./images/2026/week-4/1code/1_worktree.gif" alt="1code" width="500"/>
 
-**📝 项目简介**: 11个AI智能体持续协作，把复杂开发任务拆成可执行步骤并自动推进，直到全部完成，像西西弗推石上山般永不放弃。
+**📝 项目简介**: 1Code为Claude Code等AI编程助手提供并行运行与隔离管理的可视化界面，让多任务开发更安全高效。
 
 **✨ 核心特性**:
-- 多智能体编排，任务自动拆解与接力
-- Claude Code SDK原生驱动，TypeScript全栈
-- 开源复活版，社区持续迭代增强
+- Git Worktree隔离，主分支零污染
+- 后台并行跑agent，不阻塞当前工作
+- 本地优先，代码完全留在本机
 
 **📊 项目统计**:
-- **⭐ Star数**: 738
-- **🔀 Fork数**: 72
-- **👀 Watch数**: 738
+- **⭐ Star数**: 1,994
+- **🔀 Fork数**: 198
+- **👀 Watch数**: 1,994
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Shell, JavaScript, agentic-coding, ai-agents, claude
+- **💻 技术栈**: TypeScript, JavaScript, CSS, HTML, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [claude-code-config](https://github.com/jarrodwatts/claude-code-config) ![Star](https://img.shields.io/github/stars/jarrodwatts/claude-code-config?style=social)
+#### 4. [Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) ![Star](https://img.shields.io/github/stars/DevAgentForge/Claude-Cowork?style=social)
 
-**📝 项目简介**: 汇集社区精华的Claude Code一键配置库，集成规则、钩子、Agent与命令，开箱即用，省去繁琐手动搭建。
+<img src="./images/2026/week-4/claude-cowork/1_version-0.0.2-blue.svg" alt="Claude-Cowork" width="500"/>
+
+**📝 项目简介**: 桌面端开源AI助手，集成MiniMax-M2.1模型，一句话即可自动完成编程、文件管理等复杂任务，让高级AI能力人人可用。
 
 **✨ 核心特性**:
-- 社区驱动，持续集成最佳实践
-- 三种安装方式，零Git也能秒配
-- 覆盖规则/钩子/Agent/命令全场景
+- 一句话驱动多步任务
+- 本地桌面级体验，数据私密
+- 开源免费，持续社区迭代
 
 **📊 项目统计**:
-- **⭐ Star数**: 728
-- **🔀 Fork数**: 89
-- **👀 Watch数**: 728
+- **⭐ Star数**: 1,828
+- **🔀 Fork数**: 272
+- **👀 Watch数**: 1,828
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, JavaScript, HTML, React, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [openwork](https://github.com/different-ai/openwork) ![Star](https://img.shields.io/github/stars/different-ai/openwork?style=social)
+
+**📝 项目简介**: 开源桌面版“Claude Cowork”替代，用可视化工作流帮知识工作者一键运行代码、管理任务与权限，成果可模板复用。
+
+**✨ 核心特性**:
+- 原生桌面应用，运行流畅
+- OpenCode驱动，自动执行代码
+- 模板+权限审批，成果可复用
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,914
+- **🔀 Fork数**: 142
+- **👀 Watch数**: 1,914
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://openwork.software](https://openwork.software)
+- **💻 技术栈**: TypeScript, Rust, JavaScript, HTML, CSS, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [add-skill](https://github.com/vercel-labs/add-skill) ![Star](https://img.shields.io/github/stars/vercel-labs/add-skill?style=social)
+
+**📝 项目简介**: 一键把Git仓库里的Agent Skill装到Opencode、Claude Code、Cursor等编码助手，扩展AI自动编程能力。
+
+**✨ 核心特性**:
+- 支持多主流编码助手
+- Skill以YAML+Markdown定义，易写易分享
+- npx一键安装，零配置即插即用
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,234
+- **🔀 Fork数**: 65
+- **👀 Watch数**: 1,234
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [skills](https://github.com/trailofbits/skills) ![Star](https://img.shields.io/github/stars/trailofbits/skills?style=social)
+
+**📝 项目简介**: Trail of Bits为Claude Code打造的插件市场，提供安全研究、漏洞检测与审计工作流技能，一键扩展AI安全分析能力。
+
+**✨ 核心特性**:
+- 官方安全团队出品，技能权威可信
+- 一键安装，零配置集成Claude Code
+- 覆盖多语言漏洞检测与审计场景
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,329
+- **🔀 Fork数**: 98
+- **👀 Watch数**: 1,329
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, ai, claude, claude-code, developer-tools
+- **💻 技术栈**: Python, CodeQL, C, Swift, C#, Ruby
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) ![Star](https://img.shields.io/github/stars/x011/smtp-tunnel-proxy?style=social)
+#### 8. [antigravity-kit](https://github.com/vudovn/antigravity-kit) ![Star](https://img.shields.io/github/stars/vudovn/antigravity-kit?style=social)
 
-**📝 项目简介**: 把任意TCP流量伪装成SMTP邮件，高速穿透DPI防火墙，实现无感翻墙。
+**📝 项目简介**: 一键初始化AI Agent开发套件，内置16种专业角色与40项技能模板，快速搭建前端、后端、安全等智能工作流。
 
 **✨ 核心特性**:
-- 流量外观=普通邮件，防火墙难识别
-- SOCKS5即插即用，浏览器零配置
-- Python单文件，一键服务端+客户端
+- npm一行命令即可初始化
+- 16个专家级AI角色开箱即用
+- 40个领域技能模块自由组合
 
 **📊 项目统计**:
-- **⭐ Star数**: 894
+- **⭐ Star数**: 1,097
+- **🔀 Fork数**: 225
+- **👀 Watch数**: 1,097
+- **📝 语言**: Python
+- **🌐 官网**: [https://antigravity-kit.vercel.app](https://antigravity-kit.vercel.app)
+- **💻 技术栈**: Python, TypeScript, JavaScript, CSS, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ![Star](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=social)
+
+**📝 项目简介**: Anthropic黑客松冠军开源的Claude Code全家桶，含生产级Agent、技能、钩子、规则等配置，10个月实战打磨。
+
+**✨ 核心特性**:
+- 黑客松冠军方案
+- 10个月实战验证
+- 一键即用配置库
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,147
+- **🔀 Fork数**: 162
+- **👀 Watch数**: 1,147
+- **📝 语言**: Unknown
+- **💻 技术栈**: React, Django, Kubernetes, AWS, Terraform
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [nginxpulse](https://github.com/likaia/nginxpulse) ![Star](https://img.shields.io/github/stars/likaia/nginxpulse?style=social)
+
+<img src="./images/2026/week-4/nginxpulse/1_demo-img-1.png" alt="nginxpulse" width="500"/>
+
+**📝 项目简介**: 轻量级Nginx日志实时分析与可视化面板，一键统计PV、IP地理分布及客户端信息，无需ELK即可快速洞察站点流量。
+
+**✨ 核心特性**:
+- 单文件部署，资源占用极低
+- 本地IP库+远程API秒级定位
+- 实时图表+多维过滤，运维直观
+
+**📊 项目统计**:
+- **⭐ Star数**: 946
 - **🔀 Fork数**: 76
-- **👀 Watch数**: 894
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, censorship-circumvention, censorship-resistance, covert-tunnel, deep-packet-inspection
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [agent-browser](https://github.com/vercel-labs/agent-browser) ![Star](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=social)
-
-**📝 项目简介**: 为AI智能体打造的极速无头浏览器CLI，一键安装即可驱动Chromium完成网页自动化任务。
-
-**✨ 核心特性**:
-- Rust原生内核，速度极快，附带Node.js降级方案
-- 一条命令完成Chromium下载与系统依赖配置
-- 专为AI代理设计，接口简洁，轻松嵌入LLM工作流
-
-**📊 项目统计**:
-- **⭐ Star数**: 553
-- **🔀 Fork数**: 25
-- **👀 Watch数**: 553
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Rust, JavaScript, Shell, Batchfile, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) ![Star](https://img.shields.io/github/stars/Dimillian/CodexSkillManager?style=social)
-
-<img src="./images/2026/week-3/codexskillmanager/1_image.png" alt="CodexSkillManager" width="500"/>
-
-**📝 项目简介**: macOS原生SwiftUI工具，一站式浏览、预览、导入/删除本地及Clawdhub的Codex/Claude Code技能包，解决技能管理分散难题。
-
-**✨ 核心特性**:
-- 零Xcode SwiftPM构建，轻量原生体验
-- 实时渲染SKILL.md并内联参考预览
-- 集成Clawdhub搜索与一键下载
-
-**📊 项目统计**:
-- **⭐ Star数**: 555
-- **🔀 Fork数**: 37
-- **👀 Watch数**: 555
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell
+- **👀 Watch数**: 946
+- **📝 语言**: Go
+- **🌐 官网**: [https://nginx-pulse.kaisir.cn/](https://nginx-pulse.kaisir.cn/)
+- **💻 技术栈**: Go, Vue, TypeScript, SCSS, Shell, Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -242,21 +246,13 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (4 个项目)
+1. **TypeScript** (6 个项目)
 2. **Python** (2 个项目)
-3. **Shell** (1 个项目)
-4. **JavaScript** (1 个项目)
-5. **C** (1 个项目)
+3. **Unknown** (1 个项目)
+4. **Go** (1 个项目)
 
 **🏷️ 热门话题**:
-1. claude (2)
-2. claude-code (2)
-3. a311d (1)
-4. allwinner (1)
-5. amlogic (1)
-6. arm64 (1)
-7. debian (1)
-8. fnnas (1)
+1. agent-skills (1)
 
 
 <!-- TRENDING-END -->
@@ -266,6 +262,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
 | 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
 | 01-10 | 2026年第2周 | 10 个 | [查看详情](./archives/2026/week-2/report.md) |
 | 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
@@ -285,7 +282,6 @@
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 | 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
 | 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
-| 08-30 | 2025年第35周 | 10 个 | [查看详情](./archives/2025/week-35/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
