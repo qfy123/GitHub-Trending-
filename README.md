@@ -18,227 +18,227 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第4周
+### GitHub趋势排行榜 - 2026年第5周
 
-**📅 统计周期**: 2026-01-18 ~ 2026-01-24  
+**📅 统计周期**: 2026-01-25 ~ 2026-01-31  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 19,711  
-**🔄 更新时间**: 2026-01-24 23:59:59  
+**⭐ 总Star数**: 9,712  
+**🔄 更新时间**: 2026-01-31 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [json-render](https://github.com/vercel-labs/json-render) | 让AI按预设组件库生成JSON→UI，保证输出安全、可预测，用户一句话即可得仪表盘/组件。 | 6,674 | 326 | TypeScript | 🆕 |
-| 2 | [openwork](https://github.com/accomplish-ai/openwork) | 开源桌面AI同事，可调用自有API，自动完成文件整理、文档生成与浏览器操作，提升个人与团队效率。 | 1,548 | 234 | TypeScript | 🆕 |
-| 3 | [1code](https://github.com/21st-dev/1code) | 1Code为Claude Code等AI编程助手提供并行运行与隔离管理的可视化界面，让多任务开发更安全高效。 | 1,994 | 198 | TypeScript | 🆕 |
-| 4 | [Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) | 桌面端开源AI助手，集成MiniMax-M2.1模型，一句话即可自动完成编程、文件管理等复杂任务，让高级AI能力人... | 1,828 | 272 | TypeScript | 🆕 |
-| 5 | [openwork](https://github.com/different-ai/openwork) | 开源桌面版“Claude Cowork”替代，用可视化工作流帮知识工作者一键运行代码、管理任务与权限，成果可模板复用。 | 1,914 | 142 | TypeScript | 🆕 |
-| 6 | [add-skill](https://github.com/vercel-labs/add-skill) | 一键把Git仓库里的Agent Skill装到Opencode、Claude Code、Cursor等编码助手，扩... | 1,234 | 65 | TypeScript | 🆕 |
-| 7 | [skills](https://github.com/trailofbits/skills) | Trail of Bits为Claude Code打造的插件市场，提供安全研究、漏洞检测与审计工作流技能，一键扩展... | 1,329 | 98 | Python | 🆕 |
-| 8 | [antigravity-kit](https://github.com/vudovn/antigravity-kit) | 一键初始化AI Agent开发套件，内置16种专业角色与40项技能模板，快速搭建前端、后端、安全等智能工作流。 | 1,097 | 225 | Python | 🆕 |
-| 9 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | Anthropic黑客松冠军开源的Claude Code全家桶，含生产级Agent、技能、钩子、规则等配置，10个... | 1,147 | 162 | Unknown | 🆕 |
-| 10 | [nginxpulse](https://github.com/likaia/nginxpulse) | 轻量级Nginx日志实时分析与可视化面板，一键统计PV、IP地理分布及客户端信息，无需ELK即可快速洞察站点流量。 | 946 | 76 | Go | 🆕 |
+| 1 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | 阿里云Qwen团队开源TTS系列，支持稳定、高表现、流式语音合成与零样本声音克隆，可自由设计音色。 | 4,424 | 435 | Python | 🆕 |
+| 2 | [ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) | 为ComfyUI提供语音合成、克隆与音色设计节点，零门槛调用阿里开源Qwen3-TTS，一键生成高自然度语音。 | 498 | 50 | Python | 🆕 |
+| 3 | [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | AI驱动的YouTube智能剪辑工具，可自动语义分段、精准裁剪、双语字幕翻译并烧录，一键生成精华短视频。 | 699 | 117 | Python | 🆕 |
+| 4 | [ocrbase](https://github.com/majcheradam/ocrbase) | 把PDF批量转成结构化JSON/Markdown的自托管OCR服务，支持schema定义、实时进度推送和React调用。 | 686 | 44 | TypeScript | 🆕 |
+| 5 | [Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free) | 作者将其价值35000塔卡的付费UI/数字产品设计课程部分精华免费开源，含孟加拉语视频、练习与模板，帮助初学者零成... | 472 | 143 | Unknown | 🆕 |
+| 6 | [Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills) | 一键把GitHub仓库变成可进化AI技能库，自动更新、反馈迭代，省去手动维护烦恼。 | 589 | 93 | Python | 🆕 |
+| 7 | [vue-skills](https://github.com/hyf0/vue-skills) | 为AI代理设计的Vue3开发技能库，汇集真实问题与最佳实践，提升AI在Vue3项目中的辅助开发能力。 | 575 | 27 | Unknown | 🆕 |
+| 8 | [polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) | 自动实时跟单Polymarket高胜率鲸鱼交易员，提供Rust高性能与Python全功能双版本，一键复制盈利策略。 | 728 | 22 | Python | 🆕 |
+| 9 | [posturr](https://github.com/tldev/posturr) | Mac端实时坐姿守护工具，摄像头监测驼背即渐进模糊屏幕，提醒挺直背部，改善久坐健康。 | 599 | 14 | Swift | 🆕 |
+| 10 | [polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) | 基于Rust的高性能Polymarket跟单交易机器人，通过Telegram界面一键复制链上鲸鱼操作，实时风控，零... | 442 | 36 | Rust | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [json-render](https://github.com/vercel-labs/json-render) ![Star](https://img.shields.io/github/stars/vercel-labs/json-render?style=social)
+#### 1. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=social)
 
-**📝 项目简介**: 让AI按预设组件库生成JSON→UI，保证输出安全、可预测，用户一句话即可得仪表盘/组件。
+<img src="./images/2026/week-5/qwen3-tts/1_qwen3_tts_logo.png" alt="Qwen3-TTS" width="500"/>
 
-**✨ 核心特性**:
-- AI只能调用你定义的组件，防跑偏
-- 输出JSON严格符合Schema，100%可渲染
-- npm一行命令接入，React即插即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 6,674
-- **🔀 Fork数**: 326
-- **👀 Watch数**: 6,674
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://json-render.dev](https://json-render.dev)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [openwork](https://github.com/accomplish-ai/openwork) ![Star](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
-
-<img src="./images/2026/week-4/openwork/1_banner.svg" alt="openwork" width="500"/>
-
-**📝 项目简介**: 开源桌面AI同事，可调用自有API，自动完成文件整理、文档生成与浏览器操作，提升个人与团队效率。
+**📝 项目简介**: 阿里云Qwen团队开源TTS系列，支持稳定、高表现、流式语音合成与零样本声音克隆，可自由设计音色。
 
 **✨ 核心特性**:
-- 本地运行，数据私密
-- 支持自定义AI API，灵活切换模型
-- 一键自动化文件、文档、浏览器任务
+- 流式低延迟生成
+- 零样本声音克隆
+- 自由音色设计
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,548
-- **🔀 Fork数**: 234
-- **👀 Watch数**: 1,548
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://openwork.me](https://openwork.me)
-- **💻 技术栈**: TypeScript, JavaScript, Shell, CSS, Dockerfile, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [1code](https://github.com/21st-dev/1code) ![Star](https://img.shields.io/github/stars/21st-dev/1code?style=social)
-
-<img src="./images/2026/week-4/1code/1_worktree.gif" alt="1code" width="500"/>
-
-**📝 项目简介**: 1Code为Claude Code等AI编程助手提供并行运行与隔离管理的可视化界面，让多任务开发更安全高效。
-
-**✨ 核心特性**:
-- Git Worktree隔离，主分支零污染
-- 后台并行跑agent，不阻塞当前工作
-- 本地优先，代码完全留在本机
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,994
-- **🔀 Fork数**: 198
-- **👀 Watch数**: 1,994
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, HTML, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) ![Star](https://img.shields.io/github/stars/DevAgentForge/Claude-Cowork?style=social)
-
-<img src="./images/2026/week-4/claude-cowork/1_version-0.0.2-blue.svg" alt="Claude-Cowork" width="500"/>
-
-**📝 项目简介**: 桌面端开源AI助手，集成MiniMax-M2.1模型，一句话即可自动完成编程、文件管理等复杂任务，让高级AI能力人人可用。
-
-**✨ 核心特性**:
-- 一句话驱动多步任务
-- 本地桌面级体验，数据私密
-- 开源免费，持续社区迭代
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,828
-- **🔀 Fork数**: 272
-- **👀 Watch数**: 1,828
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, JavaScript, HTML, React, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [openwork](https://github.com/different-ai/openwork) ![Star](https://img.shields.io/github/stars/different-ai/openwork?style=social)
-
-**📝 项目简介**: 开源桌面版“Claude Cowork”替代，用可视化工作流帮知识工作者一键运行代码、管理任务与权限，成果可模板复用。
-
-**✨ 核心特性**:
-- 原生桌面应用，运行流畅
-- OpenCode驱动，自动执行代码
-- 模板+权限审批，成果可复用
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,914
-- **🔀 Fork数**: 142
-- **👀 Watch数**: 1,914
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://openwork.software](https://openwork.software)
-- **💻 技术栈**: TypeScript, Rust, JavaScript, HTML, CSS, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [add-skill](https://github.com/vercel-labs/add-skill) ![Star](https://img.shields.io/github/stars/vercel-labs/add-skill?style=social)
-
-**📝 项目简介**: 一键把Git仓库里的Agent Skill装到Opencode、Claude Code、Cursor等编码助手，扩展AI自动编程能力。
-
-**✨ 核心特性**:
-- 支持多主流编码助手
-- Skill以YAML+Markdown定义，易写易分享
-- npx一键安装，零配置即插即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,234
-- **🔀 Fork数**: 65
-- **👀 Watch数**: 1,234
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [skills](https://github.com/trailofbits/skills) ![Star](https://img.shields.io/github/stars/trailofbits/skills?style=social)
-
-**📝 项目简介**: Trail of Bits为Claude Code打造的插件市场，提供安全研究、漏洞检测与审计工作流技能，一键扩展AI安全分析能力。
-
-**✨ 核心特性**:
-- 官方安全团队出品，技能权威可信
-- 一键安装，零配置集成Claude Code
-- 覆盖多语言漏洞检测与审计场景
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,329
-- **🔀 Fork数**: 98
-- **👀 Watch数**: 1,329
+- **⭐ Star数**: 4,424
+- **🔀 Fork数**: 435
+- **👀 Watch数**: 4,424
 - **📝 语言**: Python
-- **💻 技术栈**: Python, CodeQL, C, Swift, C#, Ruby
+- **💻 技术栈**: Python, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [antigravity-kit](https://github.com/vudovn/antigravity-kit) ![Star](https://img.shields.io/github/stars/vudovn/antigravity-kit?style=social)
+#### 2. [ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) ![Star](https://img.shields.io/github/stars/flybirdxx/ComfyUI-Qwen-TTS?style=social)
 
-**📝 项目简介**: 一键初始化AI Agent开发套件，内置16种专业角色与40项技能模板，快速搭建前端、后端、安全等智能工作流。
+<img src="./images/2026/week-5/comfyui-qwen-tts/1_example.png" alt="ComfyUI-Qwen-TTS" width="500"/>
+
+**📝 项目简介**: 为ComfyUI提供语音合成、克隆与音色设计节点，零门槛调用阿里开源Qwen3-TTS，一键生成高自然度语音。
 
 **✨ 核心特性**:
-- npm一行命令即可初始化
-- 16个专家级AI角色开箱即用
-- 40个领域技能模块自由组合
+- 即装即用ComfyUI节点，无需编码
+- 支持音色克隆与个性化语音设计
+- 新增注意力机制与生成参数可调，兼容Mac MPS
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,097
-- **🔀 Fork数**: 225
-- **👀 Watch数**: 1,097
+- **⭐ Star数**: 498
+- **🔀 Fork数**: 50
+- **👀 Watch数**: 498
 - **📝 语言**: Python
-- **🌐 官网**: [https://antigravity-kit.vercel.app](https://antigravity-kit.vercel.app)
-- **💻 技术栈**: Python, TypeScript, JavaScript, CSS, React
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ![Star](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=social)
+#### 3. [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) ![Star](https://img.shields.io/github/stars/op7418/Youtube-clipper-skill?style=social)
 
-**📝 项目简介**: Anthropic黑客松冠军开源的Claude Code全家桶，含生产级Agent、技能、钩子、规则等配置，10个月实战打磨。
+<img src="./images/2026/week-5/youtube-clipper-skill/1_license-mit-blue.svg" alt="Youtube-clipper-skill" width="500"/>
+
+**📝 项目简介**: AI驱动的YouTube智能剪辑工具，可自动语义分段、精准裁剪、双语字幕翻译并烧录，一键生成精华短视频。
 
 **✨ 核心特性**:
-- 黑客松冠军方案
-- 10个月实战验证
-- 一键即用配置库
+- AI语义分析生成2-5分钟细粒度章节
+- FFmpeg帧级精准裁剪
+- 自动双语字幕翻译与烧录
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,147
-- **🔀 Fork数**: 162
-- **👀 Watch数**: 1,147
+- **⭐ Star数**: 699
+- **🔀 Fork数**: 117
+- **👀 Watch数**: 699
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [ocrbase](https://github.com/majcheradam/ocrbase) ![Star](https://img.shields.io/github/stars/majcheradam/ocrbase?style=social)
+
+<img src="./images/2026/week-5/ocrbase/1_architecture.svg" alt="ocrbase" width="500"/>
+
+**📝 项目简介**: 把PDF批量转成结构化JSON/Markdown的自托管OCR服务，支持schema定义、实时进度推送和React调用。
+
+**✨ 核心特性**:
+- PaddleOCR-VL精准文字识别
+- 队列并发处理数千文档
+- TypeScript SDK+React Hooks开箱即用
+
+**📊 项目统计**:
+- **⭐ Star数**: 686
+- **🔀 Fork数**: 44
+- **👀 Watch数**: 686
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, Dockerfile, ai, bun, document-processing
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free) ![Star](https://img.shields.io/github/stars/seeam/Practical-Digital-Product-Design-2025-Free?style=social)
+
+<img src="./images/2026/week-5/practical-digital-product-design-2025-free/1_0.jpg" alt="Practical-Digital-Product-Design-2025-Free" width="500"/>
+
+**📝 项目简介**: 作者将其价值35000塔卡的付费UI/数字产品设计课程部分精华免费开源，含孟加拉语视频、练习与模板，帮助初学者零成本入门产品思维与界面设计。
+
+**✨ 核心特性**:
+- 完整课程章节与实战练习免费下载
+- 孟加拉语讲解，降低本地学习门槛
+- 含Pathao、ShopUp等一线产品案例拆解
+
+**📊 项目统计**:
+- **⭐ Star数**: 472
+- **🔀 Fork数**: 143
+- **👀 Watch数**: 472
 - **📝 语言**: Unknown
-- **💻 技术栈**: React, Django, Kubernetes, AWS, Terraform
+- **💻 技术栈**: AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [nginxpulse](https://github.com/likaia/nginxpulse) ![Star](https://img.shields.io/github/stars/likaia/nginxpulse?style=social)
+#### 6. [Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills) ![Star](https://img.shields.io/github/stars/KKKKhazix/Khazix-Skills?style=social)
 
-<img src="./images/2026/week-4/nginxpulse/1_demo-img-1.png" alt="nginxpulse" width="500"/>
-
-**📝 项目简介**: 轻量级Nginx日志实时分析与可视化面板，一键统计PV、IP地理分布及客户端信息，无需ELK即可快速洞察站点流量。
+**📝 项目简介**: 一键把GitHub仓库变成可进化AI技能库，自动更新、反馈迭代，省去手动维护烦恼。
 
 **✨ 核心特性**:
-- 单文件部署，资源占用极低
-- 本地IP库+远程API秒级定位
-- 实时图表+多维过滤，运维直观
+- 自动将仓库转为AI技能
+- 支持生命周期管理
+- 基于用户反馈自我进化
 
 **📊 项目统计**:
-- **⭐ Star数**: 946
-- **🔀 Fork数**: 76
-- **👀 Watch数**: 946
-- **📝 语言**: Go
-- **🌐 官网**: [https://nginx-pulse.kaisir.cn/](https://nginx-pulse.kaisir.cn/)
-- **💻 技术栈**: Go, Vue, TypeScript, SCSS, Shell, Python
+- **⭐ Star数**: 589
+- **🔀 Fork数**: 93
+- **👀 Watch数**: 589
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [vue-skills](https://github.com/hyf0/vue-skills) ![Star](https://img.shields.io/github/stars/hyf0/vue-skills?style=social)
+
+**📝 项目简介**: 为AI代理设计的Vue3开发技能库，汇集真实问题与最佳实践，提升AI在Vue3项目中的辅助开发能力。
+
+**✨ 核心特性**:
+- 基于真实Issue提炼技能
+- 降低AI幻觉风险，提高建议准确性
+- 社区驱动，持续迭代优化
+
+**📊 项目统计**:
+- **⭐ Star数**: 575
+- **🔀 Fork数**: 27
+- **👀 Watch数**: 575
+- **📝 语言**: Unknown
+- **💻 技术栈**: Vue, TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) ![Star](https://img.shields.io/github/stars/terausss/polymarket-copy-trading-bot?style=social)
+
+<img src="./images/2026/week-5/polymarket-copy-trading-bot/1_license-isc-blue.svg" alt="polymarket-copy-trading-bot" width="500"/>
+
+**📝 项目简介**: 自动实时跟单Polymarket高胜率鲸鱼交易员，提供Rust高性能与Python全功能双版本，一键复制盈利策略。
+
+**✨ 核心特性**:
+- 双语言实现，Rust极速、Python工具丰富
+- 实时监测并镜像鲸鱼仓位，按自定义比例跟单
+- 开源免费，已获700+星，社区活跃持续迭代
+
+**📊 项目统计**:
+- **⭐ Star数**: 728
+- **🔀 Fork数**: 22
+- **👀 Watch数**: 728
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Rust, Shell, Batchfile, copy-trading-bot, copytrading-bot
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [posturr](https://github.com/tldev/posturr) ![Star](https://img.shields.io/github/stars/tldev/posturr?style=social)
+
+**📝 项目简介**: Mac端实时坐姿守护工具，摄像头监测驼背即渐进模糊屏幕，提醒挺直背部，改善久坐健康。
+
+**✨ 核心特性**:
+- Vision框架实时姿态检测
+- 驼背即屏幕渐进模糊
+- 坐直瞬间恢复清晰
+
+**📊 项目统计**:
+- **⭐ Star数**: 599
+- **🔀 Fork数**: 14
+- **👀 Watch数**: 599
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) ![Star](https://img.shields.io/github/stars/yesnotrader/polymarket-copy-trading-bot-telegram-ui?style=social)
+
+**📝 项目简介**: 基于Rust的高性能Polymarket跟单交易机器人，通过Telegram界面一键复制链上鲸鱼操作，实时风控，零门槛参与预测市场。
+
+**✨ 核心特性**:
+- Telegram一键配置与监控
+- 毫秒级链上鲸鱼跟单
+- 内置熔断与仓位保护
+
+**📊 项目统计**:
+- **⭐ Star数**: 442
+- **🔀 Fork数**: 36
+- **👀 Watch数**: 442
+- **📝 语言**: Rust
+- **🌐 官网**: [https://t.me/poly_copy_tg_bot](https://t.me/poly_copy_tg_bot)
+- **💻 技术栈**: Rust, copy-trading, copytrading, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copytrading-bot
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -246,13 +246,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (6 个项目)
-2. **Python** (2 个项目)
-3. **Unknown** (1 个项目)
-4. **Go** (1 个项目)
+1. **Python** (5 个项目)
+2. **Unknown** (2 个项目)
+3. **TypeScript** (1 个项目)
+4. **Swift** (1 个项目)
+5. **Rust** (1 个项目)
 
 **🏷️ 热门话题**:
-1. agent-skills (1)
+1. polymarket-copy-bot (2)
+2. polymarket-copy-trading-bot (2)
+3. polymarket-copytrading-bot (2)
+4. polymarket-trading-bot (2)
+5. trading-bot (2)
+6. ai (1)
+7. bun (1)
+8. document-processing (1)
 
 
 <!-- TRENDING-END -->
@@ -262,6 +270,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
 | 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
 | 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
 | 01-10 | 2026年第2周 | 10 个 | [查看详情](./archives/2026/week-2/report.md) |
@@ -281,7 +290,6 @@
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 | 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
-| 09-06 | 2025年第36周 | 10 个 | [查看详情](./archives/2025/week-36/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

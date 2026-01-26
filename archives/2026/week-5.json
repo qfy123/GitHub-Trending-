@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第5周",
+    "year": 2026,
+    "week": 5,
+    "week_range": {
+      "start": "2026-01-25",
+      "end": "2026-01-31"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-01-31 23:59:59",
+    "next_update": "2026-02-07"
+  },
+  "repositories": [
+    {
+      "full_name": "QwenLM/Qwen3-TTS",
+      "rank": 1,
+      "stars": 4424,
+      "forks": 435,
+      "overall_score": 78
+    },
+    {
+      "full_name": "flybirdxx/ComfyUI-Qwen-TTS",
+      "rank": 2,
+      "stars": 498,
+      "forks": 50,
+      "overall_score": 66
+    },
+    {
+      "full_name": "op7418/Youtube-clipper-skill",
+      "rank": 3,
+      "stars": 699,
+      "forks": 117,
+      "overall_score": 65
+    },
+    {
+      "full_name": "majcheradam/ocrbase",
+      "rank": 4,
+      "stars": 686,
+      "forks": 44,
+      "overall_score": 65
+    },
+    {
+      "full_name": "seeam/Practical-Digital-Product-Design-2025-Free",
+      "rank": 5,
+      "stars": 472,
+      "forks": 143,
+      "overall_score": 65
+    },
+    {
+      "full_name": "KKKKhazix/Khazix-Skills",
+      "rank": 6,
+      "stars": 589,
+      "forks": 93,
+      "overall_score": 64
+    },
+    {
+      "full_name": "hyf0/vue-skills",
+      "rank": 7,
+      "stars": 575,
+      "forks": 27,
+      "overall_score": 63
+    },
+    {
+      "full_name": "terausss/polymarket-copy-trading-bot",
+      "rank": 8,
+      "stars": 728,
+      "forks": 22,
+      "overall_score": 62
+    },
+    {
+      "full_name": "tldev/posturr",
+      "rank": 9,
+      "stars": 599,
+      "forks": 14,
+      "overall_score": 62
+    },
+    {
+      "full_name": "yesnotrader/polymarket-copy-trading-bot-telegram-ui",
+      "rank": 10,
+      "stars": 442,
+      "forks": 36,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-01-26T04:02:53.604Z"
+}
