@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第6周",
+    "year": 2026,
+    "week": 6,
+    "week_range": {
+      "start": "2026-02-01",
+      "end": "2026-02-07"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-02-07 23:59:59",
+    "next_update": "2026-02-14"
+  },
+  "repositories": [
+    {
+      "full_name": "cloudflare/moltworker",
+      "rank": 1,
+      "stars": 5389,
+      "forks": 770,
+      "overall_score": 88
+    },
+    {
+      "full_name": "lukilabs/beautiful-mermaid",
+      "rank": 2,
+      "stars": 5158,
+      "forks": 143,
+      "overall_score": 75
+    },
+    {
+      "full_name": "deepseek-ai/DeepSeek-OCR-2",
+      "rank": 3,
+      "stars": 1840,
+      "forks": 135,
+      "overall_score": 75
+    },
+    {
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "rank": 4,
+      "stars": 3403,
+      "forks": 251,
+      "overall_score": 74
+    },
+    {
+      "full_name": "Robbyant/lingbot-world",
+      "rank": 5,
+      "stars": 1821,
+      "forks": 119,
+      "overall_score": 72
+    },
+    {
+      "full_name": "antfu/skills",
+      "rank": 6,
+      "stars": 2571,
+      "forks": 101,
+      "overall_score": 70
+    },
+    {
+      "full_name": "QwenLM/Qwen3-ASR",
+      "rank": 7,
+      "stars": 1020,
+      "forks": 77,
+      "overall_score": 68
+    },
+    {
+      "full_name": "miaoxworld/OpenClawInstaller",
+      "rank": 8,
+      "stars": 846,
+      "forks": 145,
+      "overall_score": 68
+    },
+    {
+      "full_name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+      "rank": 9,
+      "stars": 805,
+      "forks": 49,
+      "overall_score": 66
+    },
+    {
+      "full_name": "zarazhangrui/frontend-slides",
+      "rank": 10,
+      "stars": 691,
+      "forks": 67,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-02-02T04:30:38.232Z"
+}

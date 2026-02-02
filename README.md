@@ -18,227 +18,230 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第5周
+### GitHub趋势排行榜 - 2026年第6周
 
-**📅 统计周期**: 2026-01-25 ~ 2026-01-31  
+**📅 统计周期**: 2026-02-01 ~ 2026-02-07  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 9,712  
-**🔄 更新时间**: 2026-01-31 23:59:59  
+**⭐ 总Star数**: 23,544  
+**🔄 更新时间**: 2026-02-07 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | 阿里云Qwen团队开源TTS系列，支持稳定、高表现、流式语音合成与零样本声音克隆，可自由设计音色。 | 4,424 | 435 | Python | 🆕 |
-| 2 | [ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) | 为ComfyUI提供语音合成、克隆与音色设计节点，零门槛调用阿里开源Qwen3-TTS，一键生成高自然度语音。 | 498 | 50 | Python | 🆕 |
-| 3 | [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | AI驱动的YouTube智能剪辑工具，可自动语义分段、精准裁剪、双语字幕翻译并烧录，一键生成精华短视频。 | 699 | 117 | Python | 🆕 |
-| 4 | [ocrbase](https://github.com/majcheradam/ocrbase) | 把PDF批量转成结构化JSON/Markdown的自托管OCR服务，支持schema定义、实时进度推送和React调用。 | 686 | 44 | TypeScript | 🆕 |
-| 5 | [Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free) | 作者将其价值35000塔卡的付费UI/数字产品设计课程部分精华免费开源，含孟加拉语视频、练习与模板，帮助初学者零成... | 472 | 143 | Unknown | 🆕 |
-| 6 | [Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills) | 一键把GitHub仓库变成可进化AI技能库，自动更新、反馈迭代，省去手动维护烦恼。 | 589 | 93 | Python | 🆕 |
-| 7 | [vue-skills](https://github.com/hyf0/vue-skills) | 为AI代理设计的Vue3开发技能库，汇集真实问题与最佳实践，提升AI在Vue3项目中的辅助开发能力。 | 575 | 27 | Unknown | 🆕 |
-| 8 | [polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) | 自动实时跟单Polymarket高胜率鲸鱼交易员，提供Rust高性能与Python全功能双版本，一键复制盈利策略。 | 728 | 22 | Python | 🆕 |
-| 9 | [posturr](https://github.com/tldev/posturr) | Mac端实时坐姿守护工具，摄像头监测驼背即渐进模糊屏幕，提醒挺直背部，改善久坐健康。 | 599 | 14 | Swift | 🆕 |
-| 10 | [polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) | 基于Rust的高性能Polymarket跟单交易机器人，通过Telegram界面一键复制链上鲸鱼操作，实时风控，零... | 442 | 36 | Rust | 🆕 |
+| 1 | [moltworker](https://github.com/cloudflare/moltworker) | 在Cloudflare Workers上低成本运行个人AI助手OpenClaw，月费仅1美元，验证边缘无服务器AI... | 5,389 | 770 | TypeScript | 🆕 |
+| 2 | [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | 极速零依赖的Mermaid渲染引擎，可在终端/AI对话中输出高颜值SVG或ASCII图，助力AI编程可视化。 | 5,158 | 143 | TypeScript | 🆕 |
+| 3 | [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) | DeepSeek-OCR-2聚焦“视觉因果流”技术，用因果推理提升OCR在复杂版式、遮挡、低清图像下的准确率与可解释性。 | 1,840 | 135 | Python | 🆕 |
+| 4 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 汇总Andrej Karpathy对LLM编码误区的洞见，提供一份CLAUDE.md指南，帮助Claude Cod... | 3,403 | 251 | Unknown | 🆕 |
+| 5 | [lingbot-world](https://github.com/Robbyant/lingbot-world) | LingBot-World 用视频生成技术打造高保真开源世界模型，可快速模拟多样动态环境，降低构建虚拟世界的门槛。 | 1,821 | 119 | Python | 🆕 |
+| 6 | [skills](https://github.com/antfu/skills) | 维护并同步一份可复用的「个人技能包」，供AI Agent按需调用，解决提示词碎片化、经验难沉淀的问题。 | 2,571 | 101 | TypeScript | 🆕 |
+| 7 | [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | 阿里云Qwen团队开源的多语ASR系列模型，可稳定识别语音/音乐/歌曲并输出时间戳与语种。 | 1,020 | 77 | Python | 🆕 |
+| 8 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) | 一条命令即可在macOS/Linux上部署私人AI助手OpenClaw，自动完成Docker环境、模型配置与多平台... | 846 | 145 | Shell | 🆕 |
+| 9 | [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) | 把钉钉机器人秒变AI助手：流式卡片实时打字回复、多轮会话自动管理、图片主动推送，一条命令接入大模型网关。 | 805 | 49 | TypeScript | 🆕 |
+| 10 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 借助Claude前端能力，把一句话或PPT秒变高颜值单文件HTML演示，无需写代码即可生成动画丰富的网页幻灯片。 | 691 | 67 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=social)
+#### 1. [moltworker](https://github.com/cloudflare/moltworker) ![Star](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
 
-<img src="./images/2026/week-5/qwen3-tts/1_qwen3_tts_logo.png" alt="Qwen3-TTS" width="500"/>
+<img src="./images/2026/week-6/moltworker/1_logo.png" alt="moltworker" width="500"/>
 
-**📝 项目简介**: 阿里云Qwen团队开源TTS系列，支持稳定、高表现、流式语音合成与零样本声音克隆，可自由设计音色。
-
-**✨ 核心特性**:
-- 流式低延迟生成
-- 零样本声音克隆
-- 自由音色设计
-
-**📊 项目统计**:
-- **⭐ Star数**: 4,424
-- **🔀 Fork数**: 435
-- **👀 Watch数**: 4,424
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) ![Star](https://img.shields.io/github/stars/flybirdxx/ComfyUI-Qwen-TTS?style=social)
-
-<img src="./images/2026/week-5/comfyui-qwen-tts/1_example.png" alt="ComfyUI-Qwen-TTS" width="500"/>
-
-**📝 项目简介**: 为ComfyUI提供语音合成、克隆与音色设计节点，零门槛调用阿里开源Qwen3-TTS，一键生成高自然度语音。
+**📝 项目简介**: 在Cloudflare Workers上低成本运行个人AI助手OpenClaw，月费仅1美元，验证边缘无服务器AI可行性。
 
 **✨ 核心特性**:
-- 即装即用ComfyUI节点，无需编码
-- 支持音色克隆与个性化语音设计
-- 新增注意力机制与生成参数可调，兼容Mac MPS
+- 1美元/月超低门槛
+- 边缘无服务器部署
+- 开源AI助手可定制
 
 **📊 项目统计**:
-- **⭐ Star数**: 498
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 498
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) ![Star](https://img.shields.io/github/stars/op7418/Youtube-clipper-skill?style=social)
-
-<img src="./images/2026/week-5/youtube-clipper-skill/1_license-mit-blue.svg" alt="Youtube-clipper-skill" width="500"/>
-
-**📝 项目简介**: AI驱动的YouTube智能剪辑工具，可自动语义分段、精准裁剪、双语字幕翻译并烧录，一键生成精华短视频。
-
-**✨ 核心特性**:
-- AI语义分析生成2-5分钟细粒度章节
-- FFmpeg帧级精准裁剪
-- 自动双语字幕翻译与烧录
-
-**📊 项目统计**:
-- **⭐ Star数**: 699
-- **🔀 Fork数**: 117
-- **👀 Watch数**: 699
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [ocrbase](https://github.com/majcheradam/ocrbase) ![Star](https://img.shields.io/github/stars/majcheradam/ocrbase?style=social)
-
-<img src="./images/2026/week-5/ocrbase/1_architecture.svg" alt="ocrbase" width="500"/>
-
-**📝 项目简介**: 把PDF批量转成结构化JSON/Markdown的自托管OCR服务，支持schema定义、实时进度推送和React调用。
-
-**✨ 核心特性**:
-- PaddleOCR-VL精准文字识别
-- 队列并发处理数千文档
-- TypeScript SDK+React Hooks开箱即用
-
-**📊 项目统计**:
-- **⭐ Star数**: 686
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 686
+- **⭐ Star数**: 5,389
+- **🔀 Fork数**: 770
+- **👀 Watch数**: 5,389
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, Dockerfile, ai, bun, document-processing
+- **🌐 官网**: [https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+- **💻 技术栈**: TypeScript, JavaScript, Shell, HTML, CSS, Dockerfile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free) ![Star](https://img.shields.io/github/stars/seeam/Practical-Digital-Product-Design-2025-Free?style=social)
+#### 2. [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) ![Star](https://img.shields.io/github/stars/lukilabs/beautiful-mermaid?style=social)
 
-<img src="./images/2026/week-5/practical-digital-product-design-2025-free/1_0.jpg" alt="Practical-Digital-Product-Design-2025-Free" width="500"/>
+<img src="./images/2026/week-6/beautiful-mermaid/1_hero.png" alt="beautiful-mermaid" width="500"/>
 
-**📝 项目简介**: 作者将其价值35000塔卡的付费UI/数字产品设计课程部分精华免费开源，含孟加拉语视频、练习与模板，帮助初学者零成本入门产品思维与界面设计。
+**📝 项目简介**: 极速零依赖的Mermaid渲染引擎，可在终端/AI对话中输出高颜值SVG或ASCII图，助力AI编程可视化。
 
 **✨ 核心特性**:
-- 完整课程章节与实战练习免费下载
-- 孟加拉语讲解，降低本地学习门槛
-- 含Pathao、ShopUp等一线产品案例拆解
+- 终端即渲、无DOM
+- 全主题可定制
+- 为AI编码场景优化
 
 **📊 项目统计**:
-- **⭐ Star数**: 472
+- **⭐ Star数**: 5,158
 - **🔀 Fork数**: 143
-- **👀 Watch数**: 472
-- **📝 语言**: Unknown
-- **💻 技术栈**: AWS
+- **👀 Watch数**: 5,158
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills) ![Star](https://img.shields.io/github/stars/KKKKhazix/Khazix-Skills?style=social)
+#### 3. [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR-2?style=social)
 
-**📝 项目简介**: 一键把GitHub仓库变成可进化AI技能库，自动更新、反馈迭代，省去手动维护烦恼。
+<img src="./images/2026/week-6/deepseek-ocr-2/1_logo.svg" alt="DeepSeek-OCR-2" width="500"/>
+
+**📝 项目简介**: DeepSeek-OCR-2聚焦“视觉因果流”技术，用因果推理提升OCR在复杂版式、遮挡、低清图像下的准确率与可解释性。
 
 **✨ 核心特性**:
-- 自动将仓库转为AI技能
-- 支持生命周期管理
-- 基于用户反馈自我进化
+- 因果推理+视觉模型联合训练，显著降低误识别
+- 支持中文、英文、表格、公式等多场景文本
+- 提供一键微调脚本与HF模型仓库，零门槛落地
 
 **📊 项目统计**:
-- **⭐ Star数**: 589
-- **🔀 Fork数**: 93
-- **👀 Watch数**: 589
+- **⭐ Star数**: 1,840
+- **🔀 Fork数**: 135
+- **👀 Watch数**: 1,840
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [vue-skills](https://github.com/hyf0/vue-skills) ![Star](https://img.shields.io/github/stars/hyf0/vue-skills?style=social)
+#### 4. [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ![Star](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=social)
 
-**📝 项目简介**: 为AI代理设计的Vue3开发技能库，汇集真实问题与最佳实践，提升AI在Vue3项目中的辅助开发能力。
+**📝 项目简介**: 汇总Andrej Karpathy对LLM编码误区的洞见，提供一份CLAUDE.md指南，帮助Claude Code减少臆测、简化设计、主动澄清。
 
 **✨ 核心特性**:
-- 基于真实Issue提炼技能
-- 降低AI幻觉风险，提高建议准确性
-- 社区驱动，持续迭代优化
+- 提炼Karpathy核心观点
+- 单文件即可集成
+- 聚焦降低AI代码复杂度
 
 **📊 项目统计**:
-- **⭐ Star数**: 575
-- **🔀 Fork数**: 27
-- **👀 Watch数**: 575
+- **⭐ Star数**: 3,403
+- **🔀 Fork数**: 251
+- **👀 Watch数**: 3,403
 - **📝 语言**: Unknown
-- **💻 技术栈**: Vue, TypeScript
+- **💻 技术栈**: TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) ![Star](https://img.shields.io/github/stars/terausss/polymarket-copy-trading-bot?style=social)
+#### 5. [lingbot-world](https://github.com/Robbyant/lingbot-world) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-world?style=social)
 
-<img src="./images/2026/week-5/polymarket-copy-trading-bot/1_license-isc-blue.svg" alt="polymarket-copy-trading-bot" width="500"/>
+<img src="./images/2026/week-6/lingbot-world/1_teaser.png" alt="lingbot-world" width="500"/>
 
-**📝 项目简介**: 自动实时跟单Polymarket高胜率鲸鱼交易员，提供Rust高性能与Python全功能双版本，一键复制盈利策略。
+**📝 项目简介**: LingBot-World 用视频生成技术打造高保真开源世界模型，可快速模拟多样动态环境，降低构建虚拟世界的门槛。
 
 **✨ 核心特性**:
-- 双语言实现，Rust极速、Python工具丰富
-- 实时监测并镜像鲸鱼仓位，按自定义比例跟单
-- 开源免费，已获700+星，社区活跃持续迭代
+- 高保真、多场景环境仿真
+- 基于视频生成的开源世界模型
+- 支持图像到视频一键生成
 
 **📊 项目统计**:
-- **⭐ Star数**: 728
-- **🔀 Fork数**: 22
-- **👀 Watch数**: 728
+- **⭐ Star数**: 1,821
+- **🔀 Fork数**: 119
+- **👀 Watch数**: 1,821
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Rust, Shell, Batchfile, copy-trading-bot, copytrading-bot
+- **🌐 官网**: [https://technology.robbyant.com/lingbot-world](https://technology.robbyant.com/lingbot-world)
+- **💻 技术栈**: Python, aigc, image-to-video, lingbot-world, video-generation, world-models
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [posturr](https://github.com/tldev/posturr) ![Star](https://img.shields.io/github/stars/tldev/posturr?style=social)
+#### 6. [skills](https://github.com/antfu/skills) ![Star](https://img.shields.io/github/stars/antfu/skills?style=social)
 
-**📝 项目简介**: Mac端实时坐姿守护工具，摄像头监测驼背即渐进模糊屏幕，提醒挺直背部，改善久坐健康。
+<img src="./images/2026/week-6/skills/1_sponsors.svg" alt="skills" width="500"/>
+
+**📝 项目简介**: 维护并同步一份可复用的「个人技能包」，供AI Agent按需调用，解决提示词碎片化、经验难沉淀的问题。
 
 **✨ 核心特性**:
-- Vision框架实时姿态检测
-- 驼背即屏幕渐进模糊
-- 坐直瞬间恢复清晰
+- 一键安装全部或指定技能
+- 文档与技能双向同步，持续更新
+- 开源个人最佳实践，社区可贡献
 
 **📊 项目统计**:
-- **⭐ Star数**: 599
-- **🔀 Fork数**: 14
-- **👀 Watch数**: 599
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell
+- **⭐ Star数**: 2,571
+- **🔀 Fork数**: 101
+- **👀 Watch数**: 2,571
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, agent-skills, skills, React, Vue
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) ![Star](https://img.shields.io/github/stars/yesnotrader/polymarket-copy-trading-bot-telegram-ui?style=social)
+#### 7. [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-ASR?style=social)
 
-**📝 项目简介**: 基于Rust的高性能Polymarket跟单交易机器人，通过Telegram界面一键复制链上鲸鱼操作，实时风控，零门槛参与预测市场。
+<img src="./images/2026/week-6/qwen3-asr/1_logo.png" alt="Qwen3-ASR" width="500"/>
+
+**📝 项目简介**: 阿里云Qwen团队开源的多语ASR系列模型，可稳定识别语音/音乐/歌曲并输出时间戳与语种。
 
 **✨ 核心特性**:
-- Telegram一键配置与监控
-- 毫秒级链上鲸鱼跟单
-- 内置熔断与仓位保护
+- 多语+音乐+歌曲统一识别
+- 自带语言检测与时间戳
+- 模型已上架HuggingFace/ModelScope，一键调用
 
 **📊 项目统计**:
-- **⭐ Star数**: 442
-- **🔀 Fork数**: 36
-- **👀 Watch数**: 442
-- **📝 语言**: Rust
-- **🌐 官网**: [https://t.me/poly_copy_tg_bot](https://t.me/poly_copy_tg_bot)
-- **💻 技术栈**: Rust, copy-trading, copytrading, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copytrading-bot
+- **⭐ Star数**: 1,020
+- **🔀 Fork数**: 77
+- **👀 Watch数**: 1,020
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Flask, Docker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![Star](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
+
+<img src="./images/2026/week-6/openclawinstaller/1_version-1.0.0-blue.svg" alt="OpenClawInstaller" width="500"/>
+
+**📝 项目简介**: 一条命令即可在macOS/Linux上部署私人AI助手OpenClaw，自动完成Docker环境、模型配置与多平台适配，零门槛拥有可扩展的智能机器人。
+
+**✨ 核心特性**:
+- 一键脚本，30秒完成部署
+- 支持多模型切换与AWS云端配置
+- 开源MIT，社区活跃持续更新
+
+**📊 项目统计**:
+- **⭐ Star数**: 846
+- **🔀 Fork数**: 145
+- **👀 Watch数**: 846
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, Dockerfile, clawdbot, moltbot, openclaw, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) ![Star](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-moltbot-connector?style=social)
+
+**📝 项目简介**: 把钉钉机器人秒变AI助手：流式卡片实时打字回复、多轮会话自动管理、图片主动推送，一条命令接入大模型网关。
+
+**✨ 核心特性**:
+- AI Card流式响应，打字机效果
+- 30min无活动自动新会话，支持/new手动刷新
+- 本地图片自动上传并主动推消息
+
+**📊 项目统计**:
+- **⭐ Star数**: 805
+- **🔀 Fork数**: 49
+- **👀 Watch数**: 805
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [frontend-slides](https://github.com/zarazhangrui/frontend-slides) ![Star](https://img.shields.io/github/stars/zarazhangrui/frontend-slides?style=social)
+
+**📝 项目简介**: 借助Claude前端能力，把一句话或PPT秒变高颜值单文件HTML演示，无需写代码即可生成动画丰富的网页幻灯片。
+
+**✨ 核心特性**:
+- 零依赖单HTML文件，直接浏览器打开
+- 可视化预览选风格，无需描述审美
+- 支持从PPT导入，自动生成动画与排版
+
+**📊 项目统计**:
+- **⭐ Star数**: 691
+- **🔀 Fork数**: 67
+- **👀 Watch数**: 691
+- **📝 语言**: Unknown
+- **💻 技术栈**: React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -246,21 +249,20 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (5 个项目)
-2. **Unknown** (2 个项目)
-3. **TypeScript** (1 个项目)
-4. **Swift** (1 个项目)
-5. **Rust** (1 个项目)
+1. **TypeScript** (4 个项目)
+2. **Python** (3 个项目)
+3. **Unknown** (2 个项目)
+4. **Shell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. polymarket-copy-bot (2)
-2. polymarket-copy-trading-bot (2)
-3. polymarket-copytrading-bot (2)
-4. polymarket-trading-bot (2)
-5. trading-bot (2)
-6. ai (1)
-7. bun (1)
-8. document-processing (1)
+1. ai-agents (1)
+2. cloudflare-workers (1)
+3. aigc (1)
+4. image-to-video (1)
+5. lingbot-world (1)
+6. video-generation (1)
+7. world-models (1)
+8. agent-skills (1)
 
 
 <!-- TRENDING-END -->
@@ -270,6 +272,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
 | 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
 | 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
 | 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
@@ -289,7 +292,6 @@
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 | 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
-| 09-13 | 2025年第37周 | 10 个 | [查看详情](./archives/2025/week-37/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
