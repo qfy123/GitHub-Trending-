@@ -18,230 +18,226 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第6周
+### GitHub趋势排行榜 - 2026年第7周
 
-**📅 统计周期**: 2026-02-01 ~ 2026-02-07  
+**📅 统计周期**: 2026-02-08 ~ 2026-02-14  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 23,544  
-**🔄 更新时间**: 2026-02-07 23:59:59  
+**⭐ 总Star数**: 9,826  
+**🔄 更新时间**: 2026-02-14 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [moltworker](https://github.com/cloudflare/moltworker) | 在Cloudflare Workers上低成本运行个人AI助手OpenClaw，月费仅1美元，验证边缘无服务器AI... | 5,389 | 770 | TypeScript | 🆕 |
-| 2 | [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | 极速零依赖的Mermaid渲染引擎，可在终端/AI对话中输出高颜值SVG或ASCII图，助力AI编程可视化。 | 5,158 | 143 | TypeScript | 🆕 |
-| 3 | [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) | DeepSeek-OCR-2聚焦“视觉因果流”技术，用因果推理提升OCR在复杂版式、遮挡、低清图像下的准确率与可解释性。 | 1,840 | 135 | Python | 🆕 |
-| 4 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 汇总Andrej Karpathy对LLM编码误区的洞见，提供一份CLAUDE.md指南，帮助Claude Cod... | 3,403 | 251 | Unknown | 🆕 |
-| 5 | [lingbot-world](https://github.com/Robbyant/lingbot-world) | LingBot-World 用视频生成技术打造高保真开源世界模型，可快速模拟多样动态环境，降低构建虚拟世界的门槛。 | 1,821 | 119 | Python | 🆕 |
-| 6 | [skills](https://github.com/antfu/skills) | 维护并同步一份可复用的「个人技能包」，供AI Agent按需调用，解决提示词碎片化、经验难沉淀的问题。 | 2,571 | 101 | TypeScript | 🆕 |
-| 7 | [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | 阿里云Qwen团队开源的多语ASR系列模型，可稳定识别语音/音乐/歌曲并输出时间戳与语种。 | 1,020 | 77 | Python | 🆕 |
-| 8 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) | 一条命令即可在macOS/Linux上部署私人AI助手OpenClaw，自动完成Docker环境、模型配置与多平台... | 846 | 145 | Shell | 🆕 |
-| 9 | [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) | 把钉钉机器人秒变AI助手：流式卡片实时打字回复、多轮会话自动管理、图片主动推送，一条命令接入大模型网关。 | 805 | 49 | TypeScript | 🆕 |
-| 10 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 借助Claude前端能力，把一句话或PPT秒变高颜值单文件HTML演示，无需写代码即可生成动画丰富的网页幻灯片。 | 691 | 67 | Unknown | 🆕 |
+| 1 | [claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) | Claude Opus 4.6用Rust手写的零依赖C编译器，可独立生成ELF并编译出能启动的Linux内核。 | 1,705 | 91 | Rust | 🆕 |
+| 2 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 智能LLM路由器，自动把请求派给最划算模型，统一钱包付费，平均省78%推理成本，支持30+模型免API Key。 | 1,855 | 179 | TypeScript | 🆕 |
+| 3 | [vouch](https://github.com/mitchellh/vouch) | 基于显式“担保”机制的社区信任管理系统，可灵活控制谁能在项目中执行哪些操作，并支持公开“谴责”封禁。 | 1,568 | 27 | Nushell | 🆕 |
+| 4 | [clash-master](https://github.com/foru17/clash-master) | 为OpenClash打造的现代化流量仪表盘，实时可视化多节点网络数据，一键管理多后端，让代理状态一目了然。 | 887 | 57 | TypeScript | 🆕 |
+| 5 | [excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) | 基于MCP协议，把Excalidraw手绘图实时流式推送到Claude、ChatGPT、VS Code等客户端，支... | 981 | 64 | TypeScript | 🆕 |
+| 6 | [paqctl](https://github.com/SamNet-dev/paqctl) | 一键管理多协议穿墙代理，整合Paqet(KCP/raw)与GFW-Knocker(变异TCP/QUIC)，双后端并... | 602 | 74 | Shell | 🆕 |
+| 7 | [rememory](https://github.com/eljojo/rememory) | 将加密文件密钥拆分给好友，离线浏览器即可共同恢复，防单点泄露的终极备份方案。 | 718 | 28 | Go | 🆕 |
+| 8 | [jcp](https://github.com/run-bigpig/jcp) | 跨桌面AI股票分析工具，聚合多模型Agent协同讨论，实时行情+舆情+研报一键生成投资参考。 | 510 | 116 | Go | 🆕 |
+| 9 | [EpsteIn](https://github.com/cfinke/EpsteIn) | 一键比对LinkedIn好友名单与爱泼斯坦案公开法庭文件，秒速发现潜在关联人，满足公众知情与风险自查需求。 | 501 | 29 | Python | 🆕 |
+| 10 | [code-review-expert](https://github.com/sanyuan0704/code-review-expert) | 一键为AI代理注入资深工程师级代码评审能力，自动发现SOLID违规、安全漏洞、性能瓶颈与异常处理缺陷，显著提升代码... | 499 | 49 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [moltworker](https://github.com/cloudflare/moltworker) ![Star](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
+#### 1. [claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) ![Star](https://img.shields.io/github/stars/anthropics/claudes-c-compiler?style=social)
 
-<img src="./images/2026/week-6/moltworker/1_logo.png" alt="moltworker" width="500"/>
-
-**📝 项目简介**: 在Cloudflare Workers上低成本运行个人AI助手OpenClaw，月费仅1美元，验证边缘无服务器AI可行性。
+**📝 项目简介**: Claude Opus 4.6用Rust手写的零依赖C编译器，可独立生成ELF并编译出能启动的Linux内核。
 
 **✨ 核心特性**:
-- 1美元/月超低门槛
-- 边缘无服务器部署
-- 开源AI助手可定制
+- 零外部依赖，前端到链接器全自研
+- 支持x86-64/32、ARM64、RISC-V多后端
+- 自带优化器与DWARF调试信息生成
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,389
-- **🔀 Fork数**: 770
-- **👀 Watch数**: 5,389
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
-- **💻 技术栈**: TypeScript, JavaScript, Shell, HTML, CSS, Dockerfile
+- **⭐ Star数**: 1,705
+- **🔀 Fork数**: 91
+- **👀 Watch数**: 1,705
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, C, Shell, Redis, PostgreSQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) ![Star](https://img.shields.io/github/stars/lukilabs/beautiful-mermaid?style=social)
+#### 2. [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ![Star](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
 
-<img src="./images/2026/week-6/beautiful-mermaid/1_hero.png" alt="beautiful-mermaid" width="500"/>
+<img src="./images/2026/week-7/clawrouter/1_banner.png" alt="ClawRouter" width="500"/>
 
-**📝 项目简介**: 极速零依赖的Mermaid渲染引擎，可在终端/AI对话中输出高颜值SVG或ASCII图，助力AI编程可视化。
+**📝 项目简介**: 智能LLM路由器，自动把请求派给最划算模型，统一钱包付费，平均省78%推理成本，支持30+模型免API Key。
 
 **✨ 核心特性**:
-- 终端即渲、无DOM
-- 全主题可定制
-- 为AI编码场景优化
+- 动态选模型，成本最高省78%
+- 一个钱包管理30+主流模型，无需各自API Key
+- 内置x402微支付，按量计费，秒级结算
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,158
-- **🔀 Fork数**: 143
-- **👀 Watch数**: 5,158
+- **⭐ Star数**: 1,855
+- **🔀 Fork数**: 179
+- **👀 Watch数**: 1,855
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Shell, ai, ai-agents, anthropic
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR-2?style=social)
+#### 3. [vouch](https://github.com/mitchellh/vouch) ![Star](https://img.shields.io/github/stars/mitchellh/vouch?style=social)
 
-<img src="./images/2026/week-6/deepseek-ocr-2/1_logo.svg" alt="DeepSeek-OCR-2" width="500"/>
-
-**📝 项目简介**: DeepSeek-OCR-2聚焦“视觉因果流”技术，用因果推理提升OCR在复杂版式、遮挡、低清图像下的准确率与可解释性。
+**📝 项目简介**: 基于显式“担保”机制的社区信任管理系统，可灵活控制谁能在项目中执行哪些操作，并支持公开“谴责”封禁。
 
 **✨ 核心特性**:
-- 因果推理+视觉模型联合训练，显著降低误识别
-- 支持中文、英文、表格、公式等多场景文本
-- 提供一键微调脚本与HF模型仓库，零门槛落地
+- 担保/谴责双机制，权限粒度可配置
+- 实现通用，适配任意代码托管平台
+- 用Nushell+Nix构建，脚本即配置
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,840
-- **🔀 Fork数**: 135
-- **👀 Watch数**: 1,840
+- **⭐ Star数**: 1,568
+- **🔀 Fork数**: 27
+- **👀 Watch数**: 1,568
+- **📝 语言**: Nushell
+- **💻 技术栈**: Nushell, Nix, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [clash-master](https://github.com/foru17/clash-master) ![Star](https://img.shields.io/github/stars/foru17/clash-master?style=social)
+
+<img src="./images/2026/week-7/clash-master/1_clash-master-overview.png" alt="clash-master" width="500"/>
+
+**📝 项目简介**: 为OpenClash打造的现代化流量仪表盘，实时可视化多节点网络数据，一键管理多后端，让代理状态一目了然。
+
+**✨ 核心特性**:
+- 实时监控与多维度流量分析
+- 优雅UI支持多后端集中管理
+- 零配置开箱即用，兼容Clash/OpenClash
+
+**📊 项目统计**:
+- **⭐ Star数**: 887
+- **🔀 Fork数**: 57
+- **👀 Watch数**: 887
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Shell, CSS, JavaScript, Dockerfile, clash
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) ![Star](https://img.shields.io/github/stars/antonpk1/excalidraw-mcp-app?style=social)
+
+<img src="./images/2026/week-7/excalidraw-mcp-app/1_demo.gif" alt="excalidraw-mcp-app" width="500"/>
+
+**📝 项目简介**: 基于MCP协议，把Excalidraw手绘图实时流式推送到Claude、ChatGPT、VS Code等客户端，支持平滑视口与全屏互动编辑。
+
+**✨ 核心特性**:
+- 即装即用，远程/本地一键接入
+- 支持所有主流MCP客户端
+- 手绘图实时同步+视口跟随
+
+**📊 项目统计**:
+- **⭐ Star数**: 981
+- **🔀 Fork数**: 64
+- **👀 Watch数**: 981
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, CSS, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [paqctl](https://github.com/SamNet-dev/paqctl) ![Star](https://img.shields.io/github/stars/SamNet-dev/paqctl?style=social)
+
+<img src="./images/2026/week-7/paqctl/1_version-1.0.0-blue.svg" alt="paqctl" width="500"/>
+
+**📝 项目简介**: 一键管理多协议穿墙代理，整合Paqet(KCP/raw)与GFW-Knocker(变异TCP/QUIC)，双后端并发绕过GFW与伊朗防火墙。
+
+**✨ 核心特性**:
+- 单脚本同时驱动Paqet+GFW-Knocker双后端
+- 支持Windows/Linux/macOS，Shell+Python跨平台
+- 服务端一键部署，客户端零配置自动选路
+
+**📊 项目统计**:
+- **⭐ Star数**: 602
+- **🔀 Fork数**: 74
+- **👀 Watch数**: 602
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, Python, PowerShell, Batchfile, china, firewall-bypass
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [rememory](https://github.com/eljojo/rememory) ![Star](https://img.shields.io/github/stars/eljojo/rememory?style=social)
+
+**📝 项目简介**: 将加密文件密钥拆分给好友，离线浏览器即可共同恢复，防单点泄露的终极备份方案。
+
+**✨ 核心特性**:
+- Shamir密钥分片，无需信任单一人
+- recover.html纯离线恢复，零依赖
+- age加密+自托管，无服务器痕迹
+
+**📊 项目统计**:
+- **⭐ Star数**: 718
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 718
+- **📝 语言**: Go
+- **🌐 官网**: [https://eljojo.github.io/rememory/](https://eljojo.github.io/rememory/)
+- **💻 技术栈**: Go, HTML, TypeScript, JavaScript, CSS, Makefile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [jcp](https://github.com/run-bigpig/jcp) ![Star](https://img.shields.io/github/stars/run-bigpig/jcp?style=social)
+
+<img src="./images/2026/week-7/jcp/1_go-1.24-blue.svg" alt="jcp" width="500"/>
+
+**📝 项目简介**: 跨桌面AI股票分析工具，聚合多模型Agent协同讨论，实时行情+舆情+研报一键生成投资参考。
+
+**✨ 核心特性**:
+- 多AI专家角色协作，多维视角碰撞
+- 股票级长期记忆，历史观点可追溯
+- 集成行情/舆情/研报，信息一站式
+
+**📊 项目统计**:
+- **⭐ Star数**: 510
+- **🔀 Fork数**: 116
+- **👀 Watch数**: 510
+- **📝 语言**: Go
+- **💻 技术栈**: Go, TypeScript, NSIS, JavaScript, CSS, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [EpsteIn](https://github.com/cfinke/EpsteIn) ![Star](https://img.shields.io/github/stars/cfinke/EpsteIn?style=social)
+
+<img src="./images/2026/week-7/epstein/1_logo.png" alt="EpsteIn" width="500"/>
+
+**📝 项目简介**: 一键比对LinkedIn好友名单与爱泼斯坦案公开法庭文件，秒速发现潜在关联人，满足公众知情与风险自查需求。
+
+**✨ 核心特性**:
+- 直接对接官方公开文档，数据源可信
+- 自动化拉取LinkedIn通讯录，零手动录入
+- 本地运行，保护用户隐私不泄露
+
+**📊 项目统计**:
+- **⭐ Star数**: 501
+- **🔀 Fork数**: 29
+- **👀 Watch数**: 501
 - **📝 语言**: Python
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ![Star](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=social)
+#### 10. [code-review-expert](https://github.com/sanyuan0704/code-review-expert) ![Star](https://img.shields.io/github/stars/sanyuan0704/code-review-expert?style=social)
 
-**📝 项目简介**: 汇总Andrej Karpathy对LLM编码误区的洞见，提供一份CLAUDE.md指南，帮助Claude Code减少臆测、简化设计、主动澄清。
-
-**✨ 核心特性**:
-- 提炼Karpathy核心观点
-- 单文件即可集成
-- 聚焦降低AI代码复杂度
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,403
-- **🔀 Fork数**: 251
-- **👀 Watch数**: 3,403
-- **📝 语言**: Unknown
-- **💻 技术栈**: TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [lingbot-world](https://github.com/Robbyant/lingbot-world) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-world?style=social)
-
-<img src="./images/2026/week-6/lingbot-world/1_teaser.png" alt="lingbot-world" width="500"/>
-
-**📝 项目简介**: LingBot-World 用视频生成技术打造高保真开源世界模型，可快速模拟多样动态环境，降低构建虚拟世界的门槛。
+**📝 项目简介**: 一键为AI代理注入资深工程师级代码评审能力，自动发现SOLID违规、安全漏洞、性能瓶颈与异常处理缺陷，显著提升代码质量与可维护性。
 
 **✨ 核心特性**:
-- 高保真、多场景环境仿真
-- 基于视频生成的开源世界模型
-- 支持图像到视频一键生成
+- 覆盖SOLID五大原则违规检测
+- 集成XSS、注入、SSRF等安全扫描
+- 识别N+1查询、CPU热点、内存泄漏等性能问题
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,821
-- **🔀 Fork数**: 119
-- **👀 Watch数**: 1,821
-- **📝 语言**: Python
-- **🌐 官网**: [https://technology.robbyant.com/lingbot-world](https://technology.robbyant.com/lingbot-world)
-- **💻 技术栈**: Python, aigc, image-to-video, lingbot-world, video-generation, world-models
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [skills](https://github.com/antfu/skills) ![Star](https://img.shields.io/github/stars/antfu/skills?style=social)
-
-<img src="./images/2026/week-6/skills/1_sponsors.svg" alt="skills" width="500"/>
-
-**📝 项目简介**: 维护并同步一份可复用的「个人技能包」，供AI Agent按需调用，解决提示词碎片化、经验难沉淀的问题。
-
-**✨ 核心特性**:
-- 一键安装全部或指定技能
-- 文档与技能双向同步，持续更新
-- 开源个人最佳实践，社区可贡献
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,571
-- **🔀 Fork数**: 101
-- **👀 Watch数**: 2,571
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, agent-skills, skills, React, Vue
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-ASR?style=social)
-
-<img src="./images/2026/week-6/qwen3-asr/1_logo.png" alt="Qwen3-ASR" width="500"/>
-
-**📝 项目简介**: 阿里云Qwen团队开源的多语ASR系列模型，可稳定识别语音/音乐/歌曲并输出时间戳与语种。
-
-**✨ 核心特性**:
-- 多语+音乐+歌曲统一识别
-- 自带语言检测与时间戳
-- 模型已上架HuggingFace/ModelScope，一键调用
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,020
-- **🔀 Fork数**: 77
-- **👀 Watch数**: 1,020
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Flask, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![Star](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
-
-<img src="./images/2026/week-6/openclawinstaller/1_version-1.0.0-blue.svg" alt="OpenClawInstaller" width="500"/>
-
-**📝 项目简介**: 一条命令即可在macOS/Linux上部署私人AI助手OpenClaw，自动完成Docker环境、模型配置与多平台适配，零门槛拥有可扩展的智能机器人。
-
-**✨ 核心特性**:
-- 一键脚本，30秒完成部署
-- 支持多模型切换与AWS云端配置
-- 开源MIT，社区活跃持续更新
-
-**📊 项目统计**:
-- **⭐ Star数**: 846
-- **🔀 Fork数**: 145
-- **👀 Watch数**: 846
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, Dockerfile, clawdbot, moltbot, openclaw, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) ![Star](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-moltbot-connector?style=social)
-
-**📝 项目简介**: 把钉钉机器人秒变AI助手：流式卡片实时打字回复、多轮会话自动管理、图片主动推送，一条命令接入大模型网关。
-
-**✨ 核心特性**:
-- AI Card流式响应，打字机效果
-- 30min无活动自动新会话，支持/new手动刷新
-- 本地图片自动上传并主动推消息
-
-**📊 项目统计**:
-- **⭐ Star数**: 805
+- **⭐ Star数**: 499
 - **🔀 Fork数**: 49
-- **👀 Watch数**: 805
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [frontend-slides](https://github.com/zarazhangrui/frontend-slides) ![Star](https://img.shields.io/github/stars/zarazhangrui/frontend-slides?style=social)
-
-**📝 项目简介**: 借助Claude前端能力，把一句话或PPT秒变高颜值单文件HTML演示，无需写代码即可生成动画丰富的网页幻灯片。
-
-**✨ 核心特性**:
-- 零依赖单HTML文件，直接浏览器打开
-- 可视化预览选风格，无需描述审美
-- 支持从PPT导入，自动生成动画与排版
-
-**📊 项目统计**:
-- **⭐ Star数**: 691
-- **🔀 Fork数**: 67
-- **👀 Watch数**: 691
+- **👀 Watch数**: 499
 - **📝 语言**: Unknown
-- **💻 技术栈**: React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -249,20 +245,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (4 个项目)
-2. **Python** (3 个项目)
-3. **Unknown** (2 个项目)
-4. **Shell** (1 个项目)
+1. **TypeScript** (3 个项目)
+2. **Go** (2 个项目)
+3. **Rust** (1 个项目)
+4. **Nushell** (1 个项目)
+5. **Shell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agents (1)
-2. cloudflare-workers (1)
-3. aigc (1)
-4. image-to-video (1)
-5. lingbot-world (1)
-6. video-generation (1)
-7. world-models (1)
-8. agent-skills (1)
+1. ai (1)
+2. ai-agents (1)
+3. anthropic (1)
+4. cost-optimization (1)
+5. crypto (1)
+6. deepseek (1)
+7. gemini (1)
+8. llm (1)
 
 
 <!-- TRENDING-END -->
@@ -272,6 +269,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
 | 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
 | 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
@@ -291,7 +289,6 @@
 | 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 | 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
-| 09-20 | 2025年第38周 | 10 个 | [查看详情](./archives/2025/week-38/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

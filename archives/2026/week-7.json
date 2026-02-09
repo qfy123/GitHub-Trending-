@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第7周",
+    "year": 2026,
+    "week": 7,
+    "week_range": {
+      "start": "2026-02-08",
+      "end": "2026-02-14"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-02-14 23:59:59",
+    "next_update": "2026-02-21"
+  },
+  "repositories": [
+    {
+      "full_name": "anthropics/claudes-c-compiler",
+      "rank": 1,
+      "stars": 1705,
+      "forks": 91,
+      "overall_score": 77
+    },
+    {
+      "full_name": "BlockRunAI/ClawRouter",
+      "rank": 2,
+      "stars": 1855,
+      "forks": 179,
+      "overall_score": 71
+    },
+    {
+      "full_name": "mitchellh/vouch",
+      "rank": 3,
+      "stars": 1568,
+      "forks": 27,
+      "overall_score": 68
+    },
+    {
+      "full_name": "foru17/clash-master",
+      "rank": 4,
+      "stars": 887,
+      "forks": 57,
+      "overall_score": 68
+    },
+    {
+      "full_name": "antonpk1/excalidraw-mcp-app",
+      "rank": 5,
+      "stars": 981,
+      "forks": 64,
+      "overall_score": 67
+    },
+    {
+      "full_name": "SamNet-dev/paqctl",
+      "rank": 6,
+      "stars": 602,
+      "forks": 74,
+      "overall_score": 65
+    },
+    {
+      "full_name": "eljojo/rememory",
+      "rank": 7,
+      "stars": 718,
+      "forks": 28,
+      "overall_score": 64
+    },
+    {
+      "full_name": "run-bigpig/jcp",
+      "rank": 8,
+      "stars": 510,
+      "forks": 116,
+      "overall_score": 64
+    },
+    {
+      "full_name": "cfinke/EpsteIn",
+      "rank": 9,
+      "stars": 501,
+      "forks": 29,
+      "overall_score": 62
+    },
+    {
+      "full_name": "sanyuan0704/code-review-expert",
+      "rank": 10,
+      "stars": 499,
+      "forks": 49,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-02-09T04:33:45.555Z"
+}
