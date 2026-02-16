@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第8周",
+    "year": 2026,
+    "week": 8,
+    "week_range": {
+      "start": "2026-02-15",
+      "end": "2026-02-21"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-02-21 23:59:59",
+    "next_update": "2026-02-28"
+  },
+  "repositories": [
+    {
+      "full_name": "zeroclaw-labs/zeroclaw",
+      "rank": 1,
+      "stars": 4307,
+      "forks": 423,
+      "overall_score": 81
+    },
+    {
+      "full_name": "xyzeva/k-id-age-verifier",
+      "rank": 2,
+      "stars": 1546,
+      "forks": 56,
+      "overall_score": 75
+    },
+    {
+      "full_name": "promptpirate-x/discord-id-bypass-tool",
+      "rank": 3,
+      "stars": 1131,
+      "forks": 66,
+      "overall_score": 68
+    },
+    {
+      "full_name": "bwya77/vscode-dark-islands",
+      "rank": 4,
+      "stars": 973,
+      "forks": 24,
+      "overall_score": 67
+    },
+    {
+      "full_name": "freestylefly/openclaw-wechat",
+      "rank": 5,
+      "stars": 557,
+      "forks": 190,
+      "overall_score": 66
+    },
+    {
+      "full_name": "RevylAI/greenlight",
+      "rank": 6,
+      "stars": 974,
+      "forks": 63,
+      "overall_score": 65
+    },
+    {
+      "full_name": "vigorX777/ai-daily-digest",
+      "rank": 7,
+      "stars": 664,
+      "forks": 70,
+      "overall_score": 65
+    },
+    {
+      "full_name": "HKUDS/FastCode",
+      "rank": 8,
+      "stars": 669,
+      "forks": 74,
+      "overall_score": 64
+    },
+    {
+      "full_name": "devops-interviews/devops-interviews",
+      "rank": 9,
+      "stars": 569,
+      "forks": 84,
+      "overall_score": 64
+    },
+    {
+      "full_name": "mickamy/sql-tap",
+      "rank": 10,
+      "stars": 743,
+      "forks": 15,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-02-16T04:32:25.867Z"
+}

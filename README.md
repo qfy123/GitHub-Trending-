@@ -18,226 +18,229 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第7周
+### GitHub趋势排行榜 - 2026年第8周
 
-**📅 统计周期**: 2026-02-08 ~ 2026-02-14  
+**📅 统计周期**: 2026-02-15 ~ 2026-02-21  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 9,826  
-**🔄 更新时间**: 2026-02-14 23:59:59  
+**⭐ 总Star数**: 12,133  
+**🔄 更新时间**: 2026-02-21 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) | Claude Opus 4.6用Rust手写的零依赖C编译器，可独立生成ELF并编译出能启动的Linux内核。 | 1,705 | 91 | Rust | 🆕 |
-| 2 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 智能LLM路由器，自动把请求派给最划算模型，统一钱包付费，平均省78%推理成本，支持30+模型免API Key。 | 1,855 | 179 | TypeScript | 🆕 |
-| 3 | [vouch](https://github.com/mitchellh/vouch) | 基于显式“担保”机制的社区信任管理系统，可灵活控制谁能在项目中执行哪些操作，并支持公开“谴责”封禁。 | 1,568 | 27 | Nushell | 🆕 |
-| 4 | [clash-master](https://github.com/foru17/clash-master) | 为OpenClash打造的现代化流量仪表盘，实时可视化多节点网络数据，一键管理多后端，让代理状态一目了然。 | 887 | 57 | TypeScript | 🆕 |
-| 5 | [excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) | 基于MCP协议，把Excalidraw手绘图实时流式推送到Claude、ChatGPT、VS Code等客户端，支... | 981 | 64 | TypeScript | 🆕 |
-| 6 | [paqctl](https://github.com/SamNet-dev/paqctl) | 一键管理多协议穿墙代理，整合Paqet(KCP/raw)与GFW-Knocker(变异TCP/QUIC)，双后端并... | 602 | 74 | Shell | 🆕 |
-| 7 | [rememory](https://github.com/eljojo/rememory) | 将加密文件密钥拆分给好友，离线浏览器即可共同恢复，防单点泄露的终极备份方案。 | 718 | 28 | Go | 🆕 |
-| 8 | [jcp](https://github.com/run-bigpig/jcp) | 跨桌面AI股票分析工具，聚合多模型Agent协同讨论，实时行情+舆情+研报一键生成投资参考。 | 510 | 116 | Go | 🆕 |
-| 9 | [EpsteIn](https://github.com/cfinke/EpsteIn) | 一键比对LinkedIn好友名单与爱泼斯坦案公开法庭文件，秒速发现潜在关联人，满足公众知情与风险自查需求。 | 501 | 29 | Python | 🆕 |
-| 10 | [code-review-expert](https://github.com/sanyuan0704/code-review-expert) | 一键为AI代理注入资深工程师级代码评审能力，自动发现SOLID违规、安全漏洞、性能瓶颈与异常处理缺陷，显著提升代码... | 499 | 49 | Unknown | 🆕 |
+| 1 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 用Rust重写的轻量级“Claw”运行时，5MB内存即可跑在10美元硬件，成本与内存均降98%。 | 4,307 | 423 | Rust | 🆕 |
+| 2 | [k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) | 一键在Discord、Twitch、Kick、Quora等平台自动完成K-ID成人年龄验证，免手动上传证件。 | 1,546 | 56 | TypeScript | 🆕 |
+| 3 | [discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) | 号称可在任何低配电脑上运行，一键绕过Discord手机/邮箱验证的HTML工具，已获千星关注。 | 1,131 | 66 | HTML | 🆕 |
+| 4 | [vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 将JetBrains Islands暗黑配色移植到VSCode，提供一致的沉浸式编码体验，已获近千星关注。 | 973 | 24 | PowerShell | 🆕 |
+| 5 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | 为 OpenClaw 提供稳定、可配置的微信个人号接入插件，一键安装即可把微信变成 AI 机器人的交互通道。 | 557 | 190 | TypeScript | 🆕 |
+| 6 | [greenlight](https://github.com/RevylAI/greenlight) | 在提交苹果审核前，一键扫描源码、隐私清单、IPA与元数据，提前发现被拒风险，降低上架失败率。 | 974 | 63 | Go | 🆕 |
+| 7 | [ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) | 自动爬取90个顶级技术博客，用AI多维度评分，每日生成15篇高质量中文摘要，解决信息过载。 | 664 | 70 | TypeScript | 🆕 |
+| 8 | [FastCode](https://github.com/HKUDS/FastCode) | FastCode通过AI与容器化技术，一键加速代码阅读、搜索与理解，显著降低开发者在大型代码库中的认知负担。 | 669 | 74 | Python | 🆕 |
+| 9 | [devops-interviews](https://github.com/devops-interviews/devops-interviews) | 作者汇总大厂DevOps面试真题并录制视频解析，一站式助力通过DevOps岗位面试。 | 569 | 84 | Unknown | 🆕 |
+| 10 | [sql-tap](https://github.com/mickamy/sql-tap) | 零侵入实时监听PostgreSQL/MySQL流量，终端交互式查看、事务追踪与EXPLAIN分析。 | 743 | 15 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) ![Star](https://img.shields.io/github/stars/anthropics/claudes-c-compiler?style=social)
+#### 1. [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ![Star](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=social)
 
-**📝 项目简介**: Claude Opus 4.6用Rust手写的零依赖C编译器，可独立生成ELF并编译出能启动的Linux内核。
+<img src="./images/2026/week-8/zeroclaw/1_zeroclaw.png" alt="zeroclaw" width="500"/>
+
+**📝 项目简介**: 用Rust重写的轻量级“Claw”运行时，5MB内存即可跑在10美元硬件，成本与内存均降98%。
 
 **✨ 核心特性**:
-- 零外部依赖，前端到链接器全自研
-- 支持x86-64/32、ARM64、RISC-V多后端
-- 自带优化器与DWARF调试信息生成
+- 内存占用<5MB，比OpenClaw省99%
+- $10硬件可运行，成本降98%
+- 零开销、零妥协、100% Rust跨平台
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,705
-- **🔀 Fork数**: 91
-- **👀 Watch数**: 1,705
+- **⭐ Star数**: 4,307
+- **🔀 Fork数**: 423
+- **👀 Watch数**: 4,307
 - **📝 语言**: Rust
-- **💻 技术栈**: Rust, C, Shell, Redis, PostgreSQL
+- **💻 技术栈**: Rust, Shell, Dockerfile, Node.js, Docker, TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ![Star](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
+#### 2. [k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) ![Star](https://img.shields.io/github/stars/xyzeva/k-id-age-verifier?style=social)
 
-<img src="./images/2026/week-7/clawrouter/1_banner.png" alt="ClawRouter" width="500"/>
-
-**📝 项目简介**: 智能LLM路由器，自动把请求派给最划算模型，统一钱包付费，平均省78%推理成本，支持30+模型免API Key。
+**📝 项目简介**: 一键在Discord、Twitch、Kick、Quora等平台自动完成K-ID成人年龄验证，免手动上传证件。
 
 **✨ 核心特性**:
-- 动态选模型，成本最高省78%
-- 一个钱包管理30+主流模型，无需各自API Key
-- 内置x402微支付，按量计费，秒级结算
+- 多站统一验证
+- 浏览器自动化
+- 开源防后门
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,855
-- **🔀 Fork数**: 179
-- **👀 Watch数**: 1,855
+- **⭐ Star数**: 1,546
+- **🔀 Fork数**: 56
+- **👀 Watch数**: 1,546
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Shell, ai, ai-agents, anthropic
+- **🌐 官网**: [https://age-verifier.kibty.town](https://age-verifier.kibty.town)
+- **💻 技术栈**: TypeScript, Svelte, JavaScript, HTML, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [vouch](https://github.com/mitchellh/vouch) ![Star](https://img.shields.io/github/stars/mitchellh/vouch?style=social)
+#### 3. [discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) ![Star](https://img.shields.io/github/stars/promptpirate-x/discord-id-bypass-tool?style=social)
 
-**📝 项目简介**: 基于显式“担保”机制的社区信任管理系统，可灵活控制谁能在项目中执行哪些操作，并支持公开“谴责”封禁。
+<img src="./images/2026/week-8/discord-id-bypass-tool/1_logo.png" alt="discord-id-bypass-tool" width="500"/>
+
+**📝 项目简介**: 号称可在任何低配电脑上运行，一键绕过Discord手机/邮箱验证的HTML工具，已获千星关注。
 
 **✨ 核心特性**:
-- 担保/谴责双机制，权限粒度可配置
-- 实现通用，适配任意代码托管平台
-- 用Nushell+Nix构建，脚本即配置
+- 零配置、即开即用
+- 纯前端+Express，轻量跨平台
+- 宣称支持所有Discord验证场景
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,568
-- **🔀 Fork数**: 27
-- **👀 Watch数**: 1,568
-- **📝 语言**: Nushell
-- **💻 技术栈**: Nushell, Nix, Shell
+- **⭐ Star数**: 1,131
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 1,131
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [clash-master](https://github.com/foru17/clash-master) ![Star](https://img.shields.io/github/stars/foru17/clash-master?style=social)
+#### 4. [vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) ![Star](https://img.shields.io/github/stars/bwya77/vscode-dark-islands?style=social)
 
-<img src="./images/2026/week-7/clash-master/1_clash-master-overview.png" alt="clash-master" width="500"/>
+<img src="./images/2026/week-8/vscode-dark-islands/1_cleanshot%202026-02-14%20at%2021.47.05@2x.png" alt="vscode-dark-islands" width="500"/>
 
-**📝 项目简介**: 为OpenClash打造的现代化流量仪表盘，实时可视化多节点网络数据，一键管理多后端，让代理状态一目了然。
+**📝 项目简介**: 将JetBrains Islands暗黑配色移植到VSCode，提供一致的沉浸式编码体验，已获近千星关注。
 
 **✨ 核心特性**:
-- 实时监控与多维度流量分析
-- 优雅UI支持多后端集中管理
-- 零配置开箱即用，兼容Clash/OpenClash
+- 还原JetBrains Islands暗黑配色
+- 持续更新，细节打磨中
+- 一键安装，无需配置
 
 **📊 项目统计**:
-- **⭐ Star数**: 887
-- **🔀 Fork数**: 57
-- **👀 Watch数**: 887
+- **⭐ Star数**: 973
+- **🔀 Fork数**: 24
+- **👀 Watch数**: 973
+- **📝 语言**: PowerShell
+- **💻 技术栈**: PowerShell, Shell, jetbrains, visual-studio-code, vscode, vscode-theme
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) ![Star](https://img.shields.io/github/stars/freestylefly/openclaw-wechat?style=social)
+
+**📝 项目简介**: 为 OpenClaw 提供稳定、可配置的微信个人号接入插件，一键安装即可把微信变成 AI 机器人的交互通道。
+
+**✨ 核心特性**:
+- 一行命令安装/升级，零开发成本
+- 支持代理与 Webhook 灵活配置
+- 官方 API Key 保障稳定不掉线
+
+**📊 项目统计**:
+- **⭐ Star数**: 557
+- **🔀 Fork数**: 190
+- **👀 Watch数**: 557
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Shell, CSS, JavaScript, Dockerfile, clash
+- **💻 技术栈**: TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) ![Star](https://img.shields.io/github/stars/antonpk1/excalidraw-mcp-app?style=social)
+#### 6. [greenlight](https://github.com/RevylAI/greenlight) ![Star](https://img.shields.io/github/stars/RevylAI/greenlight?style=social)
 
-<img src="./images/2026/week-7/excalidraw-mcp-app/1_demo.gif" alt="excalidraw-mcp-app" width="500"/>
-
-**📝 项目简介**: 基于MCP协议，把Excalidraw手绘图实时流式推送到Claude、ChatGPT、VS Code等客户端，支持平滑视口与全屏互动编辑。
+**📝 项目简介**: 在提交苹果审核前，一键扫描源码、隐私清单、IPA与元数据，提前发现被拒风险，降低上架失败率。
 
 **✨ 核心特性**:
-- 即装即用，远程/本地一键接入
-- 支持所有主流MCP客户端
-- 手绘图实时同步+视口跟随
+- 覆盖Apple Review Guidelines全规则
+- 支持源码/IPA/隐私清单/元数据多维度扫描
+- Homebrew一键安装，CI友好
 
 **📊 项目统计**:
-- **⭐ Star数**: 981
-- **🔀 Fork数**: 64
-- **👀 Watch数**: 981
+- **⭐ Star数**: 974
+- **🔀 Fork数**: 63
+- **👀 Watch数**: 974
+- **📝 语言**: Go
+- **💻 技术栈**: Go, Makefile, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) ![Star](https://img.shields.io/github/stars/vigorX777/ai-daily-digest?style=social)
+
+<img src="./images/2026/week-8/ai-daily-digest/1_overview.png" alt="ai-daily-digest" width="500"/>
+
+**📝 项目简介**: 自动爬取90个顶级技术博客，用AI多维度评分，每日生成15篇高质量中文摘要，解决信息过载。
+
+**✨ 核心特性**:
+- 源自信誉列表，含HN/西蒙/格雷厄姆等90站
+- Gemini+OpenAI双模型自动降级，评分维度丰富
+- 一键/digest交互，48h内精选，支持中英输出
+
+**📊 项目统计**:
+- **⭐ Star数**: 664
+- **🔀 Fork数**: 70
+- **👀 Watch数**: 664
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, HTML
+- **💻 技术栈**: TypeScript, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [paqctl](https://github.com/SamNet-dev/paqctl) ![Star](https://img.shields.io/github/stars/SamNet-dev/paqctl?style=social)
+#### 8. [FastCode](https://github.com/HKUDS/FastCode) ![Star](https://img.shields.io/github/stars/HKUDS/FastCode?style=social)
 
-<img src="./images/2026/week-7/paqctl/1_version-1.0.0-blue.svg" alt="paqctl" width="500"/>
+<img src="./images/2026/week-8/fastcode/1_python-3.12+-blue.svg" alt="FastCode" width="500"/>
 
-**📝 项目简介**: 一键管理多协议穿墙代理，整合Paqet(KCP/raw)与GFW-Knocker(变异TCP/QUIC)，双后端并发绕过GFW与伊朗防火墙。
+**📝 项目简介**: FastCode通过AI与容器化技术，一键加速代码阅读、搜索与理解，显著降低开发者在大型代码库中的认知负担。
 
 **✨ 核心特性**:
-- 单脚本同时驱动Paqet+GFW-Knocker双后端
-- 支持Windows/Linux/macOS，Shell+Python跨平台
-- 服务端一键部署，客户端零配置自动选路
+- 秒级索引百万行代码，查询延迟<100ms
+- 按需GPU/CPU弹性伸缩，成本最低$1/天
+- 零配置Docker一键部署，支持REST/VSCode插件
 
 **📊 项目统计**:
-- **⭐ Star数**: 602
+- **⭐ Star数**: 669
 - **🔀 Fork数**: 74
-- **👀 Watch数**: 602
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, Python, PowerShell, Batchfile, china, firewall-bypass
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [rememory](https://github.com/eljojo/rememory) ![Star](https://img.shields.io/github/stars/eljojo/rememory?style=social)
-
-**📝 项目简介**: 将加密文件密钥拆分给好友，离线浏览器即可共同恢复，防单点泄露的终极备份方案。
-
-**✨ 核心特性**:
-- Shamir密钥分片，无需信任单一人
-- recover.html纯离线恢复，零依赖
-- age加密+自托管，无服务器痕迹
-
-**📊 项目统计**:
-- **⭐ Star数**: 718
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 718
-- **📝 语言**: Go
-- **🌐 官网**: [https://eljojo.github.io/rememory/](https://eljojo.github.io/rememory/)
-- **💻 技术栈**: Go, HTML, TypeScript, JavaScript, CSS, Makefile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [jcp](https://github.com/run-bigpig/jcp) ![Star](https://img.shields.io/github/stars/run-bigpig/jcp?style=social)
-
-<img src="./images/2026/week-7/jcp/1_go-1.24-blue.svg" alt="jcp" width="500"/>
-
-**📝 项目简介**: 跨桌面AI股票分析工具，聚合多模型Agent协同讨论，实时行情+舆情+研报一键生成投资参考。
-
-**✨ 核心特性**:
-- 多AI专家角色协作，多维视角碰撞
-- 股票级长期记忆，历史观点可追溯
-- 集成行情/舆情/研报，信息一站式
-
-**📊 项目统计**:
-- **⭐ Star数**: 510
-- **🔀 Fork数**: 116
-- **👀 Watch数**: 510
-- **📝 语言**: Go
-- **💻 技术栈**: Go, TypeScript, NSIS, JavaScript, CSS, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [EpsteIn](https://github.com/cfinke/EpsteIn) ![Star](https://img.shields.io/github/stars/cfinke/EpsteIn?style=social)
-
-<img src="./images/2026/week-7/epstein/1_logo.png" alt="EpsteIn" width="500"/>
-
-**📝 项目简介**: 一键比对LinkedIn好友名单与爱泼斯坦案公开法庭文件，秒速发现潜在关联人，满足公众知情与风险自查需求。
-
-**✨ 核心特性**:
-- 直接对接官方公开文档，数据源可信
-- 自动化拉取LinkedIn通讯录，零手动录入
-- 本地运行，保护用户隐私不泄露
-
-**📊 项目统计**:
-- **⭐ Star数**: 501
-- **🔀 Fork数**: 29
-- **👀 Watch数**: 501
+- **👀 Watch数**: 669
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, HTML, Shell, TypeScript, Dockerfile, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [code-review-expert](https://github.com/sanyuan0704/code-review-expert) ![Star](https://img.shields.io/github/stars/sanyuan0704/code-review-expert?style=social)
+#### 9. [devops-interviews](https://github.com/devops-interviews/devops-interviews) ![Star](https://img.shields.io/github/stars/devops-interviews/devops-interviews?style=social)
 
-**📝 项目简介**: 一键为AI代理注入资深工程师级代码评审能力，自动发现SOLID违规、安全漏洞、性能瓶颈与异常处理缺陷，显著提升代码质量与可维护性。
+<img src="./images/2026/week-8/devops-interviews/1_pht.png" alt="devops-interviews" width="500"/>
+
+**📝 项目简介**: 作者汇总大厂DevOps面试真题并录制视频解析，一站式助力通过DevOps岗位面试。
 
 **✨ 核心特性**:
-- 覆盖SOLID五大原则违规检测
-- 集成XSS、注入、SSRF等安全扫描
-- 识别N+1查询、CPU热点、内存泄漏等性能问题
+- 含一线大厂真实面试题
+- 配套作者视频讲解
+- 覆盖Docker/K8s/AWS/Azure等核心考点
 
 **📊 项目统计**:
-- **⭐ Star数**: 499
-- **🔀 Fork数**: 49
-- **👀 Watch数**: 499
+- **⭐ Star数**: 569
+- **🔀 Fork数**: 84
+- **👀 Watch数**: 569
 - **📝 语言**: Unknown
+- **💻 技术栈**: Docker, Kubernetes, AWS, Azure
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [sql-tap](https://github.com/mickamy/sql-tap) ![Star](https://img.shields.io/github/stars/mickamy/sql-tap?style=social)
+
+<img src="./images/2026/week-8/sql-tap/1_demo.gif" alt="sql-tap" width="500"/>
+
+**📝 项目简介**: 零侵入实时监听PostgreSQL/MySQL流量，终端交互式查看、事务追踪与EXPLAIN分析。
+
+**✨ 核心特性**:
+- 无需改代码即可抓包SQL
+- 终端UI实时滚动查询与事务
+- 支持一键EXPLAIN性能分析
+
+**📊 项目统计**:
+- **⭐ Star数**: 743
+- **🔀 Fork数**: 15
+- **👀 Watch数**: 743
+- **📝 语言**: Go
+- **💻 技术栈**: Go, Makefile, Dockerfile, Docker, PostgreSQL, MySQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -248,18 +251,14 @@
 1. **TypeScript** (3 个项目)
 2. **Go** (2 个项目)
 3. **Rust** (1 个项目)
-4. **Nushell** (1 个项目)
-5. **Shell** (1 个项目)
+4. **HTML** (1 个项目)
+5. **PowerShell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (1)
-2. ai-agents (1)
-3. anthropic (1)
-4. cost-optimization (1)
-5. crypto (1)
-6. deepseek (1)
-7. gemini (1)
-8. llm (1)
+1. jetbrains (1)
+2. visual-studio-code (1)
+3. vscode (1)
+4. vscode-theme (1)
 
 
 <!-- TRENDING-END -->
@@ -269,6 +268,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 02-21 | 2026年第8周 | 10 个 | [查看详情](./archives/2026/week-8/report.md) |
 | 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
 | 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
@@ -288,7 +288,6 @@
 | 10-18 | 2025年第42周 | 10 个 | [查看详情](./archives/2025/week-42/report.md) |
 | 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
 | 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
-| 09-27 | 2025年第39周 | 10 个 | [查看详情](./archives/2025/week-39/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
