@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第9周",
+    "year": 2026,
+    "week": 9,
+    "week_range": {
+      "start": "2026-02-22",
+      "end": "2026-02-28"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-02-28 23:59:59",
+    "next_update": "2026-03-07"
+  },
+  "repositories": [
+    {
+      "full_name": "ShinMegamiBoson/OpenPlanter",
+      "rank": 1,
+      "stars": 1066,
+      "forks": 157,
+      "overall_score": 69
+    },
+    {
+      "full_name": "RightNow-AI/picolm",
+      "rank": 2,
+      "stars": 668,
+      "forks": 67,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Pickle-Pixel/ApplyPilot",
+      "rank": 3,
+      "stars": 363,
+      "forks": 105,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "rank": 4,
+      "stars": 588,
+      "forks": 37,
+      "overall_score": 63
+    },
+    {
+      "full_name": "TraderAlice/OpenAlice",
+      "rank": 5,
+      "stars": 450,
+      "forks": 59,
+      "overall_score": 63
+    },
+    {
+      "full_name": "olvvier/apple-silicon-accelerometer",
+      "rank": 6,
+      "stars": 508,
+      "forks": 32,
+      "overall_score": 62
+    },
+    {
+      "full_name": "dnakov/litter",
+      "rank": 7,
+      "stars": 348,
+      "forks": 28,
+      "overall_score": 61
+    },
+    {
+      "full_name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "rank": 8,
+      "stars": 603,
+      "forks": 3,
+      "overall_score": 60
+    },
+    {
+      "full_name": "vercel-labs/visual-json",
+      "rank": 9,
+      "stars": 354,
+      "forks": 15,
+      "overall_score": 60
+    },
+    {
+      "full_name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "rank": 10,
+      "stars": 663,
+      "forks": 0,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2026-02-23T04:31:21.614Z"
+}

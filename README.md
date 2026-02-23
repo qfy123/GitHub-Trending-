@@ -18,229 +18,228 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第8周
+### GitHub趋势排行榜 - 2026年第9周
 
-**📅 统计周期**: 2026-02-15 ~ 2026-02-21  
+**📅 统计周期**: 2026-02-22 ~ 2026-02-28  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 12,133  
-**🔄 更新时间**: 2026-02-21 23:59:59  
+**⭐ 总Star数**: 5,611  
+**🔄 更新时间**: 2026-02-28 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 用Rust重写的轻量级“Claw”运行时，5MB内存即可跑在10美元硬件，成本与内存均降98%。 | 4,307 | 423 | Rust | 🆕 |
-| 2 | [k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) | 一键在Discord、Twitch、Kick、Quora等平台自动完成K-ID成人年龄验证，免手动上传证件。 | 1,546 | 56 | TypeScript | 🆕 |
-| 3 | [discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) | 号称可在任何低配电脑上运行，一键绕过Discord手机/邮箱验证的HTML工具，已获千星关注。 | 1,131 | 66 | HTML | 🆕 |
-| 4 | [vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 将JetBrains Islands暗黑配色移植到VSCode，提供一致的沉浸式编码体验，已获近千星关注。 | 973 | 24 | PowerShell | 🆕 |
-| 5 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | 为 OpenClaw 提供稳定、可配置的微信个人号接入插件，一键安装即可把微信变成 AI 机器人的交互通道。 | 557 | 190 | TypeScript | 🆕 |
-| 6 | [greenlight](https://github.com/RevylAI/greenlight) | 在提交苹果审核前，一键扫描源码、隐私清单、IPA与元数据，提前发现被拒风险，降低上架失败率。 | 974 | 63 | Go | 🆕 |
-| 7 | [ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) | 自动爬取90个顶级技术博客，用AI多维度评分，每日生成15篇高质量中文摘要，解决信息过载。 | 664 | 70 | TypeScript | 🆕 |
-| 8 | [FastCode](https://github.com/HKUDS/FastCode) | FastCode通过AI与容器化技术，一键加速代码阅读、搜索与理解，显著降低开发者在大型代码库中的认知负担。 | 669 | 74 | Python | 🆕 |
-| 9 | [devops-interviews](https://github.com/devops-interviews/devops-interviews) | 作者汇总大厂DevOps面试真题并录制视频解析，一站式助力通过DevOps岗位面试。 | 569 | 84 | Unknown | 🆕 |
-| 10 | [sql-tap](https://github.com/mickamy/sql-tap) | 零侵入实时监听PostgreSQL/MySQL流量，终端交互式查看、事务追踪与EXPLAIN分析。 | 743 | 15 | Go | 🆕 |
+| 1 | [OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) | 终端式递归语言模型调查代理，自动跨多源异构数据解析实体并挖掘隐藏关联，生成证据链报告。 | 1,066 | 157 | Python | 🆕 |
+| 2 | [picolm](https://github.com/RightNow-AI/picolm) | 在仅256MB内存的10美元开发板上流畅运行10亿参数大模型，无需任何依赖，二进制仅80KB。 | 668 | 67 | C | 🆕 |
+| 3 | [ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot) | ApplyPilot是开源AI求职代理，2天可自动投递1000职位，全流程无需人工干预。 | 363 | 105 | Python | 🆕 |
+| 4 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | 单文件SKILL.md，为AI赋予“审美”，一键阻止生成低质量、模板化前端代码，强制输出高水准现代界面。 | 588 | 37 | Unknown | 🆕 |
+| 5 | [OpenAlice](https://github.com/TraderAlice/OpenAlice) | 文件驱动的AI交易引擎，一键集研究、量化、交易、风控于一体，让个人拥有华尔街级能力。 | 450 | 59 | TypeScript | 🆕 |
+| 6 | [apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) | 通过IOKit-HID读取Apple Silicon MacBook隐藏MEMS加速度计与陀螺仪数据，含屏幕开合角... | 508 | 32 | Python | 🆕 |
+| 7 | [litter](https://github.com/dnakov/litter) | Codex 的跨平台原生移动端客户端，iOS/Android 双端一致体验，支持本地网络发现与远程 SSH 管理。 | 348 | 28 | Kotlin | 🆕 |
+| 8 | [Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot) | TypeScript版Polymarket 15分钟涨跌预测机器人，实时运行RSI/MACD/动量策略，可模拟或实... | 603 | 3 | TypeScript | 🆕 |
+| 9 | [visual-json](https://github.com/vercel-labs/visual-json) | 可视化JSON编辑器，支持JSON Schema，可嵌入React，提供树形、表单、对比三种视图，让非开发者也能安... | 354 | 15 | TypeScript | 🆕 |
+| 10 | [Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot) | 跨平台套利机器人，自动捕捉Kalshi与Polymarket价差，AI验证信号，一键安装即可运行。 | 663 | 0 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ![Star](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=social)
+#### 1. [OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) ![Star](https://img.shields.io/github/stars/ShinMegamiBoson/OpenPlanter?style=social)
 
-<img src="./images/2026/week-8/zeroclaw/1_zeroclaw.png" alt="zeroclaw" width="500"/>
-
-**📝 项目简介**: 用Rust重写的轻量级“Claw”运行时，5MB内存即可跑在10美元硬件，成本与内存均降98%。
+**📝 项目简介**: 终端式递归语言模型调查代理，自动跨多源异构数据解析实体并挖掘隐藏关联，生成证据链报告。
 
 **✨ 核心特性**:
-- 内存占用<5MB，比OpenClaw省99%
-- $10硬件可运行，成本降98%
-- 零开销、零妥协、100% Rust跨平台
+- 一键整合工商、游说、合同等公开数据
+- 递归子代理自主搜索、脚本与文件操作
+- 终端UI零门槛上手，Docker秒级部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,307
-- **🔀 Fork数**: 423
-- **👀 Watch数**: 4,307
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Shell, Dockerfile, Node.js, Docker, TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) ![Star](https://img.shields.io/github/stars/xyzeva/k-id-age-verifier?style=social)
-
-**📝 项目简介**: 一键在Discord、Twitch、Kick、Quora等平台自动完成K-ID成人年龄验证，免手动上传证件。
-
-**✨ 核心特性**:
-- 多站统一验证
-- 浏览器自动化
-- 开源防后门
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,546
-- **🔀 Fork数**: 56
-- **👀 Watch数**: 1,546
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://age-verifier.kibty.town](https://age-verifier.kibty.town)
-- **💻 技术栈**: TypeScript, Svelte, JavaScript, HTML, CSS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) ![Star](https://img.shields.io/github/stars/promptpirate-x/discord-id-bypass-tool?style=social)
-
-<img src="./images/2026/week-8/discord-id-bypass-tool/1_logo.png" alt="discord-id-bypass-tool" width="500"/>
-
-**📝 项目简介**: 号称可在任何低配电脑上运行，一键绕过Discord手机/邮箱验证的HTML工具，已获千星关注。
-
-**✨ 核心特性**:
-- 零配置、即开即用
-- 纯前端+Express，轻量跨平台
-- 宣称支持所有Discord验证场景
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,131
-- **🔀 Fork数**: 66
-- **👀 Watch数**: 1,131
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) ![Star](https://img.shields.io/github/stars/bwya77/vscode-dark-islands?style=social)
-
-<img src="./images/2026/week-8/vscode-dark-islands/1_cleanshot%202026-02-14%20at%2021.47.05@2x.png" alt="vscode-dark-islands" width="500"/>
-
-**📝 项目简介**: 将JetBrains Islands暗黑配色移植到VSCode，提供一致的沉浸式编码体验，已获近千星关注。
-
-**✨ 核心特性**:
-- 还原JetBrains Islands暗黑配色
-- 持续更新，细节打磨中
-- 一键安装，无需配置
-
-**📊 项目统计**:
-- **⭐ Star数**: 973
-- **🔀 Fork数**: 24
-- **👀 Watch数**: 973
-- **📝 语言**: PowerShell
-- **💻 技术栈**: PowerShell, Shell, jetbrains, visual-studio-code, vscode, vscode-theme
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) ![Star](https://img.shields.io/github/stars/freestylefly/openclaw-wechat?style=social)
-
-**📝 项目简介**: 为 OpenClaw 提供稳定、可配置的微信个人号接入插件，一键安装即可把微信变成 AI 机器人的交互通道。
-
-**✨ 核心特性**:
-- 一行命令安装/升级，零开发成本
-- 支持代理与 Webhook 灵活配置
-- 官方 API Key 保障稳定不掉线
-
-**📊 项目统计**:
-- **⭐ Star数**: 557
-- **🔀 Fork数**: 190
-- **👀 Watch数**: 557
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [greenlight](https://github.com/RevylAI/greenlight) ![Star](https://img.shields.io/github/stars/RevylAI/greenlight?style=social)
-
-**📝 项目简介**: 在提交苹果审核前，一键扫描源码、隐私清单、IPA与元数据，提前发现被拒风险，降低上架失败率。
-
-**✨ 核心特性**:
-- 覆盖Apple Review Guidelines全规则
-- 支持源码/IPA/隐私清单/元数据多维度扫描
-- Homebrew一键安装，CI友好
-
-**📊 项目统计**:
-- **⭐ Star数**: 974
-- **🔀 Fork数**: 63
-- **👀 Watch数**: 974
-- **📝 语言**: Go
-- **💻 技术栈**: Go, Makefile, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) ![Star](https://img.shields.io/github/stars/vigorX777/ai-daily-digest?style=social)
-
-<img src="./images/2026/week-8/ai-daily-digest/1_overview.png" alt="ai-daily-digest" width="500"/>
-
-**📝 项目简介**: 自动爬取90个顶级技术博客，用AI多维度评分，每日生成15篇高质量中文摘要，解决信息过载。
-
-**✨ 核心特性**:
-- 源自信誉列表，含HN/西蒙/格雷厄姆等90站
-- Gemini+OpenAI双模型自动降级，评分维度丰富
-- 一键/digest交互，48h内精选，支持中英输出
-
-**📊 项目统计**:
-- **⭐ Star数**: 664
-- **🔀 Fork数**: 70
-- **👀 Watch数**: 664
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [FastCode](https://github.com/HKUDS/FastCode) ![Star](https://img.shields.io/github/stars/HKUDS/FastCode?style=social)
-
-<img src="./images/2026/week-8/fastcode/1_python-3.12+-blue.svg" alt="FastCode" width="500"/>
-
-**📝 项目简介**: FastCode通过AI与容器化技术，一键加速代码阅读、搜索与理解，显著降低开发者在大型代码库中的认知负担。
-
-**✨ 核心特性**:
-- 秒级索引百万行代码，查询延迟<100ms
-- 按需GPU/CPU弹性伸缩，成本最低$1/天
-- 零配置Docker一键部署，支持REST/VSCode插件
-
-**📊 项目统计**:
-- **⭐ Star数**: 669
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 669
+- **⭐ Star数**: 1,066
+- **🔀 Fork数**: 157
+- **👀 Watch数**: 1,066
 - **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, Shell, TypeScript, Dockerfile, JavaScript
+- **💻 技术栈**: Python, Shell, Dockerfile, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [devops-interviews](https://github.com/devops-interviews/devops-interviews) ![Star](https://img.shields.io/github/stars/devops-interviews/devops-interviews?style=social)
+#### 2. [picolm](https://github.com/RightNow-AI/picolm) ![Star](https://img.shields.io/github/stars/RightNow-AI/picolm?style=social)
 
-<img src="./images/2026/week-8/devops-interviews/1_pht.png" alt="devops-interviews" width="500"/>
+<img src="./images/2026/week-9/picolm/1_picolm.jpg" alt="picolm" width="500"/>
 
-**📝 项目简介**: 作者汇总大厂DevOps面试真题并录制视频解析，一站式助力通过DevOps岗位面试。
+**📝 项目简介**: 在仅256MB内存的10美元开发板上流畅运行10亿参数大模型，无需任何依赖，二进制仅80KB。
 
 **✨ 核心特性**:
-- 含一线大厂真实面试题
-- 配套作者视频讲解
-- 覆盖Docker/K8s/AWS/Azure等核心考点
+- 极致轻量：80KB可执行文件，45MB运行内存
+- 零依赖：纯C11实现，开箱即用
+- 跨平台：支持ARM、RISC-V及树莓派等嵌入式设备
 
 **📊 项目统计**:
-- **⭐ Star数**: 569
-- **🔀 Fork数**: 84
-- **👀 Watch数**: 569
+- **⭐ Star数**: 668
+- **🔀 Fork数**: 67
+- **👀 Watch数**: 668
+- **📝 语言**: C
+- **🌐 官网**: [https://www.rightnowai.co/forge](https://www.rightnowai.co/forge)
+- **💻 技术栈**: C, Shell, Makefile, Batchfile, arm, embedded
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot) ![Star](https://img.shields.io/github/stars/Pickle-Pixel/ApplyPilot?style=social)
+
+<img src="./images/2026/week-9/applypilot/1_python-3.11%2b-blue.svg" alt="ApplyPilot" width="500"/>
+
+**📝 项目简介**: ApplyPilot是开源AI求职代理，2天可自动投递1000职位，全流程无需人工干预。
+
+**✨ 核心特性**:
+- 6段式自动流水线：发现职位→AI打分→定制简历→生成求职信→填写表单→提交
+- 支持5+招聘网站，自动上传文件并回答筛选问题
+- 开源低成本，一键运行即可大规模精准投递
+
+**📊 项目统计**:
+- **⭐ Star数**: 363
+- **🔀 Fork数**: 105
+- **👀 Watch数**: 363
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill) ![Star](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=social)
+
+**📝 项目简介**: 单文件SKILL.md，为AI赋予“审美”，一键阻止生成低质量、模板化前端代码，强制输出高水准现代界面。
+
+**✨ 核心特性**:
+- 零依赖，只需复制1个文件
+- 瞬间提升AI输出品味，拒绝“代码垃圾”
+- 兼容Cursor、Claude Code等主流AI编程工具
+
+**📊 项目统计**:
+- **⭐ Star数**: 588
+- **🔀 Fork数**: 37
+- **👀 Watch数**: 588
 - **📝 语言**: Unknown
-- **💻 技术栈**: Docker, Kubernetes, AWS, Azure
+- **💻 技术栈**: agent, ai, coding, lowcode, nocode, skill
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [sql-tap](https://github.com/mickamy/sql-tap) ![Star](https://img.shields.io/github/stars/mickamy/sql-tap?style=social)
+#### 5. [OpenAlice](https://github.com/TraderAlice/OpenAlice) ![Star](https://img.shields.io/github/stars/TraderAlice/OpenAlice?style=social)
 
-<img src="./images/2026/week-8/sql-tap/1_demo.gif" alt="sql-tap" width="500"/>
+<img src="./images/2026/week-9/openalice/1_alice-full.png" alt="OpenAlice" width="500"/>
 
-**📝 项目简介**: 零侵入实时监听PostgreSQL/MySQL流量，终端交互式查看、事务追踪与EXPLAIN分析。
+**📝 项目简介**: 文件驱动的AI交易引擎，一键集研究、量化、交易、风控于一体，让个人拥有华尔街级能力。
 
 **✨ 核心特性**:
-- 无需改代码即可抓包SQL
-- 终端UI实时滚动查询与事务
-- 支持一键EXPLAIN性能分析
+- 文件配置即可驱动策略，零代码上手
+- 内置研究+量化+交易+风控全链路
+- 支持加密与证券双市场，Demo可实时体验
 
 **📊 项目统计**:
-- **⭐ Star数**: 743
+- **⭐ Star数**: 450
+- **🔀 Fork数**: 59
+- **👀 Watch数**: 450
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://traderalice.com](https://traderalice.com)
+- **💻 技术栈**: TypeScript, CSS, HTML, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) ![Star](https://img.shields.io/github/stars/olvvier/apple-silicon-accelerometer?style=social)
+
+<img src="./images/2026/week-9/apple-silicon-accelerometer/1_demo.gif" alt="apple-silicon-accelerometer" width="500"/>
+
+**📝 项目简介**: 通过IOKit-HID读取Apple Silicon MacBook隐藏MEMS加速度计与陀螺仪数据，含屏幕开合角与环境光。
+
+**✨ 核心特性**:
+- 无需公开API即可访问SPU传感器
+- 支持M2-M4全系列MacBook
+- 提供原始3轴加速度与角速度数据
+
+**📊 项目统计**:
+- **⭐ Star数**: 508
+- **🔀 Fork数**: 32
+- **👀 Watch数**: 508
+- **📝 语言**: Python
+- **🌐 官网**: [https://medium.com/@oli.bourbonnais/your-macbook-has-an-accelerometer-and-you-can-read-it-in-real-time-in-python-28d9395fb180](https://medium.com/@oli.bourbonnais/your-macbook-has-an-accelerometer-and-you-can-read-it-in-real-time-in-python-28d9395fb180)
+- **💻 技术栈**: Python, Objective-C, Shell, accelerometer, apple, applespu
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [litter](https://github.com/dnakov/litter) ![Star](https://img.shields.io/github/stars/dnakov/litter?style=social)
+
+<img src="./images/2026/week-9/litter/1_brand_logo.png" alt="litter" width="500"/>
+
+**📝 项目简介**: Codex 的跨平台原生移动端客户端，iOS/Android 双端一致体验，支持本地网络发现与远程 SSH 管理。
+
+**✨ 核心特性**:
+- 原生 Swift/Compose UI，性能流畅
+- 内置 Bonjour/Tailscale 自动发现，零配置连接
+- 统一 RPC 桥接，远程文件与开发环境一键管理
+
+**📊 项目统计**:
+- **⭐ Star数**: 348
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 348
+- **📝 语言**: Kotlin
+- **💻 技术栈**: Kotlin, Swift, Shell, Rust, Objective-C, C
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot) ![Star](https://img.shields.io/github/stars/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot?style=social)
+
+**📝 项目简介**: TypeScript版Polymarket 15分钟涨跌预测机器人，实时运行RSI/MACD/动量策略，可模拟或实盘自动下单。
+
+**✨ 核心特性**:
+- 默认模拟盘零风险回测
+- 一键切换实盘自动下单
+- 专注15分钟短周期预测市场
+
+**📊 项目统计**:
+- **⭐ Star数**: 603
+- **🔀 Fork数**: 3
+- **👀 Watch数**: 603
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, polymarket, polymarket-15min-trading-bot, polymarket-arbitrage-trading, polymarket-arbitrage-trading-bot, polymarket-scraping
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [visual-json](https://github.com/vercel-labs/visual-json) ![Star](https://img.shields.io/github/stars/vercel-labs/visual-json?style=social)
+
+**📝 项目简介**: 可视化JSON编辑器，支持JSON Schema，可嵌入React，提供树形、表单、对比三种视图，让非开发者也能安全编辑复杂JSON。
+
+**✨ 核心特性**:
+- Schema驱动，实时校验防错
+- React组件即插即用，支持自定义扩展
+- 内置Diff视图，一键比对差异
+
+**📊 项目统计**:
+- **⭐ Star数**: 354
 - **🔀 Fork数**: 15
-- **👀 Watch数**: 743
-- **📝 语言**: Go
-- **💻 技术栈**: Go, Makefile, Dockerfile, Docker, PostgreSQL, MySQL
+- **👀 Watch数**: 354
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://visual-json.dev](https://visual-json.dev)
+- **💻 技术栈**: TypeScript, MDX, CSS, JavaScript, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot) ![Star](https://img.shields.io/github/stars/CraftyGeezer/Kalshi-Polymarket-Ai-bot?style=social)
+
+**📝 项目简介**: 跨平台套利机器人，自动捕捉Kalshi与Polymarket价差，AI验证信号，一键安装即可运行。
+
+**✨ 核心特性**:
+- AI筛选高胜率套利机会
+- Python+Rust高性能双引擎
+- macOS一键脚本快速部署
+
+**📊 项目统计**:
+- **⭐ Star数**: 663
+- **🔀 Fork数**: 0
+- **👀 Watch数**: 663
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Rust, Shell, JavaScript, REST API
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -248,17 +247,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (3 个项目)
-2. **Go** (2 个项目)
-3. **Rust** (1 个项目)
-4. **HTML** (1 个项目)
-5. **PowerShell** (1 个项目)
+1. **Python** (4 个项目)
+2. **TypeScript** (3 个项目)
+3. **C** (1 个项目)
+4. **Unknown** (1 个项目)
+5. **Kotlin** (1 个项目)
 
 **🏷️ 热门话题**:
-1. jetbrains (1)
-2. visual-studio-code (1)
-3. vscode (1)
-4. vscode-theme (1)
+1. arm (1)
+2. embedded (1)
+3. inference (1)
+4. llm (1)
+5. openclaw (1)
+6. picoclaw (1)
+7. quantization (1)
+8. raspberry-pi (1)
 
 
 <!-- TRENDING-END -->
@@ -268,6 +271,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 02-28 | 2026年第9周 | 10 个 | [查看详情](./archives/2026/week-9/report.md) |
 | 02-21 | 2026年第8周 | 10 个 | [查看详情](./archives/2026/week-8/report.md) |
 | 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
@@ -287,7 +291,6 @@
 | 10-25 | 2025年第43周 | 10 个 | [查看详情](./archives/2025/week-43/report.md) |
 | 10-18 | 2025年第42周 | 10 个 | [查看详情](./archives/2025/week-42/report.md) |
 | 10-11 | 2025年第41周 | 10 个 | [查看详情](./archives/2025/week-41/report.md) |
-| 10-04 | 2025年第40周 | 10 个 | [查看详情](./archives/2025/week-40/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
