@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第10周",
+    "year": 2026,
+    "week": 10,
+    "week_range": {
+      "start": "2026-03-01",
+      "end": "2026-03-07"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-03-07 23:59:59",
+    "next_update": "2026-03-14"
+  },
+  "repositories": [
+    {
+      "full_name": "RightNow-AI/openfang",
+      "rank": 1,
+      "stars": 7922,
+      "forks": 830,
+      "overall_score": 89
+    },
+    {
+      "full_name": "agentscope-ai/CoPaw",
+      "rank": 2,
+      "stars": 3777,
+      "forks": 375,
+      "overall_score": 83
+    },
+    {
+      "full_name": "cloudflare/vinext",
+      "rank": 3,
+      "stars": 4973,
+      "forks": 154,
+      "overall_score": 81
+    },
+    {
+      "full_name": "ylytdeng/wechat-decrypt",
+      "rank": 4,
+      "stars": 1019,
+      "forks": 874,
+      "overall_score": 75
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "rank": 5,
+      "stars": 3537,
+      "forks": 284,
+      "overall_score": 73
+    },
+    {
+      "full_name": "Lakr233/vphone-cli",
+      "rank": 6,
+      "stars": 1773,
+      "forks": 285,
+      "overall_score": 73
+    },
+    {
+      "full_name": "Polymarket/polymarket-cli",
+      "rank": 7,
+      "stars": 1415,
+      "forks": 132,
+      "overall_score": 71
+    },
+    {
+      "full_name": "peteromallet/dataclaw",
+      "rank": 8,
+      "stars": 1714,
+      "forks": 211,
+      "overall_score": 70
+    },
+    {
+      "full_name": "ForLoopCodes/contextplus",
+      "rank": 9,
+      "stars": 1092,
+      "forks": 67,
+      "overall_score": 67
+    },
+    {
+      "full_name": "mgechev/skills-best-practices",
+      "rank": 10,
+      "stars": 943,
+      "forks": 58,
+      "overall_score": 64
+    }
+  ],
+  "generated_at": "2026-03-02T04:21:44.670Z"
+}
