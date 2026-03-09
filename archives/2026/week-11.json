@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第11周",
+    "year": 2026,
+    "week": 11,
+    "week_range": {
+      "start": "2026-03-08",
+      "end": "2026-03-14"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-03-14 23:59:59",
+    "next_update": "2026-03-21"
+  },
+  "repositories": [
+    {
+      "full_name": "karpathy/autoresearch",
+      "rank": 1,
+      "stars": 9800,
+      "forks": 1300,
+      "overall_score": 87
+    },
+    {
+      "full_name": "elder-plinius/OBLITERATUS",
+      "rank": 2,
+      "stars": 2416,
+      "forks": 410,
+      "overall_score": 76
+    },
+    {
+      "full_name": "op7418/Claude-to-IM-skill",
+      "rank": 3,
+      "stars": 676,
+      "forks": 81,
+      "overall_score": 70
+    },
+    {
+      "full_name": "duoan/TorchCode",
+      "rank": 4,
+      "stars": 1234,
+      "forks": 83,
+      "overall_score": 67
+    },
+    {
+      "full_name": "cyxzdev/Uncodixfy",
+      "rank": 5,
+      "stars": 1088,
+      "forks": 81,
+      "overall_score": 67
+    },
+    {
+      "full_name": "viperrcrypto/Siftly",
+      "rank": 6,
+      "stars": 1023,
+      "forks": 77,
+      "overall_score": 67
+    },
+    {
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "rank": 7,
+      "stars": 1400,
+      "forks": 40,
+      "overall_score": 66
+    },
+    {
+      "full_name": "hicode002/qualcomm_gbl_exploit_poc",
+      "rank": 8,
+      "stars": 541,
+      "forks": 191,
+      "overall_score": 66
+    },
+    {
+      "full_name": "tanishqkumar/ssd",
+      "rank": 9,
+      "stars": 715,
+      "forks": 44,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Flowseal/tg-ws-proxy",
+      "rank": 10,
+      "stars": 649,
+      "forks": 8,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-03-09T04:25:08.752Z"
+}
