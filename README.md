@@ -18,224 +18,220 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第12周
+### GitHub趋势排行榜 - 2026年第13周
 
-**📅 统计周期**: 2026-03-15 ~ 2026-03-21  
+**📅 统计周期**: 2026-03-22 ~ 2026-03-28  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 26,183  
-**🔄 更新时间**: 2026-03-21 23:59:59  
+**⭐ 总Star数**: 14,015  
+**🔄 更新时间**: 2026-03-28 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [gstack](https://github.com/garrytan/gstack) | 把 Claude Code 变成可召唤的6人专家团队：CEO/Eng Manager/Release Manage... | 14,487 | 1,654 | TypeScript | 🆕 |
-| 2 | [gsd-2](https://github.com/gsd-build/gsd-2) | GSD-2 把 Claude 的提示框架升级为独立 CLI，让 AI 长时间自主编码不跑题，全程按规格驱动。 | 1,388 | 119 | TypeScript | 🆕 |
-| 3 | [openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | 一个使用TypeScript开发的开源项目：Turn OpenClaw from a black box into... | 1,763 | 240 | TypeScript | 🆕 |
-| 4 | [tavily-key-generator](https://github.com/skernelx/tavily-key-generator) | 一个使用Python开发的开源项目：Auto batch register Tavily API Keys wit... | 930 | 710 | Python | 🆕 |
-| 5 | [inkos](https://github.com/Narcooo/inkos) | 一个使用TypeScript开发的开源项目：Multi-agent novel production system... | 900 | 186 | TypeScript | 🆕 |
-| 6 | [MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) | 开源便携防空火箭与发射器原型，含完整机械、电子、固件及试射资料，可低成本复现。 | 1,059 | 253 | Unknown | 🆕 |
-| 7 | [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | 为pi打造的自主实验循环扩展：自动提出假设→测量→保留优解→无限迭代，持续优化任意指标。 | 1,875 | 93 | TypeScript | 🆕 |
-| 8 | [chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) | 一键让AI直接接管你正在用的Chrome，读取已登录标签页、操作网页，无需额外浏览器或重新登录。 | 1,593 | 88 | JavaScript | 🆕 |
-| 9 | [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 让Claude Code在你睡觉时全自动完成ML论文评审、弱点定位、实验重跑与故事重写，醒来即可收获改进稿。 | 1,383 | 129 | Python | 🆕 |
-| 10 | [atlas-gic](https://github.com/chrisworsey55/atlas-gic) | ATLAS让25个AI交易代理每日辩论市场，用真实盈亏当损失，自动重写最差代理的提示词，实现零GPU自进化策略。 | 805 | 170 | Unknown | 🆕 |
+| 1 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | 一个使用Python开发的开源项目：ClawTeam: Agent Swarm Intelligence (One... | 2,921 | 379 | Python | 🆕 |
+| 2 | [any-auto-register](https://github.com/lxf746/any-auto-register) | 一键批量注册多平台账号（Trae、Cursor、ChatGPT等），插件化扩展，自带Web管理界面，支持邮箱、验证... | 1,000 | 502 | Python | 🆕 |
+| 3 | [skills](https://github.com/MiniMax-AI/skills) | MiniMax Skills为AI编程助手提供结构化、可直接落地的开发技能包，覆盖前端、全栈、移动端与Shader... | 2,208 | 127 | C# | 🆕 |
+| 4 | [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) | 精选136+个Codex子代理，按10大开发场景分类，开箱即用，极大提升AI编程效率。 | 2,105 | 175 | Unknown | 🆕 |
+| 5 | [flash-moe](https://github.com/danveloper/flash-moe) | 用纯C/Metal在48GB内存MacBook Pro上本地跑通3970亿参数MoE大模型，4.4token/s，... | 1,299 | 119 | Objective-C | 🆕 |
+| 6 | [OpenGauss](https://github.com/math-inc/OpenGauss) | Math.Inc开源的多智能体Lean4工作流编排器，为Gauss提供证明、草拟、自动证明、形式化与自动形式化一站... | 1,026 | 85 | Python | 🆕 |
+| 7 | [dbskill](https://github.com/dontbesilent2025/dbskill) | 将1.2万条推文提炼成4千+知识原子，打包成Claude Code技能，一键做商业诊断、内容优化与执行力提升。 | 993 | 174 | Unknown | 🆕 |
+| 8 | [taiwan-md](https://github.com/frank890417/taiwan-md) | 开源、AI友好的台湾知识库，用结构化数据与精选内容让世界与AI真正认识台湾，超越维基与旅游指南。 | 725 | 81 | Astro | 🆕 |
+| 9 | [autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) | 为AI辅助家谱研究提供结构化提示、Vault模板与归档指南，帮助研究者高效整理9代6系的家族史料。 | 880 | 73 | Unknown | 🆕 |
+| 10 | [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | 在提交iOS/macOS应用前，AI自动扫描Xcode工程、源码与配置，提前发现易被App Store拒审的违规点... | 858 | 46 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [gstack](https://github.com/garrytan/gstack) ![Star](https://img.shields.io/github/stars/garrytan/gstack?style=social)
+#### 1. [ClawTeam](https://github.com/HKUDS/ClawTeam) ![Star](https://img.shields.io/github/stars/HKUDS/ClawTeam?style=social)
 
-**📝 项目简介**: 把 Claude Code 变成可召唤的6人专家团队：CEO/Eng Manager/Release Manager/QA，一键完成需求评审、代码审查、发布与测试，避免AI只按字面开发。
+<img src="./images/2026/week-13/clawteam/1_icon.png" alt="ClawTeam" width="500"/>
 
-**✨ 核心特性**:
-- /slash命令即可召唤不同角色
-- 一次运行成本仅1美元
-- 内置浏览器自动化与QA测试
-
-**📊 项目统计**:
-- **⭐ Star数**: 14,487
-- **🔀 Fork数**: 1,654
-- **👀 Watch数**: 14,487
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Go Template, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [gsd-2](https://github.com/gsd-build/gsd-2) ![Star](https://img.shields.io/github/stars/gsd-build/gsd-2?style=social)
-
-**📝 项目简介**: GSD-2 把 Claude 的提示框架升级为独立 CLI，让 AI 长时间自主编码不跑题，全程按规格驱动。
+**📝 项目简介**: 一个使用Python开发的开源项目：ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)，已获得2,921个star。
 
 **✨ 核心特性**:
-- 元提示+上下文工程，自动维持全局视图
-- TypeScript 原生接入代理内核，告别注入式命令
-- 规格即代码，需求变更一键同步到实现
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,388
-- **🔀 Fork数**: 119
-- **👀 Watch数**: 1,388
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Rust, JavaScript, Python, Swift, CSS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) ![Star](https://img.shields.io/github/stars/TianyiDataScience/openclaw-control-center?style=social)
-
-<img src="./images/2026/week-12/openclaw-control-center/1_overview-hero-zh.png" alt="openclaw-control-center" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Turn OpenClaw from a black box into a local control center you can see, trust, and control.，已获得1,763个star。
-
-**✨ 核心特性**:
-- 1,763 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,763
-- **🔀 Fork数**: 240
-- **👀 Watch数**: 1,763
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Shell, JavaScript, Python, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [tavily-key-generator](https://github.com/skernelx/tavily-key-generator) ![Star](https://img.shields.io/github/stars/skernelx/tavily-key-generator?style=social)
-
-<img src="./images/2026/week-12/tavily-key-generator/1_launcher-overview.jpg" alt="tavily-key-generator" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Auto batch register Tavily API Keys with pluggable email backends，已获得930个star。
-
-**✨ 核心特性**:
-- 930 stars
+- 2,921 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 930
-- **🔀 Fork数**: 710
-- **👀 Watch数**: 930
+- **⭐ Star数**: 2,921
+- **🔀 Fork数**: 379
+- **👀 Watch数**: 2,921
 - **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, Dockerfile, Shell, Batchfile, Docker
+- **💻 技术栈**: Python, HTML, React, Docker, Redis, PostgreSQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [inkos](https://github.com/Narcooo/inkos) ![Star](https://img.shields.io/github/stars/Narcooo/inkos?style=social)
+#### 2. [any-auto-register](https://github.com/lxf746/any-auto-register) ![Star](https://img.shields.io/github/stars/lxf746/any-auto-register?style=social)
 
-<img src="./images/2026/week-12/inkos/1_logo.svg" alt="inkos" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates，已获得900个star。
+**📝 项目简介**: 一键批量注册多平台账号（Trae、Cursor、ChatGPT等），插件化扩展，自带Web管理界面，支持邮箱、验证码、代理池全自动化。
 
 **✨ 核心特性**:
-- 900 stars
-- TypeScript
+- 多平台插件扩展，新平台可热插拔
+- 内置邮箱+验证码+代理池，全流程无人值守
+- FastAPI+React实时日志，并发可控可视
 
 **📊 项目统计**:
-- **⭐ Star数**: 900
-- **🔀 Fork数**: 186
-- **👀 Watch数**: 900
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, agent, ai-writing, aigc-detection, automated-storytelling
+- **⭐ Star数**: 1,000
+- **🔀 Fork数**: 502
+- **👀 Watch数**: 1,000
+- **📝 语言**: Python
+- **💻 技术栈**: Python, TypeScript, CSS, JavaScript, Dockerfile, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) ![Star](https://img.shields.io/github/stars/novatic14/MANPADS-System-Launcher-and-Rocket?style=social)
+#### 3. [skills](https://github.com/MiniMax-AI/skills) ![Star](https://img.shields.io/github/stars/MiniMax-AI/skills?style=social)
 
-<img src="./images/2026/week-12/manpads-system-launcher-and-rocket/1_hqdefault.jpg" alt="MANPADS-System-Launcher-and-Rocket" width="500"/>
-
-**📝 项目简介**: 开源便携防空火箭与发射器原型，含完整机械、电子、固件及试射资料，可低成本复现。
+**📝 项目简介**: MiniMax Skills为AI编程助手提供结构化、可直接落地的开发技能包，覆盖前端、全栈、移动端与Shader场景，显著提升AI生成代码的生产级质量。
 
 **✨ 核心特性**:
-- 全链开源设计
-- Google Drive共享全套图纸与测试数据
-- 1美元获取5分钟系统演示
+- 即插即用：适配主流AI编程工具
+- 多领域覆盖：前端/全栈/Android/iOS/Shader
+- 持续迭代：社区反馈驱动，格式与API快速演进
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,059
-- **🔀 Fork数**: 253
-- **👀 Watch数**: 1,059
+- **⭐ Star数**: 2,208
+- **🔀 Fork数**: 127
+- **👀 Watch数**: 2,208
+- **📝 语言**: C#
+- **💻 技术栈**: C#, Python, Shell, HTML, JavaScript, PowerShell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) ![Star](https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=social)
+
+<img src="./images/2026/week-13/awesome-codex-subagents/1_badge.svg" alt="awesome-codex-subagents" width="500"/>
+
+**📝 项目简介**: 精选136+个Codex子代理，按10大开发场景分类，开箱即用，极大提升AI编程效率。
+
+**✨ 核心特性**:
+- 覆盖130+专用子代理
+- 10大开发场景一键调用
+- 持续更新社区维护
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,105
+- **🔀 Fork数**: 175
+- **👀 Watch数**: 2,105
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://github.com/VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
+- **💻 技术栈**: ai-agents, awesome-list, chatgpt, codex, codex-skills, codex-subagents
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [flash-moe](https://github.com/danveloper/flash-moe) ![Star](https://img.shields.io/github/stars/danveloper/flash-moe?style=social)
+
+<img src="./images/2026/week-13/flash-moe/1_progress.png" alt="flash-moe" width="500"/>
+
+**📝 项目简介**: 用纯C/Metal在48GB内存MacBook Pro上本地跑通3970亿参数MoE大模型，4.4token/s，零依赖，零成本。
+
+**✨ 核心特性**:
+- 397B参数MoE笔记本可跑
+- 纯C/Metal引擎，无Python框架
+- 48GB内存+SSD流式加载，4.4token/s
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,299
+- **🔀 Fork数**: 119
+- **👀 Watch数**: 1,299
+- **📝 语言**: Objective-C
+- **💻 技术栈**: Objective-C, C, TeX, Python, Metal, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [OpenGauss](https://github.com/math-inc/OpenGauss) ![Star](https://img.shields.io/github/stars/math-inc/OpenGauss?style=social)
+
+**📝 项目简介**: Math.Inc开源的多智能体Lean4工作流编排器，为Gauss提供证明、草拟、自动证明、形式化与自动形式化一站式前端，并自动管理Lean工具链与会话状态。
+
+**✨ 核心特性**:
+- 一站式Lean4证明工作流
+- 多智能体协作前端
+- 自动管理工具链与状态
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,026
+- **🔀 Fork数**: 85
+- **👀 Watch数**: 1,026
+- **📝 语言**: Python
+- **💻 技术栈**: Python, TeX, BibTeX Style, Shell, PowerShell, CSS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [dbskill](https://github.com/dontbesilent2025/dbskill) ![Star](https://img.shields.io/github/stars/dontbesilent2025/dbskill?style=social)
+
+**📝 项目简介**: 将1.2万条推文提炼成4千+知识原子，打包成Claude Code技能，一键做商业诊断、内容优化与执行力提升。
+
+**✨ 核心特性**:
+- 推文→原子化知识库，可整用可拆分
+- 内置短视频钩子、奥派聊天室等10+技能
+- Skill联动闭环，诊断-讨论-行动一体化
+
+**📊 项目统计**:
+- **⭐ Star数**: 993
+- **🔀 Fork数**: 174
+- **👀 Watch数**: 993
 - **📝 语言**: Unknown
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) ![Star](https://img.shields.io/github/stars/davebcn87/pi-autoresearch?style=social)
+#### 8. [taiwan-md](https://github.com/frank890417/taiwan-md) ![Star](https://img.shields.io/github/stars/frank890417/taiwan-md?style=social)
 
-<img src="./images/2026/week-12/pi-autoresearch/1_pi-autoresearch.png" alt="pi-autoresearch" width="500"/>
+<img src="./images/2026/week-13/taiwan-md/1_license-cc_by--sa_4.0-lightgrey.svg" alt="taiwan-md" width="500"/>
 
-**📝 项目简介**: 为pi打造的自主实验循环扩展：自动提出假设→测量→保留优解→无限迭代，持续优化任意指标。
+**📝 项目简介**: 开源、AI友好的台湾知识库，用结构化数据与精选内容让世界与AI真正认识台湾，超越维基与旅游指南。
 
 **✨ 核心特性**:
-- 全自动闭环优化，无需人工干预
-- 支持测试速度、包体积、LLM训练等多目标
-- 提供实时看板与会话文件，结果可追溯
+- AI-native结构化知识，方便模型训练与问答
+- 开源协作持续精编，涵盖芯片、文化等深度议题
+- Astro驱动，极速静态生成，多语言易扩展
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,875
-- **🔀 Fork数**: 93
-- **👀 Watch数**: 1,875
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **⭐ Star数**: 725
+- **🔀 Fork数**: 81
+- **👀 Watch数**: 725
+- **📝 语言**: Astro
+- **🌐 官网**: [https://taiwan.md](https://taiwan.md)
+- **💻 技术栈**: Astro, TypeScript, Shell, JavaScript, Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) ![Star](https://img.shields.io/github/stars/pasky/chrome-cdp-skill?style=social)
+#### 9. [autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) ![Star](https://img.shields.io/github/stars/mattprusak/autoresearch-genealogy?style=social)
 
-**📝 项目简介**: 一键让AI直接接管你正在用的Chrome，读取已登录标签页、操作网页，无需额外浏览器或重新登录。
-
-**✨ 核心特性**:
-- 零配置接入现有Chrome会话
-- 无需重登录即可操作已认证页面
-- 轻量CDP通道，无庞大自动化框架
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,593
-- **🔀 Fork数**: 88
-- **👀 Watch数**: 1,593
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Node.js, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![Star](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=social)
-
-<img src="./images/2026/week-12/auto-claude-code-research-in-sleep/1_aris_logo.svg" alt="Auto-claude-code-research-in-sleep" width="500"/>
-
-**📝 项目简介**: 让Claude Code在你睡觉时全自动完成ML论文评审、弱点定位、实验重跑与故事重写，醒来即可收获改进稿。
+**📝 项目简介**: 为AI辅助家谱研究提供结构化提示、Vault模板与归档指南，帮助研究者高效整理9代6系的家族史料。
 
 **✨ 核心特性**:
-- 跨模型互评循环，自动发现创新点
-- 一键复现、修正实验并更新图表
-- 集成Codex MCP，支持GLM、Kimi等多模型
+- 基于真实105份家谱成果提炼的通用方法
+- 内置Claude Code工作流，可迁移至任意AI工具
+- 提供可复用的研究模板与自动归档规范
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,383
-- **🔀 Fork数**: 129
-- **👀 Watch数**: 1,383
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TeX, ai-research, ai-tools, aris, autonomous-agent
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [atlas-gic](https://github.com/chrisworsey55/atlas-gic) ![Star](https://img.shields.io/github/stars/chrisworsey55/atlas-gic?style=social)
-
-<img src="./images/2026/week-12/atlas-gic/1_equity_curve.png" alt="atlas-gic" width="500"/>
-
-**📝 项目简介**: ATLAS让25个AI交易代理每日辩论市场，用真实盈亏当损失，自动重写最差代理的提示词，实现零GPU自进化策略。
-
-**✨ 核心特性**:
-- 无需GPU，纯提示词进化
-- 25层多代理辩论+实时Sharpe评分
-- 真实市场反馈闭环优化
-
-**📊 项目统计**:
-- **⭐ Star数**: 805
-- **🔀 Fork数**: 170
-- **👀 Watch数**: 805
+- **⭐ Star数**: 880
+- **🔀 Fork数**: 73
+- **👀 Watch数**: 880
 - **📝 语言**: Unknown
-- **💻 技术栈**: Azure
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) ![Star](https://img.shields.io/github/stars/truongduy2611/app-store-preflight-skills?style=social)
+
+**📝 项目简介**: 在提交iOS/macOS应用前，AI自动扫描Xcode工程、源码与配置，提前发现易被App Store拒审的违规点，降低被拒风险。
+
+**✨ 核心特性**:
+- AI驱动预审查，精准匹配Apple拒审模式
+- 一键扫描工程、元数据与配置文件
+- 集成Homebrew，安装即用，CI友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 858
+- **🔀 Fork数**: 46
+- **👀 Watch数**: 858
+- **📝 语言**: Unknown
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -243,20 +239,20 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (5 个项目)
-2. **Python** (2 个项目)
-3. **Unknown** (2 个项目)
-4. **JavaScript** (1 个项目)
+1. **Unknown** (4 个项目)
+2. **Python** (3 个项目)
+3. **C#** (1 个项目)
+4. **Objective-C** (1 个项目)
+5. **Astro** (1 个项目)
 
 **🏷️ 热门话题**:
-1. context-engineering (1)
-2. meta-prompting (1)
-3. spec-driven-development (1)
-4. agent (1)
-5. ai-writing (1)
-6. aigc-detection (1)
-7. automated-storytelling (1)
-8. chinese-novel (1)
+1. ai-agents (1)
+2. awesome-list (1)
+3. chatgpt (1)
+4. codex (1)
+5. codex-skills (1)
+6. codex-subagents (1)
+7. subagents (1)
 
 
 <!-- TRENDING-END -->
@@ -266,6 +262,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
 | 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
 | 03-14 | 2026年第11周 | 10 个 | [查看详情](./archives/2026/week-11/report.md) |
 | 03-07 | 2026年第10周 | 10 个 | [查看详情](./archives/2026/week-10/report.md) |
@@ -285,7 +282,6 @@
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
 | 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
 | 11-08 | 2025年第45周 | 10 个 | [查看详情](./archives/2025/week-45/report.md) |
-| 11-01 | 2025年第44周 | 10 个 | [查看详情](./archives/2025/week-44/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

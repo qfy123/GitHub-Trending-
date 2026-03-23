@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第13周",
+    "year": 2026,
+    "week": 13,
+    "week_range": {
+      "start": "2026-03-22",
+      "end": "2026-03-28"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-03-28 23:59:59",
+    "next_update": "2026-04-04"
+  },
+  "repositories": [
+    {
+      "full_name": "HKUDS/ClawTeam",
+      "rank": 1,
+      "stars": 2921,
+      "forks": 379,
+      "overall_score": 78
+    },
+    {
+      "full_name": "lxf746/any-auto-register",
+      "rank": 2,
+      "stars": 1000,
+      "forks": 502,
+      "overall_score": 73
+    },
+    {
+      "full_name": "MiniMax-AI/skills",
+      "rank": 3,
+      "stars": 2208,
+      "forks": 127,
+      "overall_score": 71
+    },
+    {
+      "full_name": "VoltAgent/awesome-codex-subagents",
+      "rank": 4,
+      "stars": 2105,
+      "forks": 175,
+      "overall_score": 70
+    },
+    {
+      "full_name": "danveloper/flash-moe",
+      "rank": 5,
+      "stars": 1299,
+      "forks": 119,
+      "overall_score": 69
+    },
+    {
+      "full_name": "math-inc/OpenGauss",
+      "rank": 6,
+      "stars": 1026,
+      "forks": 85,
+      "overall_score": 68
+    },
+    {
+      "full_name": "dontbesilent2025/dbskill",
+      "rank": 7,
+      "stars": 993,
+      "forks": 174,
+      "overall_score": 68
+    },
+    {
+      "full_name": "frank890417/taiwan-md",
+      "rank": 8,
+      "stars": 725,
+      "forks": 81,
+      "overall_score": 67
+    },
+    {
+      "full_name": "mattprusak/autoresearch-genealogy",
+      "rank": 9,
+      "stars": 880,
+      "forks": 73,
+      "overall_score": 65
+    },
+    {
+      "full_name": "truongduy2611/app-store-preflight-skills",
+      "rank": 10,
+      "stars": 858,
+      "forks": 46,
+      "overall_score": 64
+    }
+  ],
+  "generated_at": "2026-03-23T04:38:07.054Z"
+}
