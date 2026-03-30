@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第14周",
+    "year": 2026,
+    "week": 14,
+    "week_range": {
+      "start": "2026-03-29",
+      "end": "2026-04-04"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-04-04 23:59:59",
+    "next_update": "2026-04-11"
+  },
+  "repositories": [
+    {
+      "full_name": "larksuite/cli",
+      "rank": 1,
+      "stars": 3675,
+      "forks": 168,
+      "overall_score": 81
+    },
+    {
+      "full_name": "HKUDS/OpenSpace",
+      "rank": 2,
+      "stars": 2530,
+      "forks": 278,
+      "overall_score": 78
+    },
+    {
+      "full_name": "magnum6actual/flipoff",
+      "rank": 3,
+      "stars": 2437,
+      "forks": 293,
+      "overall_score": 74
+    },
+    {
+      "full_name": "elder-plinius/G0DM0D3",
+      "rank": 4,
+      "stars": 2034,
+      "forks": 396,
+      "overall_score": 74
+    },
+    {
+      "full_name": "alvinunreal/awesome-opensource-ai",
+      "rank": 5,
+      "stars": 1949,
+      "forks": 150,
+      "overall_score": 72
+    },
+    {
+      "full_name": "qiuzhi2046/Qclaw",
+      "rank": 6,
+      "stars": 861,
+      "forks": 99,
+      "overall_score": 70
+    },
+    {
+      "full_name": "facebookresearch/tribev2",
+      "rank": 7,
+      "stars": 928,
+      "forks": 179,
+      "overall_score": 69
+    },
+    {
+      "full_name": "oaker-io/wewrite",
+      "rank": 8,
+      "stars": 867,
+      "forks": 148,
+      "overall_score": 68
+    },
+    {
+      "full_name": "nashsu/opencli-rs",
+      "rank": 9,
+      "stars": 992,
+      "forks": 73,
+      "overall_score": 66
+    },
+    {
+      "full_name": "jxnxts/mcp-brasil",
+      "rank": 10,
+      "stars": 880,
+      "forks": 112,
+      "overall_score": 66
+    }
+  ],
+  "generated_at": "2026-03-30T04:51:52.819Z"
+}

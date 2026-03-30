@@ -18,220 +18,228 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第13周
+### GitHub趋势排行榜 - 2026年第14周
 
-**📅 统计周期**: 2026-03-22 ~ 2026-03-28  
+**📅 统计周期**: 2026-03-29 ~ 2026-04-04  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 14,015  
-**🔄 更新时间**: 2026-03-28 23:59:59  
+**⭐ 总Star数**: 17,153  
+**🔄 更新时间**: 2026-04-04 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | 一个使用Python开发的开源项目：ClawTeam: Agent Swarm Intelligence (One... | 2,921 | 379 | Python | 🆕 |
-| 2 | [any-auto-register](https://github.com/lxf746/any-auto-register) | 一键批量注册多平台账号（Trae、Cursor、ChatGPT等），插件化扩展，自带Web管理界面，支持邮箱、验证... | 1,000 | 502 | Python | 🆕 |
-| 3 | [skills](https://github.com/MiniMax-AI/skills) | MiniMax Skills为AI编程助手提供结构化、可直接落地的开发技能包，覆盖前端、全栈、移动端与Shader... | 2,208 | 127 | C# | 🆕 |
-| 4 | [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) | 精选136+个Codex子代理，按10大开发场景分类，开箱即用，极大提升AI编程效率。 | 2,105 | 175 | Unknown | 🆕 |
-| 5 | [flash-moe](https://github.com/danveloper/flash-moe) | 用纯C/Metal在48GB内存MacBook Pro上本地跑通3970亿参数MoE大模型，4.4token/s，... | 1,299 | 119 | Objective-C | 🆕 |
-| 6 | [OpenGauss](https://github.com/math-inc/OpenGauss) | Math.Inc开源的多智能体Lean4工作流编排器，为Gauss提供证明、草拟、自动证明、形式化与自动形式化一站... | 1,026 | 85 | Python | 🆕 |
-| 7 | [dbskill](https://github.com/dontbesilent2025/dbskill) | 将1.2万条推文提炼成4千+知识原子，打包成Claude Code技能，一键做商业诊断、内容优化与执行力提升。 | 993 | 174 | Unknown | 🆕 |
-| 8 | [taiwan-md](https://github.com/frank890417/taiwan-md) | 开源、AI友好的台湾知识库，用结构化数据与精选内容让世界与AI真正认识台湾，超越维基与旅游指南。 | 725 | 81 | Astro | 🆕 |
-| 9 | [autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) | 为AI辅助家谱研究提供结构化提示、Vault模板与归档指南，帮助研究者高效整理9代6系的家族史料。 | 880 | 73 | Unknown | 🆕 |
-| 10 | [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | 在提交iOS/macOS应用前，AI自动扫描Xcode工程、源码与配置，提前发现易被App Store拒审的违规点... | 858 | 46 | Unknown | 🆕 |
+| 1 | [cli](https://github.com/larksuite/cli) | 飞书开放平台官方CLI，200+命令一键调用IM、文档、表格、日历等11大业务域，人类与AI Agent零配置即可... | 3,675 | 168 | Go | 🆕 |
+| 2 | [OpenSpace](https://github.com/HKUDS/OpenSpace) | 一键让各类AI Agent自我进化：省46% Token、6小时赚1.1万美元，低成本共享经验持续变强。 | 2,530 | 278 | Python | 🆕 |
+| 3 | [flipoff](https://github.com/magnum6actual/flipoff) | 无需3500美元硬件，用浏览器把电视秒变复古翻页机场屏，免费开源即开即用。 | 2,437 | 293 | JavaScript | 🆕 |
+| 4 | [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | G0DM0D3 提供去中心化、无审查的 AI 对话接口，让开发者自由调用大模型而无需受平台限制。 | 2,034 | 396 | TypeScript | 🆕 |
+| 5 | [awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai) | 精选真正开源的AI模型、框架与工具清单，帮助开发者快速找到可商用、可自托管的AI资源。 | 1,949 | 150 | Unknown | 🆕 |
+| 6 | [Qclaw](https://github.com/qiuzhi2046/Qclaw) | Qclaw 把 OpenClaw 的命令行操作封装成图形界面，零门槛一键管理代理节点，新手也能秒上手。 | 861 | 99 | TypeScript | 🆕 |
+| 7 | [tribev2](https://github.com/facebookresearch/tribev2) | Meta开源的多模态脑响应预测基础模型，用视频-音频-文本同步预测fMRI皮层活动，为计算神经科学提供即用工具。 | 928 | 179 | Jupyter Notebook | 🆕 |
+| 8 | [wewrite](https://github.com/oaker-io/wewrite) | 一句话驱动，自动完成公众号文章从热点抓取、选题、写作、SEO、配图到微信草稿箱的全流程，3分钟产出可发布内容。 | 867 | 148 | Python | 🆕 |
+| 9 | [opencli-rs](https://github.com/nashsu/opencli-rs) | 极速Rust重写的一站式CLI，一条命令抓取55+中外站内容，并联动本地与桌面工具。 | 992 | 73 | Rust | 🆕 |
+| 10 | [mcp-brasil](https://github.com/jxnxts/mcp-brasil) | 聚合41个巴西政府开放API的MCP Server，零门槛为AI代理提供经济、立法、选举等官方数据。 | 880 | 112 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [ClawTeam](https://github.com/HKUDS/ClawTeam) ![Star](https://img.shields.io/github/stars/HKUDS/ClawTeam?style=social)
+#### 1. [cli](https://github.com/larksuite/cli) ![Star](https://img.shields.io/github/stars/larksuite/cli?style=social)
 
-<img src="./images/2026/week-13/clawteam/1_icon.png" alt="ClawTeam" width="500"/>
+<img src="./images/2026/week-14/cli/1_license-mit-yellow.svg" alt="cli" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)，已获得2,921个star。
+**📝 项目简介**: 飞书开放平台官方CLI，200+命令一键调用IM、文档、表格、日历等11大业务域，人类与AI Agent零配置即可驱动飞书。
 
 **✨ 核心特性**:
-- 2,921 stars
-- Python
+- 19种AI Agent技能开箱即用
+- 单命令覆盖11大核心业务场景
+- 官方维护，星标3.6K持续迭代
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,921
-- **🔀 Fork数**: 379
-- **👀 Watch数**: 2,921
+- **⭐ Star数**: 3,675
+- **🔀 Fork数**: 168
+- **👀 Watch数**: 3,675
+- **📝 语言**: Go
+- **💻 技术栈**: Go, JavaScript, Python, Shell, Makefile, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [OpenSpace](https://github.com/HKUDS/OpenSpace) ![Star](https://img.shields.io/github/stars/HKUDS/OpenSpace?style=social)
+
+<img src="./images/2026/week-14/openspace/1_agents-claude_code%20%7c%20codex%20%7c%20openclaw%20%7c%20nanobot%20%7c%20...-99c9bf.svg" alt="OpenSpace" width="500"/>
+
+**📝 项目简介**: 一键让各类AI Agent自我进化：省46% Token、6小时赚1.1万美元，低成本共享经验持续变强。
+
+**✨ 核心特性**:
+- 46% Token节省，成本骤降
+- 自我进化技能，越用越聪明
+- 支持OpenClaw、Claude Code等主流Agent一键升级
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,530
+- **🔀 Fork数**: 278
+- **👀 Watch数**: 2,530
 - **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, React, Docker, Redis, PostgreSQL
+- **💻 技术栈**: Python, TypeScript, CSS, Shell, HTML, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [any-auto-register](https://github.com/lxf746/any-auto-register) ![Star](https://img.shields.io/github/stars/lxf746/any-auto-register?style=social)
+#### 3. [flipoff](https://github.com/magnum6actual/flipoff) ![Star](https://img.shields.io/github/stars/magnum6actual/flipoff?style=social)
 
-**📝 项目简介**: 一键批量注册多平台账号（Trae、Cursor、ChatGPT等），插件化扩展，自带Web管理界面，支持邮箱、验证码、代理池全自动化。
+<img src="./images/2026/week-14/flipoff/1_screenshot.png" alt="flipoff" width="500"/>
+
+**📝 项目简介**: 无需3500美元硬件，用浏览器把电视秒变复古翻页机场屏，免费开源即开即用。
 
 **✨ 核心特性**:
-- 多平台插件扩展，新平台可热插拔
-- 内置邮箱+验证码+代理池，全流程无人值守
-- FastAPI+React实时日志，并发可控可视
+- 纯前端零依赖，打开index.html即可全屏运行
+- 真实机械翻页动画与声效，高度还原经典机场/车站屏
+- 支持自定义文字、速度、颜色，无需账号订阅
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,000
-- **🔀 Fork数**: 502
-- **👀 Watch数**: 1,000
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, CSS, JavaScript, Dockerfile, Shell
+- **⭐ Star数**: 2,437
+- **🔀 Fork数**: 293
+- **👀 Watch数**: 2,437
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [skills](https://github.com/MiniMax-AI/skills) ![Star](https://img.shields.io/github/stars/MiniMax-AI/skills?style=social)
+#### 4. [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) ![Star](https://img.shields.io/github/stars/elder-plinius/G0DM0D3?style=social)
 
-**📝 项目简介**: MiniMax Skills为AI编程助手提供结构化、可直接落地的开发技能包，覆盖前端、全栈、移动端与Shader场景，显著提升AI生成代码的生产级质量。
+**📝 项目简介**: G0DM0D3 提供去中心化、无审查的 AI 对话接口，让开发者自由调用大模型而无需受平台限制。
 
 **✨ 核心特性**:
-- 即插即用：适配主流AI编程工具
-- 多领域覆盖：前端/全栈/Android/iOS/Shader
-- 持续迭代：社区反馈驱动，格式与API快速演进
+- 完全开源，可自建节点
+- 支持多模型无缝切换
+- 零配置 Docker 一键部署
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,208
-- **🔀 Fork数**: 127
-- **👀 Watch数**: 2,208
-- **📝 语言**: C#
-- **💻 技术栈**: C#, Python, Shell, HTML, JavaScript, PowerShell
+- **⭐ Star数**: 2,034
+- **🔀 Fork数**: 396
+- **👀 Watch数**: 2,034
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, HTML, TeX, CSS, Dockerfile, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) ![Star](https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=social)
+#### 5. [awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai) ![Star](https://img.shields.io/github/stars/alvinunreal/awesome-opensource-ai?style=social)
 
-<img src="./images/2026/week-13/awesome-codex-subagents/1_badge.svg" alt="awesome-codex-subagents" width="500"/>
+<img src="./images/2026/week-14/awesome-opensource-ai/1_badge.svg" alt="awesome-opensource-ai" width="500"/>
 
-**📝 项目简介**: 精选136+个Codex子代理，按10大开发场景分类，开箱即用，极大提升AI编程效率。
+**📝 项目简介**: 精选真正开源的AI模型、框架与工具清单，帮助开发者快速找到可商用、可自托管的AI资源。
 
 **✨ 核心特性**:
-- 覆盖130+专用子代理
-- 10大开发场景一键调用
-- 持续更新社区维护
+- 严格筛选“完全开源”项目，规避伪开源
+- 覆盖大模型、RAG、Agent、MLOps等全栈工具
+- 持续更新，社区驱动，Star近2k
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,105
-- **🔀 Fork数**: 175
-- **👀 Watch数**: 2,105
+- **⭐ Star数**: 1,949
+- **🔀 Fork数**: 150
+- **👀 Watch数**: 1,949
 - **📝 语言**: Unknown
-- **🌐 官网**: [https://github.com/VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
-- **💻 技术栈**: ai-agents, awesome-list, chatgpt, codex, codex-skills, codex-subagents
+- **💻 技术栈**: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [flash-moe](https://github.com/danveloper/flash-moe) ![Star](https://img.shields.io/github/stars/danveloper/flash-moe?style=social)
+#### 6. [Qclaw](https://github.com/qiuzhi2046/Qclaw) ![Star](https://img.shields.io/github/stars/qiuzhi2046/Qclaw?style=social)
 
-<img src="./images/2026/week-13/flash-moe/1_progress.png" alt="flash-moe" width="500"/>
+<img src="./images/2026/week-14/qclaw/1_logo.png" alt="Qclaw" width="500"/>
 
-**📝 项目简介**: 用纯C/Metal在48GB内存MacBook Pro上本地跑通3970亿参数MoE大模型，4.4token/s，零依赖，零成本。
+**📝 项目简介**: Qclaw 把 OpenClaw 的命令行操作封装成图形界面，零门槛一键管理代理节点，新手也能秒上手。
 
 **✨ 核心特性**:
-- 397B参数MoE笔记本可跑
-- 纯C/Metal引擎，无Python框架
-- 48GB内存+SSD流式加载，4.4token/s
+- 无需命令行，全图形化操作
+- 一键导入/切换/测速节点
+- 跨平台 Electron 客户端
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,299
-- **🔀 Fork数**: 119
-- **👀 Watch数**: 1,299
-- **📝 语言**: Objective-C
-- **💻 技术栈**: Objective-C, C, TeX, Python, Metal, Shell
+- **⭐ Star数**: 861
+- **🔀 Fork数**: 99
+- **👀 Watch数**: 861
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Shell, CSS, HTML, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [OpenGauss](https://github.com/math-inc/OpenGauss) ![Star](https://img.shields.io/github/stars/math-inc/OpenGauss?style=social)
+#### 7. [tribev2](https://github.com/facebookresearch/tribev2) ![Star](https://img.shields.io/github/stars/facebookresearch/tribev2?style=social)
 
-**📝 项目简介**: Math.Inc开源的多智能体Lean4工作流编排器，为Gauss提供证明、草拟、自动证明、形式化与自动形式化一站式前端，并自动管理Lean工具链与会话状态。
+<img src="./images/2026/week-14/tribev2/1_colab-badge.svg" alt="tribev2" width="500"/>
+
+**📝 项目简介**: Meta开源的多模态脑响应预测基础模型，用视频-音频-文本同步预测fMRI皮层活动，为计算神经科学提供即用工具。
 
 **✨ 核心特性**:
-- 一站式Lean4证明工作流
-- 多智能体协作前端
-- 自动管理工具链与状态
+- 三模态Transformer统一映射到皮层表面
+- 预训练权重+Jupyter教程一键复现
+- 覆盖视觉、听觉、语言三大脑区响应预测
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,026
-- **🔀 Fork数**: 85
-- **👀 Watch数**: 1,026
+- **⭐ Star数**: 928
+- **🔀 Fork数**: 179
+- **👀 Watch数**: 928
+- **📝 语言**: Jupyter Notebook
+- **💻 技术栈**: Jupyter Notebook, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [wewrite](https://github.com/oaker-io/wewrite) ![Star](https://img.shields.io/github/stars/oaker-io/wewrite?style=social)
+
+**📝 项目简介**: 一句话驱动，自动完成公众号文章从热点抓取、选题、写作、SEO、配图到微信草稿箱的全流程，3分钟产出可发布内容。
+
+**✨ 核心特性**:
+- 全流程自动化，一句指令即可
+- AI痕迹7层清洗+编辑锚点，易个性化
+- 热搜聚合+SEO量化评分，选题更精准
+
+**📊 项目统计**:
+- **⭐ Star数**: 867
+- **🔀 Fork数**: 148
+- **👀 Watch数**: 867
 - **📝 语言**: Python
-- **💻 技术栈**: Python, TeX, BibTeX Style, Shell, PowerShell, CSS
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [dbskill](https://github.com/dontbesilent2025/dbskill) ![Star](https://img.shields.io/github/stars/dontbesilent2025/dbskill?style=social)
+#### 9. [opencli-rs](https://github.com/nashsu/opencli-rs) ![Star](https://img.shields.io/github/stars/nashsu/opencli-rs?style=social)
 
-**📝 项目简介**: 将1.2万条推文提炼成4千+知识原子，打包成Claude Code技能，一键做商业诊断、内容优化与执行力提升。
+**📝 项目简介**: 极速Rust重写的一站式CLI，一条命令抓取55+中外站内容，并联动本地与桌面工具。
 
 **✨ 核心特性**:
-- 推文→原子化知识库，可整用可拆分
-- 内置短视频钩子、奥派聊天室等10+技能
-- Skill联动闭环，诊断-讨论-行动一体化
+- 比TS原版快12倍，内存仅1/10
+- 支持Twitter/X、B站、知乎等55+站点
+- 可遥控Electron应用，集成gh/docker/kubectl
 
 **📊 项目统计**:
-- **⭐ Star数**: 993
-- **🔀 Fork数**: 174
-- **👀 Watch数**: 993
-- **📝 语言**: Unknown
+- **⭐ Star数**: 992
+- **🔀 Fork数**: 73
+- **👀 Watch数**: 992
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, TypeScript, Shell, Makefile, React, Vue
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [taiwan-md](https://github.com/frank890417/taiwan-md) ![Star](https://img.shields.io/github/stars/frank890417/taiwan-md?style=social)
+#### 10. [mcp-brasil](https://github.com/jxnxts/mcp-brasil) ![Star](https://img.shields.io/github/stars/jxnxts/mcp-brasil?style=social)
 
-<img src="./images/2026/week-13/taiwan-md/1_license-cc_by--sa_4.0-lightgrey.svg" alt="taiwan-md" width="500"/>
+<img src="./images/2026/week-14/mcp-brasil/1_license-mit-yellow.svg" alt="mcp-brasil" width="500"/>
 
-**📝 项目简介**: 开源、AI友好的台湾知识库，用结构化数据与精选内容让世界与AI真正认识台湾，超越维基与旅游指南。
-
-**✨ 核心特性**:
-- AI-native结构化知识，方便模型训练与问答
-- 开源协作持续精编，涵盖芯片、文化等深度议题
-- Astro驱动，极速静态生成，多语言易扩展
-
-**📊 项目统计**:
-- **⭐ Star数**: 725
-- **🔀 Fork数**: 81
-- **👀 Watch数**: 725
-- **📝 语言**: Astro
-- **🌐 官网**: [https://taiwan.md](https://taiwan.md)
-- **💻 技术栈**: Astro, TypeScript, Shell, JavaScript, Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) ![Star](https://img.shields.io/github/stars/mattprusak/autoresearch-genealogy?style=social)
-
-**📝 项目简介**: 为AI辅助家谱研究提供结构化提示、Vault模板与归档指南，帮助研究者高效整理9代6系的家族史料。
+**📝 项目简介**: 聚合41个巴西政府开放API的MCP Server，零门槛为AI代理提供经济、立法、选举等官方数据。
 
 **✨ 核心特性**:
-- 基于真实105份家谱成果提炼的通用方法
-- 内置Claude Code工作流，可迁移至任意AI工具
-- 提供可复用的研究模板与自动归档规范
+- 38个API免密钥即插即用
+- 1分钟免费注册即可全覆盖
+- 已预置326工具/80资源/62提示词
 
 **📊 项目统计**:
 - **⭐ Star数**: 880
-- **🔀 Fork数**: 73
+- **🔀 Fork数**: 112
 - **👀 Watch数**: 880
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) ![Star](https://img.shields.io/github/stars/truongduy2611/app-store-preflight-skills?style=social)
-
-**📝 项目简介**: 在提交iOS/macOS应用前，AI自动扫描Xcode工程、源码与配置，提前发现易被App Store拒审的违规点，降低被拒风险。
-
-**✨ 核心特性**:
-- AI驱动预审查，精准匹配Apple拒审模式
-- 一键扫描工程、元数据与配置文件
-- 集成Homebrew，安装即用，CI友好
-
-**📊 项目统计**:
-- **⭐ Star数**: 858
-- **🔀 Fork数**: 46
-- **👀 Watch数**: 858
-- **📝 语言**: Unknown
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Makefile, Shell, Dockerfile, ai-agents, apis-publicas
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -239,20 +247,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Unknown** (4 个项目)
-2. **Python** (3 个项目)
-3. **C#** (1 个项目)
-4. **Objective-C** (1 个项目)
-5. **Astro** (1 个项目)
+1. **Python** (3 个项目)
+2. **TypeScript** (2 个项目)
+3. **Go** (1 个项目)
+4. **JavaScript** (1 个项目)
+5. **Unknown** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agents (1)
-2. awesome-list (1)
-3. chatgpt (1)
-4. codex (1)
-5. codex-skills (1)
-6. codex-subagents (1)
-7. subagents (1)
+1. llm (2)
+2. agents (1)
+3. ai (1)
+4. artificial-intelligence (1)
+5. awesome (1)
+6. awesome-list (1)
+7. generative-ai (1)
+8. machine-learning (1)
 
 
 <!-- TRENDING-END -->
@@ -262,6 +271,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
 | 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
 | 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
 | 03-14 | 2026年第11周 | 10 个 | [查看详情](./archives/2026/week-11/report.md) |
@@ -281,7 +291,6 @@
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
 | 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
-| 11-08 | 2025年第45周 | 10 个 | [查看详情](./archives/2025/week-45/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
