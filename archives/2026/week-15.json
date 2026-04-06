@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第15周",
+    "year": 2026,
+    "week": 15,
+    "week_range": {
+      "start": "2026-04-05",
+      "end": "2026-04-11"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-04-11 23:59:59",
+    "next_update": "2026-04-18"
+  },
+  "repositories": [
+    {
+      "full_name": "ultraworkers/claw-code",
+      "rank": 1,
+      "stars": 171445,
+      "forks": 103926,
+      "overall_score": 100
+    },
+    {
+      "full_name": "Gitlawb/openclaude",
+      "rank": 2,
+      "stars": 16659,
+      "forks": 5844,
+      "overall_score": 95
+    },
+    {
+      "full_name": "sanbuphy/learn-coding-agent",
+      "rank": 3,
+      "stars": 11342,
+      "forks": 19656,
+      "overall_score": 93
+    },
+    {
+      "full_name": "VoltAgent/awesome-design-md",
+      "rank": 4,
+      "stars": 16411,
+      "forks": 2021,
+      "overall_score": 92
+    },
+    {
+      "full_name": "claude-code-best/claude-code",
+      "rank": 5,
+      "stars": 13959,
+      "forks": 14100,
+      "overall_score": 88
+    },
+    {
+      "full_name": "emdash-cms/emdash",
+      "rank": 6,
+      "stars": 7484,
+      "forks": 539,
+      "overall_score": 87
+    },
+    {
+      "full_name": "Kuberwastaken/claurst",
+      "rank": 7,
+      "stars": 8344,
+      "forks": 7578,
+      "overall_score": 86
+    },
+    {
+      "full_name": "ChinaSiro/claude-code-sourcemap",
+      "rank": 8,
+      "stars": 8462,
+      "forks": 14123,
+      "overall_score": 85
+    },
+    {
+      "full_name": "ultraworkers/claw-code-parity",
+      "rank": 9,
+      "stars": 6515,
+      "forks": 5384,
+      "overall_score": 83
+    },
+    {
+      "full_name": "HKUDS/OpenHarness",
+      "rank": 10,
+      "stars": 5406,
+      "forks": 938,
+      "overall_score": 82
+    }
+  ],
+  "generated_at": "2026-04-06T04:53:29.249Z"
+}

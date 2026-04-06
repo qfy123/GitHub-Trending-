@@ -18,228 +18,232 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第14周
+### GitHub趋势排行榜 - 2026年第15周
 
-**📅 统计周期**: 2026-03-29 ~ 2026-04-04  
+**📅 统计周期**: 2026-04-05 ~ 2026-04-11  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 17,153  
-**🔄 更新时间**: 2026-04-04 23:59:59  
+**⭐ 总Star数**: 266,027  
+**🔄 更新时间**: 2026-04-11 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [cli](https://github.com/larksuite/cli) | 飞书开放平台官方CLI，200+命令一键调用IM、文档、表格、日历等11大业务域，人类与AI Agent零配置即可... | 3,675 | 168 | Go | 🆕 |
-| 2 | [OpenSpace](https://github.com/HKUDS/OpenSpace) | 一键让各类AI Agent自我进化：省46% Token、6小时赚1.1万美元，低成本共享经验持续变强。 | 2,530 | 278 | Python | 🆕 |
-| 3 | [flipoff](https://github.com/magnum6actual/flipoff) | 无需3500美元硬件，用浏览器把电视秒变复古翻页机场屏，免费开源即开即用。 | 2,437 | 293 | JavaScript | 🆕 |
-| 4 | [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | G0DM0D3 提供去中心化、无审查的 AI 对话接口，让开发者自由调用大模型而无需受平台限制。 | 2,034 | 396 | TypeScript | 🆕 |
-| 5 | [awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai) | 精选真正开源的AI模型、框架与工具清单，帮助开发者快速找到可商用、可自托管的AI资源。 | 1,949 | 150 | Unknown | 🆕 |
-| 6 | [Qclaw](https://github.com/qiuzhi2046/Qclaw) | Qclaw 把 OpenClaw 的命令行操作封装成图形界面，零门槛一键管理代理节点，新手也能秒上手。 | 861 | 99 | TypeScript | 🆕 |
-| 7 | [tribev2](https://github.com/facebookresearch/tribev2) | Meta开源的多模态脑响应预测基础模型，用视频-音频-文本同步预测fMRI皮层活动，为计算神经科学提供即用工具。 | 928 | 179 | Jupyter Notebook | 🆕 |
-| 8 | [wewrite](https://github.com/oaker-io/wewrite) | 一句话驱动，自动完成公众号文章从热点抓取、选题、写作、SEO、配图到微信草稿箱的全流程，3分钟产出可发布内容。 | 867 | 148 | Python | 🆕 |
-| 9 | [opencli-rs](https://github.com/nashsu/opencli-rs) | 极速Rust重写的一站式CLI，一条命令抓取55+中外站内容，并联动本地与桌面工具。 | 992 | 73 | Rust | 🆕 |
-| 10 | [mcp-brasil](https://github.com/jxnxts/mcp-brasil) | 聚合41个巴西政府开放API的MCP Server，零门槛为AI代理提供经济、立法、选举等官方数据。 | 880 | 112 | Python | 🆕 |
+| 1 | [claw-code](https://github.com/ultraworkers/claw-code) | 史上最快破10万星的Rust极速代码生成与协作引擎，解锁后引爆社区狂欢。 | 171,445 | 103,926 | Rust | 🆕 |
+| 2 | [openclaude](https://github.com/Gitlawb/openclaude) | 一款终端优先的开源编码助手CLI，统一调用200+大模型（OpenAI、Gemini、Ollama等），让开发者用... | 16,659 | 5,844 | TypeScript | 🆕 |
+| 3 | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 公开资料整理的CLI Agent架构学习库，聚焦Claude Code等热门工具，帮助开发者快速掌握Agent设计... | 11,342 | 19,656 | Unknown | 🆕 |
+| 4 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 收录主流网站DESIGN.md的精选仓库，复制一份即可让AI按同款设计系统快速生成UI，大幅提升原型与开发效率。 | 16,411 | 2,021 | HTML | 🆕 |
+| 5 | [claude-code](https://github.com/claude-code-best/claude-code) | Anthropic 官方 Claude Code CLI 的逆向复刻版，完整还原核心功能并修复 TypeScrip... | 13,959 | 14,100 | TypeScript | 🆕 |
+| 6 | [emdash](https://github.com/emdash-cms/emdash) | 基于Astro的全栈TypeScript CMS，继承WordPress的插件与主题生态，但以无服务器、类型安全、... | 7,484 | 539 | TypeScript | 🆕 |
+| 7 | [claurst](https://github.com/Kuberwastaken/claurst) | 把 Claude Code 泄漏的终端 AI 编程助手用 Rust 重写，速度更快、内存更省，可直接在命令行完成代... | 8,344 | 7,578 | Rust | 🆕 |
+| 8 | [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) | 通过npm包附带的source map逆向还原Claude Code 2.1.88完整TypeScript源码，供... | 8,462 | 14,123 | TypeScript | 🆕 |
+| 9 | [claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | 原 claw-code 的 Rust 重写临时仓库，用于迁移期间保持功能一致，2 小时破 5 万星，极速、轻量、跨平台。 | 6,515 | 5,384 | Rust | 🆕 |
+| 10 | [OpenHarness](https://github.com/HKUDS/OpenHarness) | OpenHarness提供轻量级开源智能体基础设施，集成工具调用、技能、记忆与多智能体协同，降低AI智能体开发门槛。 | 5,406 | 938 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [cli](https://github.com/larksuite/cli) ![Star](https://img.shields.io/github/stars/larksuite/cli?style=social)
+#### 1. [claw-code](https://github.com/ultraworkers/claw-code) ![Star](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social)
 
-<img src="./images/2026/week-14/cli/1_license-mit-yellow.svg" alt="cli" width="500"/>
+<img src="./images/2026/week-15/claw-code/1_claw-hero.jpeg" alt="claw-code" width="500"/>
 
-**📝 项目简介**: 飞书开放平台官方CLI，200+命令一键调用IM、文档、表格、日历等11大业务域，人类与AI Agent零配置即可驱动飞书。
-
-**✨ 核心特性**:
-- 19种AI Agent技能开箱即用
-- 单命令覆盖11大核心业务场景
-- 官方维护，星标3.6K持续迭代
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,675
-- **🔀 Fork数**: 168
-- **👀 Watch数**: 3,675
-- **📝 语言**: Go
-- **💻 技术栈**: Go, JavaScript, Python, Shell, Makefile, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [OpenSpace](https://github.com/HKUDS/OpenSpace) ![Star](https://img.shields.io/github/stars/HKUDS/OpenSpace?style=social)
-
-<img src="./images/2026/week-14/openspace/1_agents-claude_code%20%7c%20codex%20%7c%20openclaw%20%7c%20nanobot%20%7c%20...-99c9bf.svg" alt="OpenSpace" width="500"/>
-
-**📝 项目简介**: 一键让各类AI Agent自我进化：省46% Token、6小时赚1.1万美元，低成本共享经验持续变强。
+**📝 项目简介**: 史上最快破10万星的Rust极速代码生成与协作引擎，解锁后引爆社区狂欢。
 
 **✨ 核心特性**:
-- 46% Token节省，成本骤降
-- 自我进化技能，越用越聪明
-- 支持OpenClaw、Claude Code等主流Agent一键升级
+- Rust驱动极致性能
+- 一键生成高质量代码
+- Discord实时协作生态
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,530
-- **🔀 Fork数**: 278
-- **👀 Watch数**: 2,530
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, CSS, Shell, HTML, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [flipoff](https://github.com/magnum6actual/flipoff) ![Star](https://img.shields.io/github/stars/magnum6actual/flipoff?style=social)
-
-<img src="./images/2026/week-14/flipoff/1_screenshot.png" alt="flipoff" width="500"/>
-
-**📝 项目简介**: 无需3500美元硬件，用浏览器把电视秒变复古翻页机场屏，免费开源即开即用。
-
-**✨ 核心特性**:
-- 纯前端零依赖，打开index.html即可全屏运行
-- 真实机械翻页动画与声效，高度还原经典机场/车站屏
-- 支持自定义文字、速度、颜色，无需账号订阅
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,437
-- **🔀 Fork数**: 293
-- **👀 Watch数**: 2,437
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) ![Star](https://img.shields.io/github/stars/elder-plinius/G0DM0D3?style=social)
-
-**📝 项目简介**: G0DM0D3 提供去中心化、无审查的 AI 对话接口，让开发者自由调用大模型而无需受平台限制。
-
-**✨ 核心特性**:
-- 完全开源，可自建节点
-- 支持多模型无缝切换
-- 零配置 Docker 一键部署
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,034
-- **🔀 Fork数**: 396
-- **👀 Watch数**: 2,034
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, HTML, TeX, CSS, Dockerfile, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai) ![Star](https://img.shields.io/github/stars/alvinunreal/awesome-opensource-ai?style=social)
-
-<img src="./images/2026/week-14/awesome-opensource-ai/1_badge.svg" alt="awesome-opensource-ai" width="500"/>
-
-**📝 项目简介**: 精选真正开源的AI模型、框架与工具清单，帮助开发者快速找到可商用、可自托管的AI资源。
-
-**✨ 核心特性**:
-- 严格筛选“完全开源”项目，规避伪开源
-- 覆盖大模型、RAG、Agent、MLOps等全栈工具
-- 持续更新，社区驱动，Star近2k
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,949
-- **🔀 Fork数**: 150
-- **👀 Watch数**: 1,949
-- **📝 语言**: Unknown
-- **💻 技术栈**: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [Qclaw](https://github.com/qiuzhi2046/Qclaw) ![Star](https://img.shields.io/github/stars/qiuzhi2046/Qclaw?style=social)
-
-<img src="./images/2026/week-14/qclaw/1_logo.png" alt="Qclaw" width="500"/>
-
-**📝 项目简介**: Qclaw 把 OpenClaw 的命令行操作封装成图形界面，零门槛一键管理代理节点，新手也能秒上手。
-
-**✨ 核心特性**:
-- 无需命令行，全图形化操作
-- 一键导入/切换/测速节点
-- 跨平台 Electron 客户端
-
-**📊 项目统计**:
-- **⭐ Star数**: 861
-- **🔀 Fork数**: 99
-- **👀 Watch数**: 861
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Shell, CSS, HTML, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [tribev2](https://github.com/facebookresearch/tribev2) ![Star](https://img.shields.io/github/stars/facebookresearch/tribev2?style=social)
-
-<img src="./images/2026/week-14/tribev2/1_colab-badge.svg" alt="tribev2" width="500"/>
-
-**📝 项目简介**: Meta开源的多模态脑响应预测基础模型，用视频-音频-文本同步预测fMRI皮层活动，为计算神经科学提供即用工具。
-
-**✨ 核心特性**:
-- 三模态Transformer统一映射到皮层表面
-- 预训练权重+Jupyter教程一键复现
-- 覆盖视觉、听觉、语言三大脑区响应预测
-
-**📊 项目统计**:
-- **⭐ Star数**: 928
-- **🔀 Fork数**: 179
-- **👀 Watch数**: 928
-- **📝 语言**: Jupyter Notebook
-- **💻 技术栈**: Jupyter Notebook, Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [wewrite](https://github.com/oaker-io/wewrite) ![Star](https://img.shields.io/github/stars/oaker-io/wewrite?style=social)
-
-**📝 项目简介**: 一句话驱动，自动完成公众号文章从热点抓取、选题、写作、SEO、配图到微信草稿箱的全流程，3分钟产出可发布内容。
-
-**✨ 核心特性**:
-- 全流程自动化，一句指令即可
-- AI痕迹7层清洗+编辑锚点，易个性化
-- 热搜聚合+SEO量化评分，选题更精准
-
-**📊 项目统计**:
-- **⭐ Star数**: 867
-- **🔀 Fork数**: 148
-- **👀 Watch数**: 867
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [opencli-rs](https://github.com/nashsu/opencli-rs) ![Star](https://img.shields.io/github/stars/nashsu/opencli-rs?style=social)
-
-**📝 项目简介**: 极速Rust重写的一站式CLI，一条命令抓取55+中外站内容，并联动本地与桌面工具。
-
-**✨ 核心特性**:
-- 比TS原版快12倍，内存仅1/10
-- 支持Twitter/X、B站、知乎等55+站点
-- 可遥控Electron应用，集成gh/docker/kubectl
-
-**📊 项目统计**:
-- **⭐ Star数**: 992
-- **🔀 Fork数**: 73
-- **👀 Watch数**: 992
+- **⭐ Star数**: 171,445
+- **🔀 Fork数**: 103,926
+- **👀 Watch数**: 171,445
 - **📝 语言**: Rust
-- **💻 技术栈**: Rust, TypeScript, Shell, Makefile, React, Vue
+- **💻 技术栈**: Rust, Python, Shell, Dockerfile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [mcp-brasil](https://github.com/jxnxts/mcp-brasil) ![Star](https://img.shields.io/github/stars/jxnxts/mcp-brasil?style=social)
+#### 2. [openclaude](https://github.com/Gitlawb/openclaude) ![Star](https://img.shields.io/github/stars/Gitlawb/openclaude?style=social)
 
-<img src="./images/2026/week-14/mcp-brasil/1_license-mit-yellow.svg" alt="mcp-brasil" width="500"/>
+<img src="./images/2026/week-15/openclaude/1_badge.svg" alt="openclaude" width="500"/>
 
-**📝 项目简介**: 聚合41个巴西政府开放API的MCP Server，零门槛为AI代理提供经济、立法、选举等官方数据。
+**📝 项目简介**: 一款终端优先的开源编码助手CLI，统一调用200+大模型（OpenAI、Gemini、Ollama等），让开发者用同一命令行完成代码生成、调试与对话。
 
 **✨ 核心特性**:
-- 38个API免密钥即插即用
-- 1分钟免费注册即可全覆盖
-- 已预置326工具/80资源/62提示词
+- 一键切换云/本地200+模型
+- 终端内流式交互与MCP工具链
+- 内置/provider配置管理，零门槛调用
 
 **📊 项目统计**:
-- **⭐ Star数**: 880
-- **🔀 Fork数**: 112
-- **👀 Watch数**: 880
+- **⭐ Star数**: 16,659
+- **🔀 Fork数**: 5,844
+- **👀 Watch数**: 16,659
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) ![Star](https://img.shields.io/github/stars/sanbuphy/learn-coding-agent?style=social)
+
+**📝 项目简介**: 公开资料整理的CLI Agent架构学习库，聚焦Claude Code等热门工具，帮助开发者快速掌握Agent设计思路与落地方法。
+
+**✨ 核心特性**:
+- 资料全部来自公开讨论，零门槛学习
+- 聚焦明星项目Claude Code，紧跟前沿
+- 持续更新架构洞察与实战技巧
+
+**📊 项目统计**:
+- **⭐ Star数**: 11,342
+- **🔀 Fork数**: 19,656
+- **👀 Watch数**: 11,342
+- **📝 语言**: Unknown
+- **💻 技术栈**: React, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ![Star](https://img.shields.io/github/stars/VoltAgent/awesome-design-md?style=social)
+
+<img src="./images/2026/week-15/awesome-design-md/1_badge.svg" alt="awesome-design-md" width="500"/>
+
+**📝 项目简介**: 收录主流网站DESIGN.md的精选仓库，复制一份即可让AI按同款设计系统快速生成UI，大幅提升原型与开发效率。
+
+**✨ 核心特性**:
+- 一键复刻大厂设计系统
+- AI友好，直接驱动代码生成
+- 持续收录热门网站最新规范
+
+**📊 项目统计**:
+- **⭐ Star数**: 16,411
+- **🔀 Fork数**: 2,021
+- **👀 Watch数**: 16,411
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, awesome-list, design-md, design-system, design-tokens, figma
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [claude-code](https://github.com/claude-code-best/claude-code) ![Star](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social)
+
+**📝 项目简介**: Anthropic 官方 Claude Code CLI 的逆向复刻版，完整还原核心功能并修复 TypeScript 类型，支持一键安装、企业级监控与调试。
+
+**✨ 核心特性**:
+- 官方 CLI 逆向还原，功能一致
+- TypeScript 类型全修复，工程化可靠
+- bun 一键安装启动，国内网络友好
+
+**📊 项目统计**:
+- **⭐ Star数**: 13,959
+- **🔀 Fork数**: 14,100
+- **👀 Watch数**: 13,959
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://ccb.agent-aura.top/](https://ccb.agent-aura.top/)
+- **💻 技术栈**: TypeScript, Python, JavaScript, Shell, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [emdash](https://github.com/emdash-cms/emdash) ![Star](https://img.shields.io/github/stars/emdash-cms/emdash?style=social)
+
+<img src="./images/2026/week-15/emdash/1_homepage-light-desktop.jpg" alt="emdash" width="500"/>
+
+**📝 项目简介**: 基于Astro的全栈TypeScript CMS，继承WordPress的插件与主题生态，但以无服务器、类型安全、沙箱隔离插件解决传统安全痛点。
+
+**✨ 核心特性**:
+- 插件在Worker沙箱运行，杜绝WordPress级安全漏洞
+- 全栈TypeScript+无服务器架构，开发体验现代化
+- 保留WordPress式主题与钩子系统，零门槛迁移
+
+**📊 项目统计**:
+- **⭐ Star数**: 7,484
+- **🔀 Fork数**: 539
+- **👀 Watch数**: 7,484
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://emdashcms.com](https://emdashcms.com)
+- **💻 技术栈**: TypeScript, Astro, JavaScript, CSS, Shell, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [claurst](https://github.com/Kuberwastaken/claurst) ![Star](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=social)
+
+<img src="./images/2026/week-15/claurst/1_leak-tweet.png" alt="claurst" width="500"/>
+
+**📝 项目简介**: 把 Claude Code 泄漏的终端 AI 编程助手用 Rust 重写，速度更快、内存更省，可直接在命令行完成代码生成与调试。
+
+**✨ 核心特性**:
+- Rust 重写，性能翻倍
+- 终端即开即用，零配置
+- 内置 Claude 泄漏提示词与调试技巧
+
+**📊 项目统计**:
+- **⭐ Star数**: 8,344
+- **🔀 Fork数**: 7,578
+- **👀 Watch数**: 8,344
+- **📝 语言**: Rust
+- **🌐 官网**: [https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
+- **💻 技术栈**: Rust, React, Express, TypeScript, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![Star](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social)
+
+**📝 项目简介**: 通过npm包附带的source map逆向还原Claude Code 2.1.88完整TypeScript源码，供研究者学习其CLI实现思路。
+
+**✨ 核心特性**:
+- 非官方逆向工程，保留4756个文件原貌
+- 基于公开npm包与source map精准还原
+- 社区Fork活跃，已超1.4万次，研究价值高
+
+**📊 项目统计**:
+- **⭐ Star数**: 8,462
+- **🔀 Fork数**: 14,123
+- **👀 Watch数**: 8,462
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://linux.do/u/huo0](https://linux.do/u/huo0)
+- **💻 技术栈**: TypeScript, JavaScript, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [claw-code-parity](https://github.com/ultraworkers/claw-code-parity) ![Star](https://img.shields.io/github/stars/ultraworkers/claw-code-parity?style=social)
+
+<img src="./images/2026/week-15/claw-code-parity/1_tweet-screenshot.png" alt="claw-code-parity" width="500"/>
+
+**📝 项目简介**: 原 claw-code 的 Rust 重写临时仓库，用于迁移期间保持功能一致，2 小时破 5 万星，极速、轻量、跨平台。
+
+**✨ 核心特性**:
+- 2 小时 50k Star 创纪录
+- Rust 重写性能翻倍
+- 零依赖一键运行
+
+**📊 项目统计**:
+- **⭐ Star数**: 6,515
+- **🔀 Fork数**: 5,384
+- **👀 Watch数**: 6,515
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Python, Shell, TypeScript, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [OpenHarness](https://github.com/HKUDS/OpenHarness) ![Star](https://img.shields.io/github/stars/HKUDS/OpenHarness?style=social)
+
+<img src="./images/2026/week-15/openharness/1_logo.png" alt="OpenHarness" width="500"/>
+
+**📝 项目简介**: OpenHarness提供轻量级开源智能体基础设施，集成工具调用、技能、记忆与多智能体协同，降低AI智能体开发门槛。
+
+**✨ 核心特性**:
+- 工具调用与技能即插即用
+- 统一记忆管理
+- 原生多智能体协作
+
+**📊 项目统计**:
+- **⭐ Star数**: 5,406
+- **🔀 Fork数**: 938
+- **👀 Watch数**: 5,406
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Makefile, Shell, Dockerfile, ai-agents, apis-publicas
+- **💻 技术栈**: Python, TypeScript, Shell, React, Node.js, Azure
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -247,21 +251,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **TypeScript** (2 个项目)
-3. **Go** (1 个项目)
-4. **JavaScript** (1 个项目)
-5. **Unknown** (1 个项目)
+1. **TypeScript** (4 个项目)
+2. **Rust** (3 个项目)
+3. **Unknown** (1 个项目)
+4. **HTML** (1 个项目)
+5. **Python** (1 个项目)
 
 **🏷️ 热门话题**:
-1. llm (2)
-2. agents (1)
-3. ai (1)
-4. artificial-intelligence (1)
-5. awesome (1)
-6. awesome-list (1)
-7. generative-ai (1)
-8. machine-learning (1)
+1. awesome-list (1)
+2. design-md (1)
+3. design-system (1)
+4. design-tokens (1)
+5. figma (1)
+6. google-stitch (1)
+7. landing-page (1)
+8. astro (1)
 
 
 <!-- TRENDING-END -->
@@ -271,6 +275,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
 | 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
 | 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
 | 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
@@ -290,7 +295,6 @@
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 | 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
-| 11-15 | 2025年第46周 | 10 个 | [查看详情](./archives/2025/week-46/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
