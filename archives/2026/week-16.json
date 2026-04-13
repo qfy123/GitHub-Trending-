@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第16周",
+    "year": 2026,
+    "week": 16,
+    "week_range": {
+      "start": "2026-04-12",
+      "end": "2026-04-18"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-04-18 23:59:59",
+    "next_update": "2026-04-25"
+  },
+  "repositories": [
+    {
+      "full_name": "farzaa/clicky",
+      "rank": 1,
+      "stars": 3965,
+      "forks": 701,
+      "overall_score": 84
+    },
+    {
+      "full_name": "QLHazyCoder/codex-oauth-automation-extension",
+      "rank": 2,
+      "stars": 1004,
+      "forks": 213,
+      "overall_score": 73
+    },
+    {
+      "full_name": "alchaincyf/hermes-agent-orange-book",
+      "rank": 3,
+      "stars": 2153,
+      "forks": 235,
+      "overall_score": 71
+    },
+    {
+      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+      "rank": 4,
+      "stars": 1684,
+      "forks": 125,
+      "overall_score": 69
+    },
+    {
+      "full_name": "nashsu/llm_wiki",
+      "rank": 5,
+      "stars": 974,
+      "forks": 110,
+      "overall_score": 68
+    },
+    {
+      "full_name": "phuryn/claude-usage",
+      "rank": 6,
+      "stars": 879,
+      "forks": 129,
+      "overall_score": 68
+    },
+    {
+      "full_name": "mattmireles/gemma-tuner-multimodal",
+      "rank": 7,
+      "stars": 1236,
+      "forks": 78,
+      "overall_score": 67
+    },
+    {
+      "full_name": "joeynyc/hermes-hudui",
+      "rank": 8,
+      "stars": 740,
+      "forks": 77,
+      "overall_score": 66
+    },
+    {
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "rank": 9,
+      "stars": 718,
+      "forks": 71,
+      "overall_score": 65
+    },
+    {
+      "full_name": "vyfor/rattles",
+      "rank": 10,
+      "stars": 658,
+      "forks": 13,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-04-13T05:21:31.702Z"
+}

@@ -18,232 +18,235 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第15周
+### GitHub趋势排行榜 - 2026年第16周
 
-**📅 统计周期**: 2026-04-05 ~ 2026-04-11  
+**📅 统计周期**: 2026-04-12 ~ 2026-04-18  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 266,027  
-**🔄 更新时间**: 2026-04-11 23:59:59  
+**⭐ 总Star数**: 14,011  
+**🔄 更新时间**: 2026-04-18 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [claw-code](https://github.com/ultraworkers/claw-code) | 史上最快破10万星的Rust极速代码生成与协作引擎，解锁后引爆社区狂欢。 | 171,445 | 103,926 | Rust | 🆕 |
-| 2 | [openclaude](https://github.com/Gitlawb/openclaude) | 一款终端优先的开源编码助手CLI，统一调用200+大模型（OpenAI、Gemini、Ollama等），让开发者用... | 16,659 | 5,844 | TypeScript | 🆕 |
-| 3 | [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 公开资料整理的CLI Agent架构学习库，聚焦Claude Code等热门工具，帮助开发者快速掌握Agent设计... | 11,342 | 19,656 | Unknown | 🆕 |
-| 4 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 收录主流网站DESIGN.md的精选仓库，复制一份即可让AI按同款设计系统快速生成UI，大幅提升原型与开发效率。 | 16,411 | 2,021 | HTML | 🆕 |
-| 5 | [claude-code](https://github.com/claude-code-best/claude-code) | Anthropic 官方 Claude Code CLI 的逆向复刻版，完整还原核心功能并修复 TypeScrip... | 13,959 | 14,100 | TypeScript | 🆕 |
-| 6 | [emdash](https://github.com/emdash-cms/emdash) | 基于Astro的全栈TypeScript CMS，继承WordPress的插件与主题生态，但以无服务器、类型安全、... | 7,484 | 539 | TypeScript | 🆕 |
-| 7 | [claurst](https://github.com/Kuberwastaken/claurst) | 把 Claude Code 泄漏的终端 AI 编程助手用 Rust 重写，速度更快、内存更省，可直接在命令行完成代... | 8,344 | 7,578 | Rust | 🆕 |
-| 8 | [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) | 通过npm包附带的source map逆向还原Claude Code 2.1.88完整TypeScript源码，供... | 8,462 | 14,123 | TypeScript | 🆕 |
-| 9 | [claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | 原 claw-code 的 Rust 重写临时仓库，用于迁移期间保持功能一致，2 小时破 5 万星，极速、轻量、跨平台。 | 6,515 | 5,384 | Rust | 🆕 |
-| 10 | [OpenHarness](https://github.com/HKUDS/OpenHarness) | OpenHarness提供轻量级开源智能体基础设施，集成工具调用、技能、记忆与多智能体协同，降低AI智能体开发门槛。 | 5,406 | 938 | Python | 🆕 |
+| 1 | [clicky](https://github.com/farzaa/clicky) | 一款AI屏幕伴侣，实时跟随光标，可识屏、语音互动并用光标指示，像真人老师贴身辅导。 | 3,965 | 701 | Swift | 🆕 |
+| 2 | [codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) | 一键批量完成 ChatGPT OAuth 注册/登录的 Chrome 扩展，集成验证码获取与 CPA 回调验证，成... | 1,004 | 213 | JavaScript | 🆕 |
+| 3 | [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | Nous Research开源AI Agent框架Hermes的实战橙皮书，从入门到精通系统讲解，内置可扩展的“缰... | 2,153 | 235 | Unknown | 🆕 |
+| 4 | [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 用自然语言秒级生成出版级SVG/PNG技术架构图，告别手绘，支持8种图类、5套主题，内置AI/Agent领域知识库。 | 1,684 | 125 | Python | 🆕 |
+| 5 | [llm_wiki](https://github.com/nashsu/llm_wiki) | 跨平台桌面应用，自动把本地文档持续整理成可检索、互联的持久化知识库，无需每次重新解析。 | 974 | 110 | TypeScript | 🆕 |
+| 6 | [claude-usage](https://github.com/phuryn/claude-usage) | 本地可视化 Claude Code 的 token 用量、费用与会话历史，支持 API/Pro/Max 三档计划，... | 879 | 129 | Python | 🆕 |
+| 7 | [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) | 在苹果芯片Mac上零门槛微调Gemma多模态模型，支持图像、语音、文本LoRA，云端流式训练不占本地空间。 | 1,236 | 78 | Python | 🆕 |
+| 8 | [hermes-hudui](https://github.com/joeynyc/hermes-hudui) | 为拥有持久记忆的AI代理Hermes打造的浏览器端意识监控面板，一键克隆即可实时洞察Agent思维与记忆状态。 | 740 | 77 | Python | 🆕 |
+| 9 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 基于Shell的Claude+Obsidian知识伴侣，自动构建持续增长的Wiki库，零手动整理即可复利式积累知识。 | 718 | 71 | Shell | 🆕 |
+| 10 | [rattles](https://github.com/vyfor/rattles) | 零依赖、极简终端转圈动画库，编译期自定义，直接嵌入渲染循环，无需运行时或生命周期管理。 | 658 | 13 | Rust | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [claw-code](https://github.com/ultraworkers/claw-code) ![Star](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social)
+#### 1. [clicky](https://github.com/farzaa/clicky) ![Star](https://img.shields.io/github/stars/farzaa/clicky?style=social)
 
-<img src="./images/2026/week-15/claw-code/1_claw-hero.jpeg" alt="claw-code" width="500"/>
+<img src="./images/2026/week-16/clicky/1_clicky-demo.gif" alt="clicky" width="500"/>
 
-**📝 项目简介**: 史上最快破10万星的Rust极速代码生成与协作引擎，解锁后引爆社区狂欢。
+**📝 项目简介**: 一款AI屏幕伴侣，实时跟随光标，可识屏、语音互动并用光标指示，像真人老师贴身辅导。
 
 **✨ 核心特性**:
-- Rust驱动极致性能
-- 一键生成高质量代码
-- Discord实时协作生态
+- 光标级实时互动教学
+- 支持屏幕视觉识别与语音对话
+- 开源可二次开发
 
 **📊 项目统计**:
-- **⭐ Star数**: 171,445
-- **🔀 Fork数**: 103,926
-- **👀 Watch数**: 171,445
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Python, Shell, Dockerfile
+- **⭐ Star数**: 3,965
+- **🔀 Fork数**: 701
+- **👀 Watch数**: 3,965
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Shell, TypeScript, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [openclaude](https://github.com/Gitlawb/openclaude) ![Star](https://img.shields.io/github/stars/Gitlawb/openclaude?style=social)
+#### 2. [codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) ![Star](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=social)
 
-<img src="./images/2026/week-15/openclaude/1_badge.svg" alt="openclaude" width="500"/>
+<img src="./images/2026/week-16/codex-oauth-automation-extension/1_五轮自动.png" alt="codex-oauth-automation-extension" width="500"/>
 
-**📝 项目简介**: 一款终端优先的开源编码助手CLI，统一调用200+大模型（OpenAI、Gemini、Ollama等），让开发者用同一命令行完成代码生成、调试与对话。
+**📝 项目简介**: 一键批量完成 ChatGPT OAuth 注册/登录的 Chrome 扩展，集成验证码获取与 CPA 回调验证，成功率实测 90%+。
 
 **✨ 核心特性**:
-- 一键切换云/本地200+模型
-- 终端内流式交互与MCP工具链
-- 内置/provider配置管理，零门槛调用
+- 侧边栏可视化操作，支持单步/整套流程
+- DuckDuckGo/QQ/163/Hotmail 等多通道验证码自动获取
+- 断点续跑与配置保存，夜间挂机零人工
 
 **📊 项目统计**:
-- **⭐ Star数**: 16,659
-- **🔀 Fork数**: 5,844
-- **👀 Watch数**: 16,659
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Python, Shell
+- **⭐ Star数**: 1,004
+- **🔀 Fork数**: 213
+- **👀 Watch数**: 1,004
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://linux.do/t/topic/1928372](https://linux.do/t/topic/1928372)
+- **💻 技术栈**: JavaScript, CSS, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) ![Star](https://img.shields.io/github/stars/sanbuphy/learn-coding-agent?style=social)
+#### 3. [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) ![Star](https://img.shields.io/github/stars/alchaincyf/hermes-agent-orange-book?style=social)
 
-**📝 项目简介**: 公开资料整理的CLI Agent架构学习库，聚焦Claude Code等热门工具，帮助开发者快速掌握Agent设计思路与落地方法。
+**📝 项目简介**: Nous Research开源AI Agent框架Hermes的实战橙皮书，从入门到精通系统讲解，内置可扩展的“缰绳”机制，帮助开发者快速构建可控智能体。
 
 **✨ 核心特性**:
-- 资料全部来自公开讨论，零门槛学习
-- 聚焦明星项目Claude Code，紧跟前沿
-- 持续更新架构洞察与实战技巧
+- 官方权威指南，体系完整
+- 自带可成长缰绳机制，安全可控
+- 中英双语PDF，开源免费
 
 **📊 项目统计**:
-- **⭐ Star数**: 11,342
-- **🔀 Fork数**: 19,656
-- **👀 Watch数**: 11,342
+- **⭐ Star数**: 2,153
+- **🔀 Fork数**: 235
+- **👀 Watch数**: 2,153
 - **📝 语言**: Unknown
-- **💻 技术栈**: React, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ![Star](https://img.shields.io/github/stars/VoltAgent/awesome-design-md?style=social)
+#### 4. [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ![Star](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=social)
 
-<img src="./images/2026/week-15/awesome-design-md/1_badge.svg" alt="awesome-design-md" width="500"/>
+<img src="./images/2026/week-16/fireworks-tech-graph/1_license-mit-yellow.svg" alt="fireworks-tech-graph" width="500"/>
 
-**📝 项目简介**: 收录主流网站DESIGN.md的精选仓库，复制一份即可让AI按同款设计系统快速生成UI，大幅提升原型与开发效率。
-
-**✨ 核心特性**:
-- 一键复刻大厂设计系统
-- AI友好，直接驱动代码生成
-- 持续收录热门网站最新规范
-
-**📊 项目统计**:
-- **⭐ Star数**: 16,411
-- **🔀 Fork数**: 2,021
-- **👀 Watch数**: 16,411
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML, awesome-list, design-md, design-system, design-tokens, figma
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [claude-code](https://github.com/claude-code-best/claude-code) ![Star](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social)
-
-**📝 项目简介**: Anthropic 官方 Claude Code CLI 的逆向复刻版，完整还原核心功能并修复 TypeScript 类型，支持一键安装、企业级监控与调试。
+**📝 项目简介**: 用自然语言秒级生成出版级SVG/PNG技术架构图，告别手绘，支持8种图类、5套主题，内置AI/Agent领域知识库。
 
 **✨ 核心特性**:
-- 官方 CLI 逆向还原，功能一致
-- TypeScript 类型全修复，工程化可靠
-- bun 一键安装启动，国内网络友好
+- 自然语言一键出图
+- AI/Agent专属图库与样式
+- SVG+PNG高分辨率双输出
 
 **📊 项目统计**:
-- **⭐ Star数**: 13,959
-- **🔀 Fork数**: 14,100
-- **👀 Watch数**: 13,959
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://ccb.agent-aura.top/](https://ccb.agent-aura.top/)
-- **💻 技术栈**: TypeScript, Python, JavaScript, Shell, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [emdash](https://github.com/emdash-cms/emdash) ![Star](https://img.shields.io/github/stars/emdash-cms/emdash?style=social)
-
-<img src="./images/2026/week-15/emdash/1_homepage-light-desktop.jpg" alt="emdash" width="500"/>
-
-**📝 项目简介**: 基于Astro的全栈TypeScript CMS，继承WordPress的插件与主题生态，但以无服务器、类型安全、沙箱隔离插件解决传统安全痛点。
-
-**✨ 核心特性**:
-- 插件在Worker沙箱运行，杜绝WordPress级安全漏洞
-- 全栈TypeScript+无服务器架构，开发体验现代化
-- 保留WordPress式主题与钩子系统，零门槛迁移
-
-**📊 项目统计**:
-- **⭐ Star数**: 7,484
-- **🔀 Fork数**: 539
-- **👀 Watch数**: 7,484
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://emdashcms.com](https://emdashcms.com)
-- **💻 技术栈**: TypeScript, Astro, JavaScript, CSS, Shell, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [claurst](https://github.com/Kuberwastaken/claurst) ![Star](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=social)
-
-<img src="./images/2026/week-15/claurst/1_leak-tweet.png" alt="claurst" width="500"/>
-
-**📝 项目简介**: 把 Claude Code 泄漏的终端 AI 编程助手用 Rust 重写，速度更快、内存更省，可直接在命令行完成代码生成与调试。
-
-**✨ 核心特性**:
-- Rust 重写，性能翻倍
-- 终端即开即用，零配置
-- 内置 Claude 泄漏提示词与调试技巧
-
-**📊 项目统计**:
-- **⭐ Star数**: 8,344
-- **🔀 Fork数**: 7,578
-- **👀 Watch数**: 8,344
-- **📝 语言**: Rust
-- **🌐 官网**: [https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
-- **💻 技术栈**: Rust, React, Express, TypeScript, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![Star](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social)
-
-**📝 项目简介**: 通过npm包附带的source map逆向还原Claude Code 2.1.88完整TypeScript源码，供研究者学习其CLI实现思路。
-
-**✨ 核心特性**:
-- 非官方逆向工程，保留4756个文件原貌
-- 基于公开npm包与source map精准还原
-- 社区Fork活跃，已超1.4万次，研究价值高
-
-**📊 项目统计**:
-- **⭐ Star数**: 8,462
-- **🔀 Fork数**: 14,123
-- **👀 Watch数**: 8,462
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://linux.do/u/huo0](https://linux.do/u/huo0)
-- **💻 技术栈**: TypeScript, JavaScript, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [claw-code-parity](https://github.com/ultraworkers/claw-code-parity) ![Star](https://img.shields.io/github/stars/ultraworkers/claw-code-parity?style=social)
-
-<img src="./images/2026/week-15/claw-code-parity/1_tweet-screenshot.png" alt="claw-code-parity" width="500"/>
-
-**📝 项目简介**: 原 claw-code 的 Rust 重写临时仓库，用于迁移期间保持功能一致，2 小时破 5 万星，极速、轻量、跨平台。
-
-**✨ 核心特性**:
-- 2 小时 50k Star 创纪录
-- Rust 重写性能翻倍
-- 零依赖一键运行
-
-**📊 项目统计**:
-- **⭐ Star数**: 6,515
-- **🔀 Fork数**: 5,384
-- **👀 Watch数**: 6,515
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Python, Shell, TypeScript, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [OpenHarness](https://github.com/HKUDS/OpenHarness) ![Star](https://img.shields.io/github/stars/HKUDS/OpenHarness?style=social)
-
-<img src="./images/2026/week-15/openharness/1_logo.png" alt="OpenHarness" width="500"/>
-
-**📝 项目简介**: OpenHarness提供轻量级开源智能体基础设施，集成工具调用、技能、记忆与多智能体协同，降低AI智能体开发门槛。
-
-**✨ 核心特性**:
-- 工具调用与技能即插即用
-- 统一记忆管理
-- 原生多智能体协作
-
-**📊 项目统计**:
-- **⭐ Star数**: 5,406
-- **🔀 Fork数**: 938
-- **👀 Watch数**: 5,406
+- **⭐ Star数**: 1,684
+- **🔀 Fork数**: 125
+- **👀 Watch数**: 1,684
 - **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, Shell, React, Node.js, Azure
+- **💻 技术栈**: Python, Shell, Docker, Kubernetes, Redis, MongoDB
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [llm_wiki](https://github.com/nashsu/llm_wiki) ![Star](https://img.shields.io/github/stars/nashsu/llm_wiki?style=social)
+
+<img src="./images/2026/week-16/llm_wiki/1_logo.jpg" alt="llm_wiki" width="500"/>
+
+**📝 项目简介**: 跨平台桌面应用，自动把本地文档持续整理成可检索、互联的持久化知识库，无需每次重新解析。
+
+**✨ 核心特性**:
+- 增量式构建个人Wiki，避免重复RAG
+- 自动提取主题、链接与目录，保持更新
+- 支持多格式文档，离线运行，数据本地存储
+
+**📊 项目统计**:
+- **⭐ Star数**: 974
+- **🔀 Fork数**: 110
+- **👀 Watch数**: 974
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Rust, HTML, CSS, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [claude-usage](https://github.com/phuryn/claude-usage) ![Star](https://img.shields.io/github/stars/phuryn/claude-usage?style=social)
+
+<img src="./images/2026/week-16/claude-usage/1_license-mit-yellow.svg" alt="claude-usage" width="500"/>
+
+**📝 项目简介**: 本地可视化 Claude Code 的 token 用量、费用与会话历史，支持 API/Pro/Max 三档计划，让成本一目了然。
+
+**✨ 核心特性**:
+- 零配置读取本地日志，无需上传数据
+- 实时图表+进度条，Pro/Max 用户可直观剩余额度
+- 自动估算费用，按模型/项目/会话多维度汇总
+
+**📊 项目统计**:
+- **⭐ Star数**: 879
+- **🔀 Fork数**: 129
+- **👀 Watch数**: 879
+- **📝 语言**: Python
+- **🌐 官网**: [https://www.productcompass.pm/](https://www.productcompass.pm/)
+- **💻 技术栈**: Python, claude-code
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ![Star](https://img.shields.io/github/stars/mattmireles/gemma-tuner-multimodal?style=social)
+
+<img src="./images/2026/week-16/gemma-tuner-multimodal/1_wizard-cli.png" alt="gemma-tuner-multimodal" width="500"/>
+
+**📝 项目简介**: 在苹果芯片Mac上零门槛微调Gemma多模态模型，支持图像、语音、文本LoRA，云端流式训练不占本地空间。
+
+**✨ 核心特性**:
+- Apple Silicon原生MPS加速，无需CUDA
+- 云端流式读取GCS/BigQuery，TB级数据即时训
+- 一键LoRA微调图文、语音、纯文本任务
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,236
+- **🔀 Fork数**: 78
+- **👀 Watch数**: 1,236
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript, HTML, Shell, React, Flask
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [hermes-hudui](https://github.com/joeynyc/hermes-hudui) ![Star](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=social)
+
+<img src="./images/2026/week-16/hermes-hudui/1_dashboard-costs.png" alt="hermes-hudui" width="500"/>
+
+**📝 项目简介**: 为拥有持久记忆的AI代理Hermes打造的浏览器端意识监控面板，一键克隆即可实时洞察Agent思维与记忆状态。
+
+**✨ 核心特性**:
+- 浏览器可视化Hermes意识流
+- 零配置读取本地~/.hermes数据
+- 一键脚本安装，秒级启动
+
+**📊 项目统计**:
+- **⭐ Star数**: 740
+- **🔀 Fork数**: 77
+- **👀 Watch数**: 740
+- **📝 语言**: Python
+- **💻 技术栈**: Python, TypeScript, CSS, Shell, HTML, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) ![Star](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=social)
+
+<img src="./images/2026/week-16/claude-obsidian/1_license-mit-blue.svg" alt="claude-obsidian" width="500"/>
+
+**📝 项目简介**: 基于Shell的Claude+Obsidian知识伴侣，自动构建持续增长的Wiki库，零手动整理即可复利式积累知识。
+
+**✨ 核心特性**:
+- 10项内置技能，自动归档与关联
+- 多Agent协同，问答即时调用全库
+- 每份新资料即时融入，知识像利息复利
+
+**📊 项目统计**:
+- **⭐ Star数**: 718
+- **🔀 Fork数**: 71
+- **👀 Watch数**: 718
+- **📝 语言**: Shell
+- **🌐 官网**: [https://agricidaniel.com/blog/claude-obsidian-ai-second-brain](https://agricidaniel.com/blog/claude-obsidian-ai-second-brain)
+- **💻 技术栈**: Shell, ai, claude-code, claude-code-skill, knowledge-management, obsidian
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [rattles](https://github.com/vyfor/rattles) ![Star](https://img.shields.io/github/stars/vyfor/rattles?style=social)
+
+<img src="./images/2026/week-16/rattles/1_demo.gif" alt="rattles" width="500"/>
+
+**📝 项目简介**: 零依赖、极简终端转圈动画库，编译期自定义，直接嵌入渲染循环，无需运行时或生命周期管理。
+
+**✨ 核心特性**:
+- 零依赖、no-std
+- 编译期自定义转圈样式
+- 无需运行时/actor，随取随用
+
+**📊 项目统计**:
+- **⭐ Star数**: 658
+- **🔀 Fork数**: 13
+- **👀 Watch数**: 658
+- **📝 语言**: Rust
+- **🌐 官网**: [https://docs.rs/rattles](https://docs.rs/rattles)
+- **💻 技术栈**: Rust, animation, cli, no-std, ratatui, rattles
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -251,21 +254,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (4 个项目)
-2. **Rust** (3 个项目)
-3. **Unknown** (1 个项目)
-4. **HTML** (1 个项目)
-5. **Python** (1 个项目)
+1. **Python** (4 个项目)
+2. **Swift** (1 个项目)
+3. **JavaScript** (1 个项目)
+4. **Unknown** (1 个项目)
+5. **TypeScript** (1 个项目)
 
 **🏷️ 热门话题**:
-1. awesome-list (1)
-2. design-md (1)
-3. design-system (1)
-4. design-tokens (1)
-5. figma (1)
-6. google-stitch (1)
-7. landing-page (1)
-8. astro (1)
+1. claude-code (2)
+2. ai (1)
+3. claude-code-skill (1)
+4. knowledge-management (1)
+5. obsidian (1)
+6. open-source (1)
+7. second-brain (1)
+8. animation (1)
 
 
 <!-- TRENDING-END -->
@@ -275,6 +278,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 04-18 | 2026年第16周 | 10 个 | [查看详情](./archives/2026/week-16/report.md) |
 | 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
 | 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
 | 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
@@ -294,7 +298,6 @@
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 | 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
-| 11-22 | 2025年第47周 | 10 个 | [查看详情](./archives/2025/week-47/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
