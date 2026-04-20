@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第17周",
+    "year": 2026,
+    "week": 17,
+    "week_range": {
+      "start": "2026-04-19",
+      "end": "2026-04-25"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-04-25 23:59:59",
+    "next_update": "2026-05-02"
+  },
+  "repositories": [
+    {
+      "full_name": "browser-use/browser-harness",
+      "rank": 1,
+      "stars": 2552,
+      "forks": 204,
+      "overall_score": 77
+    },
+    {
+      "full_name": "Robbyant/lingbot-map",
+      "rank": 2,
+      "stars": 2716,
+      "forks": 211,
+      "overall_score": 75
+    },
+    {
+      "full_name": "kyegomez/OpenMythos",
+      "rank": 3,
+      "stars": 1865,
+      "forks": 342,
+      "overall_score": 73
+    },
+    {
+      "full_name": "Nightmare-Eclipse/RedSun",
+      "rank": 4,
+      "stars": 1582,
+      "forks": 345,
+      "overall_score": 72
+    },
+    {
+      "full_name": "vercel-labs/wterm",
+      "rank": 5,
+      "stars": 2120,
+      "forks": 80,
+      "overall_score": 70
+    },
+    {
+      "full_name": "lewislulu/html-ppt-skill",
+      "rank": 6,
+      "stars": 1497,
+      "forks": 168,
+      "overall_score": 69
+    },
+    {
+      "full_name": "Manavarya09/design-extract",
+      "rank": 7,
+      "stars": 1096,
+      "forks": 86,
+      "overall_score": 68
+    },
+    {
+      "full_name": "WeaveMindAI/weft",
+      "rank": 8,
+      "stars": 888,
+      "forks": 116,
+      "overall_score": 68
+    },
+    {
+      "full_name": "wbh604/UZI-Skill",
+      "rank": 9,
+      "stars": 849,
+      "forks": 147,
+      "overall_score": 68
+    },
+    {
+      "full_name": "BuilderPulse/BuilderPulse",
+      "rank": 10,
+      "stars": 979,
+      "forks": 71,
+      "overall_score": 66
+    }
+  ],
+  "generated_at": "2026-04-20T05:24:03.778Z"
+}

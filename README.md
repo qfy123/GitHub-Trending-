@@ -18,235 +18,227 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第16周
+### GitHub趋势排行榜 - 2026年第17周
 
-**📅 统计周期**: 2026-04-12 ~ 2026-04-18  
+**📅 统计周期**: 2026-04-19 ~ 2026-04-25  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 14,011  
-**🔄 更新时间**: 2026-04-18 23:59:59  
+**⭐ 总Star数**: 16,144  
+**🔄 更新时间**: 2026-04-25 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [clicky](https://github.com/farzaa/clicky) | 一款AI屏幕伴侣，实时跟随光标，可识屏、语音互动并用光标指示，像真人老师贴身辅导。 | 3,965 | 701 | Swift | 🆕 |
-| 2 | [codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) | 一键批量完成 ChatGPT OAuth 注册/登录的 Chrome 扩展，集成验证码获取与 CPA 回调验证，成... | 1,004 | 213 | JavaScript | 🆕 |
-| 3 | [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | Nous Research开源AI Agent框架Hermes的实战橙皮书，从入门到精通系统讲解，内置可扩展的“缰... | 2,153 | 235 | Unknown | 🆕 |
-| 4 | [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 用自然语言秒级生成出版级SVG/PNG技术架构图，告别手绘，支持8种图类、5套主题，内置AI/Agent领域知识库。 | 1,684 | 125 | Python | 🆕 |
-| 5 | [llm_wiki](https://github.com/nashsu/llm_wiki) | 跨平台桌面应用，自动把本地文档持续整理成可检索、互联的持久化知识库，无需每次重新解析。 | 974 | 110 | TypeScript | 🆕 |
-| 6 | [claude-usage](https://github.com/phuryn/claude-usage) | 本地可视化 Claude Code 的 token 用量、费用与会话历史，支持 API/Pro/Max 三档计划，... | 879 | 129 | Python | 🆕 |
-| 7 | [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) | 在苹果芯片Mac上零门槛微调Gemma多模态模型，支持图像、语音、文本LoRA，云端流式训练不占本地空间。 | 1,236 | 78 | Python | 🆕 |
-| 8 | [hermes-hudui](https://github.com/joeynyc/hermes-hudui) | 为拥有持久记忆的AI代理Hermes打造的浏览器端意识监控面板，一键克隆即可实时洞察Agent思维与记忆状态。 | 740 | 77 | Python | 🆕 |
-| 9 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 基于Shell的Claude+Obsidian知识伴侣，自动构建持续增长的Wiki库，零手动整理即可复利式积累知识。 | 718 | 71 | Shell | 🆕 |
-| 10 | [rattles](https://github.com/vyfor/rattles) | 零依赖、极简终端转圈动画库，编译期自定义，直接嵌入渲染循环，无需运行时或生命周期管理。 | 658 | 13 | Rust | 🆕 |
+| 1 | [browser-harness](https://github.com/browser-use/browser-harness) | 基于CDP的极简自愈浏览器框架，让LLM在运行中动态补全缺失代码，零依赖完成任意网页任务。 | 2,552 | 204 | Python | 🆕 |
+| 2 | [lingbot-map](https://github.com/Robbyant/lingbot-map) | LingBot-Map用几何上下文Transformer把实时视频流直接变成可扩展的3D场景，无需逐帧优化，重建又... | 2,716 | 211 | Python | 🆕 |
+| 3 | [OpenMythos](https://github.com/kyegomez/OpenMythos) | 一个使用Python开发的开源项目：A theoretical reconstruction of the Cla... | 1,865 | 342 | Python | 🆕 |
+| 4 | [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 一个使用C++开发的开源项目：The Red Sun vulnerability repository，已获得1,... | 1,582 | 345 | C++ | 🆕 |
+| 5 | [wterm](https://github.com/vercel-labs/wterm) | 一个使用TypeScript开发的开源项目：A terminal emulator for the web，已获得... | 2,120 | 80 | TypeScript | 🆕 |
+| 6 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 零依赖、一键生成专业级HTML演示文稿，内置36主题、31版式、47动效与演讲者模式，无需构建即可部署。 | 1,497 | 168 | HTML | 🆕 |
+| 7 | [design-extract](https://github.com/Manavarya09/design-extract) | 一条命令即可抓取任意网站的完整设计系统，自动生成设计令牌、多平台代码、无障碍修复方案并支持主流AI编辑器。 | 1,096 | 86 | JavaScript | 🆕 |
+| 8 | [weft](https://github.com/WeaveMindAI/weft) | 一个使用Rust开发的开源项目：A programming language for AI systems，已获得... | 888 | 116 | Rust | 🆕 |
+| 9 | [UZI-Skill](https://github.com/wbh604/UZI-Skill) | 聚合51位顶级游资策略，180条量化规则+22维数据，一键生成A/H/美股个股深度诊断报告，让散户也能用机构视角选股。 | 849 | 147 | Python | 🆕 |
+| 10 | [BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | 每日为独立开发者推送1个AI筛选的高潜力创业点子，附紧迫理由与300+公开信号来源，降低选题试错成本。 | 979 | 71 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [clicky](https://github.com/farzaa/clicky) ![Star](https://img.shields.io/github/stars/farzaa/clicky?style=social)
+#### 1. [browser-harness](https://github.com/browser-use/browser-harness) ![Star](https://img.shields.io/github/stars/browser-use/browser-harness?style=social)
 
-<img src="./images/2026/week-16/clicky/1_clicky-demo.gif" alt="clicky" width="500"/>
+<img src="./images/2026/week-17/browser-harness/1_ajsdlasnnalsgasld.png" alt="browser-harness" width="500"/>
 
-**📝 项目简介**: 一款AI屏幕伴侣，实时跟随光标，可识屏、语音互动并用光标指示，像真人老师贴身辅导。
-
-**✨ 核心特性**:
-- 光标级实时互动教学
-- 支持屏幕视觉识别与语音对话
-- 开源可二次开发
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,965
-- **🔀 Fork数**: 701
-- **👀 Watch数**: 3,965
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Shell, TypeScript, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) ![Star](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=social)
-
-<img src="./images/2026/week-16/codex-oauth-automation-extension/1_五轮自动.png" alt="codex-oauth-automation-extension" width="500"/>
-
-**📝 项目简介**: 一键批量完成 ChatGPT OAuth 注册/登录的 Chrome 扩展，集成验证码获取与 CPA 回调验证，成功率实测 90%+。
+**📝 项目简介**: 基于CDP的极简自愈浏览器框架，让LLM在运行中动态补全缺失代码，零依赖完成任意网页任务。
 
 **✨ 核心特性**:
-- 侧边栏可视化操作，支持单步/整套流程
-- DuckDuckGo/QQ/163/Hotmail 等多通道验证码自动获取
-- 断点续跑与配置保存，夜间挂机零人工
+- 运行中自愈补代码，无需预设脚本
+- 直连Chrome WebSocket，无中间层
+- 无框架、无配方，LLM自由操作
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,004
-- **🔀 Fork数**: 213
-- **👀 Watch数**: 1,004
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://linux.do/t/topic/1928372](https://linux.do/t/topic/1928372)
-- **💻 技术栈**: JavaScript, CSS, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) ![Star](https://img.shields.io/github/stars/alchaincyf/hermes-agent-orange-book?style=social)
-
-**📝 项目简介**: Nous Research开源AI Agent框架Hermes的实战橙皮书，从入门到精通系统讲解，内置可扩展的“缰绳”机制，帮助开发者快速构建可控智能体。
-
-**✨ 核心特性**:
-- 官方权威指南，体系完整
-- 自带可成长缰绳机制，安全可控
-- 中英双语PDF，开源免费
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,153
-- **🔀 Fork数**: 235
-- **👀 Watch数**: 2,153
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ![Star](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=social)
-
-<img src="./images/2026/week-16/fireworks-tech-graph/1_license-mit-yellow.svg" alt="fireworks-tech-graph" width="500"/>
-
-**📝 项目简介**: 用自然语言秒级生成出版级SVG/PNG技术架构图，告别手绘，支持8种图类、5套主题，内置AI/Agent领域知识库。
-
-**✨ 核心特性**:
-- 自然语言一键出图
-- AI/Agent专属图库与样式
-- SVG+PNG高分辨率双输出
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,684
-- **🔀 Fork数**: 125
-- **👀 Watch数**: 1,684
+- **⭐ Star数**: 2,552
+- **🔀 Fork数**: 204
+- **👀 Watch数**: 2,552
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, Docker, Kubernetes, Redis, MongoDB
+- **🌐 官网**: [https://cloud.browser-use.com](https://cloud.browser-use.com)
+- **💻 技术栈**: Python, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [llm_wiki](https://github.com/nashsu/llm_wiki) ![Star](https://img.shields.io/github/stars/nashsu/llm_wiki?style=social)
+#### 2. [lingbot-map](https://github.com/Robbyant/lingbot-map) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-map?style=social)
 
-<img src="./images/2026/week-16/llm_wiki/1_logo.jpg" alt="llm_wiki" width="500"/>
+<img src="./images/2026/week-17/lingbot-map/1_teaser.png" alt="lingbot-map" width="500"/>
 
-**📝 项目简介**: 跨平台桌面应用，自动把本地文档持续整理成可检索、互联的持久化知识库，无需每次重新解析。
+**📝 项目简介**: LingBot-Map用几何上下文Transformer把实时视频流直接变成可扩展的3D场景，无需逐帧优化，重建又快又稳。
 
 **✨ 核心特性**:
-- 增量式构建个人Wiki，避免重复RAG
-- 自动提取主题、链接与目录，保持更新
-- 支持多格式文档，离线运行，数据本地存储
+- 前馈式基础模型，毫秒级推理
+- 统一几何上下文Transformer，精度高
+- 支持流式输入，边采边重建
 
 **📊 项目统计**:
-- **⭐ Star数**: 974
-- **🔀 Fork数**: 110
-- **👀 Watch数**: 974
+- **⭐ Star数**: 2,716
+- **🔀 Fork数**: 211
+- **👀 Watch数**: 2,716
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [OpenMythos](https://github.com/kyegomez/OpenMythos) ![Star](https://img.shields.io/github/stars/kyegomez/OpenMythos?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.，已获得1,865个star。
+
+**✨ 核心特性**:
+- 1,865 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,865
+- **🔀 Fork数**: 342
+- **👀 Watch数**: 1,865
+- **📝 语言**: Python
+- **🌐 官网**: [https://discord.gg/EamjgSaEQf](https://discord.gg/EamjgSaEQf)
+- **💻 技术栈**: Python, ai, anthropic, attention, claude, claude-ai
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [RedSun](https://github.com/Nightmare-Eclipse/RedSun) ![Star](https://img.shields.io/github/stars/Nightmare-Eclipse/RedSun?style=social)
+
+<img src="./images/2026/week-17/redsun/1_redsun.jpg" alt="RedSun" width="500"/>
+
+**📝 项目简介**: 一个使用C++开发的开源项目：The Red Sun vulnerability repository，已获得1,582个star。
+
+**✨ 核心特性**:
+- 1,582 stars
+- C++
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,582
+- **🔀 Fork数**: 345
+- **👀 Watch数**: 1,582
+- **📝 语言**: C++
+- **💻 技术栈**: C++
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [wterm](https://github.com/vercel-labs/wterm) ![Star](https://img.shields.io/github/stars/vercel-labs/wterm?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：A terminal emulator for the web，已获得2,120个star。
+
+**✨ 核心特性**:
+- 2,120 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,120
+- **🔀 Fork数**: 80
+- **👀 Watch数**: 2,120
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Rust, HTML, CSS, React
+- **🌐 官网**: [https://wterm.dev](https://wterm.dev)
+- **💻 技术栈**: TypeScript, Zig, MDX, CSS, HTML, JavaScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [claude-usage](https://github.com/phuryn/claude-usage) ![Star](https://img.shields.io/github/stars/phuryn/claude-usage?style=social)
+#### 6. [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ![Star](https://img.shields.io/github/stars/lewislulu/html-ppt-skill?style=social)
 
-<img src="./images/2026/week-16/claude-usage/1_license-mit-yellow.svg" alt="claude-usage" width="500"/>
+<img src="./images/2026/week-17/html-ppt-skill/1_hero.gif" alt="html-ppt-skill" width="500"/>
 
-**📝 项目简介**: 本地可视化 Claude Code 的 token 用量、费用与会话历史，支持 API/Pro/Max 三档计划，让成本一目了然。
+**📝 项目简介**: 零依赖、一键生成专业级HTML演示文稿，内置36主题、31版式、47动效与演讲者模式，无需构建即可部署。
 
 **✨ 核心特性**:
-- 零配置读取本地日志，无需上传数据
-- 实时图表+进度条，Pro/Max 用户可直观剩余额度
-- 自动估算费用，按模型/项目/会话多维度汇总
+- 36套主题+15套整站模板开箱即用
+- 真·演讲者模式：预览、提词、计时三合一
+- 纯静态HTML/CSS/JS，无构建步骤，一键复制即可分享
 
 **📊 项目统计**:
-- **⭐ Star数**: 879
-- **🔀 Fork数**: 129
-- **👀 Watch数**: 879
-- **📝 语言**: Python
-- **🌐 官网**: [https://www.productcompass.pm/](https://www.productcompass.pm/)
-- **💻 技术栈**: Python, claude-code
+- **⭐ Star数**: 1,497
+- **🔀 Fork数**: 168
+- **👀 Watch数**: 1,497
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, CSS, JavaScript, Shell, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ![Star](https://img.shields.io/github/stars/mattmireles/gemma-tuner-multimodal?style=social)
+#### 7. [design-extract](https://github.com/Manavarya09/design-extract) ![Star](https://img.shields.io/github/stars/Manavarya09/design-extract?style=social)
 
-<img src="./images/2026/week-16/gemma-tuner-multimodal/1_wizard-cli.png" alt="gemma-tuner-multimodal" width="500"/>
+<img src="./images/2026/week-17/design-extract/1_logo-specimen.svg" alt="design-extract" width="500"/>
 
-**📝 项目简介**: 在苹果芯片Mac上零门槛微调Gemma多模态模型，支持图像、语音、文本LoRA，云端流式训练不占本地空间。
+**📝 项目简介**: 一条命令即可抓取任意网站的完整设计系统，自动生成设计令牌、多平台代码、无障碍修复方案并支持主流AI编辑器。
 
 **✨ 核心特性**:
-- Apple Silicon原生MPS加速，无需CUDA
-- 云端流式读取GCS/BigQuery，TB级数据即时训
-- 一键LoRA微调图文、语音、纯文本任务
+- 一键输出DTCG设计令牌与Tailwind v4配置
+- 内置MCP服务器，直接驱动Claude Code/Cursor/Windsurf
+- 支持iOS、Android、Flutter、WordPress多平台代码导出
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,236
-- **🔀 Fork数**: 78
-- **👀 Watch数**: 1,236
-- **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, HTML, Shell, React, Flask
+- **⭐ Star数**: 1,096
+- **🔀 Fork数**: 86
+- **👀 Watch数**: 1,096
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://designlang.manavaryasingh.com](https://designlang.manavaryasingh.com)
+- **💻 技术栈**: JavaScript, CSS, HTML, TypeScript, Dockerfile, accessibility
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [hermes-hudui](https://github.com/joeynyc/hermes-hudui) ![Star](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=social)
+#### 8. [weft](https://github.com/WeaveMindAI/weft) ![Star](https://img.shields.io/github/stars/WeaveMindAI/weft?style=social)
 
-<img src="./images/2026/week-16/hermes-hudui/1_dashboard-costs.png" alt="hermes-hudui" width="500"/>
-
-**📝 项目简介**: 为拥有持久记忆的AI代理Hermes打造的浏览器端意识监控面板，一键克隆即可实时洞察Agent思维与记忆状态。
+**📝 项目简介**: 一个使用Rust开发的开源项目：A programming language for AI systems，已获得888个star。
 
 **✨ 核心特性**:
-- 浏览器可视化Hermes意识流
-- 零配置读取本地~/.hermes数据
-- 一键脚本安装，秒级启动
+- 888 stars
+- Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 740
-- **🔀 Fork数**: 77
-- **👀 Watch数**: 740
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript, CSS, Shell, HTML, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) ![Star](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=social)
-
-<img src="./images/2026/week-16/claude-obsidian/1_license-mit-blue.svg" alt="claude-obsidian" width="500"/>
-
-**📝 项目简介**: 基于Shell的Claude+Obsidian知识伴侣，自动构建持续增长的Wiki库，零手动整理即可复利式积累知识。
-
-**✨ 核心特性**:
-- 10项内置技能，自动归档与关联
-- 多Agent协同，问答即时调用全库
-- 每份新资料即时融入，知识像利息复利
-
-**📊 项目统计**:
-- **⭐ Star数**: 718
-- **🔀 Fork数**: 71
-- **👀 Watch数**: 718
-- **📝 语言**: Shell
-- **🌐 官网**: [https://agricidaniel.com/blog/claude-obsidian-ai-second-brain](https://agricidaniel.com/blog/claude-obsidian-ai-second-brain)
-- **💻 技术栈**: Shell, ai, claude-code, claude-code-skill, knowledge-management, obsidian
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [rattles](https://github.com/vyfor/rattles) ![Star](https://img.shields.io/github/stars/vyfor/rattles?style=social)
-
-<img src="./images/2026/week-16/rattles/1_demo.gif" alt="rattles" width="500"/>
-
-**📝 项目简介**: 零依赖、极简终端转圈动画库，编译期自定义，直接嵌入渲染循环，无需运行时或生命周期管理。
-
-**✨ 核心特性**:
-- 零依赖、no-std
-- 编译期自定义转圈样式
-- 无需运行时/actor，随取随用
-
-**📊 项目统计**:
-- **⭐ Star数**: 658
-- **🔀 Fork数**: 13
-- **👀 Watch数**: 658
+- **⭐ Star数**: 888
+- **🔀 Fork数**: 116
+- **👀 Watch数**: 888
 - **📝 语言**: Rust
-- **🌐 官网**: [https://docs.rs/rattles](https://docs.rs/rattles)
-- **💻 技术栈**: Rust, animation, cli, no-std, ratatui, rattles
+- **💻 技术栈**: Rust, TypeScript, Svelte, Shell, JavaScript, CSS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [UZI-Skill](https://github.com/wbh604/UZI-Skill) ![Star](https://img.shields.io/github/stars/wbh604/UZI-Skill?style=social)
+
+<img src="./images/2026/week-17/uzi-skill/1_license-mit-yellow.svg" alt="UZI-Skill" width="500"/>
+
+**📝 项目简介**: 聚合51位顶级游资策略，180条量化规则+22维数据，一键生成A/H/美股个股深度诊断报告，让散户也能用机构视角选股。
+
+**✨ 核心特性**:
+- 51位大佬策略同台回测
+- 22维数据×180规则实时打分
+- 支持A股/港股/美股一键分析
+
+**📊 项目统计**:
+- **⭐ Star数**: 849
+- **🔀 Fork数**: 147
+- **👀 Watch数**: 849
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, Shell, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) ![Star](https://img.shields.io/github/stars/BuilderPulse/BuilderPulse?style=social)
+
+**📝 项目简介**: 每日为独立开发者推送1个AI筛选的高潜力创业点子，附紧迫理由与300+公开信号来源，降低选题试错成本。
+
+**✨ 核心特性**:
+- AI实时扫描300+公开信号
+- 每天只精选1个可立即落地的Build Idea
+- 结合热点事件给出“为什么现在做”
+
+**📊 项目统计**:
+- **⭐ Star数**: 979
+- **🔀 Fork数**: 71
+- **👀 Watch数**: 979
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://builderpulse.ai](https://builderpulse.ai)
+- **💻 技术栈**: ai, builders, indiehackers
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -255,20 +247,20 @@
 
 **🔥 热门语言**:
 1. **Python** (4 个项目)
-2. **Swift** (1 个项目)
-3. **JavaScript** (1 个项目)
-4. **Unknown** (1 个项目)
-5. **TypeScript** (1 个项目)
+2. **C++** (1 个项目)
+3. **TypeScript** (1 个项目)
+4. **HTML** (1 个项目)
+5. **JavaScript** (1 个项目)
 
 **🏷️ 热门话题**:
-1. claude-code (2)
-2. ai (1)
-3. claude-code-skill (1)
-4. knowledge-management (1)
-5. obsidian (1)
-6. open-source (1)
-7. second-brain (1)
-8. animation (1)
+1. ai (3)
+2. claude-code-plugin (2)
+3. anthropic (1)
+4. attention (1)
+5. claude (1)
+6. claude-ai (1)
+7. claude-code (1)
+8. claude-mythos (1)
 
 
 <!-- TRENDING-END -->
@@ -278,6 +270,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 04-25 | 2026年第17周 | 10 个 | [查看详情](./archives/2026/week-17/report.md) |
 | 04-18 | 2026年第16周 | 10 个 | [查看详情](./archives/2026/week-16/report.md) |
 | 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
 | 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
@@ -297,7 +290,6 @@
 | 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
 | 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
-| 11-29 | 2025年第48周 | 10 个 | [查看详情](./archives/2025/week-48/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
