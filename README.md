@@ -18,227 +18,220 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第17周
+### GitHub趋势排行榜 - 2026年第18周
 
-**📅 统计周期**: 2026-04-19 ~ 2026-04-25  
+**📅 统计周期**: 2026-04-26 ~ 2026-05-02  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 16,144  
-**🔄 更新时间**: 2026-04-25 23:59:59  
+**⭐ 总Star数**: 12,496  
+**🔄 更新时间**: 2026-05-02 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [browser-harness](https://github.com/browser-use/browser-harness) | 基于CDP的极简自愈浏览器框架，让LLM在运行中动态补全缺失代码，零依赖完成任意网页任务。 | 2,552 | 204 | Python | 🆕 |
-| 2 | [lingbot-map](https://github.com/Robbyant/lingbot-map) | LingBot-Map用几何上下文Transformer把实时视频流直接变成可扩展的3D场景，无需逐帧优化，重建又... | 2,716 | 211 | Python | 🆕 |
-| 3 | [OpenMythos](https://github.com/kyegomez/OpenMythos) | 一个使用Python开发的开源项目：A theoretical reconstruction of the Cla... | 1,865 | 342 | Python | 🆕 |
-| 4 | [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 一个使用C++开发的开源项目：The Red Sun vulnerability repository，已获得1,... | 1,582 | 345 | C++ | 🆕 |
-| 5 | [wterm](https://github.com/vercel-labs/wterm) | 一个使用TypeScript开发的开源项目：A terminal emulator for the web，已获得... | 2,120 | 80 | TypeScript | 🆕 |
-| 6 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 零依赖、一键生成专业级HTML演示文稿，内置36主题、31版式、47动效与演讲者模式，无需构建即可部署。 | 1,497 | 168 | HTML | 🆕 |
-| 7 | [design-extract](https://github.com/Manavarya09/design-extract) | 一条命令即可抓取任意网站的完整设计系统，自动生成设计令牌、多平台代码、无障碍修复方案并支持主流AI编辑器。 | 1,096 | 86 | JavaScript | 🆕 |
-| 8 | [weft](https://github.com/WeaveMindAI/weft) | 一个使用Rust开发的开源项目：A programming language for AI systems，已获得... | 888 | 116 | Rust | 🆕 |
-| 9 | [UZI-Skill](https://github.com/wbh604/UZI-Skill) | 聚合51位顶级游资策略，180条量化规则+22维数据，一键生成A/H/美股个股深度诊断报告，让散户也能用机构视角选股。 | 849 | 147 | Python | 🆕 |
-| 10 | [BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | 每日为独立开发者推送1个AI筛选的高潜力创业点子，附紧迫理由与300+公开信号来源，降低选题试错成本。 | 979 | 71 | Unknown | 🆕 |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 把一句话提示变成单文件横向翻页HTML演示，杂志级排版+WebGL背景，无需构建即可分享。 | 3,127 | 331 | HTML | 🆕 |
+| 2 | [garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi整理的AI Agent技能库，提供网页设计、知识检索、图像生成等可直接投入生产的代码片段，让Cla... | 1,422 | 262 | JavaScript | 🆕 |
+| 3 | [OpenChronicle](https://github.com/Einsia/OpenChronicle) | 为任意工具型LLM代理提供本地优先、可审计的持久记忆系统，开源替代OpenAI Chronicle。 | 1,476 | 101 | Python | 🆕 |
+| 4 | [TileKernels](https://github.com/deepseek-ai/TileKernels) | 基于TileLang DSL的GPU算子库，为LLM计算与访存极限优化，已用于内部训练推理。 | 1,231 | 94 | Python | 🆕 |
+| 5 | [clawsweeper](https://github.com/openclaw/clawsweeper) | ClawSweeper是openclaw的保守型维护机器人，每周扫描全部Issue与PR，生成Markdown报告... | 1,049 | 114 | JavaScript | 🆕 |
+| 6 | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 逆向329个案例提炼13套工业级模板，一键生成高质量AI绘图提示词，解决提示词难写、效果不稳痛点。 | 816 | 169 | Unknown | 🆕 |
+| 7 | [MasterHttpRelayVPN-RUST](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) | 用Rust重写的免费抗审查工具，通过Google Apps Script中继+TLS SNI隐藏，把流量伪装成访问... | 757 | 87 | Rust | 🆕 |
+| 8 | [deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) | 提供DeepSeek-V4官方角色扮演模式的特殊控制指令，一键切换“角色沉浸/纯分析/默认”三种思维链风格，提升对... | 1,142 | 55 | Unknown | 🆕 |
+| 9 | [text-to-cad](https://github.com/earthtojake/text-to-cad) | 开源Text-to-CAD工具，一句话把自然语言变成可版本控制的3D模型，并一键导出STEP/STL/GLB等格式... | 729 | 116 | JavaScript | 🆕 |
+| 10 | [PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt) | 将品牌设计文档自动转成面向图像模型的PPT素材描述，方便AI生成高质量演示文稿视觉元素。 | 747 | 56 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [browser-harness](https://github.com/browser-use/browser-harness) ![Star](https://img.shields.io/github/stars/browser-use/browser-harness?style=social)
+#### 1. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ![Star](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=social)
 
-<img src="./images/2026/week-17/browser-harness/1_ajsdlasnnalsgasld.png" alt="browser-harness" width="500"/>
-
-**📝 项目简介**: 基于CDP的极简自愈浏览器框架，让LLM在运行中动态补全缺失代码，零依赖完成任意网页任务。
+**📝 项目简介**: 把一句话提示变成单文件横向翻页HTML演示，杂志级排版+WebGL背景，无需构建即可分享。
 
 **✨ 核心特性**:
-- 运行中自愈补代码，无需预设脚本
-- 直连Chrome WebSocket，无中间层
-- 无框架、无配方，LLM自由操作
+- 单文件输出，浏览器即开即用
+- 10种杂志布局+5套主题一键切换
+- WebGL流体背景+多手势翻页体验
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,552
-- **🔀 Fork数**: 204
-- **👀 Watch数**: 2,552
-- **📝 语言**: Python
-- **🌐 官网**: [https://cloud.browser-use.com](https://cloud.browser-use.com)
-- **💻 技术栈**: Python, Redis
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [lingbot-map](https://github.com/Robbyant/lingbot-map) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-map?style=social)
-
-<img src="./images/2026/week-17/lingbot-map/1_teaser.png" alt="lingbot-map" width="500"/>
-
-**📝 项目简介**: LingBot-Map用几何上下文Transformer把实时视频流直接变成可扩展的3D场景，无需逐帧优化，重建又快又稳。
-
-**✨ 核心特性**:
-- 前馈式基础模型，毫秒级推理
-- 统一几何上下文Transformer，精度高
-- 支持流式输入，边采边重建
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,716
-- **🔀 Fork数**: 211
-- **👀 Watch数**: 2,716
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [OpenMythos](https://github.com/kyegomez/OpenMythos) ![Star](https://img.shields.io/github/stars/kyegomez/OpenMythos?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.，已获得1,865个star。
-
-**✨ 核心特性**:
-- 1,865 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,865
-- **🔀 Fork数**: 342
-- **👀 Watch数**: 1,865
-- **📝 语言**: Python
-- **🌐 官网**: [https://discord.gg/EamjgSaEQf](https://discord.gg/EamjgSaEQf)
-- **💻 技术栈**: Python, ai, anthropic, attention, claude, claude-ai
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [RedSun](https://github.com/Nightmare-Eclipse/RedSun) ![Star](https://img.shields.io/github/stars/Nightmare-Eclipse/RedSun?style=social)
-
-<img src="./images/2026/week-17/redsun/1_redsun.jpg" alt="RedSun" width="500"/>
-
-**📝 项目简介**: 一个使用C++开发的开源项目：The Red Sun vulnerability repository，已获得1,582个star。
-
-**✨ 核心特性**:
-- 1,582 stars
-- C++
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,582
-- **🔀 Fork数**: 345
-- **👀 Watch数**: 1,582
-- **📝 语言**: C++
-- **💻 技术栈**: C++
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [wterm](https://github.com/vercel-labs/wterm) ![Star](https://img.shields.io/github/stars/vercel-labs/wterm?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：A terminal emulator for the web，已获得2,120个star。
-
-**✨ 核心特性**:
-- 2,120 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,120
-- **🔀 Fork数**: 80
-- **👀 Watch数**: 2,120
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://wterm.dev](https://wterm.dev)
-- **💻 技术栈**: TypeScript, Zig, MDX, CSS, HTML, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ![Star](https://img.shields.io/github/stars/lewislulu/html-ppt-skill?style=social)
-
-<img src="./images/2026/week-17/html-ppt-skill/1_hero.gif" alt="html-ppt-skill" width="500"/>
-
-**📝 项目简介**: 零依赖、一键生成专业级HTML演示文稿，内置36主题、31版式、47动效与演讲者模式，无需构建即可部署。
-
-**✨ 核心特性**:
-- 36套主题+15套整站模板开箱即用
-- 真·演讲者模式：预览、提词、计时三合一
-- 纯静态HTML/CSS/JS，无构建步骤，一键复制即可分享
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,497
-- **🔀 Fork数**: 168
-- **👀 Watch数**: 1,497
+- **⭐ Star数**: 3,127
+- **🔀 Fork数**: 331
+- **👀 Watch数**: 3,127
 - **📝 语言**: HTML
-- **💻 技术栈**: HTML, CSS, JavaScript, Shell, React
+- **💻 技术栈**: HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [design-extract](https://github.com/Manavarya09/design-extract) ![Star](https://img.shields.io/github/stars/Manavarya09/design-extract?style=social)
+#### 2. [garden-skills](https://github.com/ConardLi/garden-skills) ![Star](https://img.shields.io/github/stars/ConardLi/garden-skills?style=social)
 
-<img src="./images/2026/week-17/design-extract/1_logo-specimen.svg" alt="design-extract" width="500"/>
-
-**📝 项目简介**: 一条命令即可抓取任意网站的完整设计系统，自动生成设计令牌、多平台代码、无障碍修复方案并支持主流AI编辑器。
+**📝 项目简介**: ConardLi整理的AI Agent技能库，提供网页设计、知识检索、图像生成等可直接投入生产的代码片段，让Claude、Cursor等AI编程助手秒变全栈设计师。
 
 **✨ 核心特性**:
-- 一键输出DTCG设计令牌与Tailwind v4配置
-- 内置MCP服务器，直接驱动Claude Code/Cursor/Windsurf
-- 支持iOS、Android、Flutter、WordPress多平台代码导出
+- 即插即用：针对主流AI Agent优化，复制即可运行
+- 覆盖全栈：前端页面、RAG检索、GPT-4o图像生成一站式
+- 持续更新：社区贡献+作者精选，保证生产级质量
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,096
-- **🔀 Fork数**: 86
-- **👀 Watch数**: 1,096
+- **⭐ Star数**: 1,422
+- **🔀 Fork数**: 262
+- **👀 Watch数**: 1,422
 - **📝 语言**: JavaScript
-- **🌐 官网**: [https://designlang.manavaryasingh.com](https://designlang.manavaryasingh.com)
-- **💻 技术栈**: JavaScript, CSS, HTML, TypeScript, Dockerfile, accessibility
+- **🌐 官网**: [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+- **💻 技术栈**: JavaScript, Python, agent, claude, gpt-image-2, rag
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [weft](https://github.com/WeaveMindAI/weft) ![Star](https://img.shields.io/github/stars/WeaveMindAI/weft?style=social)
+#### 3. [OpenChronicle](https://github.com/Einsia/OpenChronicle) ![Star](https://img.shields.io/github/stars/Einsia/OpenChronicle?style=social)
 
-**📝 项目简介**: 一个使用Rust开发的开源项目：A programming language for AI systems，已获得888个star。
+<img src="./images/2026/week-18/openchronicle/1_logo.png" alt="OpenChronicle" width="500"/>
 
-**✨ 核心特性**:
-- 888 stars
-- Rust
-
-**📊 项目统计**:
-- **⭐ Star数**: 888
-- **🔀 Fork数**: 116
-- **👀 Watch数**: 888
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, TypeScript, Svelte, Shell, JavaScript, CSS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [UZI-Skill](https://github.com/wbh604/UZI-Skill) ![Star](https://img.shields.io/github/stars/wbh604/UZI-Skill?style=social)
-
-<img src="./images/2026/week-17/uzi-skill/1_license-mit-yellow.svg" alt="UZI-Skill" width="500"/>
-
-**📝 项目简介**: 聚合51位顶级游资策略，180条量化规则+22维数据，一键生成A/H/美股个股深度诊断报告，让散户也能用机构视角选股。
+**📝 项目简介**: 为任意工具型LLM代理提供本地优先、可审计的持久记忆系统，开源替代OpenAI Chronicle。
 
 **✨ 核心特性**:
-- 51位大佬策略同台回测
-- 22维数据×180规则实时打分
-- 支持A股/港股/美股一键分析
+- 本地存储，数据自主掌控
+- 模型无关，适配各种LLM代理
+- 完全开源可定制，透明可审计
 
 **📊 项目统计**:
-- **⭐ Star数**: 849
-- **🔀 Fork数**: 147
-- **👀 Watch数**: 849
+- **⭐ Star数**: 1,476
+- **🔀 Fork数**: 101
+- **👀 Watch数**: 1,476
 - **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, Shell, Batchfile
+- **💻 技术栈**: Python, Swift, Shell, Azure
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) ![Star](https://img.shields.io/github/stars/BuilderPulse/BuilderPulse?style=social)
+#### 4. [TileKernels](https://github.com/deepseek-ai/TileKernels) ![Star](https://img.shields.io/github/stars/deepseek-ai/TileKernels?style=social)
 
-**📝 项目简介**: 每日为独立开发者推送1个AI筛选的高潜力创业点子，附紧迫理由与300+公开信号来源，降低选题试错成本。
+**📝 项目简介**: 基于TileLang DSL的GPU算子库，为LLM计算与访存极限优化，已用于内部训练推理。
 
 **✨ 核心特性**:
-- AI实时扫描300+公开信号
-- 每天只精选1个可立即落地的Build Idea
-- 结合热点事件给出“为什么现在做”
+- Python DSL极速开发
+- 自动逼近硬件性能上限
+- 已落地生产训练/推理
 
 **📊 项目统计**:
-- **⭐ Star数**: 979
-- **🔀 Fork数**: 71
-- **👀 Watch数**: 979
+- **⭐ Star数**: 1,231
+- **🔀 Fork数**: 94
+- **👀 Watch数**: 1,231
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [clawsweeper](https://github.com/openclaw/clawsweeper) ![Star](https://img.shields.io/github/stars/openclaw/clawsweeper?style=social)
+
+**📝 项目简介**: ClawSweeper是openclaw的保守型维护机器人，每周扫描全部Issue与PR，生成Markdown报告并仅在证据充分时建议关闭，帮助项目保持整洁。
+
+**✨ 核心特性**:
+- 每周自动全量扫描
+- 仅高置信度才提议关闭
+- 生成持久化Codex评论与Markdown报告
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,049
+- **🔀 Fork数**: 114
+- **👀 Watch数**: 1,049
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ![Star](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=social)
+
+<img src="./images/2026/week-18/awesome-gpt-image-2/1_case1.jpg" alt="awesome-gpt-image-2" width="500"/>
+
+**📝 项目简介**: 逆向329个案例提炼13套工业级模板，一键生成高质量AI绘图提示词，解决提示词难写、效果不稳痛点。
+
+**✨ 核心特性**:
+- 329案例逆向工程沉淀
+- 13套可直接复用模板
+- Prompt as Code引擎化输出
+
+**📊 项目统计**:
+- **⭐ Star数**: 816
+- **🔀 Fork数**: 169
+- **👀 Watch数**: 816
 - **📝 语言**: Unknown
-- **🌐 官网**: [https://builderpulse.ai](https://builderpulse.ai)
-- **💻 技术栈**: ai, builders, indiehackers
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [MasterHttpRelayVPN-RUST](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) ![Star](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=social)
+
+<img src="./images/2026/week-18/masterhttprelayvpn-rust/1_badge.svg" alt="MasterHttpRelayVPN-RUST" width="500"/>
+
+**📝 项目简介**: 用Rust重写的免费抗审查工具，通过Google Apps Script中继+TLS SNI隐藏，把流量伪装成访问Google，一键绕过DPI封锁。
+
+**✨ 核心特性**:
+- 零依赖单文件，CLI+跨平台GUI
+- 免费自托管Google中继，无需服务器
+- 同时提供HTTP/SOCKS5代理
+
+**📊 项目统计**:
+- **⭐ Star数**: 757
+- **🔀 Fork数**: 87
+- **👀 Watch数**: 757
+- **📝 语言**: Rust
+- **🌐 官网**: [https://github.com/masterking32/MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN)
+- **💻 技术栈**: Rust, Kotlin, JavaScript, Dockerfile, Shell, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) ![Star](https://img.shields.io/github/stars/victorchen96/deepseek_v4_rolepaly_instruct?style=social)
+
+**📝 项目简介**: 提供DeepSeek-V4官方角色扮演模式的特殊控制指令，一键切换“角色沉浸/纯分析/默认”三种思维链风格，提升对话体验。
+
+**✨ 核心特性**:
+- 官方适配APP与API
+- 三种思维链风格可切换
+- 指令简单、可复现
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,142
+- **🔀 Fork数**: 55
+- **👀 Watch数**: 1,142
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [text-to-cad](https://github.com/earthtojake/text-to-cad) ![Star](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social)
+
+**📝 项目简介**: 开源Text-to-CAD工具，一句话把自然语言变成可版本控制的3D模型，并一键导出STEP/STL/GLB等格式，解决手工建模慢、难协作的痛点。
+
+**✨ 核心特性**:
+- AI编码代理驱动，一句话生成CAD
+- 自动输出STEP/STL/GLB/URDF等工业格式
+- 源码级版本管理，协作复现零门槛
+
+**📊 项目统计**:
+- **⭐ Star数**: 729
+- **🔀 Fork数**: 116
+- **👀 Watch数**: 729
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, Python, CSS, HTML, agents, ai
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt) ![Star](https://img.shields.io/github/stars/Russell-cell/PPT-Design-Prompt?style=social)
+
+**📝 项目简介**: 将品牌设计文档自动转成面向图像模型的PPT素材描述，方便AI生成高质量演示文稿视觉元素。
+
+**✨ 核心特性**:
+- 一键把DESIGN.md转为图像模型可用格式
+- 专注幻灯片视觉素材，不生成完整PPT
+- 支持PowerPoint、Keynote、PDF等多平台素材
+
+**📊 项目统计**:
+- **⭐ Star数**: 747
+- **🔀 Fork数**: 56
+- **👀 Watch数**: 747
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -246,21 +239,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (4 个项目)
-2. **C++** (1 个项目)
-3. **TypeScript** (1 个项目)
+1. **JavaScript** (3 个项目)
+2. **Python** (3 个项目)
+3. **Unknown** (2 个项目)
 4. **HTML** (1 个项目)
-5. **JavaScript** (1 个项目)
+5. **Rust** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (3)
-2. claude-code-plugin (2)
-3. anthropic (1)
-4. attention (1)
-5. claude (1)
-6. claude-ai (1)
-7. claude-code (1)
-8. claude-mythos (1)
+1. agent (1)
+2. claude (1)
+3. gpt-image-2 (1)
+4. rag (1)
+5. skills (1)
+6. web-design (1)
+7. anti-censorship (1)
+8. censorship-circumvention (1)
 
 
 <!-- TRENDING-END -->
@@ -270,6 +263,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
 | 04-25 | 2026年第17周 | 10 个 | [查看详情](./archives/2026/week-17/report.md) |
 | 04-18 | 2026年第16周 | 10 个 | [查看详情](./archives/2026/week-16/report.md) |
 | 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
@@ -289,7 +283,6 @@
 | 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
 | 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 | 12-13 | 2025年第50周 | 10 个 | [查看详情](./archives/2025/week-50/report.md) |
-| 12-06 | 2025年第49周 | 10 个 | [查看详情](./archives/2025/week-49/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

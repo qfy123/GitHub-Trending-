@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第18周",
+    "year": 2026,
+    "week": 18,
+    "week_range": {
+      "start": "2026-04-26",
+      "end": "2026-05-02"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-05-02 23:59:59",
+    "next_update": "2026-05-09"
+  },
+  "repositories": [
+    {
+      "full_name": "op7418/guizang-ppt-skill",
+      "rank": 1,
+      "stars": 3127,
+      "forks": 331,
+      "overall_score": 74
+    },
+    {
+      "full_name": "ConardLi/garden-skills",
+      "rank": 2,
+      "stars": 1422,
+      "forks": 262,
+      "overall_score": 70
+    },
+    {
+      "full_name": "Einsia/OpenChronicle",
+      "rank": 3,
+      "stars": 1476,
+      "forks": 101,
+      "overall_score": 69
+    },
+    {
+      "full_name": "deepseek-ai/TileKernels",
+      "rank": 4,
+      "stars": 1231,
+      "forks": 94,
+      "overall_score": 68
+    },
+    {
+      "full_name": "openclaw/clawsweeper",
+      "rank": 5,
+      "stars": 1049,
+      "forks": 114,
+      "overall_score": 67
+    },
+    {
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "rank": 6,
+      "stars": 816,
+      "forks": 169,
+      "overall_score": 67
+    },
+    {
+      "full_name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "rank": 7,
+      "stars": 757,
+      "forks": 87,
+      "overall_score": 67
+    },
+    {
+      "full_name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "rank": 8,
+      "stars": 1142,
+      "forks": 55,
+      "overall_score": 66
+    },
+    {
+      "full_name": "earthtojake/text-to-cad",
+      "rank": 9,
+      "stars": 729,
+      "forks": 116,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Russell-cell/PPT-Design-Prompt",
+      "rank": 10,
+      "stars": 747,
+      "forks": 56,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-04-27T05:31:54.020Z"
+}
