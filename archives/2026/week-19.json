@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第19周",
+    "year": 2026,
+    "week": 19,
+    "week_range": {
+      "start": "2026-05-03",
+      "end": "2026-05-09"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-05-09 23:59:59",
+    "next_update": "2026-05-16"
+  },
+  "repositories": [
+    {
+      "full_name": "nexu-io/open-design",
+      "rank": 1,
+      "stars": 20285,
+      "forks": 2247,
+      "overall_score": 94
+    },
+    {
+      "full_name": "theori-io/copy-fail-CVE-2026-31431",
+      "rank": 2,
+      "stars": 3045,
+      "forks": 634,
+      "overall_score": 84
+    },
+    {
+      "full_name": "willchen96/mike",
+      "rank": 3,
+      "stars": 1727,
+      "forks": 452,
+      "overall_score": 75
+    },
+    {
+      "full_name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "rank": 4,
+      "stars": 829,
+      "forks": 308,
+      "overall_score": 72
+    },
+    {
+      "full_name": "darrylmorley/whatcable",
+      "rank": 5,
+      "stars": 1494,
+      "forks": 33,
+      "overall_score": 68
+    },
+    {
+      "full_name": "b-nnett/codex-plusplus",
+      "rank": 6,
+      "stars": 859,
+      "forks": 42,
+      "overall_score": 67
+    },
+    {
+      "full_name": "mattpocock/dictionary-of-ai-coding",
+      "rank": 7,
+      "stars": 863,
+      "forks": 116,
+      "overall_score": 66
+    },
+    {
+      "full_name": "t8y2/dbx",
+      "rank": 8,
+      "stars": 781,
+      "forks": 44,
+      "overall_score": 66
+    },
+    {
+      "full_name": "GENEXIS-AI/chromex",
+      "rank": 9,
+      "stars": 775,
+      "forks": 64,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Fokkyp/SoftwareCopyright-Skill",
+      "rank": 10,
+      "stars": 678,
+      "forks": 146,
+      "overall_score": 65
+    }
+  ],
+  "generated_at": "2026-05-04T05:42:36.549Z"
+}
