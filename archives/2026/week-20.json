@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第20周",
+    "year": 2026,
+    "week": 20,
+    "week_range": {
+      "start": "2026-05-10",
+      "end": "2026-05-16"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-05-16 23:59:59",
+    "next_update": "2026-05-23"
+  },
+  "repositories": [
+    {
+      "full_name": "V4bel/dirtyfrag",
+      "rank": 1,
+      "stars": 4066,
+      "forks": 608,
+      "overall_score": 86
+    },
+    {
+      "full_name": "antirez/ds4",
+      "rank": 2,
+      "stars": 6588,
+      "forks": 477,
+      "overall_score": 83
+    },
+    {
+      "full_name": "vercel-labs/zero-native",
+      "rank": 3,
+      "stars": 2378,
+      "forks": 104,
+      "overall_score": 73
+    },
+    {
+      "full_name": "strukto-ai/mirage",
+      "rank": 4,
+      "stars": 1817,
+      "forks": 110,
+      "overall_score": 71
+    },
+    {
+      "full_name": "XBuilderLAB/cheat-on-content",
+      "rank": 5,
+      "stars": 1587,
+      "forks": 323,
+      "overall_score": 71
+    },
+    {
+      "full_name": "yaojingang/yao-open-prompts",
+      "rank": 6,
+      "stars": 1585,
+      "forks": 250,
+      "overall_score": 70
+    },
+    {
+      "full_name": "huangserva/3DCellForge",
+      "rank": 7,
+      "stars": 943,
+      "forks": 160,
+      "overall_score": 67
+    },
+    {
+      "full_name": "lightseekorg/tokenspeed",
+      "rank": 8,
+      "stars": 923,
+      "forks": 66,
+      "overall_score": 67
+    },
+    {
+      "full_name": "BigPizzaV3/CodexPlusPlus",
+      "rank": 9,
+      "stars": 805,
+      "forks": 50,
+      "overall_score": 67
+    },
+    {
+      "full_name": "zarazhangrui/beautiful-html-templates",
+      "rank": 10,
+      "stars": 774,
+      "forks": 74,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-05-11T06:06:39.181Z"
+}

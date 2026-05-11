@@ -1,117 +1,83 @@
 {
   "metadata": {
-    "report_title": "GitHub趋势排行榜 - 2026年第19周",
+    "report_title": "GitHub趋势排行榜 - 2026年第20周",
     "year": 2026,
-    "week": 19,
+    "week": 20,
     "week_range": {
-      "start": "2026-05-03",
-      "end": "2026-05-09"
+      "start": "2026-05-10",
+      "end": "2026-05-16"
     },
     "total_repositories": 10,
-    "generation_date": "2026-05-09 23:59:59",
-    "next_update": "2026-05-16"
+    "generation_date": "2026-05-16 23:59:59",
+    "next_update": "2026-05-23"
   },
   "repositories": [
     {
       "rank": 1,
-      "name": "open-design",
-      "full_name": "nexu-io/open-design",
-      "owner": "nexu-io",
-      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4",
-      "stars": 20285,
-      "forks": 2247,
-      "issues": 116,
-      "watchers": 20285,
-      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "homepage": "https://github.com/nexu-io/open-design",
-      "clone_url": "https://github.com/nexu-io/open-design.git",
-      "ssh_url": "git@github.com:nexu-io/open-design.git",
-      "html_url": "https://github.com/nexu-io/open-design",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
+      "name": "dirtyfrag",
+      "full_name": "V4bel/dirtyfrag",
+      "owner": "V4bel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42788779?v=4",
+      "stars": 4066,
+      "forks": 608,
+      "issues": 52,
+      "watchers": 4066,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/V4bel/dirtyfrag.git",
+      "ssh_url": "git@github.com:V4bel/dirtyfrag.git",
+      "html_url": "https://github.com/V4bel/dirtyfrag",
+      "language": "C",
+      "primary_language": "C",
       "languages": {
-        "TypeScript": 3320920,
-        "HTML": 1581353,
-        "CSS": 426531,
-        "JavaScript": 213721,
-        "Python": 124124,
-        "Astro": 7165,
-        "Shell": 3282
+        "C": 67803
       },
       "tech_stack": [
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "Astro",
-        "Shell",
-        "agent-skills"
+        "C"
       ],
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-design",
-        "byok",
-        "claude",
-        "claude-code-for-design",
-        "claude-design",
-        "coding-agents",
-        "design-systems",
-        "design-tools",
-        "desktop-app",
-        "figma-alternative",
-        "generative-ai",
-        "hermes-agent",
-        "local-first",
-        "nextjs",
-        "no-code",
-        "prototyping",
-        "ui-generator",
-        "vibe-coding"
-      ],
-      "created_at": "2026-04-28T04:25:20Z",
-      "updated_at": "2026-05-04T05:40:05Z",
-      "pushed_at": "2026-05-04T05:40:02Z",
+      "topics": [],
+      "created_at": "2026-05-07T18:18:28Z",
+      "updated_at": "2026-05-11T05:58:52Z",
+      "pushed_at": "2026-05-10T17:29:21Z",
       "ai_summary": {
-        "summary": "本地优先的开源AI设计工具，一键生成网页/桌面/移动端原型、幻灯片、图片、视频，可对接13种主流AI编码助手，自带72套品牌级设计系统。",
+        "summary": "Dirty Frag通过组合两个内核页缓存写漏洞，在主流Linux发行版上实现一键本地提权，影响面极广。",
         "highlights": [
-          "零门槛替代Claude Design，完全开源",
-          "支持HTML/PDF/PPTX/MP4多格式导出",
-          "BYOK模式，兼容所有OpenAI接口与主流CLI"
+          "一键获取root权限",
+          "覆盖多版本主流发行版",
+          "利用链公开，验证简单"
         ],
-        "tech_summary": "TypeScript + Astro + 多语言沙箱预览",
-        "use_case": "快速原型、品牌设计、AI驱动无代码创作",
+        "tech_summary": "纯C实现的内核漏洞利用链",
+        "use_case": "安全研究、漏洞验证、权限提升测试",
         "source": "ai"
       },
       "images": {
         "total_count": 1,
         "image_list": [
           {
-            "filename": "1_banner.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/open-design/1_banner.png",
-            "size": 2368527,
-            "content_type": "image/png",
-            "downloaded_at": "2026-05-04T05:42:27.051Z",
-            "original_url": "docs/assets/banner.png",
-            "absolute_url": "https://raw.githubusercontent.com/nexu-io/open-design/main/docs/assets/banner.png"
+            "filename": "1_demo.gif",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/dirtyfrag/1_demo.gif",
+            "size": 4649752,
+            "content_type": "image/gif",
+            "downloaded_at": "2026-05-11T06:06:29.972Z",
+            "original_url": "assets/demo.gif",
+            "absolute_url": "https://raw.githubusercontent.com/V4bel/dirtyfrag/master/assets/demo.gif"
           }
         ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/open-design",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/dirtyfrag",
         "representative_image": {
-          "filename": "1_banner.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/open-design/1_banner.png",
-          "size": 2368527,
-          "content_type": "image/png",
-          "downloaded_at": "2026-05-04T05:42:27.051Z",
-          "original_url": "docs/assets/banner.png",
-          "absolute_url": "https://raw.githubusercontent.com/nexu-io/open-design/main/docs/assets/banner.png"
+          "filename": "1_demo.gif",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/dirtyfrag/1_demo.gif",
+          "size": 4649752,
+          "content_type": "image/gif",
+          "downloaded_at": "2026-05-11T06:06:29.972Z",
+          "original_url": "assets/demo.gif",
+          "absolute_url": "https://raw.githubusercontent.com/V4bel/dirtyfrag/master/assets/demo.gif"
         }
       },
-      "activity_score": 100,
-      "popularity_score": 88,
+      "activity_score": 92,
+      "popularity_score": 76,
       "freshness_score": 100,
-      "overall_score": 94,
+      "overall_score": 86,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -121,53 +87,63 @@
     },
     {
       "rank": 2,
-      "name": "copy-fail-CVE-2026-31431",
-      "full_name": "theori-io/copy-fail-CVE-2026-31431",
-      "owner": "theori-io",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4",
-      "stars": 3045,
-      "forks": 634,
-      "issues": 103,
-      "watchers": 3045,
-      "description": "",
+      "name": "ds4",
+      "full_name": "antirez/ds4",
+      "owner": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4",
+      "stars": 6588,
+      "forks": 477,
+      "issues": 32,
+      "watchers": 6588,
+      "description": "DeepSeek 4 Flash local inference engine for Metal",
       "homepage": null,
-      "clone_url": "https://github.com/theori-io/copy-fail-CVE-2026-31431.git",
-      "ssh_url": "git@github.com:theori-io/copy-fail-CVE-2026-31431.git",
-      "html_url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
-      "language": "Python",
-      "primary_language": "Python",
+      "clone_url": "https://github.com/antirez/ds4.git",
+      "ssh_url": "git@github.com:antirez/ds4.git",
+      "html_url": "https://github.com/antirez/ds4",
+      "language": "C",
+      "primary_language": "C",
       "languages": {
-        "Python": 732
+        "C": 1427483,
+        "Objective-C": 639929,
+        "Metal": 290689,
+        "Python": 21414,
+        "Shell": 3107,
+        "Makefile": 2251
       },
       "tech_stack": [
+        "C",
+        "Objective-C",
+        "Metal",
         "Python",
-        "AWS"
+        "Shell",
+        "Makefile",
+        "Redis"
       ],
       "topics": [],
-      "created_at": "2026-04-29T12:15:28Z",
-      "updated_at": "2026-05-04T05:18:38Z",
-      "pushed_at": "2026-04-29T21:21:46Z",
+      "created_at": "2026-05-06T17:17:05Z",
+      "updated_at": "2026-05-11T06:04:03Z",
+      "pushed_at": "2026-05-10T20:56:31Z",
       "ai_summary": {
-        "summary": "针对CVE-2026-31431的Linux内核本地提权漏洞PoC，一键验证多发行版风险，帮助运维快速排查。",
+        "summary": "专为DeepSeek V4 Flash打造的轻量级本地推理引擎，用Metal在苹果芯片上极速跑大模型，零依赖、低延迟。",
         "highlights": [
-          "覆盖Ubuntu、Amazon Linux、RHEL、SUSE等主流云镜像",
-          "提供内核版本对照表，精准定位受影响系统",
-          "开源PoC，社区持续更新，Star已超3k"
+          "苹果Metal原生加速，推理速度极快",
+          "仅针对DeepSeek V4 Flash深度优化，体积小巧",
+          "内置KV缓存与HTTP API，一键启动本地服务"
         ],
-        "tech_summary": "Python+AWS云镜像验证",
-        "use_case": "云主机安全巡检与漏洞应急验证",
+        "tech_summary": "C+Metal+Python构建的苹果芯片推理引擎",
+        "use_case": "在Mac/iPhone上离线快速运行DeepSeek对话与代码生成",
         "source": "ai"
       },
       "images": {
         "total_count": 0,
         "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/copy-fail-cve-2026-31431",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/ds4",
         "representative_image": null
       },
-      "activity_score": 89,
-      "popularity_score": 74,
+      "activity_score": 79,
+      "popularity_score": 78,
       "freshness_score": 100,
-      "overall_score": 84,
+      "overall_score": 83,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -177,59 +153,65 @@
     },
     {
       "rank": 3,
-      "name": "mike",
-      "full_name": "willchen96/mike",
-      "owner": "willchen96",
-      "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4",
-      "stars": 1727,
-      "forks": 452,
-      "issues": 21,
-      "watchers": 1727,
-      "description": "OSS AI Legal Platform",
-      "homepage": null,
-      "clone_url": "https://github.com/willchen96/mike.git",
-      "ssh_url": "git@github.com:willchen96/mike.git",
-      "html_url": "https://github.com/willchen96/mike",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
+      "name": "zero-native",
+      "full_name": "vercel-labs/zero-native",
+      "owner": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "stars": 2378,
+      "forks": 104,
+      "issues": 18,
+      "watchers": 2378,
+      "description": "Build desktop + mobile apps with Zig and web UI",
+      "homepage": "https://zero-native.dev",
+      "clone_url": "https://github.com/vercel-labs/zero-native.git",
+      "ssh_url": "git@github.com:vercel-labs/zero-native.git",
+      "html_url": "https://github.com/vercel-labs/zero-native",
+      "language": "Zig",
+      "primary_language": "Zig",
       "languages": {
-        "TypeScript": 1610745,
-        "CSS": 12188,
-        "PLpgSQL": 11556,
-        "JavaScript": 2908
+        "Zig": 629063,
+        "Objective-C++": 61058,
+        "Objective-C": 57748,
+        "C": 54312,
+        "C++": 21463,
+        "JavaScript": 16135,
+        "Shell": 5029
       },
       "tech_stack": [
-        "TypeScript",
-        "CSS",
-        "PLpgSQL",
+        "Zig",
+        "Objective-C++",
+        "Objective-C",
+        "C",
+        "C++",
         "JavaScript",
-        "Express"
+        "Shell",
+        "React"
       ],
       "topics": [],
-      "created_at": "2026-04-29T17:41:12Z",
-      "updated_at": "2026-05-04T05:32:16Z",
-      "pushed_at": "2026-04-29T17:49:39Z",
+      "created_at": "2026-05-08T19:53:41Z",
+      "updated_at": "2026-05-11T05:56:06Z",
+      "pushed_at": "2026-05-09T16:03:03Z",
       "ai_summary": {
-        "summary": "Mike 是开源 AI 法律平台，前端 Next.js 与后端 Express 协同，提供合同审查、法规检索与文档自动化服务，降低中小企业与个人法律成本。",
+        "summary": "用Zig把Web前端秒变原生桌面/移动应用，体积最小、内存最少、热重载最快，可切换系统WebView或CEF。",
         "highlights": [
-          "AI 驱动的合同审查与风险提示",
-          "一键法规检索与合规建议",
-          "开源可自部署，数据本地掌控"
+          "Zig构建，单文件可执行<5MB",
+          "一键init，支持Next/React等前端",
+          "系统WebView/CEF双引擎，兼顾体积与一致性"
         ],
-        "tech_summary": "TypeScript + Next.js + Express + Supabase",
-        "use_case": "中小企业快速合规、律师高效审合同",
+        "tech_summary": "Zig + WebView/CEF + React",
+        "use_case": "轻量级跨平台桌面软件、Web开发者快速打包原生应用",
         "source": "ai"
       },
       "images": {
         "total_count": 0,
         "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/mike",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/zero-native",
         "representative_image": null
       },
-      "activity_score": 68,
-      "popularity_score": 70,
+      "activity_score": 62,
+      "popularity_score": 68,
       "freshness_score": 100,
-      "overall_score": 75,
+      "overall_score": 73,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -239,48 +221,94 @@
     },
     {
       "rank": 4,
-      "name": "NTSB_FOIA_MU5735",
-      "full_name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-      "owner": "wrongly-cuddly-obsession",
-      "avatar_url": "https://avatars.githubusercontent.com/u/280653626?v=4",
-      "stars": 829,
-      "forks": 308,
-      "issues": 16,
-      "watchers": 829,
-      "description": "",
-      "homepage": null,
-      "clone_url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735.git",
-      "ssh_url": "git@github.com:wrongly-cuddly-obsession/NTSB_FOIA_MU5735.git",
-      "html_url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-      "language": null,
-      "primary_language": "Unknown",
-      "languages": {},
-      "tech_stack": [],
-      "topics": [],
-      "created_at": "2026-04-30T10:12:33Z",
-      "updated_at": "2026-05-04T05:34:59Z",
-      "pushed_at": "2026-05-03T17:48:26Z",
+      "name": "mirage",
+      "full_name": "strukto-ai/mirage",
+      "owner": "strukto-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248286111?v=4",
+      "stars": 1817,
+      "forks": 110,
+      "issues": 13,
+      "watchers": 1817,
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "homepage": "https://www.strukto.ai/mirage",
+      "clone_url": "https://github.com/strukto-ai/mirage.git",
+      "ssh_url": "git@github.com:strukto-ai/mirage.git",
+      "html_url": "https://github.com/strukto-ai/mirage",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 10029133,
+        "Python": 7391372,
+        "JavaScript": 10960,
+        "Shell": 4775
+      },
+      "tech_stack": [
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "Shell",
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash"
+      ],
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ],
+      "created_at": "2026-05-06T17:00:48Z",
+      "updated_at": "2026-05-11T05:59:17Z",
+      "pushed_at": "2026-05-10T04:25:13Z",
       "ai_summary": {
-        "summary": "备份并公开东航MU5735空难NTSB FOIA调查文件，防止原始仓库被删后资料丢失，附带非官方中文译稿。",
+        "summary": "为AI Agent打造的统一虚拟文件系统，让大模型像操作本地盘一样安全读写数据、调用工具。",
         "highlights": [
-          "空难关键调查资料永久存档",
-          "原始仓库被删后的唯一公开副本",
-          "提供中文翻译降低阅读门槛"
+          "FUSE虚拟盘即插即用",
+          "沙箱隔离保障数据安全",
+          "已集成OpenAI/Claude/LangChain等主流Agent"
         ],
-        "tech_summary": "纯文档仓库，无特定技术栈",
-        "use_case": "供研究者、媒体与公众查阅空难FOIA数据",
+        "tech_summary": "TypeScript+FUSE+沙箱",
+        "use_case": "需要安全文件交互的LLM Agent开发与部署",
         "source": "ai"
       },
       "images": {
-        "total_count": 0,
-        "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/ntsb_foia_mu5735",
-        "representative_image": null
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_mirage-og-light@2x.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/mirage/1_mirage-og-light@2x.png",
+            "size": 71384,
+            "content_type": "image/png",
+            "downloaded_at": "2026-05-11T06:06:32.250Z",
+            "original_url": "assets/mirage-og-light@2x.png",
+            "absolute_url": "https://raw.githubusercontent.com/strukto-ai/mirage/main/assets/mirage-og-light@2x.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/mirage",
+        "representative_image": {
+          "filename": "1_mirage-og-light@2x.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/mirage/1_mirage-og-light@2x.png",
+          "size": 71384,
+          "content_type": "image/png",
+          "downloaded_at": "2026-05-11T06:06:32.250Z",
+          "original_url": "assets/mirage-og-light@2x.png",
+          "absolute_url": "https://raw.githubusercontent.com/strukto-ai/mirage/main/assets/mirage-og-light@2x.png"
+        }
       },
-      "activity_score": 66,
-      "popularity_score": 64,
+      "activity_score": 59,
+      "popularity_score": 67,
       "freshness_score": 100,
-      "overall_score": 72,
+      "overall_score": 71,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -290,92 +318,72 @@
     },
     {
       "rank": 5,
-      "name": "whatcable",
-      "full_name": "darrylmorley/whatcable",
-      "owner": "darrylmorley",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20406137?v=4",
-      "stars": 1494,
-      "forks": 33,
-      "issues": 16,
-      "watchers": 1494,
-      "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "homepage": "https://github.com/darrylmorley/whatcable/releases/latest",
-      "clone_url": "https://github.com/darrylmorley/whatcable.git",
-      "ssh_url": "git@github.com:darrylmorley/whatcable.git",
-      "html_url": "https://github.com/darrylmorley/whatcable",
-      "language": "Swift",
-      "primary_language": "Swift",
+      "name": "cheat-on-content",
+      "full_name": "XBuilderLAB/cheat-on-content",
+      "owner": "XBuilderLAB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280592915?v=4",
+      "stars": 1587,
+      "forks": 323,
+      "issues": 3,
+      "watchers": 1587,
+      "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.",
+      "homepage": null,
+      "clone_url": "https://github.com/XBuilderLAB/cheat-on-content.git",
+      "ssh_url": "git@github.com:XBuilderLAB/cheat-on-content.git",
+      "html_url": "https://github.com/XBuilderLAB/cheat-on-content",
+      "language": "Shell",
+      "primary_language": "Shell",
       "languages": {
-        "Swift": 181395,
-        "Shell": 20124
+        "Shell": 33044,
+        "Python": 31993
       },
       "tech_stack": [
-        "Swift",
         "Shell",
-        "apple-silicon",
-        "hardware-info",
-        "iokit",
-        "mac-app",
-        "macos",
-        "menubar"
+        "Python"
       ],
-      "topics": [
-        "apple-silicon",
-        "hardware-info",
-        "iokit",
-        "mac-app",
-        "macos",
-        "menubar",
-        "menubar-app",
-        "swift",
-        "swiftui",
-        "thunderbolt",
-        "usb-c",
-        "usb-power-delivery",
-        "utility"
-      ],
-      "created_at": "2026-05-01T07:45:10Z",
-      "updated_at": "2026-05-04T05:30:35Z",
-      "pushed_at": "2026-05-01T19:47:41Z",
+      "topics": [],
+      "created_at": "2026-05-05T10:28:33Z",
+      "updated_at": "2026-05-11T06:01:04Z",
+      "pushed_at": "2026-05-08T18:44:15Z",
       "ai_summary": {
-        "summary": "macOS菜单栏小工具，实时把插在Mac上的每根USB-C线真实能力（功率、速率、协议）用大白话告诉你，一眼识别快充慢充原因。",
+        "summary": "将每条社媒内容变成可量化实验：打分→盲测→复盘→迭代，用数据替代直觉，实现粉丝爆发式增长。",
         "highlights": [
-          "即插即显，菜单栏一键查看",
-          "自动区分雷电4/3、USB4、240W等隐藏规格",
-          "开源Swift原生，Apple Silicon优化，零依赖"
+          "一键把帖子转为A/B实验",
+          "Shell+Python自动化闭环",
+          "作者凭此1个月涨粉100万"
         ],
-        "tech_summary": "Swift+SwiftUI+IOKit，纯原生调用",
-        "use_case": "解决抽屉里同款线不同性能、Mac充电慢却找不到原因的日常痛点",
+        "tech_summary": "Shell驱动Python实验框架",
+        "use_case": "内容创作者批量验证选题与爆款预测",
         "source": "ai"
       },
       "images": {
         "total_count": 1,
         "image_list": [
           {
-            "filename": "1_screenshot.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/whatcable/1_screenshot.png",
-            "size": 102455,
-            "content_type": "image/png",
-            "downloaded_at": "2026-05-04T05:42:30.113Z",
-            "original_url": "docs/screenshot.png",
-            "absolute_url": "https://raw.githubusercontent.com/darrylmorley/whatcable/main/docs/screenshot.png"
+            "filename": "1_logo.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/cheat-on-content/1_logo.svg",
+            "size": 1956,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-05-11T06:06:33.529Z",
+            "original_url": "docs/logo.svg",
+            "absolute_url": "https://raw.githubusercontent.com/XBuilderLAB/cheat-on-content/main/docs/logo.svg"
           }
         ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/whatcable",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/cheat-on-content",
         "representative_image": {
-          "filename": "1_screenshot.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/whatcable/1_screenshot.png",
-          "size": 102455,
-          "content_type": "image/png",
-          "downloaded_at": "2026-05-04T05:42:30.113Z",
-          "original_url": "docs/screenshot.png",
-          "absolute_url": "https://raw.githubusercontent.com/darrylmorley/whatcable/main/docs/screenshot.png"
+          "filename": "1_logo.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/cheat-on-content/1_logo.svg",
+          "size": 1956,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-05-11T06:06:33.529Z",
+          "original_url": "docs/logo.svg",
+          "absolute_url": "https://raw.githubusercontent.com/XBuilderLAB/cheat-on-content/main/docs/logo.svg"
         }
       },
-      "activity_score": 58,
-      "popularity_score": 62,
+      "activity_score": 56,
+      "popularity_score": 69,
       "freshness_score": 100,
-      "overall_score": 68,
+      "overall_score": 71,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -385,57 +393,310 @@
     },
     {
       "rank": 6,
-      "name": "codex-plusplus",
-      "full_name": "b-nnett/codex-plusplus",
-      "owner": "b-nnett",
-      "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "stars": 859,
-      "forks": 42,
-      "issues": 13,
-      "watchers": 859,
-      "description": "Codex++ tweak system for the Codex desktop app",
-      "homepage": null,
-      "clone_url": "https://github.com/b-nnett/codex-plusplus.git",
-      "ssh_url": "git@github.com:b-nnett/codex-plusplus.git",
-      "html_url": "https://github.com/b-nnett/codex-plusplus",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
+      "name": "yao-open-prompts",
+      "full_name": "yaojingang/yao-open-prompts",
+      "owner": "yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "stars": 1585,
+      "forks": 250,
+      "issues": 0,
+      "watchers": 1585,
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "homepage": "https://yaojingang.github.io/yao-open-prompts/",
+      "clone_url": "https://github.com/yaojingang/yao-open-prompts.git",
+      "ssh_url": "git@github.com:yaojingang/yao-open-prompts.git",
+      "html_url": "https://github.com/yaojingang/yao-open-prompts",
+      "language": "Python",
+      "primary_language": "Python",
       "languages": {
-        "TypeScript": 320552,
-        "JavaScript": 14689,
-        "PowerShell": 4312,
-        "Shell": 3034,
-        "Ruby": 981
+        "Python": 39231
       },
       "tech_stack": [
-        "TypeScript",
-        "JavaScript",
-        "PowerShell",
-        "Shell",
-        "Ruby"
+        "Python",
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
       ],
-      "topics": [],
-      "created_at": "2026-04-28T10:35:16Z",
-      "updated_at": "2026-05-04T03:10:32Z",
-      "pushed_at": "2026-05-03T02:09:24Z",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ],
+      "created_at": "2026-05-06T13:04:20Z",
+      "updated_at": "2026-05-11T05:45:34Z",
+      "pushed_at": "2026-05-07T12:39:19Z",
       "ai_summary": {
-        "summary": "无需重新编译即可为Codex桌面客户端注入自定义功能、修复UI缺陷，并提供可视化插件管理器。",
+        "summary": "开源中文AI提示词库，整理116个可直接复制的高质量提示词，覆盖工作、学习、营销、生活等真实场景，帮助用户零门槛调用大模型。",
         "highlights": [
-          "零侵入式补丁，直接修改本地安装包",
-          "跨macOS/Windows双平台，已验证Beta可用",
-          "内置Tweak Manager，一键开关插件"
+          "全中文、场景化分类，开箱即用",
+          "剔除广告与冗余样式，纯净可复用",
+          "持续新增GEO、合同、PPT、学习等实战提示词"
         ],
-        "tech_summary": "TypeScript+脚本语言混合补丁框架",
-        "use_case": "快速给闭源Codex客户端加功能或修UI",
+        "tech_summary": "Python整理+Markdown提示词",
+        "use_case": "快速获取并复用中文Prompt，提升工作学习效率",
         "source": "ai"
       },
       "images": {
         "total_count": 0,
         "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/codex-plusplus",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/yao-open-prompts",
         "representative_image": null
       },
+      "activity_score": 52,
+      "popularity_score": 68,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "3DCellForge",
+      "full_name": "huangserva/3DCellForge",
+      "owner": "huangserva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201197786?v=4",
+      "stars": 943,
+      "forks": 160,
+      "issues": 0,
+      "watchers": 943,
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "homepage": null,
+      "clone_url": "https://github.com/huangserva/3DCellForge.git",
+      "ssh_url": "git@github.com:huangserva/3DCellForge.git",
+      "html_url": "https://github.com/huangserva/3DCellForge",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 164453,
+        "CSS": 41618,
+        "HTML": 363
+      },
+      "tech_stack": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "React"
+      ],
+      "topics": [],
+      "created_at": "2026-05-10T10:34:50Z",
+      "updated_at": "2026-05-11T06:03:39Z",
+      "pushed_at": "2026-05-11T05:42:37Z",
+      "ai_summary": {
+        "summary": "基于AI的交互式3D细胞生成与探索平台，可上传图片秒变立体细胞模型，浏览器内即可旋转缩放、导出GLB。",
+        "highlights": [
+          "React+Three.js零安装即开即用",
+          "支持图片转3D一键生成细胞",
+          "可截图、导出GLB用于教学或汇报"
+        ],
+        "tech_summary": "React+Three.js WebGL方案",
+        "use_case": "生物教学、科研展示、医学科普可视化",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_3dcellforge-demo-cover.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/3dcellforge/1_3dcellforge-demo-cover.jpg",
+            "size": 51517,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2026-05-11T06:06:35.549Z",
+            "original_url": "docs/demo/3DCellForge-demo-cover.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/huangserva/3DCellForge/main/docs/demo/3DCellForge-demo-cover.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/3dcellforge",
+        "representative_image": {
+          "filename": "1_3dcellforge-demo-cover.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/3dcellforge/1_3dcellforge-demo-cover.jpg",
+          "size": 51517,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-05-11T06:06:35.549Z",
+          "original_url": "docs/demo/3DCellForge-demo-cover.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/huangserva/3DCellForge/main/docs/demo/3DCellForge-demo-cover.jpg"
+        }
+      },
+      "activity_score": 53,
+      "popularity_score": 63,
+      "freshness_score": 100,
+      "overall_score": 67,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "tokenspeed",
+      "full_name": "lightseekorg/tokenspeed",
+      "owner": "lightseekorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "stars": 923,
+      "forks": 66,
+      "issues": 11,
+      "watchers": 923,
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "homepage": "https://lightseek.org/blog/lightseek-tokenspeed.html",
+      "clone_url": "https://github.com/lightseekorg/tokenspeed.git",
+      "ssh_url": "git@github.com:lightseekorg/tokenspeed.git",
+      "html_url": "https://github.com/lightseekorg/tokenspeed",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 5987587,
+        "C++": 443094,
+        "Shell": 25050,
+        "CMake": 3949,
+        "Dockerfile": 588
+      },
+      "tech_stack": [
+        "Python",
+        "C++",
+        "Shell",
+        "CMake",
+        "Dockerfile",
+        "blackwell",
+        "deepseek",
+        "gpt-oss"
+      ],
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ],
+      "created_at": "2026-05-06T13:13:21Z",
+      "updated_at": "2026-05-11T06:03:56Z",
+      "pushed_at": "2026-05-11T03:02:17Z",
+      "ai_summary": {
+        "summary": "TokenSpeed是面向智能体场景的极速LLM推理引擎，兼具TensorRT-LLM级性能与vLLM级易用性，主打生产级光速推理。",
+        "highlights": [
+          "TensorRT-LLM级吞吐，延迟低至毫秒",
+          "本地SPMD+静态编译，通信零开销",
+          "一键部署，兼容主流模型生态"
+        ],
+        "tech_summary": "Python/C++/TensorRT/CMake",
+        "use_case": "高并发智能体、实时对话、在线推理服务",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_tokenspeed-banner.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/tokenspeed/1_tokenspeed-banner.png",
+            "size": 350744,
+            "content_type": "image/png",
+            "downloaded_at": "2026-05-11T06:06:36.847Z",
+            "original_url": "./assets/banner/tokenspeed-banner.png",
+            "absolute_url": "https://raw.githubusercontent.com/lightseekorg/tokenspeed/main/assets/banner/tokenspeed-banner.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/tokenspeed",
+        "representative_image": {
+          "filename": "1_tokenspeed-banner.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/tokenspeed/1_tokenspeed-banner.png",
+          "size": 350744,
+          "content_type": "image/png",
+          "downloaded_at": "2026-05-11T06:06:36.847Z",
+          "original_url": "./assets/banner/tokenspeed-banner.png",
+          "absolute_url": "https://raw.githubusercontent.com/lightseekorg/tokenspeed/main/assets/banner/tokenspeed-banner.png"
+        }
+      },
       "activity_score": 58,
+      "popularity_score": 60,
+      "freshness_score": 100,
+      "overall_score": 67,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "CodexPlusPlus",
+      "full_name": "BigPizzaV3/CodexPlusPlus",
+      "owner": "BigPizzaV3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237402563?v=4",
+      "stars": 805,
+      "forks": 50,
+      "issues": 14,
+      "watchers": 805,
+      "description": "一个CodexApp的增强工具",
+      "homepage": "",
+      "clone_url": "https://github.com/BigPizzaV3/CodexPlusPlus.git",
+      "ssh_url": "git@github.com:BigPizzaV3/CodexPlusPlus.git",
+      "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 140373,
+        "JavaScript": 38701,
+        "Batchfile": 1313
+      },
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Batchfile"
+      ],
+      "topics": [],
+      "created_at": "2026-05-06T09:32:49Z",
+      "updated_at": "2026-05-11T06:03:43Z",
+      "pushed_at": "2026-05-11T03:19:45Z",
+      "ai_summary": {
+        "summary": "Codex++ 是 Codex App 的无侵入式增强启动器，通过 DevTools 协议注入脚本，实现会话删除、插件解锁等实用功能，无需改动原安装。",
+        "highlights": [
+          "无侵入式增强，不改原文件",
+          "会话一键删除+撤销，支持本地/云端",
+          "插件选项解锁与强制安装，自由开关"
+        ],
+        "tech_summary": "Python+JavaScript+CDP 协议",
+        "use_case": "让 Codex App 用户安全便捷地扩展功能、管理会话",
+        "source": "ai"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_pain-plugin-disabled.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/codexplusplus/1_pain-plugin-disabled.png",
+            "size": 29735,
+            "content_type": "image/png",
+            "downloaded_at": "2026-05-11T06:06:38.155Z",
+            "original_url": "docs/images/pain-plugin-disabled.png",
+            "absolute_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlus/main/docs/images/pain-plugin-disabled.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/codexplusplus",
+        "representative_image": {
+          "filename": "1_pain-plugin-disabled.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/codexplusplus/1_pain-plugin-disabled.png",
+          "size": 29735,
+          "content_type": "image/png",
+          "downloaded_at": "2026-05-11T06:06:38.155Z",
+          "original_url": "docs/images/pain-plugin-disabled.png",
+          "absolute_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlus/main/docs/images/pain-plugin-disabled.png"
+        }
+      },
+      "activity_score": 59,
       "popularity_score": 59,
       "freshness_score": 100,
       "overall_score": 67,
@@ -447,309 +708,75 @@
       }
     },
     {
-      "rank": 7,
-      "name": "dictionary-of-ai-coding",
-      "full_name": "mattpocock/dictionary-of-ai-coding",
-      "owner": "mattpocock",
-      "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4",
-      "stars": 863,
-      "forks": 116,
+      "rank": 10,
+      "name": "beautiful-html-templates",
+      "full_name": "zarazhangrui/beautiful-html-templates",
+      "owner": "zarazhangrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4",
+      "stars": 774,
+      "forks": 74,
       "issues": 0,
-      "watchers": 863,
-      "description": "AI coding jargon, explained in plain English.",
-      "homepage": "",
-      "clone_url": "https://github.com/mattpocock/dictionary-of-ai-coding.git",
-      "ssh_url": "git@github.com:mattpocock/dictionary-of-ai-coding.git",
-      "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
-      "languages": {
-        "TypeScript": 4814
-      },
-      "tech_stack": [
-        "TypeScript",
-        "React",
-        "MySQL"
-      ],
-      "topics": [],
-      "created_at": "2026-05-01T10:17:05Z",
-      "updated_at": "2026-05-04T05:31:49Z",
-      "pushed_at": "2026-05-03T06:46:50Z",
-      "ai_summary": {
-        "summary": "用通俗英语拆解AI编程黑话，帮助开发者快速理解术语、避免踩坑，降低学习门槛。",
-        "highlights": [
-          "术语速查：覆盖常见AI编码黑话",
-          "通俗解释：用日常语言讲透概念",
-          "开源共建：社区持续补充更新"
-        ],
-        "tech_summary": "TypeScript+React+MySQL全栈",
-        "use_case": "AI新手、全栈开发者查术语、避坑",
-        "source": "ai"
-      },
-      "images": {
-        "total_count": 0,
-        "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/dictionary-of-ai-coding",
-        "representative_image": null
-      },
-      "activity_score": 52,
-      "popularity_score": 61,
-      "freshness_score": 100,
-      "overall_score": 66,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 8,
-      "name": "dbx",
-      "full_name": "t8y2/dbx",
-      "owner": "t8y2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4",
-      "stars": 781,
-      "forks": 44,
-      "issues": 8,
-      "watchers": 781,
-      "description": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
-      "homepage": "",
-      "clone_url": "https://github.com/t8y2/dbx.git",
-      "ssh_url": "git@github.com:t8y2/dbx.git",
-      "html_url": "https://github.com/t8y2/dbx",
-      "language": "Vue",
-      "primary_language": "Vue",
-      "languages": {
-        "Vue": 522952,
-        "Rust": 315868,
-        "TypeScript": 293913,
-        "JavaScript": 6506,
-        "CSS": 6023,
-        "HTML": 685
-      },
-      "tech_stack": [
-        "Vue",
-        "Rust",
-        "TypeScript",
-        "JavaScript",
-        "CSS",
-        "HTML",
-        "clickhouse",
-        "database"
-      ],
-      "topics": [
-        "clickhouse",
-        "database",
-        "database-client",
-        "database-management",
-        "duckdb",
-        "gui",
-        "mongodb",
-        "mysql",
-        "postgresql",
-        "redis",
-        "rust",
-        "sql-server",
-        "sqlite",
-        "tauri",
-        "vue"
-      ],
-      "created_at": "2026-04-29T03:00:36Z",
-      "updated_at": "2026-05-04T04:48:38Z",
-      "pushed_at": "2026-05-04T04:05:38Z",
-      "ai_summary": {
-        "summary": "仅15MB的跨平台数据库客户端，一键连接MySQL、PostgreSQL、SQLite、Redis、MongoDB等十余种主流数据库，开源免费。",
-        "highlights": [
-          "体积仅15MB，秒级启动",
-          "支持10+种数据库，统一界面管理",
-          "Vue+Rust+Tauri，跨Windows/macOS/Linux"
-        ],
-        "tech_summary": "Vue前端+Rust后端+Tauri壳",
-        "use_case": "开发与运维人员随身的数据库管理利器",
-        "source": "ai"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_logo.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/dbx/1_logo.png",
-            "size": 32083,
-            "content_type": "image/png",
-            "downloaded_at": "2026-05-04T05:42:34.219Z",
-            "original_url": "docs/logo.png",
-            "absolute_url": "https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/dbx",
-        "representative_image": {
-          "filename": "1_logo.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/dbx/1_logo.png",
-          "size": 32083,
-          "content_type": "image/png",
-          "downloaded_at": "2026-05-04T05:42:34.219Z",
-          "original_url": "docs/logo.png",
-          "absolute_url": "https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png"
-        }
-      },
-      "activity_score": 56,
-      "popularity_score": 58,
-      "freshness_score": 100,
-      "overall_score": 66,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 9,
-      "name": "chromex",
-      "full_name": "GENEXIS-AI/chromex",
-      "owner": "GENEXIS-AI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4",
-      "stars": 775,
-      "forks": 64,
-      "issues": 2,
-      "watchers": 775,
-      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+      "watchers": 774,
+      "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
       "homepage": null,
-      "clone_url": "https://github.com/GENEXIS-AI/chromex.git",
-      "ssh_url": "git@github.com:GENEXIS-AI/chromex.git",
-      "html_url": "https://github.com/GENEXIS-AI/chromex",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
+      "clone_url": "https://github.com/zarazhangrui/beautiful-html-templates.git",
+      "ssh_url": "git@github.com:zarazhangrui/beautiful-html-templates.git",
+      "html_url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "language": "HTML",
+      "primary_language": "HTML",
       "languages": {
-        "TypeScript": 7382457,
-        "CSS": 233854,
-        "JavaScript": 184038,
-        "HTML": 1800
+        "HTML": 1539080,
+        "JavaScript": 207025,
+        "CSS": 22878
       },
       "tech_stack": [
-        "TypeScript",
-        "CSS",
-        "JavaScript",
         "HTML",
-        "Node.js"
+        "JavaScript",
+        "CSS"
       ],
       "topics": [],
-      "created_at": "2026-04-28T11:08:06Z",
-      "updated_at": "2026-05-04T05:19:17Z",
-      "pushed_at": "2026-05-04T05:20:34Z",
+      "created_at": "2026-05-05T06:18:21Z",
+      "updated_at": "2026-05-11T06:02:26Z",
+      "pushed_at": "2026-05-06T01:45:30Z",
       "ai_summary": {
-        "summary": "Chrome侧边栏AI助手，通过本地桥接Codex，可对话网页、标签、截图、文件并执行浏览器工作流，零存储凭据。",
+        "summary": "为AI编程助手准备的现成HTML幻灯片模板库，一键生成高颜值演示文稿，无需人工排版。",
         "highlights": [
-          "侧边栏集成，不离开当前页即可交互",
-          "支持网页、标签、截图、PDF/Office/图片等多模态输入",
-          "本地桥接Codex，凭据不留扩展，安全合规"
+          "模板丰富，开箱即用",
+          "AI自动匹配用户主题并填充内容",
+          "纯前端，零依赖，秒级渲染"
         ],
-        "tech_summary": "TypeScript+MV3扩展，本地Node桥接Codex",
-        "use_case": "研究、办公、教学等需快速总结与操作网页内容的场景",
+        "tech_summary": "HTML+CSS+JS纯前端方案",
+        "use_case": "AI代理快速为用户生成专业演讲或汇报PPT",
         "source": "ai"
       },
       "images": {
         "total_count": 1,
         "image_list": [
           {
-            "filename": "1_badge.svg",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/chromex/1_badge.svg",
-            "size": 2262,
-            "content_type": "image/svg+xml; charset=utf-8",
-            "downloaded_at": "2026-05-04T05:42:35.460Z",
-            "original_url": "https://github.com/GENEXIS-AI/chromex/actions/workflows/ci.yml/badge.svg",
-            "absolute_url": "https://github.com/GENEXIS-AI/chromex/actions/workflows/ci.yml/badge.svg"
+            "filename": "1_soft-editorial-4.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/beautiful-html-templates/1_soft-editorial-4.png",
+            "size": 138216,
+            "content_type": "image/png",
+            "downloaded_at": "2026-05-11T06:06:39.173Z",
+            "original_url": "./screenshots/soft-editorial-4.png",
+            "absolute_url": "https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png"
           }
         ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/chromex",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/beautiful-html-templates",
         "representative_image": {
-          "filename": "1_badge.svg",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/chromex/1_badge.svg",
-          "size": 2262,
-          "content_type": "image/svg+xml; charset=utf-8",
-          "downloaded_at": "2026-05-04T05:42:35.460Z",
-          "original_url": "https://github.com/GENEXIS-AI/chromex/actions/workflows/ci.yml/badge.svg",
-          "absolute_url": "https://github.com/GENEXIS-AI/chromex/actions/workflows/ci.yml/badge.svg"
+          "filename": "1_soft-editorial-4.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-20/beautiful-html-templates/1_soft-editorial-4.png",
+          "size": 138216,
+          "content_type": "image/png",
+          "downloaded_at": "2026-05-11T06:06:39.173Z",
+          "original_url": "./screenshots/soft-editorial-4.png",
+          "absolute_url": "https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png"
         }
       },
-      "activity_score": 52,
+      "activity_score": 46,
       "popularity_score": 59,
       "freshness_score": 100,
-      "overall_score": 65,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 10,
-      "name": "SoftwareCopyright-Skill",
-      "full_name": "Fokkyp/SoftwareCopyright-Skill",
-      "owner": "Fokkyp",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4",
-      "stars": 678,
-      "forks": 146,
-      "issues": 0,
-      "watchers": 678,
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "homepage": null,
-      "clone_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill.git",
-      "ssh_url": "git@github.com:Fokkyp/SoftwareCopyright-Skill.git",
-      "html_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "language": "Python",
-      "primary_language": "Python",
-      "languages": {
-        "Python": 156214
-      },
-      "tech_stack": [
-        "Python"
-      ],
-      "topics": [],
-      "created_at": "2026-04-29T10:07:08Z",
-      "updated_at": "2026-05-04T04:43:10Z",
-      "pushed_at": "2026-04-29T12:24:59Z",
-      "ai_summary": {
-        "summary": "一键解析本地代码，自动生成中国软件著作权申请所需的全部.docx材料，彻底告别高价代办。",
-        "highlights": [
-          "完全免费开源，零付费陷阱",
-          "自动截取代码、生成手册并保持字段一致",
-          "本地运行，代码隐私零泄露"
-        ],
-        "tech_summary": "纯Python，依赖python-docx",
-        "use_case": "个人/企业开发者自助申请软著，节省数千元代办费",
-        "source": "ai"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_demo-1.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/softwarecopyright-skill/1_demo-1.png",
-            "size": 123539,
-            "content_type": "image/png",
-            "downloaded_at": "2026-05-04T05:42:36.541Z",
-            "original_url": "docs/screenshots/demo-1.png",
-            "absolute_url": "https://raw.githubusercontent.com/Fokkyp/SoftwareCopyright-Skill/main/docs/screenshots/demo-1.png"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/softwarecopyright-skill",
-        "representative_image": {
-          "filename": "1_demo-1.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-19/softwarecopyright-skill/1_demo-1.png",
-          "size": 123539,
-          "content_type": "image/png",
-          "downloaded_at": "2026-05-04T05:42:36.541Z",
-          "original_url": "docs/screenshots/demo-1.png",
-          "absolute_url": "https://raw.githubusercontent.com/Fokkyp/SoftwareCopyright-Skill/main/docs/screenshots/demo-1.png"
-        }
-      },
-      "activity_score": 49,
-      "popularity_score": 60,
-      "freshness_score": 100,
-      "overall_score": 65,
+      "overall_score": 63,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -759,35 +786,39 @@
     }
   ],
   "statistics": {
-    "total_stars": 31336,
-    "total_forks": 4086,
-    "average_stars": 3134,
-    "average_forks": 409,
+    "total_stars": 21466,
+    "total_forks": 2222,
+    "average_stars": 2147,
+    "average_forks": 222,
     "top_languages": [
       {
-        "name": "TypeScript",
-        "count": 5
+        "name": "Python",
+        "count": 3
       },
       {
-        "name": "Python",
+        "name": "C",
         "count": 2
       },
       {
-        "name": "Unknown",
+        "name": "Zig",
         "count": 1
       },
       {
-        "name": "Swift",
+        "name": "TypeScript",
         "count": 1
       },
       {
-        "name": "Vue",
+        "name": "Shell",
         "count": 1
       }
     ],
     "top_topics": [
       {
-        "name": "agent-skills",
+        "name": "agent-sandbox",
+        "count": 1
+      },
+      {
+        "name": "agent-tools",
         "count": 1
       },
       {
@@ -795,44 +826,40 @@
         "count": 1
       },
       {
-        "name": "ai-design",
+        "name": "bash",
         "count": 1
       },
       {
-        "name": "byok",
+        "name": "claude-code",
         "count": 1
       },
       {
-        "name": "claude",
+        "name": "fuse",
         "count": 1
       },
       {
-        "name": "claude-code-for-design",
+        "name": "langchain",
         "count": 1
       },
       {
-        "name": "claude-design",
+        "name": "llm-agents",
         "count": 1
       },
       {
-        "name": "coding-agents",
+        "name": "openai-agents",
         "count": 1
       },
       {
-        "name": "design-systems",
-        "count": 1
-      },
-      {
-        "name": "design-tools",
+        "name": "python",
         "count": 1
       }
     ],
     "score_distribution": {
-      "min": 65,
-      "max": 94,
+      "min": 63,
+      "max": 86,
       "average": 72,
-      "median": 68
+      "median": 71
     }
   },
-  "generated_at": "2026-05-04T05:42:36.549Z"
+  "generated_at": "2026-05-11T06:06:39.181Z"
 }

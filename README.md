@@ -18,225 +18,232 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第19周
+### GitHub趋势排行榜 - 2026年第20周
 
-**📅 统计周期**: 2026-05-03 ~ 2026-05-09  
+**📅 统计周期**: 2026-05-10 ~ 2026-05-16  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 31,336  
-**🔄 更新时间**: 2026-05-09 23:59:59  
+**⭐ 总Star数**: 21,466  
+**🔄 更新时间**: 2026-05-16 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [open-design](https://github.com/nexu-io/open-design) | 本地优先的开源AI设计工具，一键生成网页/桌面/移动端原型、幻灯片、图片、视频，可对接13种主流AI编码助手，自带... | 20,285 | 2,247 | TypeScript | 🆕 |
-| 2 | [copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) | 针对CVE-2026-31431的Linux内核本地提权漏洞PoC，一键验证多发行版风险，帮助运维快速排查。 | 3,045 | 634 | Python | 🆕 |
-| 3 | [mike](https://github.com/willchen96/mike) | Mike 是开源 AI 法律平台，前端 Next.js 与后端 Express 协同，提供合同审查、法规检索与文档... | 1,727 | 452 | TypeScript | 🆕 |
-| 4 | [NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) | 备份并公开东航MU5735空难NTSB FOIA调查文件，防止原始仓库被删后资料丢失，附带非官方中文译稿。 | 829 | 308 | Unknown | 🆕 |
-| 5 | [whatcable](https://github.com/darrylmorley/whatcable) | macOS菜单栏小工具，实时把插在Mac上的每根USB-C线真实能力（功率、速率、协议）用大白话告诉你，一眼识别快... | 1,494 | 33 | Swift | 🆕 |
-| 6 | [codex-plusplus](https://github.com/b-nnett/codex-plusplus) | 无需重新编译即可为Codex桌面客户端注入自定义功能、修复UI缺陷，并提供可视化插件管理器。 | 859 | 42 | TypeScript | 🆕 |
-| 7 | [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | 用通俗英语拆解AI编程黑话，帮助开发者快速理解术语、避免踩坑，降低学习门槛。 | 863 | 116 | TypeScript | 🆕 |
-| 8 | [dbx](https://github.com/t8y2/dbx) | 仅15MB的跨平台数据库客户端，一键连接MySQL、PostgreSQL、SQLite、Redis、MongoDB... | 781 | 44 | Vue | 🆕 |
-| 9 | [chromex](https://github.com/GENEXIS-AI/chromex) | Chrome侧边栏AI助手，通过本地桥接Codex，可对话网页、标签、截图、文件并执行浏览器工作流，零存储凭据。 | 775 | 64 | TypeScript | 🆕 |
-| 10 | [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) | 一键解析本地代码，自动生成中国软件著作权申请所需的全部.docx材料，彻底告别高价代办。 | 678 | 146 | Python | 🆕 |
+| 1 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) | Dirty Frag通过组合两个内核页缓存写漏洞，在主流Linux发行版上实现一键本地提权，影响面极广。 | 4,066 | 608 | C | 🆕 |
+| 2 | [ds4](https://github.com/antirez/ds4) | 专为DeepSeek V4 Flash打造的轻量级本地推理引擎，用Metal在苹果芯片上极速跑大模型，零依赖、低延迟。 | 6,588 | 477 | C | 🆕 |
+| 3 | [zero-native](https://github.com/vercel-labs/zero-native) | 用Zig把Web前端秒变原生桌面/移动应用，体积最小、内存最少、热重载最快，可切换系统WebView或CEF。 | 2,378 | 104 | Zig | 🆕 |
+| 4 | [mirage](https://github.com/strukto-ai/mirage) | 为AI Agent打造的统一虚拟文件系统，让大模型像操作本地盘一样安全读写数据、调用工具。 | 1,817 | 110 | TypeScript | 🆕 |
+| 5 | [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) | 将每条社媒内容变成可量化实验：打分→盲测→复盘→迭代，用数据替代直觉，实现粉丝爆发式增长。 | 1,587 | 323 | Shell | 🆕 |
+| 6 | [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 开源中文AI提示词库，整理116个可直接复制的高质量提示词，覆盖工作、学习、营销、生活等真实场景，帮助用户零门槛调... | 1,585 | 250 | Python | 🆕 |
+| 7 | [3DCellForge](https://github.com/huangserva/3DCellForge) | 基于AI的交互式3D细胞生成与探索平台，可上传图片秒变立体细胞模型，浏览器内即可旋转缩放、导出GLB。 | 943 | 160 | JavaScript | 🆕 |
+| 8 | [tokenspeed](https://github.com/lightseekorg/tokenspeed) | TokenSpeed是面向智能体场景的极速LLM推理引擎，兼具TensorRT-LLM级性能与vLLM级易用性，主... | 923 | 66 | Python | 🆕 |
+| 9 | [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | Codex++ 是 Codex App 的无侵入式增强启动器，通过 DevTools 协议注入脚本，实现会话删除、... | 805 | 50 | Python | 🆕 |
+| 10 | [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) | 为AI编程助手准备的现成HTML幻灯片模板库，一键生成高颜值演示文稿，无需人工排版。 | 774 | 74 | HTML | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [open-design](https://github.com/nexu-io/open-design) ![Star](https://img.shields.io/github/stars/nexu-io/open-design?style=social)
+#### 1. [dirtyfrag](https://github.com/V4bel/dirtyfrag) ![Star](https://img.shields.io/github/stars/V4bel/dirtyfrag?style=social)
 
-<img src="./images/2026/week-19/open-design/1_banner.png" alt="open-design" width="500"/>
+<img src="./images/2026/week-20/dirtyfrag/1_demo.gif" alt="dirtyfrag" width="500"/>
 
-**📝 项目简介**: 本地优先的开源AI设计工具，一键生成网页/桌面/移动端原型、幻灯片、图片、视频，可对接13种主流AI编码助手，自带72套品牌级设计系统。
+**📝 项目简介**: Dirty Frag通过组合两个内核页缓存写漏洞，在主流Linux发行版上实现一键本地提权，影响面极广。
 
 **✨ 核心特性**:
-- 零门槛替代Claude Design，完全开源
-- 支持HTML/PDF/PPTX/MP4多格式导出
-- BYOK模式，兼容所有OpenAI接口与主流CLI
+- 一键获取root权限
+- 覆盖多版本主流发行版
+- 利用链公开，验证简单
 
 **📊 项目统计**:
-- **⭐ Star数**: 20,285
-- **🔀 Fork数**: 2,247
-- **👀 Watch数**: 20,285
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://github.com/nexu-io/open-design](https://github.com/nexu-io/open-design)
-- **💻 技术栈**: TypeScript, HTML, CSS, JavaScript, Python, Astro
+- **⭐ Star数**: 4,066
+- **🔀 Fork数**: 608
+- **👀 Watch数**: 4,066
+- **📝 语言**: C
+- **💻 技术栈**: C
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) ![Star](https://img.shields.io/github/stars/theori-io/copy-fail-CVE-2026-31431?style=social)
+#### 2. [ds4](https://github.com/antirez/ds4) ![Star](https://img.shields.io/github/stars/antirez/ds4?style=social)
 
-**📝 项目简介**: 针对CVE-2026-31431的Linux内核本地提权漏洞PoC，一键验证多发行版风险，帮助运维快速排查。
+**📝 项目简介**: 专为DeepSeek V4 Flash打造的轻量级本地推理引擎，用Metal在苹果芯片上极速跑大模型，零依赖、低延迟。
 
 **✨ 核心特性**:
-- 覆盖Ubuntu、Amazon Linux、RHEL、SUSE等主流云镜像
-- 提供内核版本对照表，精准定位受影响系统
-- 开源PoC，社区持续更新，Star已超3k
+- 苹果Metal原生加速，推理速度极快
+- 仅针对DeepSeek V4 Flash深度优化，体积小巧
+- 内置KV缓存与HTTP API，一键启动本地服务
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,045
-- **🔀 Fork数**: 634
-- **👀 Watch数**: 3,045
+- **⭐ Star数**: 6,588
+- **🔀 Fork数**: 477
+- **👀 Watch数**: 6,588
+- **📝 语言**: C
+- **💻 技术栈**: C, Objective-C, Metal, Python, Shell, Makefile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [zero-native](https://github.com/vercel-labs/zero-native) ![Star](https://img.shields.io/github/stars/vercel-labs/zero-native?style=social)
+
+**📝 项目简介**: 用Zig把Web前端秒变原生桌面/移动应用，体积最小、内存最少、热重载最快，可切换系统WebView或CEF。
+
+**✨ 核心特性**:
+- Zig构建，单文件可执行<5MB
+- 一键init，支持Next/React等前端
+- 系统WebView/CEF双引擎，兼顾体积与一致性
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,378
+- **🔀 Fork数**: 104
+- **👀 Watch数**: 2,378
+- **📝 语言**: Zig
+- **🌐 官网**: [https://zero-native.dev](https://zero-native.dev)
+- **💻 技术栈**: Zig, Objective-C++, Objective-C, C, C++, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [mirage](https://github.com/strukto-ai/mirage) ![Star](https://img.shields.io/github/stars/strukto-ai/mirage?style=social)
+
+<img src="./images/2026/week-20/mirage/1_mirage-og-light@2x.png" alt="mirage" width="500"/>
+
+**📝 项目简介**: 为AI Agent打造的统一虚拟文件系统，让大模型像操作本地盘一样安全读写数据、调用工具。
+
+**✨ 核心特性**:
+- FUSE虚拟盘即插即用
+- 沙箱隔离保障数据安全
+- 已集成OpenAI/Claude/LangChain等主流Agent
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,817
+- **🔀 Fork数**: 110
+- **👀 Watch数**: 1,817
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://www.strukto.ai/mirage](https://www.strukto.ai/mirage)
+- **💻 技术栈**: TypeScript, Python, JavaScript, Shell, agent-sandbox, agent-tools
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) ![Star](https://img.shields.io/github/stars/XBuilderLAB/cheat-on-content?style=social)
+
+<img src="./images/2026/week-20/cheat-on-content/1_logo.svg" alt="cheat-on-content" width="500"/>
+
+**📝 项目简介**: 将每条社媒内容变成可量化实验：打分→盲测→复盘→迭代，用数据替代直觉，实现粉丝爆发式增长。
+
+**✨ 核心特性**:
+- 一键把帖子转为A/B实验
+- Shell+Python自动化闭环
+- 作者凭此1个月涨粉100万
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,587
+- **🔀 Fork数**: 323
+- **👀 Watch数**: 1,587
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) ![Star](https://img.shields.io/github/stars/yaojingang/yao-open-prompts?style=social)
+
+**📝 项目简介**: 开源中文AI提示词库，整理116个可直接复制的高质量提示词，覆盖工作、学习、营销、生活等真实场景，帮助用户零门槛调用大模型。
+
+**✨ 核心特性**:
+- 全中文、场景化分类，开箱即用
+- 剔除广告与冗余样式，纯净可复用
+- 持续新增GEO、合同、PPT、学习等实战提示词
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,585
+- **🔀 Fork数**: 250
+- **👀 Watch数**: 1,585
 - **📝 语言**: Python
-- **💻 技术栈**: Python, AWS
+- **🌐 官网**: [https://yaojingang.github.io/yao-open-prompts/](https://yaojingang.github.io/yao-open-prompts/)
+- **💻 技术栈**: Python, ai, chinese-prompts, geo, prompt-engineering, prompts
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [mike](https://github.com/willchen96/mike) ![Star](https://img.shields.io/github/stars/willchen96/mike?style=social)
+#### 7. [3DCellForge](https://github.com/huangserva/3DCellForge) ![Star](https://img.shields.io/github/stars/huangserva/3DCellForge?style=social)
 
-**📝 项目简介**: Mike 是开源 AI 法律平台，前端 Next.js 与后端 Express 协同，提供合同审查、法规检索与文档自动化服务，降低中小企业与个人法律成本。
+<img src="./images/2026/week-20/3dcellforge/1_3dcellforge-demo-cover.jpg" alt="3DCellForge" width="500"/>
+
+**📝 项目简介**: 基于AI的交互式3D细胞生成与探索平台，可上传图片秒变立体细胞模型，浏览器内即可旋转缩放、导出GLB。
 
 **✨ 核心特性**:
-- AI 驱动的合同审查与风险提示
-- 一键法规检索与合规建议
-- 开源可自部署，数据本地掌控
+- React+Three.js零安装即开即用
+- 支持图片转3D一键生成细胞
+- 可截图、导出GLB用于教学或汇报
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,727
-- **🔀 Fork数**: 452
-- **👀 Watch数**: 1,727
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, PLpgSQL, JavaScript, Express
+- **⭐ Star数**: 943
+- **🔀 Fork数**: 160
+- **👀 Watch数**: 943
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) ![Star](https://img.shields.io/github/stars/wrongly-cuddly-obsession/NTSB_FOIA_MU5735?style=social)
+#### 8. [tokenspeed](https://github.com/lightseekorg/tokenspeed) ![Star](https://img.shields.io/github/stars/lightseekorg/tokenspeed?style=social)
 
-**📝 项目简介**: 备份并公开东航MU5735空难NTSB FOIA调查文件，防止原始仓库被删后资料丢失，附带非官方中文译稿。
+<img src="./images/2026/week-20/tokenspeed/1_tokenspeed-banner.png" alt="tokenspeed" width="500"/>
 
-**✨ 核心特性**:
-- 空难关键调查资料永久存档
-- 原始仓库被删后的唯一公开副本
-- 提供中文翻译降低阅读门槛
-
-**📊 项目统计**:
-- **⭐ Star数**: 829
-- **🔀 Fork数**: 308
-- **👀 Watch数**: 829
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [whatcable](https://github.com/darrylmorley/whatcable) ![Star](https://img.shields.io/github/stars/darrylmorley/whatcable?style=social)
-
-<img src="./images/2026/week-19/whatcable/1_screenshot.png" alt="whatcable" width="500"/>
-
-**📝 项目简介**: macOS菜单栏小工具，实时把插在Mac上的每根USB-C线真实能力（功率、速率、协议）用大白话告诉你，一眼识别快充慢充原因。
+**📝 项目简介**: TokenSpeed是面向智能体场景的极速LLM推理引擎，兼具TensorRT-LLM级性能与vLLM级易用性，主打生产级光速推理。
 
 **✨ 核心特性**:
-- 即插即显，菜单栏一键查看
-- 自动区分雷电4/3、USB4、240W等隐藏规格
-- 开源Swift原生，Apple Silicon优化，零依赖
+- TensorRT-LLM级吞吐，延迟低至毫秒
+- 本地SPMD+静态编译，通信零开销
+- 一键部署，兼容主流模型生态
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,494
-- **🔀 Fork数**: 33
-- **👀 Watch数**: 1,494
-- **📝 语言**: Swift
-- **🌐 官网**: [https://github.com/darrylmorley/whatcable/releases/latest](https://github.com/darrylmorley/whatcable/releases/latest)
-- **💻 技术栈**: Swift, Shell, apple-silicon, hardware-info, iokit, mac-app
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [codex-plusplus](https://github.com/b-nnett/codex-plusplus) ![Star](https://img.shields.io/github/stars/b-nnett/codex-plusplus?style=social)
-
-**📝 项目简介**: 无需重新编译即可为Codex桌面客户端注入自定义功能、修复UI缺陷，并提供可视化插件管理器。
-
-**✨ 核心特性**:
-- 零侵入式补丁，直接修改本地安装包
-- 跨macOS/Windows双平台，已验证Beta可用
-- 内置Tweak Manager，一键开关插件
-
-**📊 项目统计**:
-- **⭐ Star数**: 859
-- **🔀 Fork数**: 42
-- **👀 Watch数**: 859
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, PowerShell, Shell, Ruby
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) ![Star](https://img.shields.io/github/stars/mattpocock/dictionary-of-ai-coding?style=social)
-
-**📝 项目简介**: 用通俗英语拆解AI编程黑话，帮助开发者快速理解术语、避免踩坑，降低学习门槛。
-
-**✨ 核心特性**:
-- 术语速查：覆盖常见AI编码黑话
-- 通俗解释：用日常语言讲透概念
-- 开源共建：社区持续补充更新
-
-**📊 项目统计**:
-- **⭐ Star数**: 863
-- **🔀 Fork数**: 116
-- **👀 Watch数**: 863
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, React, MySQL
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [dbx](https://github.com/t8y2/dbx) ![Star](https://img.shields.io/github/stars/t8y2/dbx?style=social)
-
-<img src="./images/2026/week-19/dbx/1_logo.png" alt="dbx" width="500"/>
-
-**📝 项目简介**: 仅15MB的跨平台数据库客户端，一键连接MySQL、PostgreSQL、SQLite、Redis、MongoDB等十余种主流数据库，开源免费。
-
-**✨ 核心特性**:
-- 体积仅15MB，秒级启动
-- 支持10+种数据库，统一界面管理
-- Vue+Rust+Tauri，跨Windows/macOS/Linux
-
-**📊 项目统计**:
-- **⭐ Star数**: 781
-- **🔀 Fork数**: 44
-- **👀 Watch数**: 781
-- **📝 语言**: Vue
-- **💻 技术栈**: Vue, Rust, TypeScript, JavaScript, CSS, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [chromex](https://github.com/GENEXIS-AI/chromex) ![Star](https://img.shields.io/github/stars/GENEXIS-AI/chromex?style=social)
-
-<img src="./images/2026/week-19/chromex/1_badge.svg" alt="chromex" width="500"/>
-
-**📝 项目简介**: Chrome侧边栏AI助手，通过本地桥接Codex，可对话网页、标签、截图、文件并执行浏览器工作流，零存储凭据。
-
-**✨ 核心特性**:
-- 侧边栏集成，不离开当前页即可交互
-- 支持网页、标签、截图、PDF/Office/图片等多模态输入
-- 本地桥接Codex，凭据不留扩展，安全合规
-
-**📊 项目统计**:
-- **⭐ Star数**: 775
-- **🔀 Fork数**: 64
-- **👀 Watch数**: 775
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, JavaScript, HTML, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) ![Star](https://img.shields.io/github/stars/Fokkyp/SoftwareCopyright-Skill?style=social)
-
-<img src="./images/2026/week-19/softwarecopyright-skill/1_demo-1.png" alt="SoftwareCopyright-Skill" width="500"/>
-
-**📝 项目简介**: 一键解析本地代码，自动生成中国软件著作权申请所需的全部.docx材料，彻底告别高价代办。
-
-**✨ 核心特性**:
-- 完全免费开源，零付费陷阱
-- 自动截取代码、生成手册并保持字段一致
-- 本地运行，代码隐私零泄露
-
-**📊 项目统计**:
-- **⭐ Star数**: 678
-- **🔀 Fork数**: 146
-- **👀 Watch数**: 678
+- **⭐ Star数**: 923
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 923
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **🌐 官网**: [https://lightseek.org/blog/lightseek-tokenspeed.html](https://lightseek.org/blog/lightseek-tokenspeed.html)
+- **💻 技术栈**: Python, C++, Shell, CMake, Dockerfile, blackwell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) ![Star](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=social)
+
+<img src="./images/2026/week-20/codexplusplus/1_pain-plugin-disabled.png" alt="CodexPlusPlus" width="500"/>
+
+**📝 项目简介**: Codex++ 是 Codex App 的无侵入式增强启动器，通过 DevTools 协议注入脚本，实现会话删除、插件解锁等实用功能，无需改动原安装。
+
+**✨ 核心特性**:
+- 无侵入式增强，不改原文件
+- 会话一键删除+撤销，支持本地/云端
+- 插件选项解锁与强制安装，自由开关
+
+**📊 项目统计**:
+- **⭐ Star数**: 805
+- **🔀 Fork数**: 50
+- **👀 Watch数**: 805
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ![Star](https://img.shields.io/github/stars/zarazhangrui/beautiful-html-templates?style=social)
+
+<img src="./images/2026/week-20/beautiful-html-templates/1_soft-editorial-4.png" alt="beautiful-html-templates" width="500"/>
+
+**📝 项目简介**: 为AI编程助手准备的现成HTML幻灯片模板库，一键生成高颜值演示文稿，无需人工排版。
+
+**✨ 核心特性**:
+- 模板丰富，开箱即用
+- AI自动匹配用户主题并填充内容
+- 纯前端，零依赖，秒级渲染
+
+**📊 项目统计**:
+- **⭐ Star数**: 774
+- **🔀 Fork数**: 74
+- **👀 Watch数**: 774
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, JavaScript, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,21 +251,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (5 个项目)
-2. **Python** (2 个项目)
-3. **Unknown** (1 个项目)
-4. **Swift** (1 个项目)
-5. **Vue** (1 个项目)
+1. **Python** (3 个项目)
+2. **C** (2 个项目)
+3. **Zig** (1 个项目)
+4. **TypeScript** (1 个项目)
+5. **Shell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. agent-skills (1)
-2. ai-agents (1)
-3. ai-design (1)
-4. byok (1)
-5. claude (1)
-6. claude-code-for-design (1)
-7. claude-design (1)
-8. coding-agents (1)
+1. agent-sandbox (1)
+2. agent-tools (1)
+3. ai-agents (1)
+4. bash (1)
+5. claude-code (1)
+6. fuse (1)
+7. langchain (1)
+8. llm-agents (1)
 
 
 <!-- TRENDING-END -->
@@ -268,6 +275,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
 | 05-09 | 2026年第19周 | 10 个 | [查看详情](./archives/2026/week-19/report.md) |
 | 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
 | 04-25 | 2026年第17周 | 10 个 | [查看详情](./archives/2026/week-17/report.md) |
@@ -287,7 +295,6 @@
 | 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
 | 01-10 | 2026年第2周 | 10 个 | [查看详情](./archives/2026/week-2/report.md) |
 | 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
-| 12-20 | 2025年第51周 | 10 个 | [查看详情](./archives/2025/week-51/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
