@@ -18,232 +18,208 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第20周
+### GitHub趋势排行榜 - 2026年第21周
 
-**📅 统计周期**: 2026-05-10 ~ 2026-05-16  
+**📅 统计周期**: 2026-05-17 ~ 2026-05-23  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 21,466  
-**🔄 更新时间**: 2026-05-16 23:59:59  
+**⭐ 总Star数**: 11,365  
+**🔄 更新时间**: 2026-05-23 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) | Dirty Frag通过组合两个内核页缓存写漏洞，在主流Linux发行版上实现一键本地提权，影响面极广。 | 4,066 | 608 | C | 🆕 |
-| 2 | [ds4](https://github.com/antirez/ds4) | 专为DeepSeek V4 Flash打造的轻量级本地推理引擎，用Metal在苹果芯片上极速跑大模型，零依赖、低延迟。 | 6,588 | 477 | C | 🆕 |
-| 3 | [zero-native](https://github.com/vercel-labs/zero-native) | 用Zig把Web前端秒变原生桌面/移动应用，体积最小、内存最少、热重载最快，可切换系统WebView或CEF。 | 2,378 | 104 | Zig | 🆕 |
-| 4 | [mirage](https://github.com/strukto-ai/mirage) | 为AI Agent打造的统一虚拟文件系统，让大模型像操作本地盘一样安全读写数据、调用工具。 | 1,817 | 110 | TypeScript | 🆕 |
-| 5 | [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) | 将每条社媒内容变成可量化实验：打分→盲测→复盘→迭代，用数据替代直觉，实现粉丝爆发式增长。 | 1,587 | 323 | Shell | 🆕 |
-| 6 | [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 开源中文AI提示词库，整理116个可直接复制的高质量提示词，覆盖工作、学习、营销、生活等真实场景，帮助用户零门槛调... | 1,585 | 250 | Python | 🆕 |
-| 7 | [3DCellForge](https://github.com/huangserva/3DCellForge) | 基于AI的交互式3D细胞生成与探索平台，可上传图片秒变立体细胞模型，浏览器内即可旋转缩放、导出GLB。 | 943 | 160 | JavaScript | 🆕 |
-| 8 | [tokenspeed](https://github.com/lightseekorg/tokenspeed) | TokenSpeed是面向智能体场景的极速LLM推理引擎，兼具TensorRT-LLM级性能与vLLM级易用性，主... | 923 | 66 | Python | 🆕 |
-| 9 | [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | Codex++ 是 Codex App 的无侵入式增强启动器，通过 DevTools 协议注入脚本，实现会话删除、... | 805 | 50 | Python | 🆕 |
-| 10 | [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) | 为AI编程助手准备的现成HTML幻灯片模板库，一键生成高颜值演示文稿，无需人工排版。 | 774 | 74 | HTML | 🆕 |
+| 1 | [YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) | 一个使用Unknown开发的开源项目：YellowKey Bitlocker Bypass Vulnerabili... | 3,199 | 682 | Unknown | 🆕 |
+| 2 | [zero](https://github.com/vercel-labs/zero) | 一个使用C开发的开源项目：The programming language for agents，已获得1,853... | 1,853 | 117 | C | 🆕 |
+| 3 | [Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic) | 一个热门的Python开源项目，在GitHub上获得了924个star，值得关注。 | 924 | 539 | Python | 🆕 |
+| 4 | [native-feel-skill](https://github.com/yetone/native-feel-skill) | 一个使用Unknown开发的开源项目：An Agent Skill for designing cross-pla... | 1,288 | 61 | Unknown | 🆕 |
+| 5 | [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) | 一个使用Unknown开发的开源项目：Provider-neutral Agent Skill for Codex... | 736 | 62 | Unknown | 🆕 |
+| 6 | [Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift) | 一个使用Python开发的开源项目：exploit for CVE-2026-42945，已获得684个star。 | 684 | 116 | Python | 🆕 |
+| 7 | [vggt-omega](https://github.com/facebookresearch/vggt-omega) | 一个使用Python开发的开源项目：[CVPR 2026 Oral] VGGT Omega，已获得780个star。 | 780 | 15 | Python | 🆕 |
+| 8 | [codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) | 一个使用Python开发的开源项目：Codex skill for safe codebase complexit... | 672 | 35 | Python | 🆕 |
+| 9 | [skills](https://github.com/chrisbanes/skills) | 一个使用Unknown开发的开源项目：Skills for Kotlin, Jetpack Compose, an... | 613 | 29 | Unknown | 🆕 |
+| 10 | [DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App) | 一个使用C++开发的开源项目：DeepSeek V4 Pro: Advanced AI desktop app. ... | 616 | 2 | C++ | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [dirtyfrag](https://github.com/V4bel/dirtyfrag) ![Star](https://img.shields.io/github/stars/V4bel/dirtyfrag?style=social)
+#### 1. [YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) ![Star](https://img.shields.io/github/stars/Nightmare-Eclipse/YellowKey?style=social)
 
-<img src="./images/2026/week-20/dirtyfrag/1_demo.gif" alt="dirtyfrag" width="500"/>
-
-**📝 项目简介**: Dirty Frag通过组合两个内核页缓存写漏洞，在主流Linux发行版上实现一键本地提权，影响面极广。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：YellowKey Bitlocker Bypass Vulnerability，已获得3,199个star。
 
 **✨ 核心特性**:
-- 一键获取root权限
-- 覆盖多版本主流发行版
-- 利用链公开，验证简单
+- 3,199 stars
+- Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,066
-- **🔀 Fork数**: 608
-- **👀 Watch数**: 4,066
+- **⭐ Star数**: 3,199
+- **🔀 Fork数**: 682
+- **👀 Watch数**: 3,199
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [zero](https://github.com/vercel-labs/zero) ![Star](https://img.shields.io/github/stars/vercel-labs/zero?style=social)
+
+**📝 项目简介**: 一个使用C开发的开源项目：The programming language for agents，已获得1,853个star。
+
+**✨ 核心特性**:
+- 1,853 stars
+- C
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,853
+- **🔀 Fork数**: 117
+- **👀 Watch数**: 1,853
 - **📝 语言**: C
-- **💻 技术栈**: C
+- **🌐 官网**: [https://zerolang.ai](https://zerolang.ai)
+- **💻 技术栈**: C, JavaScript, Shell, TypeScript, CSS, Makefile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ds4](https://github.com/antirez/ds4) ![Star](https://img.shields.io/github/stars/antirez/ds4?style=social)
+#### 3. [Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic) ![Star](https://img.shields.io/github/stars/ywnd1144/Gopay_plus_automatic?style=social)
 
-**📝 项目简介**: 专为DeepSeek V4 Flash打造的轻量级本地推理引擎，用Metal在苹果芯片上极速跑大模型，零依赖、低延迟。
-
-**✨ 核心特性**:
-- 苹果Metal原生加速，推理速度极快
-- 仅针对DeepSeek V4 Flash深度优化，体积小巧
-- 内置KV缓存与HTTP API，一键启动本地服务
-
-**📊 项目统计**:
-- **⭐ Star数**: 6,588
-- **🔀 Fork数**: 477
-- **👀 Watch数**: 6,588
-- **📝 语言**: C
-- **💻 技术栈**: C, Objective-C, Metal, Python, Shell, Makefile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [zero-native](https://github.com/vercel-labs/zero-native) ![Star](https://img.shields.io/github/stars/vercel-labs/zero-native?style=social)
-
-**📝 项目简介**: 用Zig把Web前端秒变原生桌面/移动应用，体积最小、内存最少、热重载最快，可切换系统WebView或CEF。
+**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了924个star，值得关注。
 
 **✨ 核心特性**:
-- Zig构建，单文件可执行<5MB
-- 一键init，支持Next/React等前端
-- 系统WebView/CEF双引擎，兼顾体积与一致性
+- 924 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,378
-- **🔀 Fork数**: 104
-- **👀 Watch数**: 2,378
-- **📝 语言**: Zig
-- **🌐 官网**: [https://zero-native.dev](https://zero-native.dev)
-- **💻 技术栈**: Zig, Objective-C++, Objective-C, C, C++, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [mirage](https://github.com/strukto-ai/mirage) ![Star](https://img.shields.io/github/stars/strukto-ai/mirage?style=social)
-
-<img src="./images/2026/week-20/mirage/1_mirage-og-light@2x.png" alt="mirage" width="500"/>
-
-**📝 项目简介**: 为AI Agent打造的统一虚拟文件系统，让大模型像操作本地盘一样安全读写数据、调用工具。
-
-**✨ 核心特性**:
-- FUSE虚拟盘即插即用
-- 沙箱隔离保障数据安全
-- 已集成OpenAI/Claude/LangChain等主流Agent
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,817
-- **🔀 Fork数**: 110
-- **👀 Watch数**: 1,817
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://www.strukto.ai/mirage](https://www.strukto.ai/mirage)
-- **💻 技术栈**: TypeScript, Python, JavaScript, Shell, agent-sandbox, agent-tools
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) ![Star](https://img.shields.io/github/stars/XBuilderLAB/cheat-on-content?style=social)
-
-<img src="./images/2026/week-20/cheat-on-content/1_logo.svg" alt="cheat-on-content" width="500"/>
-
-**📝 项目简介**: 将每条社媒内容变成可量化实验：打分→盲测→复盘→迭代，用数据替代直觉，实现粉丝爆发式增长。
-
-**✨ 核心特性**:
-- 一键把帖子转为A/B实验
-- Shell+Python自动化闭环
-- 作者凭此1个月涨粉100万
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,587
-- **🔀 Fork数**: 323
-- **👀 Watch数**: 1,587
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) ![Star](https://img.shields.io/github/stars/yaojingang/yao-open-prompts?style=social)
-
-**📝 项目简介**: 开源中文AI提示词库，整理116个可直接复制的高质量提示词，覆盖工作、学习、营销、生活等真实场景，帮助用户零门槛调用大模型。
-
-**✨ 核心特性**:
-- 全中文、场景化分类，开箱即用
-- 剔除广告与冗余样式，纯净可复用
-- 持续新增GEO、合同、PPT、学习等实战提示词
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,585
-- **🔀 Fork数**: 250
-- **👀 Watch数**: 1,585
+- **⭐ Star数**: 924
+- **🔀 Fork数**: 539
+- **👀 Watch数**: 924
 - **📝 语言**: Python
-- **🌐 官网**: [https://yaojingang.github.io/yao-open-prompts/](https://yaojingang.github.io/yao-open-prompts/)
-- **💻 技术栈**: Python, ai, chinese-prompts, geo, prompt-engineering, prompts
+- **💻 技术栈**: Python, JavaScript, Shell, Batchfile, PureBasic, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [3DCellForge](https://github.com/huangserva/3DCellForge) ![Star](https://img.shields.io/github/stars/huangserva/3DCellForge?style=social)
+#### 4. [native-feel-skill](https://github.com/yetone/native-feel-skill) ![Star](https://img.shields.io/github/stars/yetone/native-feel-skill?style=social)
 
-<img src="./images/2026/week-20/3dcellforge/1_3dcellforge-demo-cover.jpg" alt="3DCellForge" width="500"/>
+<img src="./images/2026/week-21/native-feel-skill/1_license-mit-yellow.svg" alt="native-feel-skill" width="500"/>
 
-**📝 项目简介**: 基于AI的交互式3D细胞生成与探索平台，可上传图片秒变立体细胞模型，浏览器内即可旋转缩放、导出GLB。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.，已获得1,288个star。
 
 **✨ 核心特性**:
-- React+Three.js零安装即开即用
-- 支持图片转3D一键生成细胞
-- 可截图、导出GLB用于教学或汇报
+- 1,288 stars
+- Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 943
-- **🔀 Fork数**: 160
-- **👀 Watch数**: 943
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, HTML, React
+- **⭐ Star数**: 1,288
+- **🔀 Fork数**: 61
+- **👀 Watch数**: 1,288
+- **📝 语言**: Unknown
+- **💻 技术栈**: React, TypeScript, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [tokenspeed](https://github.com/lightseekorg/tokenspeed) ![Star](https://img.shields.io/github/stars/lightseekorg/tokenspeed?style=social)
+#### 5. [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) ![Star](https://img.shields.io/github/stars/DenisSergeevitch/agents-best-practices?style=social)
 
-<img src="./images/2026/week-20/tokenspeed/1_tokenspeed-banner.png" alt="tokenspeed" width="500"/>
+<img src="./images/2026/week-21/agents-best-practices/1_license-mit-yellow.svg" alt="agents-best-practices" width="500"/>
 
-**📝 项目简介**: TokenSpeed是面向智能体场景的极速LLM推理引擎，兼具TensorRT-LLM级性能与vLLM级易用性，主打生产级光速推理。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.，已获得736个star。
 
 **✨ 核心特性**:
-- TensorRT-LLM级吞吐，延迟低至毫秒
-- 本地SPMD+静态编译，通信零开销
-- 一键部署，兼容主流模型生态
+- 736 stars
+- Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 923
-- **🔀 Fork数**: 66
-- **👀 Watch数**: 923
+- **⭐ Star数**: 736
+- **🔀 Fork数**: 62
+- **👀 Watch数**: 736
+- **📝 语言**: Unknown
+- **💻 技术栈**: agent-skill, agent-skills, agentic-workflows, agents, ai-agents, anthropic
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift) ![Star](https://img.shields.io/github/stars/DepthFirstDisclosures/Nginx-Rift?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：exploit for CVE-2026-42945，已获得684个star。
+
+**✨ 核心特性**:
+- 684 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 684
+- **🔀 Fork数**: 116
+- **👀 Watch数**: 684
 - **📝 语言**: Python
-- **🌐 官网**: [https://lightseek.org/blog/lightseek-tokenspeed.html](https://lightseek.org/blog/lightseek-tokenspeed.html)
-- **💻 技术栈**: Python, C++, Shell, CMake, Dockerfile, blackwell
+- **💻 技术栈**: Python, Shell, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) ![Star](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=social)
+#### 7. [vggt-omega](https://github.com/facebookresearch/vggt-omega) ![Star](https://img.shields.io/github/stars/facebookresearch/vggt-omega?style=social)
 
-<img src="./images/2026/week-20/codexplusplus/1_pain-plugin-disabled.png" alt="CodexPlusPlus" width="500"/>
-
-**📝 项目简介**: Codex++ 是 Codex App 的无侵入式增强启动器，通过 DevTools 协议注入脚本，实现会话删除、插件解锁等实用功能，无需改动原安装。
+**📝 项目简介**: 一个使用Python开发的开源项目：[CVPR 2026 Oral] VGGT Omega，已获得780个star。
 
 **✨ 核心特性**:
-- 无侵入式增强，不改原文件
-- 会话一键删除+撤销，支持本地/云端
-- 插件选项解锁与强制安装，自由开关
+- 780 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 805
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 805
+- **⭐ Star数**: 780
+- **🔀 Fork数**: 15
+- **👀 Watch数**: 780
 - **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, Batchfile
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ![Star](https://img.shields.io/github/stars/zarazhangrui/beautiful-html-templates?style=social)
+#### 8. [codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) ![Star](https://img.shields.io/github/stars/Kappaemme-git/codex-complexity-optimizer?style=social)
 
-<img src="./images/2026/week-20/beautiful-html-templates/1_soft-editorial-4.png" alt="beautiful-html-templates" width="500"/>
-
-**📝 项目简介**: 为AI编程助手准备的现成HTML幻灯片模板库，一键生成高颜值演示文稿，无需人工排版。
+**📝 项目简介**: 一个使用Python开发的开源项目：Codex skill for safe codebase complexity analysis and performance optimization reports，已获得672个star。
 
 **✨ 核心特性**:
-- 模板丰富，开箱即用
-- AI自动匹配用户主题并填充内容
-- 纯前端，零依赖，秒级渲染
+- 672 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 774
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 774
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML, JavaScript, CSS
+- **⭐ Star数**: 672
+- **🔀 Fork数**: 35
+- **👀 Watch数**: 672
+- **📝 语言**: Python
+- **💻 技术栈**: Python, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [skills](https://github.com/chrisbanes/skills) ![Star](https://img.shields.io/github/stars/chrisbanes/skills?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Skills for Kotlin, Jetpack Compose, and Android development，已获得613个star。
+
+**✨ 核心特性**:
+- 613 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 613
+- **🔀 Fork数**: 29
+- **👀 Watch数**: 613
+- **📝 语言**: Unknown
+- **💻 技术栈**: android, compose-multiplatform, coroutines, jetpack-compose, kotlin, kotlin-multiplatform
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App) ![Star](https://img.shields.io/github/stars/yaassin12/DeepSeek-V4-Pro-App?style=social)
+
+**📝 项目简介**: 一个使用C++开发的开源项目：DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.，已获得616个star。
+
+**✨ 核心特性**:
+- 616 stars
+- C++
+
+**📊 项目统计**:
+- **⭐ Star数**: 616
+- **🔀 Fork数**: 2
+- **👀 Watch数**: 616
+- **📝 语言**: C++
+- **💻 技术栈**: C++, agentic-ai, ai-application, ai-application-development, deep-seek, deepseek
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -251,21 +227,20 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **C** (2 个项目)
-3. **Zig** (1 个项目)
-4. **TypeScript** (1 个项目)
-5. **Shell** (1 个项目)
+1. **Unknown** (4 个项目)
+2. **Python** (4 个项目)
+3. **C** (1 个项目)
+4. **C++** (1 个项目)
 
 **🏷️ 热门话题**:
-1. agent-sandbox (1)
-2. agent-tools (1)
-3. ai-agents (1)
-4. bash (1)
-5. claude-code (1)
-6. fuse (1)
-7. langchain (1)
-8. llm-agents (1)
+1. agent-skill (1)
+2. agent-skills (1)
+3. agentic-workflows (1)
+4. agents (1)
+5. ai-agents (1)
+6. anthropic (1)
+7. claude (1)
+8. claude-code (1)
 
 
 <!-- TRENDING-END -->
@@ -275,6 +250,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
 | 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
 | 05-09 | 2026年第19周 | 10 个 | [查看详情](./archives/2026/week-19/report.md) |
 | 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
@@ -294,7 +270,6 @@
 | 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
 | 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
 | 01-10 | 2026年第2周 | 10 个 | [查看详情](./archives/2026/week-2/report.md) |
-| 12-27 | 2025年第52周 | 10 个 | [查看详情](./archives/2025/week-52/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

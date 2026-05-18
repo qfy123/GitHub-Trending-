@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第21周",
+    "year": 2026,
+    "week": 21,
+    "week_range": {
+      "start": "2026-05-17",
+      "end": "2026-05-23"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-05-23 23:59:59",
+    "next_update": "2026-05-30"
+  },
+  "repositories": [
+    {
+      "full_name": "Nightmare-Eclipse/YellowKey",
+      "rank": 1,
+      "stars": 3199,
+      "forks": 682,
+      "overall_score": 79
+    },
+    {
+      "full_name": "vercel-labs/zero",
+      "rank": 2,
+      "stars": 1853,
+      "forks": 117,
+      "overall_score": 75
+    },
+    {
+      "full_name": "ywnd1144/Gopay_plus_automatic",
+      "rank": 3,
+      "stars": 924,
+      "forks": 539,
+      "overall_score": 71
+    },
+    {
+      "full_name": "yetone/native-feel-skill",
+      "rank": 4,
+      "stars": 1288,
+      "forks": 61,
+      "overall_score": 66
+    },
+    {
+      "full_name": "DenisSergeevitch/agents-best-practices",
+      "rank": 5,
+      "stars": 736,
+      "forks": 62,
+      "overall_score": 65
+    },
+    {
+      "full_name": "DepthFirstDisclosures/Nginx-Rift",
+      "rank": 6,
+      "stars": 684,
+      "forks": 116,
+      "overall_score": 65
+    },
+    {
+      "full_name": "facebookresearch/vggt-omega",
+      "rank": 7,
+      "stars": 780,
+      "forks": 15,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Kappaemme-git/codex-complexity-optimizer",
+      "rank": 8,
+      "stars": 672,
+      "forks": 35,
+      "overall_score": 63
+    },
+    {
+      "full_name": "chrisbanes/skills",
+      "rank": 9,
+      "stars": 613,
+      "forks": 29,
+      "overall_score": 62
+    },
+    {
+      "full_name": "yaassin12/DeepSeek-V4-Pro-App",
+      "rank": 10,
+      "stars": 616,
+      "forks": 2,
+      "overall_score": 58
+    }
+  ],
+  "generated_at": "2026-05-18T06:21:22.931Z"
+}
