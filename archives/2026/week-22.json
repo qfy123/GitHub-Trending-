@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第22周",
+    "year": 2026,
+    "week": 22,
+    "week_range": {
+      "start": "2026-05-24",
+      "end": "2026-05-30"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-05-30 23:59:59",
+    "next_update": "2026-06-06"
+  },
+  "repositories": [
+    {
+      "full_name": "FoundZiGu/GuJumpgate",
+      "rank": 1,
+      "stars": 2405,
+      "forks": 663,
+      "overall_score": 80
+    },
+    {
+      "full_name": "perplexityai/bumblebee",
+      "rank": 2,
+      "stars": 2263,
+      "forks": 177,
+      "overall_score": 73
+    },
+    {
+      "full_name": "open-gsd/get-shit-done-redux",
+      "rank": 3,
+      "stars": 626,
+      "forks": 45,
+      "overall_score": 73
+    },
+    {
+      "full_name": "thananon/9arm-skills",
+      "rank": 4,
+      "stars": 2022,
+      "forks": 271,
+      "overall_score": 71
+    },
+    {
+      "full_name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
+      "rank": 5,
+      "stars": 429,
+      "forks": 371,
+      "overall_score": 67
+    },
+    {
+      "full_name": "kageroumado/phosphene",
+      "rank": 6,
+      "stars": 659,
+      "forks": 17,
+      "overall_score": 64
+    },
+    {
+      "full_name": "0xSero/codex-shim",
+      "rank": 7,
+      "stars": 492,
+      "forks": 41,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Tong89/smartNode",
+      "rank": 8,
+      "stars": 551,
+      "forks": 50,
+      "overall_score": 62
+    },
+    {
+      "full_name": "run-liyi/wechatpay",
+      "rank": 9,
+      "stars": 430,
+      "forks": 35,
+      "overall_score": 61
+    },
+    {
+      "full_name": "jskblue/Tomodachi-Island-Life-Remastered",
+      "rank": 10,
+      "stars": 424,
+      "forks": 0,
+      "overall_score": 56
+    }
+  ],
+  "generated_at": "2026-05-25T06:42:41.092Z"
+}
