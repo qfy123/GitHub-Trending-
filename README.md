@@ -18,211 +18,219 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第22周
+### GitHub趋势排行榜 - 2026年第23周
 
-**📅 统计周期**: 2026-05-24 ~ 2026-05-30  
+**📅 统计周期**: 2026-05-31 ~ 2026-06-06  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 10,301  
-**🔄 更新时间**: 2026-05-30 23:59:59  
+**⭐ 总Star数**: 19,839  
+**🔄 更新时间**: 2026-06-06 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) | 一个热门的JavaScript开源项目，在GitHub上获得了2,405个star，值得关注。 | 2,405 | 663 | JavaScript | 🆕 |
-| 2 | [bumblebee](https://github.com/perplexityai/bumblebee) | 一个使用Go开发的开源项目：Read-only developer endpoint scanner for on... | 2,263 | 177 | Go | 🆕 |
-| 3 | [get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux) | 一个使用JavaScript开发的开源项目：Getting Shit Done, the Aftermath，已获... | 626 | 45 | JavaScript | 🆕 |
-| 4 | [9arm-skills](https://github.com/thananon/9arm-skills) | 一个热门的Shell开源项目，在GitHub上获得了2,022个star，值得关注。 | 2,022 | 271 | Shell | 🆕 |
-| 5 | [FL-Studio-2026-Producer-Edition-Unlock](https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock) | 一个使用Unknown开发的开源项目：Full feature activation for FL Studio ... | 429 | 371 | Unknown | 🆕 |
-| 6 | [phosphene](https://github.com/kageroumado/phosphene) | 一个使用Swift开发的开源项目：A video wallpaper engine for macOS Tahoe... | 659 | 17 | Swift | 🆕 |
-| 7 | [codex-shim](https://github.com/0xSero/codex-shim) | 一个使用Python开发的开源项目：Local Responses-API shim that exposes F... | 492 | 41 | Python | 🆕 |
-| 8 | [smartNode](https://github.com/Tong89/smartNode) | 一个热门的Python开源项目，在GitHub上获得了551个star，值得关注。 | 551 | 50 | Python | 🆕 |
-| 9 | [wechatpay](https://github.com/run-liyi/wechatpay) | 一个使用JavaScript开发的开源项目：微信账单分析工具 - 基于Electron的可视化账单分析应用，已获得... | 430 | 35 | JavaScript | 🆕 |
-| 10 | [Tomodachi-Island-Life-Remastered](https://github.com/jskblue/Tomodachi-Island-Life-Remastered) | 一个使用Unknown开发的开源项目：New Tomodachi Life 2026 PC Edition 🏝️... | 424 | 0 | Unknown | 🆕 |
+| 1 | [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 一个使用JavaScript开发的开源项目：Self-hosted AI workspace. ，已获得10,72... | 10,726 | 1,439 | JavaScript | 🆕 |
+| 2 | [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) | 一个使用Python开发的开源项目：三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/... | 516 | 499 | Python | 🆕 |
+| 3 | [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 一个使用HTML开发的开源项目：🪧 Claude Code / Codex skill — generate X... | 2,216 | 221 | HTML | 🆕 |
+| 4 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 一个使用Unknown开发的开源项目：中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝... | 1,515 | 132 | Unknown | 🆕 |
+| 5 | [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) | 一个使用Python开发的开源项目：Convert Google Gemini web into OpenAI-c... | 957 | 244 | Python | 🆕 |
+| 6 | [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) | 一个使用JavaScript开发的开源项目：Your AI forgets. This remembers. Sp... | 679 | 162 | JavaScript | 🆕 |
+| 7 | [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 一个使用Python开发的开源项目：AI-friendly PPT builder skill: 17 hand-... | 1,188 | 112 | Python | 🆕 |
+| 8 | [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) | 一个使用Go开发的开源项目：A light-weight scanner for Cloudflare IPs, ... | 810 | 55 | Go | 🆕 |
+| 9 | [pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) | 一个热门的TypeScript开源项目，在GitHub上获得了646个star，值得关注。 | 646 | 37 | TypeScript | 🆕 |
+| 10 | [Duel-Agents](https://github.com/2aronS/Duel-Agents) | 一个使用TypeScript开发的开源项目：CLI, SDK, and IDE plugins for Duel ... | 586 | 16 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) ![Star](https://img.shields.io/github/stars/FoundZiGu/GuJumpgate?style=social)
+#### 1. [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) ![Star](https://img.shields.io/github/stars/pewdiepie-archdaemon/odysseus?style=social)
 
-<img src="./images/2026/week-22/gujumpgate/1_github-readme-1779190547983.webp" alt="GuJumpgate" width="500"/>
+<img src="./images/2026/week-23/odysseus/1_odysseus.jpg" alt="odysseus" width="500"/>
 
-**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了2,405个star，值得关注。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Self-hosted AI workspace. ，已获得10,726个star。
 
 **✨ 核心特性**:
-- 2,405 stars
+- 10,726 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,405
-- **🔀 Fork数**: 663
-- **👀 Watch数**: 2,405
+- **⭐ Star数**: 10,726
+- **🔀 Fork数**: 1,439
+- **👀 Watch数**: 10,726
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, CSS, Python, Batchfile, Shell
+- **💻 技术栈**: JavaScript, Python, CSS, HTML, Shell, TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [bumblebee](https://github.com/perplexityai/bumblebee) ![Star](https://img.shields.io/github/stars/perplexityai/bumblebee?style=social)
+#### 2. [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) ![Star](https://img.shields.io/github/stars/ace-trump-tech/DeltaForce-OBS-Locker?style=social)
 
-**📝 项目简介**: 一个使用Go开发的开源项目：Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.，已获得2,263个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.，已获得516个star。
 
 **✨ 核心特性**:
-- 2,263 stars
+- 516 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 516
+- **🔀 Fork数**: 499
+- **👀 Watch数**: 516
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) ![Star](https://img.shields.io/github/stars/op7418/guizang-social-card-skill?style=social)
+
+**📝 项目简介**: 一个使用HTML开发的开源项目：🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对，已获得2,216个star。
+
+**✨ 核心特性**:
+- 2,216 stars
+- HTML
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,216
+- **🔀 Fork数**: 221
+- **👀 Watch数**: 2,216
+- **📝 语言**: HTML
+- **🌐 官网**: [https://github.com/op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
+- **💻 技术栈**: HTML, JavaScript, agent-skill, ai-agent, anthropic, claude-code
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) ![Star](https://img.shields.io/github/stars/helloianneo/ian-xiaohei-illustrations?style=social)
+
+<img src="./images/2026/week-23/ian-xiaohei-illustrations/1_01-two-breakpoints.png" alt="ian-xiaohei-illustrations" width="500"/>
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill，已获得1,515个star。
+
+**✨ 核心特性**:
+- 1,515 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,515
+- **🔀 Fork数**: 132
+- **👀 Watch数**: 1,515
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://ianneo.xyz](https://ianneo.xyz)
+- **💻 技术栈**: ai-agent, chinese, codex-skill, handdrawn, illustration, image-generation
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) ![Star](https://img.shields.io/github/stars/Sophomoresty/gemini-web2api?style=social)
+
+<img src="./images/2026/week-23/gemini-web2api/1_logo.png" alt="gemini-web2api" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.，已获得957个star。
+
+**✨ 核心特性**:
+- 957 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 957
+- **🔀 Fork数**: 244
+- **👀 Watch数**: 957
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Dockerfile, Docker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) ![Star](https://img.shields.io/github/stars/withkynam/vibecode-pro-max-kit?style=social)
+
+<img src="./images/2026/week-23/vibecode-pro-max-kit/1_flowser-logo.svg" alt="vibecode-pro-max-kit" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds，已获得679个star。
+
+**✨ 核心特性**:
+- 679 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 679
+- **🔀 Fork数**: 162
+- **👀 Watch数**: 679
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, Python, HTML, Shell, agentic, ai-agents
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) ![Star](https://img.shields.io/github/stars/GordenSun/GordenPPTSkill?style=social)
+
+<img src="./images/2026/week-23/gordenpptskill/1_group-qr.jpg" alt="GordenPPTSkill" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.，已获得1,188个star。
+
+**✨ 核心特性**:
+- 1,188 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,188
+- **🔀 Fork数**: 112
+- **👀 Watch数**: 1,188
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) ![Star](https://img.shields.io/github/stars/MatinSenPai/SenPaiScanner?style=social)
+
+<img src="./images/2026/week-23/senpaiscanner/1_badge.svg" alt="SenPaiScanner" width="500"/>
+
+**📝 项目简介**: 一个使用Go开发的开源项目：A light-weight scanner for Cloudflare IPs, written in Golang，已获得810个star。
+
+**✨ 核心特性**:
+- 810 stars
 - Go
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,263
-- **🔀 Fork数**: 177
-- **👀 Watch数**: 2,263
+- **⭐ Star数**: 810
+- **🔀 Fork数**: 55
+- **👀 Watch数**: 810
 - **📝 语言**: Go
-- **💻 技术栈**: Go, golang, package-inventory, supply-chain-security
+- **💻 技术栈**: Go, Shell, Makefile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux) ![Star](https://img.shields.io/github/stars/open-gsd/get-shit-done-redux?style=social)
+#### 9. [pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) ![Star](https://img.shields.io/github/stars/Michaelliv/pi-dynamic-workflows?style=social)
 
-<img src="./images/2026/week-22/get-shit-done-redux/1_terminal.svg" alt="get-shit-done-redux" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Getting Shit Done, the Aftermath，已获得626个star。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了646个star，值得关注。
 
 **✨ 核心特性**:
-- 626 stars
-- JavaScript
+- 646 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 626
-- **🔀 Fork数**: 45
-- **👀 Watch数**: 626
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://github.com/gsd-redux/get-shit-done-redux/discussions/109](https://github.com/gsd-redux/get-shit-done-redux/discussions/109)
-- **💻 技术栈**: JavaScript, TypeScript, Shell, claude-code, context-engineering, meta-prompting
+- **⭐ Star数**: 646
+- **🔀 Fork数**: 37
+- **👀 Watch数**: 646
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [9arm-skills](https://github.com/thananon/9arm-skills) ![Star](https://img.shields.io/github/stars/thananon/9arm-skills?style=social)
+#### 10. [Duel-Agents](https://github.com/2aronS/Duel-Agents) ![Star](https://img.shields.io/github/stars/2aronS/Duel-Agents?style=social)
 
-**📝 项目简介**: 一个热门的Shell开源项目，在GitHub上获得了2,022个star，值得关注。
-
-**✨ 核心特性**:
-- 2,022 stars
-- Shell
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,022
-- **🔀 Fork数**: 271
-- **👀 Watch数**: 2,022
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [FL-Studio-2026-Producer-Edition-Unlock](https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock) ![Star](https://img.shields.io/github/stars/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without restrictions, and lifetime updates. Educational tool for studying DAW architecture.，已获得429个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：CLI, SDK, and IDE plugins for Duel Agents，已获得586个star。
 
 **✨ 核心特性**:
-- 429 stars
-- Unknown
+- 586 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 429
-- **🔀 Fork数**: 371
-- **👀 Watch数**: 429
-- **📝 语言**: Unknown
-- **💻 技术栈**: educational-resource, export-wav-mp3, fl-studio-2026, flp-project, sic-tools, vst-plugins
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [phosphene](https://github.com/kageroumado/phosphene) ![Star](https://img.shields.io/github/stars/kageroumado/phosphene?style=social)
-
-**📝 项目简介**: 一个使用Swift开发的开源项目：A video wallpaper engine for macOS Tahoe，已获得659个star。
-
-**✨ 核心特性**:
-- 659 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 659
-- **🔀 Fork数**: 17
-- **👀 Watch数**: 659
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Objective-C, animated-wallpaper, desktop-wallpaper, macos, macos-wallpaper
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [codex-shim](https://github.com/0xSero/codex-shim) ![Star](https://img.shields.io/github/stars/0xSero/codex-shim?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.，已获得492个star。
-
-**✨ 核心特性**:
-- 492 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 492
-- **🔀 Fork数**: 41
-- **👀 Watch数**: 492
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [smartNode](https://github.com/Tong89/smartNode) ![Star](https://img.shields.io/github/stars/Tong89/smartNode?style=social)
-
-**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了551个star，值得关注。
-
-**✨ 核心特性**:
-- 551 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 551
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 551
-- **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, CSS, HTML, Batchfile, Flask
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [wechatpay](https://github.com/run-liyi/wechatpay) ![Star](https://img.shields.io/github/stars/run-liyi/wechatpay?style=social)
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：微信账单分析工具 - 基于Electron的可视化账单分析应用，已获得430个star。
-
-**✨ 核心特性**:
-- 430 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 430
-- **🔀 Fork数**: 35
-- **👀 Watch数**: 430
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, CSS, Batchfile, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [Tomodachi-Island-Life-Remastered](https://github.com/jskblue/Tomodachi-Island-Life-Remastered) ![Star](https://img.shields.io/github/stars/jskblue/Tomodachi-Island-Life-Remastered?style=social)
-
-<img src="./images/2026/week-22/tomodachi-island-life-remastered/1_license-mit-yellow.svg" alt="Tomodachi-Island-Life-Remastered" width="500"/>
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：New Tomodachi Life 2026 PC Edition 🏝️ Life Sim & Mii Creator for Windows 🎮，已获得424个star。
-
-**✨ 核心特性**:
-- 424 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 424
-- **🔀 Fork数**: 0
-- **👀 Watch数**: 424
-- **📝 语言**: Unknown
-- **💻 技术栈**: island-life, life-simulation, living-the-dream, mii, mii-game, mii-sharing
+- **⭐ Star数**: 586
+- **🔀 Fork数**: 16
+- **👀 Watch数**: 586
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://duelagents.com](https://duelagents.com)
+- **💻 技术栈**: TypeScript, JavaScript, ai-agents, anthropic, claude-code, cli
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -230,21 +238,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **JavaScript** (3 个项目)
-2. **Unknown** (2 个项目)
-3. **Python** (2 个项目)
-4. **Go** (1 个项目)
-5. **Shell** (1 个项目)
+1. **Python** (3 个项目)
+2. **JavaScript** (2 个项目)
+3. **TypeScript** (2 个项目)
+4. **HTML** (1 个项目)
+5. **Unknown** (1 个项目)
 
 **🏷️ 热门话题**:
-1. golang (1)
-2. package-inventory (1)
-3. supply-chain-security (1)
-4. claude-code (1)
-5. context-engineering (1)
-6. meta-prompting (1)
-7. spec-driven-development (1)
-8. educational-resource (1)
+1. anthropic (3)
+2. claude-code (3)
+3. ai-agent (2)
+4. codex (2)
+5. image-generation (2)
+6. ai-agents (2)
+7. cursor (2)
+8. llm (2)
 
 
 <!-- TRENDING-END -->
@@ -254,6 +262,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
 | 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
 | 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
 | 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
@@ -273,7 +282,6 @@
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
 | 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
 | 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
-| 01-17 | 2026年第3周 | 10 个 | [查看详情](./archives/2026/week-3/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第23周",
+    "year": 2026,
+    "week": 23,
+    "week_range": {
+      "start": "2026-05-31",
+      "end": "2026-06-06"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-06-06 23:59:59",
+    "next_update": "2026-06-13"
+  },
+  "repositories": [
+    {
+      "full_name": "pewdiepie-archdaemon/odysseus",
+      "rank": 1,
+      "stars": 10726,
+      "forks": 1439,
+      "overall_score": 92
+    },
+    {
+      "full_name": "ace-trump-tech/DeltaForce-OBS-Locker",
+      "rank": 2,
+      "stars": 516,
+      "forks": 499,
+      "overall_score": 71
+    },
+    {
+      "full_name": "op7418/guizang-social-card-skill",
+      "rank": 3,
+      "stars": 2216,
+      "forks": 221,
+      "overall_score": 70
+    },
+    {
+      "full_name": "helloianneo/ian-xiaohei-illustrations",
+      "rank": 4,
+      "stars": 1515,
+      "forks": 132,
+      "overall_score": 69
+    },
+    {
+      "full_name": "Sophomoresty/gemini-web2api",
+      "rank": 5,
+      "stars": 957,
+      "forks": 244,
+      "overall_score": 69
+    },
+    {
+      "full_name": "withkynam/vibecode-pro-max-kit",
+      "rank": 6,
+      "stars": 679,
+      "forks": 162,
+      "overall_score": 69
+    },
+    {
+      "full_name": "GordenSun/GordenPPTSkill",
+      "rank": 7,
+      "stars": 1188,
+      "forks": 112,
+      "overall_score": 68
+    },
+    {
+      "full_name": "MatinSenPai/SenPaiScanner",
+      "rank": 8,
+      "stars": 810,
+      "forks": 55,
+      "overall_score": 68
+    },
+    {
+      "full_name": "Michaelliv/pi-dynamic-workflows",
+      "rank": 9,
+      "stars": 646,
+      "forks": 37,
+      "overall_score": 66
+    },
+    {
+      "full_name": "2aronS/Duel-Agents",
+      "rank": 10,
+      "stars": 586,
+      "forks": 16,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2026-06-01T07:09:07.968Z"
+}
