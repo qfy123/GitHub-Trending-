@@ -18,219 +18,223 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第23周
+### GitHub趋势排行榜 - 2026年第24周
 
-**📅 统计周期**: 2026-05-31 ~ 2026-06-06  
+**📅 统计周期**: 2026-06-07 ~ 2026-06-13  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 19,839  
-**🔄 更新时间**: 2026-06-06 23:59:59  
+**⭐ 总Star数**: 8,417  
+**🔄 更新时间**: 2026-06-13 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 一个使用JavaScript开发的开源项目：Self-hosted AI workspace. ，已获得10,72... | 10,726 | 1,439 | JavaScript | 🆕 |
-| 2 | [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) | 一个使用Python开发的开源项目：三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/... | 516 | 499 | Python | 🆕 |
-| 3 | [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 一个使用HTML开发的开源项目：🪧 Claude Code / Codex skill — generate X... | 2,216 | 221 | HTML | 🆕 |
-| 4 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 一个使用Unknown开发的开源项目：中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝... | 1,515 | 132 | Unknown | 🆕 |
-| 5 | [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) | 一个使用Python开发的开源项目：Convert Google Gemini web into OpenAI-c... | 957 | 244 | Python | 🆕 |
-| 6 | [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) | 一个使用JavaScript开发的开源项目：Your AI forgets. This remembers. Sp... | 679 | 162 | JavaScript | 🆕 |
-| 7 | [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 一个使用Python开发的开源项目：AI-friendly PPT builder skill: 17 hand-... | 1,188 | 112 | Python | 🆕 |
-| 8 | [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) | 一个使用Go开发的开源项目：A light-weight scanner for Cloudflare IPs, ... | 810 | 55 | Go | 🆕 |
-| 9 | [pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) | 一个热门的TypeScript开源项目，在GitHub上获得了646个star，值得关注。 | 646 | 37 | TypeScript | 🆕 |
-| 10 | [Duel-Agents](https://github.com/2aronS/Duel-Agents) | 一个使用TypeScript开发的开源项目：CLI, SDK, and IDE plugins for Duel ... | 586 | 16 | TypeScript | 🆕 |
+| 1 | [goose](https://github.com/b-nnett/goose) | 一个使用Rust开发的开源项目：Goose Swift proof-of-concept README，已获得2,... | 2,274 | 536 | Rust | 🆕 |
+| 2 | [skylight](https://github.com/cpaczek/skylight) | 一个使用TypeScript开发的开源项目：Project the aircraft passing overhe... | 2,302 | 229 | TypeScript | 🆕 |
+| 3 | [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 一个使用Python开发的开源项目：JoyAI-Echo: Pushing the Frontier of Lon... | 900 | 57 | Python | 🆕 |
+| 4 | [9drive](https://github.com/zenhosta/9drive) | 一个使用TypeScript开发的开源项目：9Drive is a storage gateway web app... | 421 | 148 | TypeScript | 🆕 |
+| 5 | [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) | 一个使用JavaScript开发的开源项目：One click on the toolbar grabs the ... | 474 | 74 | JavaScript | 🆕 |
+| 6 | [meatshell](https://github.com/jeff141/meatshell) | 一个使用Rust开发的开源项目：一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, l... | 399 | 48 | Rust | 🆕 |
+| 7 | [sandboxd](https://github.com/tastyeffectco/sandboxd) | 一个使用Go开发的开源项目：Self-hosted dev sandboxes with preview URLs... | 502 | 12 | Go | 🆕 |
+| 8 | [zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 一个使用JavaScript开发的开源项目：中华传统色演示、色卡浏览与颜色知识科普开源项目，已获得401个star。 | 401 | 50 | JavaScript | 🆕 |
+| 9 | [guard-skills](https://github.com/amElnagdy/guard-skills) | 一个使用Unknown开发的开源项目：Guard skills for coding agents, qualit... | 359 | 48 | Unknown | 🆕 |
+| 10 | [baoyu-design](https://github.com/JimLiu/baoyu-design) | 一个使用JavaScript开发的开源项目：Run Claude Design locally as an Age... | 385 | 23 | JavaScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) ![Star](https://img.shields.io/github/stars/pewdiepie-archdaemon/odysseus?style=social)
+#### 1. [goose](https://github.com/b-nnett/goose) ![Star](https://img.shields.io/github/stars/b-nnett/goose?style=social)
 
-<img src="./images/2026/week-23/odysseus/1_odysseus.jpg" alt="odysseus" width="500"/>
+<img src="./images/2026/week-24/goose/1_readme-hero.png" alt="goose" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Self-hosted AI workspace. ，已获得10,726个star。
+**📝 项目简介**: 一个使用Rust开发的开源项目：Goose Swift proof-of-concept README，已获得2,274个star。
 
 **✨ 核心特性**:
-- 10,726 stars
-- JavaScript
+- 2,274 stars
+- Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 10,726
-- **🔀 Fork数**: 1,439
-- **👀 Watch数**: 10,726
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Python, CSS, HTML, Shell, TypeScript
+- **⭐ Star数**: 2,274
+- **🔀 Fork数**: 536
+- **👀 Watch数**: 2,274
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Swift, Python, Shell, C, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) ![Star](https://img.shields.io/github/stars/ace-trump-tech/DeltaForce-OBS-Locker?style=social)
+#### 2. [skylight](https://github.com/cpaczek/skylight) ![Star](https://img.shields.io/github/stars/cpaczek/skylight?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.，已获得516个star。
+<img src="./images/2026/week-24/skylight/1_skylight.png" alt="skylight" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.，已获得2,302个star。
 
 **✨ 核心特性**:
-- 516 stars
+- 2,302 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,302
+- **🔀 Fork数**: 229
+- **👀 Watch数**: 2,302
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, Shell, HTML, Dockerfile, JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) ![Star](https://img.shields.io/github/stars/jd-opensource/JoyAI-Echo?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation，已获得900个star。
+
+**✨ 核心特性**:
+- 900 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 516
-- **🔀 Fork数**: 499
-- **👀 Watch数**: 516
+- **⭐ Star数**: 900
+- **🔀 Fork数**: 57
+- **👀 Watch数**: 900
 - **📝 语言**: Python
+- **🌐 官网**: [https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/](https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/)
 - **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) ![Star](https://img.shields.io/github/stars/op7418/guizang-social-card-skill?style=social)
+#### 4. [9drive](https://github.com/zenhosta/9drive) ![Star](https://img.shields.io/github/stars/zenhosta/9drive?style=social)
 
-**📝 项目简介**: 一个使用HTML开发的开源项目：🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对，已获得2,216个star。
+<img src="./images/2026/week-24/9drive/1_image.png" alt="9drive" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.，已获得421个star。
 
 **✨ 核心特性**:
-- 2,216 stars
-- HTML
+- 421 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,216
-- **🔀 Fork数**: 221
-- **👀 Watch数**: 2,216
-- **📝 语言**: HTML
-- **🌐 官网**: [https://github.com/op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
-- **💻 技术栈**: HTML, JavaScript, agent-skill, ai-agent, anthropic, claude-code
+- **⭐ Star数**: 421
+- **🔀 Fork数**: 148
+- **👀 Watch数**: 421
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://9drive.zenhosta.com](https://9drive.zenhosta.com)
+- **💻 技术栈**: TypeScript, CSS, HTML, Dockerfile, JavaScript, drive
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) ![Star](https://img.shields.io/github/stars/helloianneo/ian-xiaohei-illustrations?style=social)
+#### 5. [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) ![Star](https://img.shields.io/github/stars/Jane-xiaoer/xiaoer-videolab?style=social)
 
-<img src="./images/2026/week-23/ian-xiaohei-illustrations/1_01-two-breakpoints.png" alt="ian-xiaohei-illustrations" width="500"/>
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill，已获得1,515个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。，已获得474个star。
 
 **✨ 核心特性**:
-- 1,515 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,515
-- **🔀 Fork数**: 132
-- **👀 Watch数**: 1,515
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://ianneo.xyz](https://ianneo.xyz)
-- **💻 技术栈**: ai-agent, chinese, codex-skill, handdrawn, illustration, image-generation
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) ![Star](https://img.shields.io/github/stars/Sophomoresty/gemini-web2api?style=social)
-
-<img src="./images/2026/week-23/gemini-web2api/1_logo.png" alt="gemini-web2api" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.，已获得957个star。
-
-**✨ 核心特性**:
-- 957 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 957
-- **🔀 Fork数**: 244
-- **👀 Watch数**: 957
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Dockerfile, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) ![Star](https://img.shields.io/github/stars/withkynam/vibecode-pro-max-kit?style=social)
-
-<img src="./images/2026/week-23/vibecode-pro-max-kit/1_flowser-logo.svg" alt="vibecode-pro-max-kit" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds，已获得679个star。
-
-**✨ 核心特性**:
-- 679 stars
+- 474 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 679
-- **🔀 Fork数**: 162
-- **👀 Watch数**: 679
+- **⭐ Star数**: 474
+- **🔀 Fork数**: 74
+- **👀 Watch数**: 474
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Python, HTML, Shell, agentic, ai-agents
+- **💻 技术栈**: JavaScript, Python, Shell, CSS, PowerShell, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) ![Star](https://img.shields.io/github/stars/GordenSun/GordenPPTSkill?style=social)
+#### 6. [meatshell](https://github.com/jeff141/meatshell) ![Star](https://img.shields.io/github/stars/jeff141/meatshell?style=social)
 
-<img src="./images/2026/week-23/gordenpptskill/1_group-qr.jpg" alt="GordenPPTSkill" width="500"/>
+<img src="./images/2026/week-24/meatshell/1_01-welcome.png" alt="meatshell" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.，已获得1,188个star。
+**📝 项目简介**: 一个使用Rust开发的开源项目：一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client），已获得399个star。
 
 **✨ 核心特性**:
-- 1,188 stars
-- Python
+- 399 stars
+- Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,188
-- **🔀 Fork数**: 112
-- **👀 Watch数**: 1,188
-- **📝 语言**: Python
-- **💻 技术栈**: Python
+- **⭐ Star数**: 399
+- **🔀 Fork数**: 48
+- **👀 Watch数**: 399
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Slint, Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) ![Star](https://img.shields.io/github/stars/MatinSenPai/SenPaiScanner?style=social)
+#### 7. [sandboxd](https://github.com/tastyeffectco/sandboxd) ![Star](https://img.shields.io/github/stars/tastyeffectco/sandboxd?style=social)
 
-<img src="./images/2026/week-23/senpaiscanner/1_badge.svg" alt="SenPaiScanner" width="500"/>
+<img src="./images/2026/week-24/sandboxd/1_license-mit-green.svg" alt="sandboxd" width="500"/>
 
-**📝 项目简介**: 一个使用Go开发的开源项目：A light-weight scanner for Cloudflare IPs, written in Golang，已获得810个star。
+**📝 项目简介**: 一个使用Go开发的开源项目：Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories，已获得502个star。
 
 **✨ 核心特性**:
-- 810 stars
+- 502 stars
 - Go
 
 **📊 项目统计**:
-- **⭐ Star数**: 810
-- **🔀 Fork数**: 55
-- **👀 Watch数**: 810
+- **⭐ Star数**: 502
+- **🔀 Fork数**: 12
+- **👀 Watch数**: 502
 - **📝 语言**: Go
-- **💻 技术栈**: Go, Shell, Makefile
+- **🌐 官网**: [https://upilote.com](https://upilote.com)
+- **💻 技术栈**: Go, Shell, Dockerfile, ai, ai-agent, dev-environment
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) ![Star](https://img.shields.io/github/stars/Michaelliv/pi-dynamic-workflows?style=social)
+#### 8. [zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) ![Star](https://img.shields.io/github/stars/nevertoday/zhongguo-traditional-colors?style=social)
 
-**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了646个star，值得关注。
+<img src="./images/2026/week-24/zhongguo-traditional-colors/1_color-card-001.jpg" alt="zhongguo-traditional-colors" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：中华传统色演示、色卡浏览与颜色知识科普开源项目，已获得401个star。
 
 **✨ 核心特性**:
-- 646 stars
-- TypeScript
+- 401 stars
+- JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 646
-- **🔀 Fork数**: 37
-- **👀 Watch数**: 646
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **⭐ Star数**: 401
+- **🔀 Fork数**: 50
+- **👀 Watch数**: 401
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://nevertoday.github.io/zhongguo-traditional-colors/](https://nevertoday.github.io/zhongguo-traditional-colors/)
+- **💻 技术栈**: JavaScript, CSS, HTML, Swift
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [Duel-Agents](https://github.com/2aronS/Duel-Agents) ![Star](https://img.shields.io/github/stars/2aronS/Duel-Agents?style=social)
+#### 9. [guard-skills](https://github.com/amElnagdy/guard-skills) ![Star](https://img.shields.io/github/stars/amElnagdy/guard-skills?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：CLI, SDK, and IDE plugins for Duel Agents，已获得586个star。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs，已获得359个star。
 
 **✨ 核心特性**:
-- 586 stars
-- TypeScript
+- 359 stars
+- Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 586
-- **🔀 Fork数**: 16
-- **👀 Watch数**: 586
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://duelagents.com](https://duelagents.com)
-- **💻 技术栈**: TypeScript, JavaScript, ai-agents, anthropic, claude-code, cli
+- **⭐ Star数**: 359
+- **🔀 Fork数**: 48
+- **👀 Watch数**: 359
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://skills.sh/amElnagdy/guard-skills](https://skills.sh/amElnagdy/guard-skills)
+- **💻 技术栈**: agent-skills, ai, claude, claude-code, code-review, codex
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [baoyu-design](https://github.com/JimLiu/baoyu-design) ![Star](https://img.shields.io/github/stars/JimLiu/baoyu-design?style=social)
+
+<img src="./images/2026/week-24/baoyu-design/1_license-mit-blue.svg" alt="baoyu-design" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.，已获得385个star。
+
+**✨ 核心特性**:
+- 385 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 385
+- **🔀 Fork数**: 23
+- **👀 Watch数**: 385
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, agent-skills, claude, claude-code, claude-design, cursor
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -238,21 +242,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **JavaScript** (2 个项目)
+1. **JavaScript** (3 个项目)
+2. **Rust** (2 个项目)
 3. **TypeScript** (2 个项目)
-4. **HTML** (1 个项目)
-5. **Unknown** (1 个项目)
+4. **Python** (1 个项目)
+5. **Go** (1 个项目)
 
 **🏷️ 热门话题**:
-1. anthropic (3)
-2. claude-code (3)
-3. ai-agent (2)
-4. codex (2)
-5. image-generation (2)
-6. ai-agents (2)
-7. cursor (2)
-8. llm (2)
+1. ai (2)
+2. agent-skills (2)
+3. claude (2)
+4. claude-code (2)
+5. ads-b (1)
+6. aircraft (1)
+7. art-installation (1)
+8. flight-tracker (1)
 
 
 <!-- TRENDING-END -->
@@ -262,6 +266,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 06-13 | 2026年第24周 | 10 个 | [查看详情](./archives/2026/week-24/report.md) |
 | 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
 | 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
 | 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
@@ -281,7 +286,6 @@
 | 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
 | 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
-| 01-24 | 2026年第4周 | 10 个 | [查看详情](./archives/2026/week-4/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

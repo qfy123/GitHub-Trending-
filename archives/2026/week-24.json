@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第24周",
+    "year": 2026,
+    "week": 24,
+    "week_range": {
+      "start": "2026-06-07",
+      "end": "2026-06-13"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-06-13 23:59:59",
+    "next_update": "2026-06-20"
+  },
+  "repositories": [
+    {
+      "full_name": "b-nnett/goose",
+      "rank": 1,
+      "stars": 2274,
+      "forks": 536,
+      "overall_score": 78
+    },
+    {
+      "full_name": "cpaczek/skylight",
+      "rank": 2,
+      "stars": 2302,
+      "forks": 229,
+      "overall_score": 73
+    },
+    {
+      "full_name": "jd-opensource/JoyAI-Echo",
+      "rank": 3,
+      "stars": 900,
+      "forks": 57,
+      "overall_score": 66
+    },
+    {
+      "full_name": "zenhosta/9drive",
+      "rank": 4,
+      "stars": 421,
+      "forks": 148,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Jane-xiaoer/xiaoer-videolab",
+      "rank": 5,
+      "stars": 474,
+      "forks": 74,
+      "overall_score": 63
+    },
+    {
+      "full_name": "jeff141/meatshell",
+      "rank": 6,
+      "stars": 399,
+      "forks": 48,
+      "overall_score": 63
+    },
+    {
+      "full_name": "tastyeffectco/sandboxd",
+      "rank": 7,
+      "stars": 502,
+      "forks": 12,
+      "overall_score": 62
+    },
+    {
+      "full_name": "nevertoday/zhongguo-traditional-colors",
+      "rank": 8,
+      "stars": 401,
+      "forks": 50,
+      "overall_score": 62
+    },
+    {
+      "full_name": "amElnagdy/guard-skills",
+      "rank": 9,
+      "stars": 359,
+      "forks": 48,
+      "overall_score": 62
+    },
+    {
+      "full_name": "JimLiu/baoyu-design",
+      "rank": 10,
+      "stars": 385,
+      "forks": 23,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2026-06-08T06:53:43.436Z"
+}
