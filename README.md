@@ -18,223 +18,218 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第24周
+### GitHub趋势排行榜 - 2026年第25周
 
-**📅 统计周期**: 2026-06-07 ~ 2026-06-13  
+**📅 统计周期**: 2026-06-14 ~ 2026-06-20  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 8,417  
-**🔄 更新时间**: 2026-06-13 23:59:59  
+**⭐ 总Star数**: 30,334  
+**🔄 更新时间**: 2026-06-20 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [goose](https://github.com/b-nnett/goose) | 一个使用Rust开发的开源项目：Goose Swift proof-of-concept README，已获得2,... | 2,274 | 536 | Rust | 🆕 |
-| 2 | [skylight](https://github.com/cpaczek/skylight) | 一个使用TypeScript开发的开源项目：Project the aircraft passing overhe... | 2,302 | 229 | TypeScript | 🆕 |
-| 3 | [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 一个使用Python开发的开源项目：JoyAI-Echo: Pushing the Frontier of Lon... | 900 | 57 | Python | 🆕 |
-| 4 | [9drive](https://github.com/zenhosta/9drive) | 一个使用TypeScript开发的开源项目：9Drive is a storage gateway web app... | 421 | 148 | TypeScript | 🆕 |
-| 5 | [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) | 一个使用JavaScript开发的开源项目：One click on the toolbar grabs the ... | 474 | 74 | JavaScript | 🆕 |
-| 6 | [meatshell](https://github.com/jeff141/meatshell) | 一个使用Rust开发的开源项目：一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, l... | 399 | 48 | Rust | 🆕 |
-| 7 | [sandboxd](https://github.com/tastyeffectco/sandboxd) | 一个使用Go开发的开源项目：Self-hosted dev sandboxes with preview URLs... | 502 | 12 | Go | 🆕 |
-| 8 | [zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 一个使用JavaScript开发的开源项目：中华传统色演示、色卡浏览与颜色知识科普开源项目，已获得401个star。 | 401 | 50 | JavaScript | 🆕 |
-| 9 | [guard-skills](https://github.com/amElnagdy/guard-skills) | 一个使用Unknown开发的开源项目：Guard skills for coding agents, qualit... | 359 | 48 | Unknown | 🆕 |
-| 10 | [baoyu-design](https://github.com/JimLiu/baoyu-design) | 一个使用JavaScript开发的开源项目：Run Claude Design locally as an Age... | 385 | 23 | JavaScript | 🆕 |
+| 1 | [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 一个热门的TypeScript开源项目，在GitHub上获得了8,684个star，值得关注。 | 8,684 | 743 | TypeScript | 🆕 |
+| 2 | [ponytail](https://github.com/DietrichGebert/ponytail) | 一个使用JavaScript开发的开源项目：Makes your AI agent think like the ... | 9,762 | 416 | JavaScript | 🆕 |
+| 3 | [omnigent](https://github.com/omnigent-ai/omnigent) | 一个使用Python开发的开源项目：A meta-harness for all your AI agents. ... | 1,361 | 161 | Python | 🆕 |
+| 4 | [world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) | 一个热门的TypeScript开源项目，在GitHub上获得了722个star，值得关注。 | 722 | 188 | TypeScript | 🆕 |
+| 5 | [improve](https://github.com/shadcn/improve) | 一个使用Unknown开发的开源项目：Use your most capable model to audit y... | 4,531 | 159 | Unknown | 🆕 |
+| 6 | [RoguePlanet](https://github.com/MSNightmare/RoguePlanet) | 一个使用C++开发的开源项目：RoguePlanet Windows Defender Vulnerability... | 1,280 | 529 | C++ | 🆕 |
+| 7 | [enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) | 一个使用Shell开发的开源项目：国行 Mac 一键开启完整 Apple 智能(端侧 + Private Clou... | 1,239 | 66 | Shell | 🆕 |
+| 8 | [aur-malware-check](https://github.com/lenucksi/aur-malware-check) | 一个使用Shell开发的开源项目：Detection tools for the June 2026 atomic... | 949 | 24 | Shell | 🆕 |
+| 9 | [kage](https://github.com/tamnd/kage) | 一个使用Go开发的开源项目：Shadow any website for offline viewing, wit... | 951 | 21 | Go | 🆕 |
+| 10 | [effective-html](https://github.com/plannotator/effective-html) | 一个使用HTML开发的开源项目：Agent skill for elegant and simple html p... | 855 | 59 | HTML | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [goose](https://github.com/b-nnett/goose) ![Star](https://img.shields.io/github/stars/b-nnett/goose?style=social)
+#### 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Code?style=social)
 
-<img src="./images/2026/week-24/goose/1_readme-hero.png" alt="goose" width="500"/>
+<img src="./images/2026/week-25/mimo-code/1_mimocode-banner.png" alt="MiMo-Code" width="500"/>
 
-**📝 项目简介**: 一个使用Rust开发的开源项目：Goose Swift proof-of-concept README，已获得2,274个star。
-
-**✨ 核心特性**:
-- 2,274 stars
-- Rust
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,274
-- **🔀 Fork数**: 536
-- **👀 Watch数**: 2,274
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Swift, Python, Shell, C, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [skylight](https://github.com/cpaczek/skylight) ![Star](https://img.shields.io/github/stars/cpaczek/skylight?style=social)
-
-<img src="./images/2026/week-24/skylight/1_skylight.png" alt="skylight" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.，已获得2,302个star。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了8,684个star，值得关注。
 
 **✨ 核心特性**:
-- 2,302 stars
+- 8,684 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,302
-- **🔀 Fork数**: 229
-- **👀 Watch数**: 2,302
+- **⭐ Star数**: 8,684
+- **🔀 Fork数**: 743
+- **👀 Watch数**: 8,684
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, Shell, HTML, Dockerfile, JavaScript
+- **💻 技术栈**: TypeScript, CSS, JavaScript, Shell, HTML, Nix
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) ![Star](https://img.shields.io/github/stars/jd-opensource/JoyAI-Echo?style=social)
+#### 2. [ponytail](https://github.com/DietrichGebert/ponytail) ![Star](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation，已获得900个star。
+<img src="./images/2026/week-25/ponytail/1_logo.png" alt="ponytail" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.，已获得9,762个star。
 
 **✨ 核心特性**:
-- 900 stars
+- 9,762 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 9,762
+- **🔀 Fork数**: 416
+- **👀 Watch数**: 9,762
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, PowerShell, Shell, agent-skills, ai-agents, claude
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [omnigent](https://github.com/omnigent-ai/omnigent) ![Star](https://img.shields.io/github/stars/omnigent-ai/omnigent?style=social)
+
+<img src="./images/2026/week-25/omnigent/1_license-apache_2.0-blue.svg" alt="omnigent" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.，已获得1,361个star。
+
+**✨ 核心特性**:
+- 1,361 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 900
-- **🔀 Fork数**: 57
-- **👀 Watch数**: 900
+- **⭐ Star数**: 1,361
+- **🔀 Fork数**: 161
+- **👀 Watch数**: 1,361
 - **📝 语言**: Python
-- **🌐 官网**: [https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/](https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/)
-- **💻 技术栈**: Python
+- **🌐 官网**: [https://omnigent.ai](https://omnigent.ai)
+- **💻 技术栈**: Python, TypeScript, JavaScript, HTML, CSS, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [9drive](https://github.com/zenhosta/9drive) ![Star](https://img.shields.io/github/stars/zenhosta/9drive?style=social)
+#### 4. [world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) ![Star](https://img.shields.io/github/stars/levy-street/world-of-claudecraft?style=social)
 
-<img src="./images/2026/week-24/9drive/1_image.png" alt="9drive" width="500"/>
+<img src="./images/2026/week-25/world-of-claudecraft/1_title-screen.jpg" alt="world-of-claudecraft" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.，已获得421个star。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了722个star，值得关注。
 
 **✨ 核心特性**:
-- 421 stars
+- 722 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 421
-- **🔀 Fork数**: 148
-- **👀 Watch数**: 421
+- **⭐ Star数**: 722
+- **🔀 Fork数**: 188
+- **👀 Watch数**: 722
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://9drive.zenhosta.com](https://9drive.zenhosta.com)
-- **💻 技术栈**: TypeScript, CSS, HTML, Dockerfile, JavaScript, drive
+- **💻 技术栈**: TypeScript, HTML, JavaScript, Python, Shell, Dockerfile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) ![Star](https://img.shields.io/github/stars/Jane-xiaoer/xiaoer-videolab?style=social)
+#### 5. [improve](https://github.com/shadcn/improve) ![Star](https://img.shields.io/github/stars/shadcn/improve?style=social)
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。，已获得474个star。
-
-**✨ 核心特性**:
-- 474 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 474
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 474
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Python, Shell, CSS, PowerShell, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [meatshell](https://github.com/jeff141/meatshell) ![Star](https://img.shields.io/github/stars/jeff141/meatshell?style=social)
-
-<img src="./images/2026/week-24/meatshell/1_01-welcome.png" alt="meatshell" width="500"/>
-
-**📝 项目简介**: 一个使用Rust开发的开源项目：一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client），已获得399个star。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Use your most capable model to audit your codebase and write plans for cheaper models to execute.，已获得4,531个star。
 
 **✨ 核心特性**:
-- 399 stars
-- Rust
-
-**📊 项目统计**:
-- **⭐ Star数**: 399
-- **🔀 Fork数**: 48
-- **👀 Watch数**: 399
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Slint, Python, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [sandboxd](https://github.com/tastyeffectco/sandboxd) ![Star](https://img.shields.io/github/stars/tastyeffectco/sandboxd?style=social)
-
-<img src="./images/2026/week-24/sandboxd/1_license-mit-green.svg" alt="sandboxd" width="500"/>
-
-**📝 项目简介**: 一个使用Go开发的开源项目：Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories，已获得502个star。
-
-**✨ 核心特性**:
-- 502 stars
-- Go
-
-**📊 项目统计**:
-- **⭐ Star数**: 502
-- **🔀 Fork数**: 12
-- **👀 Watch数**: 502
-- **📝 语言**: Go
-- **🌐 官网**: [https://upilote.com](https://upilote.com)
-- **💻 技术栈**: Go, Shell, Dockerfile, ai, ai-agent, dev-environment
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) ![Star](https://img.shields.io/github/stars/nevertoday/zhongguo-traditional-colors?style=social)
-
-<img src="./images/2026/week-24/zhongguo-traditional-colors/1_color-card-001.jpg" alt="zhongguo-traditional-colors" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：中华传统色演示、色卡浏览与颜色知识科普开源项目，已获得401个star。
-
-**✨ 核心特性**:
-- 401 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 401
-- **🔀 Fork数**: 50
-- **👀 Watch数**: 401
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://nevertoday.github.io/zhongguo-traditional-colors/](https://nevertoday.github.io/zhongguo-traditional-colors/)
-- **💻 技术栈**: JavaScript, CSS, HTML, Swift
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [guard-skills](https://github.com/amElnagdy/guard-skills) ![Star](https://img.shields.io/github/stars/amElnagdy/guard-skills?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs，已获得359个star。
-
-**✨ 核心特性**:
-- 359 stars
+- 4,531 stars
 - Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 359
-- **🔀 Fork数**: 48
-- **👀 Watch数**: 359
+- **⭐ Star数**: 4,531
+- **🔀 Fork数**: 159
+- **👀 Watch数**: 4,531
 - **📝 语言**: Unknown
-- **🌐 官网**: [https://skills.sh/amElnagdy/guard-skills](https://skills.sh/amElnagdy/guard-skills)
-- **💻 技术栈**: agent-skills, ai, claude, claude-code, code-review, codex
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [baoyu-design](https://github.com/JimLiu/baoyu-design) ![Star](https://img.shields.io/github/stars/JimLiu/baoyu-design?style=social)
+#### 6. [RoguePlanet](https://github.com/MSNightmare/RoguePlanet) ![Star](https://img.shields.io/github/stars/MSNightmare/RoguePlanet?style=social)
 
-<img src="./images/2026/week-24/baoyu-design/1_license-mit-blue.svg" alt="baoyu-design" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.，已获得385个star。
+**📝 项目简介**: 一个使用C++开发的开源项目：RoguePlanet Windows Defender Vulnerability，已获得1,280个star。
 
 **✨ 核心特性**:
-- 385 stars
-- JavaScript
+- 1,280 stars
+- C++
 
 **📊 项目统计**:
-- **⭐ Star数**: 385
-- **🔀 Fork数**: 23
-- **👀 Watch数**: 385
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, agent-skills, claude, claude-code, claude-design, cursor
+- **⭐ Star数**: 1,280
+- **🔀 Fork数**: 529
+- **👀 Watch数**: 1,280
+- **📝 语言**: C++
+- **💻 技术栈**: C++
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) ![Star](https://img.shields.io/github/stars/SkyBlue997/enableMacosAI?style=social)
+
+**📝 项目简介**: 一个使用Shell开发的开源项目：国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon，已获得1,239个star。
+
+**✨ 核心特性**:
+- 1,239 stars
+- Shell
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,239
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 1,239
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, C++, C, apple-intelligence
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [aur-malware-check](https://github.com/lenucksi/aur-malware-check) ![Star](https://img.shields.io/github/stars/lenucksi/aur-malware-check?style=social)
+
+**📝 项目简介**: 一个使用Shell开发的开源项目：Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.，已获得949个star。
+
+**✨ 核心特性**:
+- 949 stars
+- Shell
+
+**📊 项目统计**:
+- **⭐ Star数**: 949
+- **🔀 Fork数**: 24
+- **👀 Watch数**: 949
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, Docker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [kage](https://github.com/tamnd/kage) ![Star](https://img.shields.io/github/stars/tamnd/kage?style=social)
+
+<img src="./images/2026/week-25/kage/1_badge.svg" alt="kage" width="500"/>
+
+**📝 项目简介**: 一个使用Go开发的开源项目：Shadow any website for offline viewing, with the JavaScript stripped out，已获得951个star。
+
+**✨ 核心特性**:
+- 951 stars
+- Go
+
+**📊 项目统计**:
+- **⭐ Star数**: 951
+- **🔀 Fork数**: 21
+- **👀 Watch数**: 951
+- **📝 语言**: Go
+- **🌐 官网**: [https://kage.tamnd.com](https://kage.tamnd.com)
+- **💻 技术栈**: Go, Python, Dockerfile, Makefile, Docker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [effective-html](https://github.com/plannotator/effective-html) ![Star](https://img.shields.io/github/stars/plannotator/effective-html?style=social)
+
+<img src="./images/2026/week-25/effective-html/1_star-plannotator.svg" alt="effective-html" width="500"/>
+
+**📝 项目简介**: 一个使用HTML开发的开源项目：Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.，已获得855个star。
+
+**✨ 核心特性**:
+- 855 stars
+- HTML
+
+**📊 项目统计**:
+- **⭐ Star数**: 855
+- **🔀 Fork数**: 59
+- **👀 Watch数**: 855
+- **📝 语言**: HTML
+- **🌐 官网**: [https://plannotator.ai](https://plannotator.ai)
+- **💻 技术栈**: HTML, agent-skills, skills
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -242,21 +237,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **JavaScript** (3 个项目)
-2. **Rust** (2 个项目)
-3. **TypeScript** (2 个项目)
+1. **TypeScript** (2 个项目)
+2. **Shell** (2 个项目)
+3. **JavaScript** (1 个项目)
 4. **Python** (1 个项目)
-5. **Go** (1 个项目)
+5. **Unknown** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (2)
-2. agent-skills (2)
-3. claude (2)
-4. claude-code (2)
-5. ads-b (1)
-6. aircraft (1)
-7. art-installation (1)
-8. flight-tracker (1)
+1. agent-skills (2)
+2. ai-agents (1)
+3. claude (1)
+4. claude-code (1)
+5. claude-code-plugin (1)
+6. cursor-rules (1)
+7. developer-tools (1)
+8. llm (1)
 
 
 <!-- TRENDING-END -->
@@ -266,6 +261,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 06-20 | 2026年第25周 | 10 个 | [查看详情](./archives/2026/week-25/report.md) |
 | 06-13 | 2026年第24周 | 10 个 | [查看详情](./archives/2026/week-24/report.md) |
 | 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
 | 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
@@ -285,7 +281,6 @@
 | 02-21 | 2026年第8周 | 10 个 | [查看详情](./archives/2026/week-8/report.md) |
 | 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 | 02-07 | 2026年第6周 | 10 个 | [查看详情](./archives/2026/week-6/report.md) |
-| 01-31 | 2026年第5周 | 10 个 | [查看详情](./archives/2026/week-5/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

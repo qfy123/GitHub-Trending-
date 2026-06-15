@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第25周",
+    "year": 2026,
+    "week": 25,
+    "week_range": {
+      "start": "2026-06-14",
+      "end": "2026-06-20"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-06-20 23:59:59",
+    "next_update": "2026-06-27"
+  },
+  "repositories": [
+    {
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "rank": 1,
+      "stars": 8684,
+      "forks": 743,
+      "overall_score": 89
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "rank": 2,
+      "stars": 9762,
+      "forks": 416,
+      "overall_score": 78
+    },
+    {
+      "full_name": "omnigent-ai/omnigent",
+      "rank": 3,
+      "stars": 1361,
+      "forks": 161,
+      "overall_score": 77
+    },
+    {
+      "full_name": "levy-street/world-of-claudecraft",
+      "rank": 4,
+      "stars": 722,
+      "forks": 188,
+      "overall_score": 76
+    },
+    {
+      "full_name": "shadcn/improve",
+      "rank": 5,
+      "stars": 4531,
+      "forks": 159,
+      "overall_score": 73
+    },
+    {
+      "full_name": "MSNightmare/RoguePlanet",
+      "rank": 6,
+      "stars": 1280,
+      "forks": 529,
+      "overall_score": 72
+    },
+    {
+      "full_name": "SkyBlue997/enableMacosAI",
+      "rank": 7,
+      "stars": 1239,
+      "forks": 66,
+      "overall_score": 69
+    },
+    {
+      "full_name": "lenucksi/aur-malware-check",
+      "rank": 8,
+      "stars": 949,
+      "forks": 24,
+      "overall_score": 66
+    },
+    {
+      "full_name": "tamnd/kage",
+      "rank": 9,
+      "stars": 951,
+      "forks": 21,
+      "overall_score": 65
+    },
+    {
+      "full_name": "plannotator/effective-html",
+      "rank": 10,
+      "stars": 855,
+      "forks": 59,
+      "overall_score": 65
+    }
+  ],
+  "generated_at": "2026-06-15T07:29:41.859Z"
+}
