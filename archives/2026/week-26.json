@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第26周",
+    "year": 2026,
+    "week": 26,
+    "week_range": {
+      "start": "2026-06-21",
+      "end": "2026-06-27"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-06-27 23:59:59",
+    "next_update": "2026-07-04"
+  },
+  "repositories": [
+    {
+      "full_name": "vercel/eve",
+      "rank": 1,
+      "stars": 2147,
+      "forks": 150,
+      "overall_score": 79
+    },
+    {
+      "full_name": "zhongerxin/Cowart",
+      "rank": 2,
+      "stars": 1589,
+      "forks": 129,
+      "overall_score": 70
+    },
+    {
+      "full_name": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "rank": 3,
+      "stars": 385,
+      "forks": 710,
+      "overall_score": 69
+    },
+    {
+      "full_name": "rebel0789/codexpro",
+      "rank": 4,
+      "stars": 646,
+      "forks": 61,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Forsy-AI/agent-apprenticeship",
+      "rank": 5,
+      "stars": 626,
+      "forks": 42,
+      "overall_score": 63
+    },
+    {
+      "full_name": "ngrok/webernetes",
+      "rank": 6,
+      "stars": 492,
+      "forks": 38,
+      "overall_score": 62
+    },
+    {
+      "full_name": "lyra81604/zhengxi-views",
+      "rank": 7,
+      "stars": 375,
+      "forks": 48,
+      "overall_score": 62
+    },
+    {
+      "full_name": "boogu-project/Boogu-Image",
+      "rank": 8,
+      "stars": 418,
+      "forks": 19,
+      "overall_score": 61
+    },
+    {
+      "full_name": "aidenybai/cnfast",
+      "rank": 9,
+      "stars": 444,
+      "forks": 5,
+      "overall_score": 60
+    },
+    {
+      "full_name": "Plaer1/junction",
+      "rank": 10,
+      "stars": 518,
+      "forks": 7,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2026-06-22T07:33:29.173Z"
+}
