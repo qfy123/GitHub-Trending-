@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第27周",
+    "year": 2026,
+    "week": 27,
+    "week_range": {
+      "start": "2026-06-28",
+      "end": "2026-07-04"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-07-04 23:59:59",
+    "next_update": "2026-07-11"
+  },
+  "repositories": [
+    {
+      "full_name": "bikini/exploitarium",
+      "rank": 1,
+      "stars": 2728,
+      "forks": 746,
+      "overall_score": 77
+    },
+    {
+      "full_name": "deepseek-ai/DeepSpec",
+      "rank": 2,
+      "stars": 2560,
+      "forks": 241,
+      "overall_score": 74
+    },
+    {
+      "full_name": "bozhouDev/codex-orange-book",
+      "rank": 3,
+      "stars": 2309,
+      "forks": 230,
+      "overall_score": 71
+    },
+    {
+      "full_name": "Yu9191/wloc",
+      "rank": 4,
+      "stars": 1235,
+      "forks": 163,
+      "overall_score": 70
+    },
+    {
+      "full_name": "goehou/tabbit-toy",
+      "rank": 5,
+      "stars": 383,
+      "forks": 760,
+      "overall_score": 70
+    },
+    {
+      "full_name": "benchflow-ai/awesome-evals",
+      "rank": 6,
+      "stars": 569,
+      "forks": 42,
+      "overall_score": 63
+    },
+    {
+      "full_name": "AlexandrosGounis/pdfx",
+      "rank": 7,
+      "stars": 503,
+      "forks": 54,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Krishnagangwal/CS-Fundamentals",
+      "rank": 8,
+      "stars": 433,
+      "forks": 33,
+      "overall_score": 62
+    },
+    {
+      "full_name": "Pluviobyte/video-production-skills",
+      "rank": 9,
+      "stars": 378,
+      "forks": 40,
+      "overall_score": 61
+    },
+    {
+      "full_name": "winsznx/theeleven",
+      "rank": 10,
+      "stars": 707,
+      "forks": 2,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2026-06-29T06:58:20.008Z"
+}

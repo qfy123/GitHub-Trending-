@@ -18,225 +18,213 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第26周
+### GitHub趋势排行榜 - 2026年第27周
 
-**📅 统计周期**: 2026-06-21 ~ 2026-06-27  
+**📅 统计周期**: 2026-06-28 ~ 2026-07-04  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 7,640  
-**🔄 更新时间**: 2026-06-27 23:59:59  
+**⭐ 总Star数**: 11,805  
+**🔄 更新时间**: 2026-07-04 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [eve](https://github.com/vercel/eve) | 一个使用TypeScript开发的开源项目：The Framework for Building Agents，已... | 2,147 | 150 | TypeScript | 🆕 |
-| 2 | [Cowart](https://github.com/zhongerxin/Cowart) | 一个热门的JavaScript开源项目，在GitHub上获得了1,589个star，值得关注。 | 1,589 | 129 | JavaScript | 🆕 |
-| 3 | [polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365) | 一个使用Unknown开发的开源项目：polymarket trading bot services, polym... | 385 | 710 | Unknown | 🆕 |
-| 4 | [codexpro](https://github.com/rebel0789/codexpro) | 一个使用JavaScript开发的开源项目：Use ChatGPT Developer Mode as a loc... | 646 | 61 | JavaScript | 🆕 |
-| 5 | [agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) | 一个使用Unknown开发的开源项目：The living ecosystem where AI agents l... | 626 | 42 | Unknown | 🆕 |
-| 6 | [webernetes](https://github.com/ngrok/webernetes) | 一个使用TypeScript开发的开源项目：Kubernetes in the browser.，已获得492个s... | 492 | 38 | TypeScript | 🆕 |
-| 7 | [zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 一个使用Python开发的开源项目：可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观... | 375 | 48 | Python | 🆕 |
-| 8 | [Boogu-Image](https://github.com/boogu-project/Boogu-Image) | 一个使用Python开发的开源项目：Boogu-Image-0.1 is an Apache-2.0 open-s... | 418 | 19 | Python | 🆕 |
-| 9 | [cnfast](https://github.com/aidenybai/cnfast) | 一个使用TypeScript开发的开源项目：Fast drop in replacement for `cn`，已... | 444 | 5 | TypeScript | 🆕 |
-| 10 | [junction](https://github.com/Plaer1/junction) | 一个使用TypeScript开发的开源项目：VS Code chat sidebar for local AI c... | 518 | 7 | TypeScript | 🆕 |
+| 1 | [exploitarium](https://github.com/bikini/exploitarium) | 一个使用Python开发的开源项目：A single archive of public exploit PoCs... | 2,728 | 746 | Python | 🆕 |
+| 2 | [DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 一个使用Python开发的开源项目：DeepSpec: a full-stack codebase for tra... | 2,560 | 241 | Python | 🆕 |
+| 3 | [codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 一个使用HTML开发的开源项目：Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含... | 2,309 | 230 | HTML | 🆕 |
+| 4 | [wloc](https://github.com/Yu9191/wloc) | 一个使用JavaScript开发的开源项目：修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surg... | 1,235 | 163 | JavaScript | 🆕 |
+| 5 | [tabbit-toy](https://github.com/goehou/tabbit-toy) | 一个使用JavaScript开发的开源项目：这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了... | 383 | 760 | JavaScript | 🆕 |
+| 6 | [awesome-evals](https://github.com/benchflow-ai/awesome-evals) | 一个使用Unknown开发的开源项目：A curated, non-BS library of the best ... | 569 | 42 | Unknown | 🆕 |
+| 7 | [pdfx](https://github.com/AlexandrosGounis/pdfx) | 一个使用TypeScript开发的开源项目：An extension of the traditional PDF... | 503 | 54 | TypeScript | 🆕 |
+| 8 | [CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 一个使用Unknown开发的开源项目：Curated CS fundamentals for placement ... | 433 | 33 | Unknown | 🆕 |
+| 9 | [video-production-skills](https://github.com/Pluviobyte/video-production-skills) | 一个使用Python开发的开源项目：Reusable AI video production skills lib... | 378 | 40 | Python | 🆕 |
+| 10 | [theeleven](https://github.com/winsznx/theeleven) | 一个使用TypeScript开发的开源项目：Eleven autonomous AI agents open li... | 707 | 2 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [eve](https://github.com/vercel/eve) ![Star](https://img.shields.io/github/stars/vercel/eve?style=social)
+#### 1. [exploitarium](https://github.com/bikini/exploitarium) ![Star](https://img.shields.io/github/stars/bikini/exploitarium?style=social)
 
-<img src="./images/2026/week-26/eve/1_eve.svg" alt="eve" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：The Framework for Building Agents，已获得2,147个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.，已获得2,728个star。
 
 **✨ 核心特性**:
-- 2,147 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,147
-- **🔀 Fork数**: 150
-- **👀 Watch数**: 2,147
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://vercel.com/eve](https://vercel.com/eve)
-- **💻 技术栈**: TypeScript, JavaScript, CSS, Svelte, Vue, Dockerfile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [Cowart](https://github.com/zhongerxin/Cowart) ![Star](https://img.shields.io/github/stars/zhongerxin/Cowart?style=social)
-
-<img src="./images/2026/week-26/cowart/1_open-canvas.png" alt="Cowart" width="500"/>
-
-**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了1,589个star，值得关注。
-
-**✨ 核心特性**:
-- 1,589 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,589
-- **🔀 Fork数**: 129
-- **👀 Watch数**: 1,589
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, Shell, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365) ![Star](https://img.shields.io/github/stars/MstKail/polymarket-trading-bot-services-polyedge365?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot，已获得385个star。
-
-**✨ 核心特性**:
-- 385 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 385
-- **🔀 Fork数**: 710
-- **👀 Watch数**: 385
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://polyedge365.com](https://polyedge365.com)
-- **💻 技术栈**: arbitrage, bot, copy, hedge, market-marker, polyedge
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [codexpro](https://github.com/rebel0789/codexpro) ![Star](https://img.shields.io/github/stars/rebel0789/codexpro?style=social)
-
-<img src="./images/2026/week-26/codexpro/1_og.svg" alt="codexpro" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.，已获得646个star。
-
-**✨ 核心特性**:
-- 646 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 646
-- **🔀 Fork数**: 61
-- **👀 Watch数**: 646
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://rebel0789.github.io/codexpro/](https://rebel0789.github.io/codexpro/)
-- **💻 技术栈**: JavaScript, TypeScript, apps-sdk, chatgpt, cloudflare-tunnel, codex
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) ![Star](https://img.shields.io/github/stars/Forsy-AI/agent-apprenticeship?style=social)
-
-<img src="./images/2026/week-26/agent-apprenticeship/1_agent-apprenticeship.svg" alt="agent-apprenticeship" width="500"/>
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.，已获得626个star。
-
-**✨ 核心特性**:
-- 626 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 626
-- **🔀 Fork数**: 42
-- **👀 Watch数**: 626
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://agentapprenticeship.org/](https://agentapprenticeship.org/)
-- **💻 技术栈**: agent-apprenticeship, agent-economy, agent-experience, agent-learning, agent-traces, agentic-ai
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [webernetes](https://github.com/ngrok/webernetes) ![Star](https://img.shields.io/github/stars/ngrok/webernetes?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Kubernetes in the browser.，已获得492个star。
-
-**✨ 核心特性**:
-- 492 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 492
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 492
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Shell, Docker, Kubernetes
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [zhengxi-views](https://github.com/lyra81604/zhengxi-views) ![Star](https://img.shields.io/github/stars/lyra81604/zhengxi-views?style=social)
-
-<img src="./images/2026/week-26/zhengxi-views/1_license-mit-blue.svg" alt="zhengxi-views" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！，已获得375个star。
-
-**✨ 核心特性**:
-- 375 stars
+- 2,728 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 375
-- **🔀 Fork数**: 48
-- **👀 Watch数**: 375
+- **⭐ Star数**: 2,728
+- **🔀 Fork数**: 746
+- **👀 Watch数**: 2,728
 - **📝 语言**: Python
-- **🌐 官网**: [https://www.efunds.com.cn/manager/462.shtml](https://www.efunds.com.cn/manager/462.shtml)
-- **💻 技术栈**: Python, agent-skill, chinese-funds, funds, investing
+- **💻 技术栈**: Python, C, Rust, JavaScript, PHP, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [Boogu-Image](https://github.com/boogu-project/Boogu-Image) ![Star](https://img.shields.io/github/stars/boogu-project/Boogu-Image?style=social)
+#### 2. [DeepSpec](https://github.com/deepseek-ai/DeepSpec) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSpec?style=social)
 
-<img src="./images/2026/week-26/boogu-image/1_arxiv-%7b%7b%20paper_id%20%7d%7d-b31b1b.svg" alt="Boogu-Image" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.，已获得418个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms，已获得2,560个star。
 
 **✨ 核心特性**:
-- 418 stars
+- 2,560 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 418
-- **🔀 Fork数**: 19
-- **👀 Watch数**: 418
+- **⭐ Star数**: 2,560
+- **🔀 Fork数**: 241
+- **👀 Watch数**: 2,560
 - **📝 语言**: Python
 - **💻 技术栈**: Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [cnfast](https://github.com/aidenybai/cnfast) ![Star](https://img.shields.io/github/stars/aidenybai/cnfast?style=social)
+#### 3. [codex-orange-book](https://github.com/bozhouDev/codex-orange-book) ![Star](https://img.shields.io/github/stars/bozhouDev/codex-orange-book?style=social)
 
-<img src="./images/2026/week-26/cnfast/1_cnfast.svg" alt="cnfast" width="500"/>
+<img src="./images/2026/week-27/codex-orange-book/1_image-002-4f0de9d6b3.png" alt="codex-orange-book" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Fast drop in replacement for `cn`，已获得444个star。
+**📝 项目简介**: 一个使用HTML开发的开源项目：Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF），已获得2,309个star。
 
 **✨ 核心特性**:
-- 444 stars
-- TypeScript
+- 2,309 stars
+- HTML
 
 **📊 项目统计**:
-- **⭐ Star数**: 444
-- **🔀 Fork数**: 5
-- **👀 Watch数**: 444
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Shell, JavaScript, clsx, cn, tailwindcss
+- **⭐ Star数**: 2,309
+- **🔀 Fork数**: 230
+- **👀 Watch数**: 2,309
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, Python, React, Vue, Node.js, TypeScript
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [junction](https://github.com/Plaer1/junction) ![Star](https://img.shields.io/github/stars/Plaer1/junction?style=social)
+#### 4. [wloc](https://github.com/Yu9191/wloc) ![Star](https://img.shields.io/github/stars/Yu9191/wloc?style=social)
 
-<img src="./images/2026/week-26/junction/1_two_familiar_skins.png" alt="junction" width="500"/>
+<img src="./images/2026/week-27/wloc/1_wloc.jpg" alt="wloc" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：VS Code chat sidebar for local AI coding agents，已获得518个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位，已获得1,235个star。
 
 **✨ 核心特性**:
-- 518 stars
+- 1,235 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,235
+- **🔀 Fork数**: 163
+- **👀 Watch数**: 1,235
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://wloc-pages.pages.dev/](https://wloc-pages.pages.dev/)
+- **💻 技术栈**: JavaScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [tabbit-toy](https://github.com/goehou/tabbit-toy) ![Star](https://img.shields.io/github/stars/goehou/tabbit-toy?style=social)
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型，已获得383个star。
+
+**✨ 核心特性**:
+- 383 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 383
+- **🔀 Fork数**: 760
+- **👀 Watch数**: 383
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, HTML, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [awesome-evals](https://github.com/benchflow-ai/awesome-evals) ![Star](https://img.shields.io/github/stars/benchflow-ai/awesome-evals?style=social)
+
+<img src="./images/2026/week-27/awesome-evals/1_badge.svg" alt="awesome-evals" width="500"/>
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.，已获得569个star。
+
+**✨ 核心特性**:
+- 569 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 569
+- **🔀 Fork数**: 42
+- **👀 Watch数**: 569
+- **📝 语言**: Unknown
+- **💻 技术栈**: agent-evaluation, ai-agents, awesome, awesome-list, benchmarks, evals
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [pdfx](https://github.com/AlexandrosGounis/pdfx) ![Star](https://img.shields.io/github/stars/AlexandrosGounis/pdfx?style=social)
+
+<img src="./images/2026/week-27/pdfx/1_pdfx.png" alt="pdfx" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata，已获得503个star。
+
+**✨ 核心特性**:
+- 503 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 518
-- **🔀 Fork数**: 7
-- **👀 Watch数**: 518
+- **⭐ Star数**: 503
+- **🔀 Fork数**: 54
+- **👀 Watch数**: 503
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, HTML, Shell, REST API
+- **💻 技术栈**: TypeScript, CSS, Objective-C++, Shell, JavaScript, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) ![Star](https://img.shields.io/github/stars/Krishnagangwal/CS-Fundamentals?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering，已获得433个star。
+
+**✨ 核心特性**:
+- 433 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 433
+- **🔀 Fork数**: 33
+- **👀 Watch数**: 433
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [video-production-skills](https://github.com/Pluviobyte/video-production-skills) ![Star](https://img.shields.io/github/stars/Pluviobyte/video-production-skills?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.，已获得378个star。
+
+**✨ 核心特性**:
+- 378 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 378
+- **🔀 Fork数**: 40
+- **👀 Watch数**: 378
+- **📝 语言**: Python
+- **💻 技术栈**: Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [theeleven](https://github.com/winsznx/theeleven) ![Star](https://img.shields.io/github/stars/winsznx/theeleven?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.，已获得707个star。
+
+**✨ 核心特性**:
+- 707 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 707
+- **🔀 Fork数**: 2
+- **👀 Watch数**: 707
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://regista11.xyz](https://regista11.xyz)
+- **💻 技术栈**: TypeScript, Solidity, JavaScript, CSS, Dockerfile, ai-agents
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,20 +232,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (4 个项目)
+1. **Python** (3 个项目)
 2. **JavaScript** (2 个项目)
 3. **Unknown** (2 个项目)
-4. **Python** (2 个项目)
+4. **TypeScript** (2 个项目)
+5. **HTML** (1 个项目)
 
 **🏷️ 热门话题**:
-1. codex (2)
-2. agent (1)
-3. framework (1)
-4. harness (1)
-5. javascript (1)
-6. markdown (1)
-7. sandbox (1)
-8. typescript (1)
+1. ai-agents (2)
+2. agent-evaluation (1)
+3. awesome (1)
+4. awesome-list (1)
+5. benchmarks (1)
+6. evals (1)
+7. llm (1)
+8. llm-evaluation (1)
 
 
 <!-- TRENDING-END -->
@@ -267,6 +256,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
 | 06-27 | 2026年第26周 | 10 个 | [查看详情](./archives/2026/week-26/report.md) |
 | 06-20 | 2026年第25周 | 10 个 | [查看详情](./archives/2026/week-25/report.md) |
 | 06-13 | 2026年第24周 | 10 个 | [查看详情](./archives/2026/week-24/report.md) |
@@ -286,7 +276,6 @@
 | 03-07 | 2026年第10周 | 10 个 | [查看详情](./archives/2026/week-10/report.md) |
 | 02-28 | 2026年第9周 | 10 个 | [查看详情](./archives/2026/week-9/report.md) |
 | 02-21 | 2026年第8周 | 10 个 | [查看详情](./archives/2026/week-8/report.md) |
-| 02-14 | 2026年第7周 | 10 个 | [查看详情](./archives/2026/week-7/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
