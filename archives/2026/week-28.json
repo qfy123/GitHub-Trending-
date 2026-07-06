@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第28周",
+    "year": 2026,
+    "week": 28,
+    "week_range": {
+      "start": "2026-07-05",
+      "end": "2026-07-11"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-07-11 23:59:59",
+    "next_update": "2026-07-18"
+  },
+  "repositories": [
+    {
+      "full_name": "elder-plinius/T3MP3ST",
+      "rank": 1,
+      "stars": 1907,
+      "forks": 472,
+      "overall_score": 78
+    },
+    {
+      "full_name": "mekos2772/ios-location-spoofer",
+      "rank": 2,
+      "stars": 1352,
+      "forks": 202,
+      "overall_score": 69
+    },
+    {
+      "full_name": "uzairansaruzi/hermex",
+      "rank": 3,
+      "stars": 627,
+      "forks": 66,
+      "overall_score": 69
+    },
+    {
+      "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "rank": 4,
+      "stars": 1052,
+      "forks": 62,
+      "overall_score": 66
+    },
+    {
+      "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "rank": 5,
+      "stars": 887,
+      "forks": 58,
+      "overall_score": 66
+    },
+    {
+      "full_name": "jamesob/local-llm",
+      "rank": 6,
+      "stars": 944,
+      "forks": 54,
+      "overall_score": 65
+    },
+    {
+      "full_name": "LinXiaoTao/FuckClaude",
+      "rank": 7,
+      "stars": 555,
+      "forks": 55,
+      "overall_score": 65
+    },
+    {
+      "full_name": "xuchonglang/investing-for-beginners",
+      "rank": 8,
+      "stars": 721,
+      "forks": 38,
+      "overall_score": 64
+    },
+    {
+      "full_name": "jmerelnyc/Talos",
+      "rank": 9,
+      "stars": 687,
+      "forks": 12,
+      "overall_score": 61
+    },
+    {
+      "full_name": "Kulaxyz/token-diet",
+      "rank": 10,
+      "stars": 592,
+      "forks": 1,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2026-07-06T06:44:10.605Z"
+}

@@ -18,213 +18,216 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第27周
+### GitHub趋势排行榜 - 2026年第28周
 
-**📅 统计周期**: 2026-06-28 ~ 2026-07-04  
+**📅 统计周期**: 2026-07-05 ~ 2026-07-11  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 11,805  
-**🔄 更新时间**: 2026-07-04 23:59:59  
+**⭐ 总Star数**: 9,324  
+**🔄 更新时间**: 2026-07-11 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [exploitarium](https://github.com/bikini/exploitarium) | 一个使用Python开发的开源项目：A single archive of public exploit PoCs... | 2,728 | 746 | Python | 🆕 |
-| 2 | [DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 一个使用Python开发的开源项目：DeepSpec: a full-stack codebase for tra... | 2,560 | 241 | Python | 🆕 |
-| 3 | [codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 一个使用HTML开发的开源项目：Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含... | 2,309 | 230 | HTML | 🆕 |
-| 4 | [wloc](https://github.com/Yu9191/wloc) | 一个使用JavaScript开发的开源项目：修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surg... | 1,235 | 163 | JavaScript | 🆕 |
-| 5 | [tabbit-toy](https://github.com/goehou/tabbit-toy) | 一个使用JavaScript开发的开源项目：这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了... | 383 | 760 | JavaScript | 🆕 |
-| 6 | [awesome-evals](https://github.com/benchflow-ai/awesome-evals) | 一个使用Unknown开发的开源项目：A curated, non-BS library of the best ... | 569 | 42 | Unknown | 🆕 |
-| 7 | [pdfx](https://github.com/AlexandrosGounis/pdfx) | 一个使用TypeScript开发的开源项目：An extension of the traditional PDF... | 503 | 54 | TypeScript | 🆕 |
-| 8 | [CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 一个使用Unknown开发的开源项目：Curated CS fundamentals for placement ... | 433 | 33 | Unknown | 🆕 |
-| 9 | [video-production-skills](https://github.com/Pluviobyte/video-production-skills) | 一个使用Python开发的开源项目：Reusable AI video production skills lib... | 378 | 40 | Python | 🆕 |
-| 10 | [theeleven](https://github.com/winsznx/theeleven) | 一个使用TypeScript开发的开源项目：Eleven autonomous AI agents open li... | 707 | 2 | TypeScript | 🆕 |
+| 1 | [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 一个使用TypeScript开发的开源项目：autonomous red teaming platform; mu... | 1,907 | 472 | TypeScript | 🆕 |
+| 2 | [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) | 一个使用JavaScript开发的开源项目：Standalone iOS app to spoof GPS loc... | 1,352 | 202 | JavaScript | 🆕 |
+| 3 | [hermex](https://github.com/uzairansaruzi/hermex) | 一个使用Swift开发的开源项目：Native iPhone app for your Hermes agent，... | 627 | 66 | Swift | 🆕 |
+| 4 | [claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | 一个使用Python开发的开源项目：Let Claude (or any LLM) actually watch ... | 1,052 | 62 | Python | 🆕 |
+| 5 | [Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 一个使用C++开发的开源项目：Command & Conquer Generals: Zero Hour runn... | 887 | 58 | C++ | 🆕 |
+| 6 | [local-llm](https://github.com/jamesob/local-llm) | 一个使用Shell开发的开源项目：Everything I know about running LLMs loc... | 944 | 54 | Shell | 🆕 |
+| 7 | [FuckClaude](https://github.com/LinXiaoTao/FuckClaude) | 一个热门的TypeScript开源项目，在GitHub上获得了555个star，值得关注。 | 555 | 55 | TypeScript | 🆕 |
+| 8 | [investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) | 一个使用Unknown开发的开源项目：小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架，已获得721个star。 | 721 | 38 | Unknown | 🆕 |
+| 9 | [Talos](https://github.com/jmerelnyc/Talos) | 一个使用Python开发的开源项目：GPU worker client for the Talos network... | 687 | 12 | Python | 🆕 |
+| 10 | [token-diet](https://github.com/Kulaxyz/token-diet) | 一个使用Shell开发的开源项目：Always-on token-efficiency skill for cod... | 592 | 1 | Shell | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [exploitarium](https://github.com/bikini/exploitarium) ![Star](https://img.shields.io/github/stars/bikini/exploitarium?style=social)
+#### 1. [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) ![Star](https://img.shields.io/github/stars/elder-plinius/T3MP3ST?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.，已获得2,728个star。
-
-**✨ 核心特性**:
-- 2,728 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,728
-- **🔀 Fork数**: 746
-- **👀 Watch数**: 2,728
-- **📝 语言**: Python
-- **💻 技术栈**: Python, C, Rust, JavaScript, PHP, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [DeepSpec](https://github.com/deepseek-ai/DeepSpec) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSpec?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms，已获得2,560个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：autonomous red teaming platform; multi-agent offensive-security meta-harness，已获得1,907个star。
 
 **✨ 核心特性**:
-- 2,560 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,560
-- **🔀 Fork数**: 241
-- **👀 Watch数**: 2,560
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [codex-orange-book](https://github.com/bozhouDev/codex-orange-book) ![Star](https://img.shields.io/github/stars/bozhouDev/codex-orange-book?style=social)
-
-<img src="./images/2026/week-27/codex-orange-book/1_image-002-4f0de9d6b3.png" alt="codex-orange-book" width="500"/>
-
-**📝 项目简介**: 一个使用HTML开发的开源项目：Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF），已获得2,309个star。
-
-**✨ 核心特性**:
-- 2,309 stars
-- HTML
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,309
-- **🔀 Fork数**: 230
-- **👀 Watch数**: 2,309
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML, Python, React, Vue, Node.js, TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [wloc](https://github.com/Yu9191/wloc) ![Star](https://img.shields.io/github/stars/Yu9191/wloc?style=social)
-
-<img src="./images/2026/week-27/wloc/1_wloc.jpg" alt="wloc" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位，已获得1,235个star。
-
-**✨ 核心特性**:
-- 1,235 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,235
-- **🔀 Fork数**: 163
-- **👀 Watch数**: 1,235
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://wloc-pages.pages.dev/](https://wloc-pages.pages.dev/)
-- **💻 技术栈**: JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [tabbit-toy](https://github.com/goehou/tabbit-toy) ![Star](https://img.shields.io/github/stars/goehou/tabbit-toy?style=social)
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型，已获得383个star。
-
-**✨ 核心特性**:
-- 383 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 383
-- **🔀 Fork数**: 760
-- **👀 Watch数**: 383
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [awesome-evals](https://github.com/benchflow-ai/awesome-evals) ![Star](https://img.shields.io/github/stars/benchflow-ai/awesome-evals?style=social)
-
-<img src="./images/2026/week-27/awesome-evals/1_badge.svg" alt="awesome-evals" width="500"/>
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.，已获得569个star。
-
-**✨ 核心特性**:
-- 569 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 569
-- **🔀 Fork数**: 42
-- **👀 Watch数**: 569
-- **📝 语言**: Unknown
-- **💻 技术栈**: agent-evaluation, ai-agents, awesome, awesome-list, benchmarks, evals
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [pdfx](https://github.com/AlexandrosGounis/pdfx) ![Star](https://img.shields.io/github/stars/AlexandrosGounis/pdfx?style=social)
-
-<img src="./images/2026/week-27/pdfx/1_pdfx.png" alt="pdfx" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata，已获得503个star。
-
-**✨ 核心特性**:
-- 503 stars
+- 1,907 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 503
+- **⭐ Star数**: 1,907
+- **🔀 Fork数**: 472
+- **👀 Watch数**: 1,907
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, Python, Shell, C, Dockerfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) ![Star](https://img.shields.io/github/stars/mekos2772/ios-location-spoofer?style=social)
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.，已获得1,352个star。
+
+**✨ 核心特性**:
+- 1,352 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,352
+- **🔀 Fork数**: 202
+- **👀 Watch数**: 1,352
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, Vim Snippet
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [hermex](https://github.com/uzairansaruzi/hermex) ![Star](https://img.shields.io/github/stars/uzairansaruzi/hermex?style=social)
+
+<img src="./images/2026/week-28/hermex/1_license-mit-brightgreen.svg" alt="hermex" width="500"/>
+
+**📝 项目简介**: 一个使用Swift开发的开源项目：Native iPhone app for your Hermes agent，已获得627个star。
+
+**✨ 核心特性**:
+- 627 stars
+- Swift
+
+**📊 项目统计**:
+- **⭐ Star数**: 627
+- **🔀 Fork数**: 66
+- **👀 Watch数**: 627
+- **📝 语言**: Swift
+- **🌐 官网**: [https://hermexapp.com/](https://hermexapp.com/)
+- **💻 技术栈**: Swift, Python, Ruby, Shell, hermes, hermes-agent
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) ![Star](https://img.shields.io/github/stars/HUANGCHIHHUNGLeo/claude-real-video?style=social)
+
+<img src="./images/2026/week-28/claude-real-video/1_demo.gif" alt="claude-real-video" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.，已获得1,052个star。
+
+**✨ 核心特性**:
+- 1,052 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,052
+- **🔀 Fork数**: 62
+- **👀 Watch数**: 1,052
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) ![Star](https://img.shields.io/github/stars/ammaarreshi/Generals-Mac-iOS-iPad?style=social)
+
+**📝 项目简介**: 一个使用C++开发的开源项目：Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.，已获得887个star。
+
+**✨ 核心特性**:
+- 887 stars
+- C++
+
+**📊 项目统计**:
+- **⭐ Star数**: 887
+- **🔀 Fork数**: 58
+- **👀 Watch数**: 887
+- **📝 语言**: C++
+- **💻 技术栈**: C++, C, CMake, Python, Shell, Perl
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [local-llm](https://github.com/jamesob/local-llm) ![Star](https://img.shields.io/github/stars/jamesob/local-llm?style=social)
+
+<img src="./images/2026/week-28/local-llm/1_rig.png" alt="local-llm" width="500"/>
+
+**📝 项目简介**: 一个使用Shell开发的开源项目：Everything I know about running LLMs locally，已获得944个star。
+
+**✨ 核心特性**:
+- 944 stars
+- Shell
+
+**📊 项目统计**:
+- **⭐ Star数**: 944
 - **🔀 Fork数**: 54
-- **👀 Watch数**: 503
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, Objective-C++, Shell, JavaScript, Python
+- **👀 Watch数**: 944
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, Dockerfile, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) ![Star](https://img.shields.io/github/stars/Krishnagangwal/CS-Fundamentals?style=social)
+#### 7. [FuckClaude](https://github.com/LinXiaoTao/FuckClaude) ![Star](https://img.shields.io/github/stars/LinXiaoTao/FuckClaude?style=social)
 
-**📝 项目简介**: 一个使用Unknown开发的开源项目：Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering，已获得433个star。
+<img src="./images/2026/week-28/fuckclaude/1_ergou-wordmark-340x112.png" alt="FuckClaude" width="500"/>
 
-**✨ 核心特性**:
-- 433 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 433
-- **🔀 Fork数**: 33
-- **👀 Watch数**: 433
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [video-production-skills](https://github.com/Pluviobyte/video-production-skills) ![Star](https://img.shields.io/github/stars/Pluviobyte/video-production-skills?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.，已获得378个star。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了555个star，值得关注。
 
 **✨ 核心特性**:
-- 378 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 378
-- **🔀 Fork数**: 40
-- **👀 Watch数**: 378
-- **📝 语言**: Python
-- **💻 技术栈**: Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [theeleven](https://github.com/winsznx/theeleven) ![Star](https://img.shields.io/github/stars/winsznx/theeleven?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.，已获得707个star。
-
-**✨ 核心特性**:
-- 707 stars
+- 555 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 707
-- **🔀 Fork数**: 2
-- **👀 Watch数**: 707
+- **⭐ Star数**: 555
+- **🔀 Fork数**: 55
+- **👀 Watch数**: 555
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://regista11.xyz](https://regista11.xyz)
-- **💻 技术栈**: TypeScript, Solidity, JavaScript, CSS, Dockerfile, ai-agents
+- **🌐 官网**: [https://fuck-claude.vercel.app](https://fuck-claude.vercel.app)
+- **💻 技术栈**: TypeScript, Astro, JavaScript, HTML, Redis
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) ![Star](https://img.shields.io/github/stars/xuchonglang/investing-for-beginners?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架，已获得721个star。
+
+**✨ 核心特性**:
+- 721 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 721
+- **🔀 Fork数**: 38
+- **👀 Watch数**: 721
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://xiaoyinsi.com/wiki](https://xiaoyinsi.com/wiki)
+- **💻 技术栈**: chinese, cryptocurrency, investing, options, xiaoyinsi
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [Talos](https://github.com/jmerelnyc/Talos) ![Star](https://img.shields.io/github/stars/jmerelnyc/Talos?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.，已获得687个star。
+
+**✨ 核心特性**:
+- 687 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 687
+- **🔀 Fork数**: 12
+- **👀 Watch数**: 687
+- **📝 语言**: Python
+- **🌐 官网**: [https://usetalos.xyz](https://usetalos.xyz)
+- **💻 技术栈**: Python, Shell, ai, distributed-computing, gpu, llm
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [token-diet](https://github.com/Kulaxyz/token-diet) ![Star](https://img.shields.io/github/stars/Kulaxyz/token-diet?style=social)
+
+**📝 项目简介**: 一个使用Shell开发的开源项目：Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.，已获得592个star。
+
+**✨ 核心特性**:
+- 592 stars
+- Shell
+
+**📊 项目统计**:
+- **⭐ Star数**: 592
+- **🔀 Fork数**: 1
+- **👀 Watch数**: 592
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell, JavaScript, Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -232,21 +235,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **JavaScript** (2 个项目)
-3. **Unknown** (2 个项目)
-4. **TypeScript** (2 个项目)
-5. **HTML** (1 个项目)
+1. **TypeScript** (2 个项目)
+2. **Python** (2 个项目)
+3. **Shell** (2 个项目)
+4. **JavaScript** (1 个项目)
+5. **Swift** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agents (2)
-2. agent-evaluation (1)
-3. awesome (1)
-4. awesome-list (1)
-5. benchmarks (1)
-6. evals (1)
-7. llm (1)
-8. llm-evaluation (1)
+1. ai (2)
+2. ios (2)
+3. llm (2)
+4. agents (1)
+5. multi-agent (1)
+6. offensive-security (1)
+7. redteam (1)
+8. hermes (1)
 
 
 <!-- TRENDING-END -->
@@ -256,6 +259,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 07-11 | 2026年第28周 | 10 个 | [查看详情](./archives/2026/week-28/report.md) |
 | 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
 | 06-27 | 2026年第26周 | 10 个 | [查看详情](./archives/2026/week-26/report.md) |
 | 06-20 | 2026年第25周 | 10 个 | [查看详情](./archives/2026/week-25/report.md) |
@@ -275,7 +279,6 @@
 | 03-14 | 2026年第11周 | 10 个 | [查看详情](./archives/2026/week-11/report.md) |
 | 03-07 | 2026年第10周 | 10 个 | [查看详情](./archives/2026/week-10/report.md) |
 | 02-28 | 2026年第9周 | 10 个 | [查看详情](./archives/2026/week-9/report.md) |
-| 02-21 | 2026年第8周 | 10 个 | [查看详情](./archives/2026/week-8/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
