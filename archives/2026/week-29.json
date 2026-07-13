@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第29周",
+    "year": 2026,
+    "week": 29,
+    "week_range": {
+      "start": "2026-07-12",
+      "end": "2026-07-18"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-07-18 23:59:59",
+    "next_update": "2026-07-25"
+  },
+  "repositories": [
+    {
+      "full_name": "x4gKing/3x-ui-Upgrade",
+      "rank": 1,
+      "stars": 895,
+      "forks": 1865,
+      "overall_score": 76
+    },
+    {
+      "full_name": "withmarbleapp/os-taxonomy",
+      "rank": 2,
+      "stars": 2764,
+      "forks": 503,
+      "overall_score": 75
+    },
+    {
+      "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "rank": 3,
+      "stars": 691,
+      "forks": 148,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Robbyant/lingbot-world-v2",
+      "rank": 4,
+      "stars": 955,
+      "forks": 49,
+      "overall_score": 65
+    },
+    {
+      "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "rank": 5,
+      "stars": 693,
+      "forks": 85,
+      "overall_score": 65
+    },
+    {
+      "full_name": "xiaotianfotos/homerail",
+      "rank": 6,
+      "stars": 491,
+      "forks": 112,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Robbyant/lingbot-video",
+      "rank": 7,
+      "stars": 719,
+      "forks": 26,
+      "overall_score": 64
+    },
+    {
+      "full_name": "op7418/guizang-material-illustration",
+      "rank": 8,
+      "stars": 599,
+      "forks": 64,
+      "overall_score": 63
+    },
+    {
+      "full_name": "Robbyant/lingbot-vla-v2",
+      "rank": 9,
+      "stars": 482,
+      "forks": 28,
+      "overall_score": 62
+    },
+    {
+      "full_name": "gostonx/uninstally",
+      "rank": 10,
+      "stars": 433,
+      "forks": 15,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2026-07-13T05:45:45.359Z"
+}

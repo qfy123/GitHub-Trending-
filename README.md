@@ -18,216 +18,219 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第28周
+### GitHub趋势排行榜 - 2026年第29周
 
-**📅 统计周期**: 2026-07-05 ~ 2026-07-11  
+**📅 统计周期**: 2026-07-12 ~ 2026-07-18  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 9,324  
-**🔄 更新时间**: 2026-07-11 23:59:59  
+**⭐ 总Star数**: 8,722  
+**🔄 更新时间**: 2026-07-18 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 一个使用TypeScript开发的开源项目：autonomous red teaming platform; mu... | 1,907 | 472 | TypeScript | 🆕 |
-| 2 | [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) | 一个使用JavaScript开发的开源项目：Standalone iOS app to spoof GPS loc... | 1,352 | 202 | JavaScript | 🆕 |
-| 3 | [hermex](https://github.com/uzairansaruzi/hermex) | 一个使用Swift开发的开源项目：Native iPhone app for your Hermes agent，... | 627 | 66 | Swift | 🆕 |
-| 4 | [claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | 一个使用Python开发的开源项目：Let Claude (or any LLM) actually watch ... | 1,052 | 62 | Python | 🆕 |
-| 5 | [Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 一个使用C++开发的开源项目：Command & Conquer Generals: Zero Hour runn... | 887 | 58 | C++ | 🆕 |
-| 6 | [local-llm](https://github.com/jamesob/local-llm) | 一个使用Shell开发的开源项目：Everything I know about running LLMs loc... | 944 | 54 | Shell | 🆕 |
-| 7 | [FuckClaude](https://github.com/LinXiaoTao/FuckClaude) | 一个热门的TypeScript开源项目，在GitHub上获得了555个star，值得关注。 | 555 | 55 | TypeScript | 🆕 |
-| 8 | [investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) | 一个使用Unknown开发的开源项目：小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架，已获得721个star。 | 721 | 38 | Unknown | 🆕 |
-| 9 | [Talos](https://github.com/jmerelnyc/Talos) | 一个使用Python开发的开源项目：GPU worker client for the Talos network... | 687 | 12 | Python | 🆕 |
-| 10 | [token-diet](https://github.com/Kulaxyz/token-diet) | 一个使用Shell开发的开源项目：Always-on token-efficiency skill for cod... | 592 | 1 | Shell | 🆕 |
+| 1 | [3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 一个热门的HTML开源项目，在GitHub上获得了895个star，值得关注。 | 895 | 1,865 | HTML | 🆕 |
+| 2 | [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 一个热门的JavaScript开源项目，在GitHub上获得了2,764个star，值得关注。 | 2,764 | 503 | JavaScript | 🆕 |
+| 3 | [clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 一个使用TypeScript开发的开源项目：Local-first, zero-trust agentic IDE... | 691 | 148 | TypeScript | 🆕 |
+| 4 | [lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 一个使用Python开发的开源项目：Infinite Worlds with Versatile Interact... | 955 | 49 | Python | 🆕 |
+| 5 | [Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | 一个使用Python开发的开源项目：Codex plugin that turns attached object... | 693 | 85 | Python | 🆕 |
+| 6 | [homerail](https://github.com/xiaotianfotos/homerail) | 一个使用TypeScript开发的开源项目：Voice-first local agent orchestrati... | 491 | 112 | TypeScript | 🆕 |
+| 7 | [lingbot-video](https://github.com/Robbyant/lingbot-video) | 一个使用Python开发的开源项目：Scaling Mixture-of-Experts Video Pretra... | 719 | 26 | Python | 🆕 |
+| 8 | [guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 一个使用Unknown开发的开源项目：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。，已获得... | 599 | 64 | Unknown | 🆕 |
+| 9 | [lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | 一个使用Python开发的开源项目：From Foundation to Application，已获得482个s... | 482 | 28 | Python | 🆕 |
+| 10 | [uninstally](https://github.com/gostonx/uninstally) | 一个使用Swift开发的开源项目：A clean, native macOS uninstaller. Compl... | 433 | 15 | Swift | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) ![Star](https://img.shields.io/github/stars/elder-plinius/T3MP3ST?style=social)
+#### 1. [3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) ![Star](https://img.shields.io/github/stars/x4gKing/3x-ui-Upgrade?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：autonomous red teaming platform; multi-agent offensive-security meta-harness，已获得1,907个star。
+**📝 项目简介**: 一个热门的HTML开源项目，在GitHub上获得了895个star，值得关注。
 
 **✨ 核心特性**:
-- 1,907 stars
-- TypeScript
+- 895 stars
+- HTML
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,907
-- **🔀 Fork数**: 472
-- **👀 Watch数**: 1,907
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Python, Shell, C, Dockerfile
+- **⭐ Star数**: 895
+- **🔀 Fork数**: 1,865
+- **👀 Watch数**: 895
+- **📝 语言**: HTML
+- **💻 技术栈**: HTML, Dockerfile, Shell, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) ![Star](https://img.shields.io/github/stars/mekos2772/ios-location-spoofer?style=social)
+#### 2. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) ![Star](https://img.shields.io/github/stars/withmarbleapp/os-taxonomy?style=social)
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.，已获得1,352个star。
+<img src="./images/2026/week-29/os-taxonomy/1_curriculum-viz.gif" alt="os-taxonomy" width="500"/>
+
+**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了2,764个star，值得关注。
 
 **✨ 核心特性**:
-- 1,352 stars
+- 2,764 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,352
-- **🔀 Fork数**: 202
-- **👀 Watch数**: 1,352
+- **⭐ Star数**: 2,764
+- **🔀 Fork数**: 503
+- **👀 Watch数**: 2,764
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Vim Snippet
+- **💻 技术栈**: JavaScript, Express, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [hermex](https://github.com/uzairansaruzi/hermex) ![Star](https://img.shields.io/github/stars/uzairansaruzi/hermex?style=social)
+#### 3. [clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) ![Star](https://img.shields.io/github/stars/mereyabdenbekuly-ctrl/clodex-ide?style=social)
 
-<img src="./images/2026/week-28/hermex/1_license-mit-brightgreen.svg" alt="hermex" width="500"/>
+<img src="./images/2026/week-29/clodex-ide/1_clodex-logo-on-light.png" alt="clodex-ide" width="500"/>
 
-**📝 项目简介**: 一个使用Swift开发的开源项目：Native iPhone app for your Hermes agent，已获得627个star。
-
-**✨ 核心特性**:
-- 627 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 627
-- **🔀 Fork数**: 66
-- **👀 Watch数**: 627
-- **📝 语言**: Swift
-- **🌐 官网**: [https://hermexapp.com/](https://hermexapp.com/)
-- **💻 技术栈**: Swift, Python, Ruby, Shell, hermes, hermes-agent
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) ![Star](https://img.shields.io/github/stars/HUANGCHIHHUNGLeo/claude-real-video?style=social)
-
-<img src="./images/2026/week-28/claude-real-video/1_demo.gif" alt="claude-real-video" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.，已获得1,052个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Local-first, zero-trust agentic IDE for verifiable autonomous software development.，已获得691个star。
 
 **✨ 核心特性**:
-- 1,052 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,052
-- **🔀 Fork数**: 62
-- **👀 Watch数**: 1,052
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) ![Star](https://img.shields.io/github/stars/ammaarreshi/Generals-Mac-iOS-iPad?style=social)
-
-**📝 项目简介**: 一个使用C++开发的开源项目：Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.，已获得887个star。
-
-**✨ 核心特性**:
-- 887 stars
-- C++
-
-**📊 项目统计**:
-- **⭐ Star数**: 887
-- **🔀 Fork数**: 58
-- **👀 Watch数**: 887
-- **📝 语言**: C++
-- **💻 技术栈**: C++, C, CMake, Python, Shell, Perl
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [local-llm](https://github.com/jamesob/local-llm) ![Star](https://img.shields.io/github/stars/jamesob/local-llm?style=social)
-
-<img src="./images/2026/week-28/local-llm/1_rig.png" alt="local-llm" width="500"/>
-
-**📝 项目简介**: 一个使用Shell开发的开源项目：Everything I know about running LLMs locally，已获得944个star。
-
-**✨ 核心特性**:
-- 944 stars
-- Shell
-
-**📊 项目统计**:
-- **⭐ Star数**: 944
-- **🔀 Fork数**: 54
-- **👀 Watch数**: 944
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, Dockerfile, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [FuckClaude](https://github.com/LinXiaoTao/FuckClaude) ![Star](https://img.shields.io/github/stars/LinXiaoTao/FuckClaude?style=social)
-
-<img src="./images/2026/week-28/fuckclaude/1_ergou-wordmark-340x112.png" alt="FuckClaude" width="500"/>
-
-**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了555个star，值得关注。
-
-**✨ 核心特性**:
-- 555 stars
+- 691 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 555
-- **🔀 Fork数**: 55
-- **👀 Watch数**: 555
+- **⭐ Star数**: 691
+- **🔀 Fork数**: 148
+- **👀 Watch数**: 691
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://fuck-claude.vercel.app](https://fuck-claude.vercel.app)
-- **💻 技术栈**: TypeScript, Astro, JavaScript, HTML, Redis
+- **🌐 官网**: [https://ide.clodex.xyz](https://ide.clodex.xyz)
+- **💻 技术栈**: TypeScript, JavaScript, CSS, Shell, MDX, PowerShell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) ![Star](https://img.shields.io/github/stars/xuchonglang/investing-for-beginners?style=social)
+#### 4. [lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-world-v2?style=social)
 
-**📝 项目简介**: 一个使用Unknown开发的开源项目：小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架，已获得721个star。
+<img src="./images/2026/week-29/lingbot-world-v2/1_teaser.png" alt="lingbot-world-v2" width="500"/>
 
-**✨ 核心特性**:
-- 721 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 721
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 721
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://xiaoyinsi.com/wiki](https://xiaoyinsi.com/wiki)
-- **💻 技术栈**: chinese, cryptocurrency, investing, options, xiaoyinsi
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [Talos](https://github.com/jmerelnyc/Talos) ![Star](https://img.shields.io/github/stars/jmerelnyc/Talos?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.，已获得687个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Infinite Worlds with Versatile Interactions，已获得955个star。
 
 **✨ 核心特性**:
-- 687 stars
+- 955 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 687
-- **🔀 Fork数**: 12
-- **👀 Watch数**: 687
+- **⭐ Star数**: 955
+- **🔀 Fork数**: 49
+- **👀 Watch数**: 955
 - **📝 语言**: Python
-- **🌐 官网**: [https://usetalos.xyz](https://usetalos.xyz)
-- **💻 技术栈**: Python, Shell, ai, distributed-computing, gpu, llm
+- **🌐 官网**: [https://technology.robbyant.com/lingbot-world-v2](https://technology.robbyant.com/lingbot-world-v2)
+- **💻 技术栈**: Python, Shell, Makefile, React, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [token-diet](https://github.com/Kulaxyz/token-diet) ![Star](https://img.shields.io/github/stars/Kulaxyz/token-diet?style=social)
+#### 5. [Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) ![Star](https://img.shields.io/github/stars/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin?style=social)
 
-**📝 项目简介**: 一个使用Shell开发的开源项目：Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.，已获得592个star。
+<img src="./images/2026/week-29/three.js-object-sculptor-codex-plugin/1_tower-ship-demo.png" alt="Three.js-Object-Sculptor-Codex-Plugin" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.，已获得693个star。
 
 **✨ 核心特性**:
-- 592 stars
-- Shell
+- 693 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 592
-- **🔀 Fork数**: 1
-- **👀 Watch数**: 592
-- **📝 语言**: Shell
-- **💻 技术栈**: Shell, JavaScript, Python
+- **⭐ Star数**: 693
+- **🔀 Fork数**: 85
+- **👀 Watch数**: 693
+- **📝 语言**: Python
+- **💻 技术栈**: Python, TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [homerail](https://github.com/xiaotianfotos/homerail) ![Star](https://img.shields.io/github/stars/xiaotianfotos/homerail?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Voice-first local agent orchestration runtime for auditable DAG workflows.，已获得491个star。
+
+**✨ 核心特性**:
+- 491 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 491
+- **🔀 Fork数**: 112
+- **👀 Watch数**: 491
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Vue, JavaScript, Shell, CSS, SCSS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [lingbot-video](https://github.com/Robbyant/lingbot-video) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-video?style=social)
+
+<img src="./images/2026/week-29/lingbot-video/1_t2v_quality_notitle.png" alt="lingbot-video" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence，已获得719个star。
+
+**✨ 核心特性**:
+- 719 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 719
+- **🔀 Fork数**: 26
+- **👀 Watch数**: 719
+- **📝 语言**: Python
+- **🌐 官网**: [https://technology.robbyant.com/lingbot-video](https://technology.robbyant.com/lingbot-video)
+- **💻 技术栈**: Python, Shell, image-to-video, lingbot-video, video-generation, world-models
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) ![Star](https://img.shields.io/github/stars/op7418/guizang-material-illustration?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。，已获得599个star。
+
+**✨ 核心特性**:
+- 599 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 599
+- **🔀 Fork数**: 64
+- **👀 Watch数**: 599
+- **📝 语言**: Unknown
+- **💻 技术栈**: agent, chart-visualization, chinese, claude-code, codex, data-visualization
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-vla-v2?style=social)
+
+<img src="./images/2026/week-29/lingbot-vla-v2/1_lingbot_vla2_framework.png" alt="lingbot-vla-v2" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：From Foundation to Application，已获得482个star。
+
+**✨ 核心特性**:
+- 482 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 482
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 482
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, Dockerfile, Makefile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [uninstally](https://github.com/gostonx/uninstally) ![Star](https://img.shields.io/github/stars/gostonx/uninstally?style=social)
+
+**📝 项目简介**: 一个使用Swift开发的开源项目：A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.，已获得433个star。
+
+**✨ 核心特性**:
+- 433 stars
+- Swift
+
+**📊 项目统计**:
+- **⭐ Star数**: 433
+- **🔀 Fork数**: 15
+- **👀 Watch数**: 433
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Python, Shell, Ruby, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -235,21 +238,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (2 个项目)
-2. **Python** (2 个项目)
-3. **Shell** (2 个项目)
+1. **Python** (4 个项目)
+2. **TypeScript** (2 个项目)
+3. **HTML** (1 个项目)
 4. **JavaScript** (1 个项目)
-5. **Swift** (1 个项目)
+5. **Unknown** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai (2)
-2. ios (2)
-3. llm (2)
-4. agents (1)
-5. multi-agent (1)
-6. offensive-security (1)
-7. redteam (1)
-8. hermes (1)
+1. agentic-ai (1)
+2. agentic-ide (1)
+3. ai-agents (1)
+4. developer-tools (1)
+5. electron (1)
+6. ide (1)
+7. local-first (1)
+8. typescript (1)
 
 
 <!-- TRENDING-END -->
@@ -259,6 +262,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 07-18 | 2026年第29周 | 10 个 | [查看详情](./archives/2026/week-29/report.md) |
 | 07-11 | 2026年第28周 | 10 个 | [查看详情](./archives/2026/week-28/report.md) |
 | 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
 | 06-27 | 2026年第26周 | 10 个 | [查看详情](./archives/2026/week-26/report.md) |
@@ -278,7 +282,6 @@
 | 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
 | 03-14 | 2026年第11周 | 10 个 | [查看详情](./archives/2026/week-11/report.md) |
 | 03-07 | 2026年第10周 | 10 个 | [查看详情](./archives/2026/week-10/report.md) |
-| 02-28 | 2026年第9周 | 10 个 | [查看详情](./archives/2026/week-9/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
