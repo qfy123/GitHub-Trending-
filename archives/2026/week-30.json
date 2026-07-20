@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第30周",
+    "year": 2026,
+    "week": 30,
+    "week_range": {
+      "start": "2026-07-19",
+      "end": "2026-07-25"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-07-25 23:59:59",
+    "next_update": "2026-08-01"
+  },
+  "repositories": [
+    {
+      "full_name": "Fei-Away/Codex-Dream-Skin",
+      "rank": 1,
+      "stars": 10581,
+      "forks": 1090,
+      "overall_score": 91
+    },
+    {
+      "full_name": "xai-org/grok-build",
+      "rank": 2,
+      "stars": 20293,
+      "forks": 3697,
+      "overall_score": 86
+    },
+    {
+      "full_name": "CluvexStudio/Aether",
+      "rank": 3,
+      "stars": 1323,
+      "forks": 78,
+      "overall_score": 68
+    },
+    {
+      "full_name": "tandpfun/wardrobe",
+      "rank": 4,
+      "stars": 1166,
+      "forks": 169,
+      "overall_score": 68
+    },
+    {
+      "full_name": "Blueturboguy07/cue",
+      "rank": 5,
+      "stars": 621,
+      "forks": 136,
+      "overall_score": 67
+    },
+    {
+      "full_name": "pablostanley/yoinks",
+      "rank": 6,
+      "stars": 784,
+      "forks": 82,
+      "overall_score": 66
+    },
+    {
+      "full_name": "nethical6/conversation-steganography",
+      "rank": 7,
+      "stars": 831,
+      "forks": 48,
+      "overall_score": 65
+    },
+    {
+      "full_name": "MatinSenPai/Aether-GUI",
+      "rank": 8,
+      "stars": 629,
+      "forks": 28,
+      "overall_score": 64
+    },
+    {
+      "full_name": "lopopolo/harness-engineering",
+      "rank": 9,
+      "stars": 599,
+      "forks": 25,
+      "overall_score": 63
+    },
+    {
+      "full_name": "v-modal/vmodal_sdk_flutter",
+      "rank": 10,
+      "stars": 615,
+      "forks": 1,
+      "overall_score": 60
+    }
+  ],
+  "generated_at": "2026-07-20T05:46:40.676Z"
+}

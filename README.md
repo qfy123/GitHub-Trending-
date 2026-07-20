@@ -18,219 +18,223 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第29周
+### GitHub趋势排行榜 - 2026年第30周
 
-**📅 统计周期**: 2026-07-12 ~ 2026-07-18  
+**📅 统计周期**: 2026-07-19 ~ 2026-07-25  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 8,722  
-**🔄 更新时间**: 2026-07-18 23:59:59  
+**⭐ 总Star数**: 37,442  
+**🔄 更新时间**: 2026-07-25 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 一个热门的HTML开源项目，在GitHub上获得了895个star，值得关注。 | 895 | 1,865 | HTML | 🆕 |
-| 2 | [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 一个热门的JavaScript开源项目，在GitHub上获得了2,764个star，值得关注。 | 2,764 | 503 | JavaScript | 🆕 |
-| 3 | [clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 一个使用TypeScript开发的开源项目：Local-first, zero-trust agentic IDE... | 691 | 148 | TypeScript | 🆕 |
-| 4 | [lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 一个使用Python开发的开源项目：Infinite Worlds with Versatile Interact... | 955 | 49 | Python | 🆕 |
-| 5 | [Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | 一个使用Python开发的开源项目：Codex plugin that turns attached object... | 693 | 85 | Python | 🆕 |
-| 6 | [homerail](https://github.com/xiaotianfotos/homerail) | 一个使用TypeScript开发的开源项目：Voice-first local agent orchestrati... | 491 | 112 | TypeScript | 🆕 |
-| 7 | [lingbot-video](https://github.com/Robbyant/lingbot-video) | 一个使用Python开发的开源项目：Scaling Mixture-of-Experts Video Pretra... | 719 | 26 | Python | 🆕 |
-| 8 | [guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 一个使用Unknown开发的开源项目：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。，已获得... | 599 | 64 | Unknown | 🆕 |
-| 9 | [lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | 一个使用Python开发的开源项目：From Foundation to Application，已获得482个s... | 482 | 28 | Python | 🆕 |
-| 10 | [uninstally](https://github.com/gostonx/uninstally) | 一个使用Swift开发的开源项目：A clean, native macOS uninstaller. Compl... | 433 | 15 | Swift | 🆕 |
+| 1 | [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 一个使用JavaScript开发的开源项目：Codex Dream Skin，已获得10,581个star。 | 10,581 | 1,090 | JavaScript | 🆕 |
+| 2 | [grok-build](https://github.com/xai-org/grok-build) | 一个使用Rust开发的开源项目：SpaceXAI's coding agent harness and TUI. ... | 20,293 | 3,697 | Rust | 🆕 |
+| 3 | [Aether](https://github.com/CluvexStudio/Aether) | 一个热门的Rust开源项目，在GitHub上获得了1,323个star，值得关注。 | 1,323 | 78 | Rust | 🆕 |
+| 4 | [wardrobe](https://github.com/tandpfun/wardrobe) | 一个使用JavaScript开发的开源项目：Your clothes, extracted and organiz... | 1,166 | 169 | JavaScript | 🆕 |
+| 5 | [cue](https://github.com/Blueturboguy07/cue) | 一个使用JavaScript开发的开源项目：Open-source macOS AI copilot that f... | 621 | 136 | JavaScript | 🆕 |
+| 6 | [yoinks](https://github.com/pablostanley/yoinks) | 一个使用TypeScript开发的开源项目：yoink any video from your terminal.... | 784 | 82 | TypeScript | 🆕 |
+| 7 | [conversation-steganography](https://github.com/nethical6/conversation-steganography) | 一个使用Go开发的开源项目：Use LLMs to hide messages inside normal loo... | 831 | 48 | Go | 🆕 |
+| 8 | [Aether-GUI](https://github.com/MatinSenPai/Aether-GUI) | 一个使用TypeScript开发的开源项目：One-click desktop GUI for the Aethe... | 629 | 28 | TypeScript | 🆕 |
+| 9 | [harness-engineering](https://github.com/lopopolo/harness-engineering) | 一个使用Python开发的开源项目：🐎 Ryan Lopopolo’s anthology, field gui... | 599 | 25 | Python | 🆕 |
+| 10 | [vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) | 一个使用Dart开发的开源项目：V- Modal AI: Search anything anywhere SDK... | 615 | 1 | Dart | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) ![Star](https://img.shields.io/github/stars/x4gKing/3x-ui-Upgrade?style=social)
+#### 1. [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) ![Star](https://img.shields.io/github/stars/Fei-Away/Codex-Dream-Skin?style=social)
 
-**📝 项目简介**: 一个热门的HTML开源项目，在GitHub上获得了895个star，值得关注。
+<img src="./images/2026/week-30/codex-dream-skin/1_sponsor-passion8.png" alt="Codex-Dream-Skin" width="500"/>
 
-**✨ 核心特性**:
-- 895 stars
-- HTML
-
-**📊 项目统计**:
-- **⭐ Star数**: 895
-- **🔀 Fork数**: 1,865
-- **👀 Watch数**: 895
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML, Dockerfile, Shell, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) ![Star](https://img.shields.io/github/stars/withmarbleapp/os-taxonomy?style=social)
-
-<img src="./images/2026/week-29/os-taxonomy/1_curriculum-viz.gif" alt="os-taxonomy" width="500"/>
-
-**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了2,764个star，值得关注。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Codex Dream Skin，已获得10,581个star。
 
 **✨ 核心特性**:
-- 2,764 stars
+- 10,581 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,764
-- **🔀 Fork数**: 503
-- **👀 Watch数**: 2,764
+- **⭐ Star数**: 10,581
+- **🔀 Fork数**: 1,090
+- **👀 Watch数**: 10,581
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Express, Redis
+- **💻 技术栈**: JavaScript, PowerShell, Shell, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) ![Star](https://img.shields.io/github/stars/mereyabdenbekuly-ctrl/clodex-ide?style=social)
+#### 2. [grok-build](https://github.com/xai-org/grok-build) ![Star](https://img.shields.io/github/stars/xai-org/grok-build?style=social)
 
-<img src="./images/2026/week-29/clodex-ide/1_clodex-logo-on-light.png" alt="clodex-ide" width="500"/>
+<img src="./images/2026/week-30/grok-build/1_universe-tui-screenshot-6f7a0837.png" alt="grok-build" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Local-first, zero-trust agentic IDE for verifiable autonomous software development.，已获得691个star。
+**📝 项目简介**: 一个使用Rust开发的开源项目：SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.，已获得20,293个star。
 
 **✨ 核心特性**:
-- 691 stars
+- 20,293 stars
+- Rust
+
+**📊 项目统计**:
+- **⭐ Star数**: 20,293
+- **🔀 Fork数**: 3,697
+- **👀 Watch数**: 20,293
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Python, JavaScript, Shell, PowerShell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [Aether](https://github.com/CluvexStudio/Aether) ![Star](https://img.shields.io/github/stars/CluvexStudio/Aether?style=social)
+
+<img src="./images/2026/week-30/aether/1_aether.png" alt="Aether" width="500"/>
+
+**📝 项目简介**: 一个热门的Rust开源项目，在GitHub上获得了1,323个star，值得关注。
+
+**✨ 核心特性**:
+- 1,323 stars
+- Rust
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,323
+- **🔀 Fork数**: 78
+- **👀 Watch数**: 1,323
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, C, JavaScript, Shell, HTML, Makefile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [wardrobe](https://github.com/tandpfun/wardrobe) ![Star](https://img.shields.io/github/stars/tandpfun/wardrobe?style=social)
+
+<img src="./images/2026/week-30/wardrobe/1_gallery.png" alt="wardrobe" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Your clothes, extracted and organized with gpt-image.，已获得1,166个star。
+
+**✨ 核心特性**:
+- 1,166 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,166
+- **🔀 Fork数**: 169
+- **👀 Watch数**: 1,166
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [cue](https://github.com/Blueturboguy07/cue) ![Star](https://img.shields.io/github/stars/Blueturboguy07/cue?style=social)
+
+<img src="./images/2026/week-30/cue/1_tutorial.png" alt="cue" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.，已获得621个star。
+
+**✨ 核心特性**:
+- 621 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 621
+- **🔀 Fork数**: 136
+- **👀 Watch数**: 621
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML, Node.js, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [yoinks](https://github.com/pablostanley/yoinks) ![Star](https://img.shields.io/github/stars/pablostanley/yoinks?style=social)
+
+<img src="./images/2026/week-30/yoinks/1_logo-light.svg" alt="yoinks" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：yoink any video from your terminal. no shady ads.，已获得784个star。
+
+**✨ 核心特性**:
+- 784 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 691
-- **🔀 Fork数**: 148
-- **👀 Watch数**: 691
+- **⭐ Star数**: 784
+- **🔀 Fork数**: 82
+- **👀 Watch数**: 784
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://ide.clodex.xyz](https://ide.clodex.xyz)
-- **💻 技术栈**: TypeScript, JavaScript, CSS, Shell, MDX, PowerShell
+- **💻 技术栈**: TypeScript, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-world-v2?style=social)
+#### 7. [conversation-steganography](https://github.com/nethical6/conversation-steganography) ![Star](https://img.shields.io/github/stars/nethical6/conversation-steganography?style=social)
 
-<img src="./images/2026/week-29/lingbot-world-v2/1_teaser.png" alt="lingbot-world-v2" width="500"/>
+<img src="./images/2026/week-30/conversation-steganography/1_image.png" alt="conversation-steganography" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：Infinite Worlds with Versatile Interactions，已获得955个star。
+**📝 项目简介**: 一个使用Go开发的开源项目：Use LLMs to hide messages inside normal looking conversations，已获得831个star。
 
 **✨ 核心特性**:
-- 955 stars
-- Python
+- 831 stars
+- Go
 
 **📊 项目统计**:
-- **⭐ Star数**: 955
-- **🔀 Fork数**: 49
-- **👀 Watch数**: 955
-- **📝 语言**: Python
-- **🌐 官网**: [https://technology.robbyant.com/lingbot-world-v2](https://technology.robbyant.com/lingbot-world-v2)
-- **💻 技术栈**: Python, Shell, Makefile, React, Express
+- **⭐ Star数**: 831
+- **🔀 Fork数**: 48
+- **👀 Watch数**: 831
+- **📝 语言**: Go
+- **💻 技术栈**: Go, Python, llm-tools, steganography
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) ![Star](https://img.shields.io/github/stars/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin?style=social)
+#### 8. [Aether-GUI](https://github.com/MatinSenPai/Aether-GUI) ![Star](https://img.shields.io/github/stars/MatinSenPai/Aether-GUI?style=social)
 
-<img src="./images/2026/week-29/three.js-object-sculptor-codex-plugin/1_tower-ship-demo.png" alt="Three.js-Object-Sculptor-Codex-Plugin" width="500"/>
+<img src="./images/2026/week-30/aether-gui/1_screenshot-idle.png" alt="Aether-GUI" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.，已获得693个star。
-
-**✨ 核心特性**:
-- 693 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 693
-- **🔀 Fork数**: 85
-- **👀 Watch数**: 693
-- **📝 语言**: Python
-- **💻 技术栈**: Python, TypeScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [homerail](https://github.com/xiaotianfotos/homerail) ![Star](https://img.shields.io/github/stars/xiaotianfotos/homerail?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Voice-first local agent orchestration runtime for auditable DAG workflows.，已获得491个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust，已获得629个star。
 
 **✨ 核心特性**:
-- 491 stars
+- 629 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 491
-- **🔀 Fork数**: 112
-- **👀 Watch数**: 491
+- **⭐ Star数**: 629
+- **🔀 Fork数**: 28
+- **👀 Watch数**: 629
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Vue, JavaScript, Shell, CSS, SCSS
+- **💻 技术栈**: TypeScript, Rust, CSS, Shell, JavaScript, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [lingbot-video](https://github.com/Robbyant/lingbot-video) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-video?style=social)
+#### 9. [harness-engineering](https://github.com/lopopolo/harness-engineering) ![Star](https://img.shields.io/github/stars/lopopolo/harness-engineering?style=social)
 
-<img src="./images/2026/week-29/lingbot-video/1_t2v_quality_notitle.png" alt="lingbot-video" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence，已获得719个star。
-
-**✨ 核心特性**:
-- 719 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 719
-- **🔀 Fork数**: 26
-- **👀 Watch数**: 719
-- **📝 语言**: Python
-- **🌐 官网**: [https://technology.robbyant.com/lingbot-video](https://technology.robbyant.com/lingbot-video)
-- **💻 技术栈**: Python, Shell, image-to-video, lingbot-video, video-generation, world-models
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) ![Star](https://img.shields.io/github/stars/op7418/guizang-material-illustration?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。，已获得599个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering，已获得599个star。
 
 **✨ 核心特性**:
 - 599 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 599
-- **🔀 Fork数**: 64
-- **👀 Watch数**: 599
-- **📝 语言**: Unknown
-- **💻 技术栈**: agent, chart-visualization, chinese, claude-code, codex, data-visualization
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) ![Star](https://img.shields.io/github/stars/Robbyant/lingbot-vla-v2?style=social)
-
-<img src="./images/2026/week-29/lingbot-vla-v2/1_lingbot_vla2_framework.png" alt="lingbot-vla-v2" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：From Foundation to Application，已获得482个star。
-
-**✨ 核心特性**:
-- 482 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 482
-- **🔀 Fork数**: 28
-- **👀 Watch数**: 482
+- **⭐ Star数**: 599
+- **🔀 Fork数**: 25
+- **👀 Watch数**: 599
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, Dockerfile, Makefile
+- **🌐 官网**: [https://openai.com/index/harness-engineering/](https://openai.com/index/harness-engineering/)
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [uninstally](https://github.com/gostonx/uninstally) ![Star](https://img.shields.io/github/stars/gostonx/uninstally?style=social)
+#### 10. [vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) ![Star](https://img.shields.io/github/stars/v-modal/vmodal_sdk_flutter?style=social)
 
-**📝 项目简介**: 一个使用Swift开发的开源项目：A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.，已获得433个star。
+<img src="./images/2026/week-30/vmodal_sdk_flutter/1_logo_vmodal_owl.jpeg" alt="vmodal_sdk_flutter" width="500"/>
+
+**📝 项目简介**: 一个使用Dart开发的开源项目：V- Modal AI: Search anything anywhere SDK Flutter，已获得615个star。
 
 **✨ 核心特性**:
-- 433 stars
-- Swift
+- 615 stars
+- Dart
 
 **📊 项目统计**:
-- **⭐ Star数**: 433
-- **🔀 Fork数**: 15
-- **👀 Watch数**: 433
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Python, Shell, Ruby, AWS
+- **⭐ Star数**: 615
+- **🔀 Fork数**: 1
+- **👀 Watch数**: 615
+- **📝 语言**: Dart
+- **💻 技术栈**: Dart, Shell, Swift, Kotlin, Objective-C, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -238,21 +242,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (4 个项目)
-2. **TypeScript** (2 个项目)
-3. **HTML** (1 个项目)
-4. **JavaScript** (1 个项目)
-5. **Unknown** (1 个项目)
+1. **JavaScript** (3 个项目)
+2. **Rust** (2 个项目)
+3. **TypeScript** (2 个项目)
+4. **Go** (1 个项目)
+5. **Python** (1 个项目)
 
 **🏷️ 热门话题**:
-1. agentic-ai (1)
-2. agentic-ide (1)
-3. ai-agents (1)
-4. developer-tools (1)
-5. electron (1)
-6. ide (1)
-7. local-first (1)
-8. typescript (1)
+1. llm-tools (1)
+2. steganography (1)
+3. anti-censorship (1)
+4. censorship-circumvention (1)
+5. desktop-app (1)
+6. proxy (1)
+7. react (1)
+8. rust (1)
 
 
 <!-- TRENDING-END -->
@@ -262,6 +266,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 07-25 | 2026年第30周 | 10 个 | [查看详情](./archives/2026/week-30/report.md) |
 | 07-18 | 2026年第29周 | 10 个 | [查看详情](./archives/2026/week-29/report.md) |
 | 07-11 | 2026年第28周 | 10 个 | [查看详情](./archives/2026/week-28/report.md) |
 | 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
@@ -281,7 +286,6 @@
 | 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
 | 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
 | 03-14 | 2026年第11周 | 10 个 | [查看详情](./archives/2026/week-11/report.md) |
-| 03-07 | 2026年第10周 | 10 个 | [查看详情](./archives/2026/week-10/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
