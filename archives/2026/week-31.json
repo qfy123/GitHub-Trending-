@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第31周",
+    "year": 2026,
+    "week": 31,
+    "week_range": {
+      "start": "2026-07-26",
+      "end": "2026-08-01"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-08-01 23:59:59",
+    "next_update": "2026-08-08"
+  },
+  "repositories": [
+    {
+      "full_name": "makecindy/cindy",
+      "rank": 1,
+      "stars": 647,
+      "forks": 76,
+      "overall_score": 74
+    },
+    {
+      "full_name": "slvDev/esp32-ai",
+      "rank": 2,
+      "stars": 1469,
+      "forks": 151,
+      "overall_score": 70
+    },
+    {
+      "full_name": "mshumer/Claude-of-Duty",
+      "rank": 3,
+      "stars": 745,
+      "forks": 153,
+      "overall_score": 68
+    },
+    {
+      "full_name": "Jakubantalik/thinking-orbs",
+      "rank": 4,
+      "stars": 1113,
+      "forks": 82,
+      "overall_score": 66
+    },
+    {
+      "full_name": "mikiarlo3/ai-copywriter",
+      "rank": 5,
+      "stars": 869,
+      "forks": 13,
+      "overall_score": 63
+    },
+    {
+      "full_name": "gnipbao/story-to-handdrawn-video",
+      "rank": 6,
+      "stars": 656,
+      "forks": 74,
+      "overall_score": 63
+    },
+    {
+      "full_name": "berabuddies/redis-poc",
+      "rank": 7,
+      "stars": 446,
+      "forks": 108,
+      "overall_score": 63
+    },
+    {
+      "full_name": "vercel-labs/scriptc",
+      "rank": 8,
+      "stars": 628,
+      "forks": 8,
+      "overall_score": 61
+    },
+    {
+      "full_name": "hahhforest/pi-textbook",
+      "rank": 9,
+      "stars": 508,
+      "forks": 31,
+      "overall_score": 61
+    },
+    {
+      "full_name": "0xhype/hyperliquid-tracker",
+      "rank": 10,
+      "stars": 513,
+      "forks": 2,
+      "overall_score": 58
+    }
+  ],
+  "generated_at": "2026-07-27T05:57:44.212Z"
+}
