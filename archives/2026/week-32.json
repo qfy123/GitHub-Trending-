@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第32周",
+    "year": 2026,
+    "week": 32,
+    "week_range": {
+      "start": "2026-08-02",
+      "end": "2026-08-08"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-08-08 23:59:59",
+    "next_update": "2026-08-15"
+  },
+  "repositories": [
+    {
+      "full_name": "yc-software/qm",
+      "rank": 1,
+      "stars": 7724,
+      "forks": 815,
+      "overall_score": 88
+    },
+    {
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "rank": 2,
+      "stars": 3821,
+      "forks": 441,
+      "overall_score": 76
+    },
+    {
+      "full_name": "microsoft/skill-recorder",
+      "rank": 3,
+      "stars": 957,
+      "forks": 105,
+      "overall_score": 72
+    },
+    {
+      "full_name": "trycompai/crm",
+      "rank": 4,
+      "stars": 1974,
+      "forks": 237,
+      "overall_score": 71
+    },
+    {
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "rank": 5,
+      "stars": 1714,
+      "forks": 224,
+      "overall_score": 71
+    },
+    {
+      "full_name": "sqliteai/waste",
+      "rank": 6,
+      "stars": 1200,
+      "forks": 99,
+      "overall_score": 67
+    },
+    {
+      "full_name": "xikhar/persona",
+      "rank": 7,
+      "stars": 797,
+      "forks": 72,
+      "overall_score": 66
+    },
+    {
+      "full_name": "DannyMac180/sol-advisor",
+      "rank": 8,
+      "stars": 757,
+      "forks": 52,
+      "overall_score": 65
+    },
+    {
+      "full_name": "talivia-group/talivia",
+      "rank": 9,
+      "stars": 658,
+      "forks": 68,
+      "overall_score": 65
+    },
+    {
+      "full_name": "WilonityDev/WilonityLoader",
+      "rank": 10,
+      "stars": 1216,
+      "forks": 0,
+      "overall_score": 60
+    }
+  ],
+  "generated_at": "2026-08-03T05:50:07.833Z"
+}

@@ -18,217 +18,223 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第31周
+### GitHub趋势排行榜 - 2026年第32周
 
-**📅 统计周期**: 2026-07-26 ~ 2026-08-01  
+**📅 统计周期**: 2026-08-02 ~ 2026-08-08  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 7,594  
-**🔄 更新时间**: 2026-08-01 23:59:59  
+**⭐ 总Star数**: 20,818  
+**🔄 更新时间**: 2026-08-08 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [cindy](https://github.com/makecindy/cindy) | 一个使用TypeScript开发的开源项目：Consider it done. The open-source A... | 647 | 76 | TypeScript | 🆕 |
-| 2 | [esp32-ai](https://github.com/slvDev/esp32-ai) | 一个热门的Python开源项目，在GitHub上获得了1,469个star，值得关注。 | 1,469 | 151 | Python | 🆕 |
-| 3 | [Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 一个使用JavaScript开发的开源项目：A Call of Duty-quality FPS in Three... | 745 | 153 | JavaScript | 🆕 |
-| 4 | [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 一个使用TypeScript开发的开源项目：Dotted thought-orb loading indicato... | 1,113 | 82 | TypeScript | 🆕 |
-| 5 | [ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 一个使用Python开发的开源项目：An AI copywriter that uses real copywri... | 869 | 13 | Python | 🆕 |
-| 6 | [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 一个使用JavaScript开发的开源项目：Agent skill: convert Chinese story ... | 656 | 74 | JavaScript | 🆕 |
-| 7 | [redis-poc](https://github.com/berabuddies/redis-poc) | 一个使用Python开发的开源项目：RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4,... | 446 | 108 | Python | 🆕 |
-| 8 | [scriptc](https://github.com/vercel-labs/scriptc) | 一个使用TypeScript开发的开源项目：TypeScript-to-Native Compiler，已获得62... | 628 | 8 | TypeScript | 🆕 |
-| 9 | [pi-textbook](https://github.com/hahhforest/pi-textbook) | 一个使用TypeScript开发的开源项目：《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 P... | 508 | 31 | TypeScript | 🆕 |
-| 10 | [hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker) | 一个使用TypeScript开发的开源项目：Get notified when big trades happen... | 513 | 2 | TypeScript | 🆕 |
+| 1 | [qm](https://github.com/yc-software/qm) | 一个使用TypeScript开发的开源项目：Multiplayer agent harness for work，... | 7,724 | 815 | TypeScript | 🆕 |
+| 2 | [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 一个热门的TypeScript开源项目，在GitHub上获得了3,821个star，值得关注。 | 3,821 | 441 | TypeScript | 🆕 |
+| 3 | [skill-recorder](https://github.com/microsoft/skill-recorder) | 一个使用TypeScript开发的开源项目：Desktop app that records your on-sc... | 957 | 105 | TypeScript | 🆕 |
+| 4 | [crm](https://github.com/trycompai/crm) | 一个使用TypeScript开发的开源项目：An open-source, agentic-first CRM.，... | 1,974 | 237 | TypeScript | 🆕 |
+| 5 | [FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 一个使用Unknown开发的开源项目：FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架），已获得... | 1,714 | 224 | Unknown | 🆕 |
+| 6 | [waste](https://github.com/sqliteai/waste) | 一个使用C开发的开源项目：Run the full 2.78-trillion-parameter Kimi K3... | 1,200 | 99 | C | 🆕 |
+| 7 | [persona](https://github.com/xikhar/persona) | 一个使用JavaScript开发的开源项目：Bringing real-time voice to life.，已... | 797 | 72 | JavaScript | 🆕 |
+| 8 | [sol-advisor](https://github.com/DannyMac180/sol-advisor) | 一个使用Shell开发的开源项目：Codex-native architect orchestration wit... | 757 | 52 | Shell | 🆕 |
+| 9 | [talivia](https://github.com/talivia-group/talivia) | 一个使用TypeScript开发的开源项目：Open-source, self-hosted revenue-fi... | 658 | 68 | TypeScript | 🆕 |
+| 10 | [WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | 一个使用Unknown开发的开源项目：Wilonity Loader – cheat lib w/ spoofer... | 1,216 | 0 | Unknown | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [cindy](https://github.com/makecindy/cindy) ![Star](https://img.shields.io/github/stars/makecindy/cindy?style=social)
+#### 1. [qm](https://github.com/yc-software/qm) ![Star](https://img.shields.io/github/stars/yc-software/qm?style=social)
 
-<img src="./images/2026/week-31/cindy/1_hero-en.webp" alt="cindy" width="500"/>
+<img src="./images/2026/week-32/qm/1_web-ui-hero.png" alt="qm" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。，已获得647个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Multiplayer agent harness for work，已获得7,724个star。
 
 **✨ 核心特性**:
-- 647 stars
+- 7,724 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 647
-- **🔀 Fork数**: 76
-- **👀 Watch数**: 647
+- **⭐ Star数**: 7,724
+- **🔀 Fork数**: 815
+- **👀 Watch数**: 7,724
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://cindy.app](https://cindy.app)
-- **💻 技术栈**: TypeScript, JavaScript, Swift, CSS, Rust, Python
+- **🌐 官网**: [https://qm.ycombinator.com](https://qm.ycombinator.com)
+- **💻 技术栈**: TypeScript, HTML, CSS, JavaScript, HCL, Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [esp32-ai](https://github.com/slvDev/esp32-ai) ![Star](https://img.shields.io/github/stars/slvDev/esp32-ai?style=social)
+#### 2. [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) ![Star](https://img.shields.io/github/stars/bashalarmistalt/decimen-optical-transfer?style=social)
 
-<img src="./images/2026/week-31/esp32-ai/1_esp32-ple-demo.gif" alt="esp32-ai" width="500"/>
+<img src="./images/2026/week-32/decimen-optical-transfer/1_receiving.jpg" alt="decimen-optical-transfer" width="500"/>
 
-**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了1,469个star，值得关注。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了3,821个star，值得关注。
 
 **✨ 核心特性**:
-- 1,469 stars
-- Python
+- 3,821 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,469
-- **🔀 Fork数**: 151
-- **👀 Watch数**: 1,469
-- **📝 语言**: Python
-- **💻 技术栈**: Python, C, C++, Shell
+- **⭐ Star数**: 3,821
+- **🔀 Fork数**: 441
+- **👀 Watch数**: 3,821
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://decimen.app/](https://decimen.app/)
+- **💻 技术栈**: TypeScript, CSS, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) ![Star](https://img.shields.io/github/stars/mshumer/Claude-of-Duty?style=social)
+#### 3. [skill-recorder](https://github.com/microsoft/skill-recorder) ![Star](https://img.shields.io/github/stars/microsoft/skill-recorder?style=social)
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：A Call of Duty-quality FPS in Three.js, built from a single prompt.，已获得745个star。
+<img src="./images/2026/week-32/skill-recorder/1_recorder.png" alt="skill-recorder" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.，已获得957个star。
 
 **✨ 核心特性**:
-- 745 stars
+- 957 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 957
+- **🔀 Fork数**: 105
+- **👀 Watch数**: 957
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, CSS, PowerShell, Shell, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [crm](https://github.com/trycompai/crm) ![Star](https://img.shields.io/github/stars/trycompai/crm?style=social)
+
+<img src="./images/2026/week-32/crm/1_licence-mit-blue.svg" alt="crm" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：An open-source, agentic-first CRM.，已获得1,974个star。
+
+**✨ 核心特性**:
+- 1,974 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,974
+- **🔀 Fork数**: 237
+- **👀 Watch数**: 1,974
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://trycomp.ai](https://trycomp.ai)
+- **💻 技术栈**: TypeScript, Python, HTML, CSS, JavaScript, PLpgSQL
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) ![Star](https://img.shields.io/github/stars/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架），已获得1,714个star。
+
+**✨ 核心特性**:
+- 1,714 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,714
+- **🔀 Fork数**: 224
+- **👀 Watch数**: 1,714
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [waste](https://github.com/sqliteai/waste) ![Star](https://img.shields.io/github/stars/sqliteai/waste?style=social)
+
+**📝 项目简介**: 一个使用C开发的开源项目：Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.，已获得1,200个star。
+
+**✨ 核心特性**:
+- 1,200 stars
+- C
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,200
+- **🔀 Fork数**: 99
+- **👀 Watch数**: 1,200
+- **📝 语言**: C
+- **🌐 官网**: [https://sqlite.ai](https://sqlite.ai)
+- **💻 技术栈**: C, Python, Shell, Makefile, Objective-C
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [persona](https://github.com/xikhar/persona) ![Star](https://img.shields.io/github/stars/xikhar/persona?style=social)
+
+<img src="./images/2026/week-32/persona/1_avatar.png" alt="persona" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Bringing real-time voice to life.，已获得797个star。
+
+**✨ 核心特性**:
+- 797 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 745
-- **🔀 Fork数**: 153
-- **👀 Watch数**: 745
+- **⭐ Star数**: 797
+- **🔀 Fork数**: 72
+- **👀 Watch数**: 797
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, Spring
+- **💻 技术栈**: JavaScript, TypeScript, CSS, Objective-C++, C++, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) ![Star](https://img.shields.io/github/stars/Jakubantalik/thinking-orbs?style=social)
+#### 8. [sol-advisor](https://github.com/DannyMac180/sol-advisor) ![Star](https://img.shields.io/github/stars/DannyMac180/sol-advisor?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light，已获得1,113个star。
+**📝 项目简介**: 一个使用Shell开发的开源项目：Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.，已获得757个star。
 
 **✨ 核心特性**:
-- 1,113 stars
+- 757 stars
+- Shell
+
+**📊 项目统计**:
+- **⭐ Star数**: 757
+- **🔀 Fork数**: 52
+- **👀 Watch数**: 757
+- **📝 语言**: Shell
+- **💻 技术栈**: Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [talivia](https://github.com/talivia-group/talivia) ![Star](https://img.shields.io/github/stars/talivia-group/talivia?style=social)
+
+<img src="./images/2026/week-32/talivia/1_talivia-gh-main.png" alt="talivia" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative，已获得658个star。
+
+**✨ 核心特性**:
+- 658 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,113
-- **🔀 Fork数**: 82
-- **👀 Watch数**: 1,113
+- **⭐ Star数**: 658
+- **🔀 Fork数**: 68
+- **👀 Watch数**: 658
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **🌐 官网**: [https://talivia.com](https://talivia.com)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, analytics, bing
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) ![Star](https://img.shields.io/github/stars/mikiarlo3/ai-copywriter?style=social)
+#### 10. [WilonityLoader](https://github.com/WilonityDev/WilonityLoader) ![Star](https://img.shields.io/github/stars/WilonityDev/WilonityLoader?style=social)
 
-<img src="./images/2026/week-31/ai-copywriter/1_banner.png" alt="ai-copywriter" width="500"/>
+<img src="./images/2026/week-32/wilonityloader/1_ddd.png" alt="WilonityLoader" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.，已获得869个star。
-
-**✨ 核心特性**:
-- 869 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 869
-- **🔀 Fork数**: 13
-- **👀 Watch数**: 869
-- **📝 语言**: Python
-- **💻 技术栈**: Python, AWS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) ![Star](https://img.shields.io/github/stars/gnipbao/story-to-handdrawn-video?style=social)
-
-<img src="./images/2026/week-31/story-to-handdrawn-video/1_license-mit-yellow.svg" alt="story-to-handdrawn-video" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).，已获得656个star。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.，已获得1,216个star。
 
 **✨ 核心特性**:
-- 656 stars
-- JavaScript
+- 1,216 stars
+- Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 656
-- **🔀 Fork数**: 74
-- **👀 Watch数**: 656
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, TypeScript, Python, CSS, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [redis-poc](https://github.com/berabuddies/redis-poc) ![Star](https://img.shields.io/github/stars/berabuddies/redis-poc?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1，已获得446个star。
-
-**✨ 核心特性**:
-- 446 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 446
-- **🔀 Fork数**: 108
-- **👀 Watch数**: 446
-- **📝 语言**: Python
-- **💻 技术栈**: Python, C, Shell, Docker, Redis
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [scriptc](https://github.com/vercel-labs/scriptc) ![Star](https://img.shields.io/github/stars/vercel-labs/scriptc?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：TypeScript-to-Native Compiler，已获得628个star。
-
-**✨ 核心特性**:
-- 628 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 628
-- **🔀 Fork数**: 8
-- **👀 Watch数**: 628
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://scriptc.dev](https://scriptc.dev)
-- **💻 技术栈**: TypeScript, C, JavaScript, Express
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [pi-textbook](https://github.com/hahhforest/pi-textbook) ![Star](https://img.shields.io/github/stars/hahhforest/pi-textbook?style=social)
-
-<img src="./images/2026/week-31/pi-textbook/1_logo.png" alt="pi-textbook" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent，已获得508个star。
-
-**✨ 核心特性**:
-- 508 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 508
-- **🔀 Fork数**: 31
-- **👀 Watch数**: 508
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://build-your-own-pi-cn.enochzhang.chatgpt.site](https://build-your-own-pi-cn.enochzhang.chatgpt.site)
-- **💻 技术栈**: TypeScript, JavaScript, CSS, agent-engineering, ai-agent, chinese
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker) ![Star](https://img.shields.io/github/stars/0xhype/hyperliquid-tracker?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Get notified when big trades happen on Hyperliquid.，已获得513个star。
-
-**✨ 核心特性**:
-- 513 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 513
-- **🔀 Fork数**: 2
-- **👀 Watch数**: 513
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Node.js
+- **⭐ Star数**: 1,216
+- **🔀 Fork数**: 0
+- **👀 Watch数**: 1,216
+- **📝 语言**: Unknown
+- **🌐 官网**: [https://wilonity.xyz](https://wilonity.xyz)
+- **💻 技术栈**: arc-raiders, counter-strike-2, game, hack, meccha-chameleon-tools, minecraft
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -237,18 +243,20 @@
 
 **🔥 热门语言**:
 1. **TypeScript** (5 个项目)
-2. **Python** (3 个项目)
-3. **JavaScript** (2 个项目)
+2. **Unknown** (2 个项目)
+3. **C** (1 个项目)
+4. **JavaScript** (1 个项目)
+5. **Shell** (1 个项目)
 
 **🏷️ 热门话题**:
-1. ai-agent (2)
-2. llm (2)
-3. typescript (2)
-4. agent (1)
-5. ai-assistant (1)
-6. android (1)
-7. claude-code (1)
-8. codex (1)
+1. agent-skills (1)
+2. ai-agents (1)
+3. automation (1)
+4. copilot (1)
+5. copilot-cli (1)
+6. copilot-cowork (1)
+7. copilot-studio (1)
+8. electron (1)
 
 
 <!-- TRENDING-END -->
@@ -258,6 +266,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 08-08 | 2026年第32周 | 10 个 | [查看详情](./archives/2026/week-32/report.md) |
 | 08-01 | 2026年第31周 | 10 个 | [查看详情](./archives/2026/week-31/report.md) |
 | 07-25 | 2026年第30周 | 10 个 | [查看详情](./archives/2026/week-30/report.md) |
 | 07-18 | 2026年第29周 | 10 个 | [查看详情](./archives/2026/week-29/report.md) |
@@ -277,7 +286,6 @@
 | 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
 | 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
 | 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
-| 03-21 | 2026年第12周 | 10 个 | [查看详情](./archives/2026/week-12/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
