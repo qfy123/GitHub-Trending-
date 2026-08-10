@@ -18,223 +18,219 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第32周
+### GitHub趋势排行榜 - 2026年第33周
 
-**📅 统计周期**: 2026-08-02 ~ 2026-08-08  
+**📅 统计周期**: 2026-08-09 ~ 2026-08-15  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 20,818  
-**🔄 更新时间**: 2026-08-08 23:59:59  
+**⭐ 总Star数**: 10,766  
+**🔄 更新时间**: 2026-08-15 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [qm](https://github.com/yc-software/qm) | 一个使用TypeScript开发的开源项目：Multiplayer agent harness for work，... | 7,724 | 815 | TypeScript | 🆕 |
-| 2 | [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 一个热门的TypeScript开源项目，在GitHub上获得了3,821个star，值得关注。 | 3,821 | 441 | TypeScript | 🆕 |
-| 3 | [skill-recorder](https://github.com/microsoft/skill-recorder) | 一个使用TypeScript开发的开源项目：Desktop app that records your on-sc... | 957 | 105 | TypeScript | 🆕 |
-| 4 | [crm](https://github.com/trycompai/crm) | 一个使用TypeScript开发的开源项目：An open-source, agentic-first CRM.，... | 1,974 | 237 | TypeScript | 🆕 |
-| 5 | [FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 一个使用Unknown开发的开源项目：FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架），已获得... | 1,714 | 224 | Unknown | 🆕 |
-| 6 | [waste](https://github.com/sqliteai/waste) | 一个使用C开发的开源项目：Run the full 2.78-trillion-parameter Kimi K3... | 1,200 | 99 | C | 🆕 |
-| 7 | [persona](https://github.com/xikhar/persona) | 一个使用JavaScript开发的开源项目：Bringing real-time voice to life.，已... | 797 | 72 | JavaScript | 🆕 |
-| 8 | [sol-advisor](https://github.com/DannyMac180/sol-advisor) | 一个使用Shell开发的开源项目：Codex-native architect orchestration wit... | 757 | 52 | Shell | 🆕 |
-| 9 | [talivia](https://github.com/talivia-group/talivia) | 一个使用TypeScript开发的开源项目：Open-source, self-hosted revenue-fi... | 658 | 68 | TypeScript | 🆕 |
-| 10 | [WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | 一个使用Unknown开发的开源项目：Wilonity Loader – cheat lib w/ spoofer... | 1,216 | 0 | Unknown | 🆕 |
+| 1 | [open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 一个使用Unknown开发的开源项目：非官方 Kimi Slides Skill：让 AI Agent 生成可编辑... | 1,607 | 1,162 | Unknown | 🆕 |
+| 2 | [human-writing](https://github.com/KKKKhazix/human-writing) | 一个使用Python开发的开源项目：让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱... | 2,134 | 189 | Python | 🆕 |
+| 3 | [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 一个热门的Unknown开源项目，在GitHub上获得了2,007个star，值得关注。 | 2,007 | 100 | Unknown | 🆕 |
+| 4 | [phone-harness](https://github.com/ShawnPana/phone-harness) | 一个使用Python开发的开源项目：let your agent control your phone，已获得95... | 955 | 77 | Python | 🆕 |
+| 5 | [claude-red](https://github.com/0xwilliamortiz/claude-red) | 一个使用JavaScript开发的开源项目：claude-red is a curated library of ... | 712 | 91 | JavaScript | 🆕 |
+| 6 | [kage](https://github.com/MengTo/kage) | 一个使用HTML开发的开源项目：An interactive five-chapter night walk th... | 632 | 109 | HTML | 🆕 |
+| 7 | [oil-motion](https://github.com/oil-oil/oil-motion) | 一个使用Python开发的开源项目：Create smooth, responsive interactive w... | 618 | 59 | Python | 🆕 |
+| 8 | [JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) | 一个使用Python开发的开源项目：[Official Repo] JoyAI-Video-Edit: Real-... | 632 | 27 | Python | 🆕 |
+| 9 | [awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 一个使用Shell开发的开源项目：Find agentic growth hacking skills for C... | 799 | 14 | Shell | 🆕 |
+| 10 | [asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | 一个使用C开发的开源项目：Racing to the bottom of CPU performance，已获得6... | 670 | 7 | C | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [qm](https://github.com/yc-software/qm) ![Star](https://img.shields.io/github/stars/yc-software/qm?style=social)
+#### 1. [open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) ![Star](https://img.shields.io/github/stars/Binaryify/open-kimi-ppt-skill?style=social)
 
-<img src="./images/2026/week-32/qm/1_web-ui-hero.png" alt="qm" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Multiplayer agent harness for work，已获得7,724个star。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor，已获得1,607个star。
 
 **✨ 核心特性**:
-- 7,724 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 7,724
-- **🔀 Fork数**: 815
-- **👀 Watch数**: 7,724
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://qm.ycombinator.com](https://qm.ycombinator.com)
-- **💻 技术栈**: TypeScript, HTML, CSS, JavaScript, HCL, Python
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) ![Star](https://img.shields.io/github/stars/bashalarmistalt/decimen-optical-transfer?style=social)
-
-<img src="./images/2026/week-32/decimen-optical-transfer/1_receiving.jpg" alt="decimen-optical-transfer" width="500"/>
-
-**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了3,821个star，值得关注。
-
-**✨ 核心特性**:
-- 3,821 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,821
-- **🔀 Fork数**: 441
-- **👀 Watch数**: 3,821
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://decimen.app/](https://decimen.app/)
-- **💻 技术栈**: TypeScript, CSS, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [skill-recorder](https://github.com/microsoft/skill-recorder) ![Star](https://img.shields.io/github/stars/microsoft/skill-recorder?style=social)
-
-<img src="./images/2026/week-32/skill-recorder/1_recorder.png" alt="skill-recorder" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.，已获得957个star。
-
-**✨ 核心特性**:
-- 957 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 957
-- **🔀 Fork数**: 105
-- **👀 Watch数**: 957
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, PowerShell, Shell, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [crm](https://github.com/trycompai/crm) ![Star](https://img.shields.io/github/stars/trycompai/crm?style=social)
-
-<img src="./images/2026/week-32/crm/1_licence-mit-blue.svg" alt="crm" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：An open-source, agentic-first CRM.，已获得1,974个star。
-
-**✨ 核心特性**:
-- 1,974 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,974
-- **🔀 Fork数**: 237
-- **👀 Watch数**: 1,974
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://trycomp.ai](https://trycomp.ai)
-- **💻 技术栈**: TypeScript, Python, HTML, CSS, JavaScript, PLpgSQL
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) ![Star](https://img.shields.io/github/stars/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架），已获得1,714个star。
-
-**✨ 核心特性**:
-- 1,714 stars
+- 1,607 stars
 - Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,714
-- **🔀 Fork数**: 224
-- **👀 Watch数**: 1,714
+- **⭐ Star数**: 1,607
+- **🔀 Fork数**: 1,162
+- **👀 Watch数**: 1,607
 - **📝 语言**: Unknown
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [waste](https://github.com/sqliteai/waste) ![Star](https://img.shields.io/github/stars/sqliteai/waste?style=social)
+#### 2. [human-writing](https://github.com/KKKKhazix/human-writing) ![Star](https://img.shields.io/github/stars/KKKKhazix/human-writing?style=social)
 
-**📝 项目简介**: 一个使用C开发的开源项目：Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.，已获得1,200个star。
+<img src="./images/2026/week-33/human-writing/1_readme-cover.svg" alt="human-writing" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。，已获得2,134个star。
 
 **✨ 核心特性**:
-- 1,200 stars
-- C
+- 2,134 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,200
-- **🔀 Fork数**: 99
-- **👀 Watch数**: 1,200
-- **📝 语言**: C
-- **🌐 官网**: [https://sqlite.ai](https://sqlite.ai)
-- **💻 技术栈**: C, Python, Shell, Makefile, Objective-C
+- **⭐ Star数**: 2,134
+- **🔀 Fork数**: 189
+- **👀 Watch数**: 2,134
+- **📝 语言**: Python
+- **💻 技术栈**: Python, agent-skills, chinese-writing, creative-writing, writing-skill
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [persona](https://github.com/xikhar/persona) ![Star](https://img.shields.io/github/stars/xikhar/persona?style=social)
+#### 3. [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) ![Star](https://img.shields.io/github/stars/ZzzLc0405/photo-abstract-editorial?style=social)
 
-<img src="./images/2026/week-32/persona/1_avatar.png" alt="persona" width="500"/>
+<img src="./images/2026/week-33/photo-abstract-editorial/1_case-3.jpg" alt="photo-abstract-editorial" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Bringing real-time voice to life.，已获得797个star。
+**📝 项目简介**: 一个热门的Unknown开源项目，在GitHub上获得了2,007个star，值得关注。
 
 **✨ 核心特性**:
-- 797 stars
+- 2,007 stars
+- Unknown
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,007
+- **🔀 Fork数**: 100
+- **👀 Watch数**: 2,007
+- **📝 语言**: Unknown
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [phone-harness](https://github.com/ShawnPana/phone-harness) ![Star](https://img.shields.io/github/stars/ShawnPana/phone-harness?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：let your agent control your phone，已获得955个star。
+
+**✨ 核心特性**:
+- 955 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 955
+- **🔀 Fork数**: 77
+- **👀 Watch数**: 955
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [claude-red](https://github.com/0xwilliamortiz/claude-red) ![Star](https://img.shields.io/github/stars/0xwilliamortiz/claude-red?style=social)
+
+<img src="./images/2026/week-33/claude-red/1_banner.png" alt="claude-red" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.，已获得712个star。
+
+**✨ 核心特性**:
+- 712 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 797
-- **🔀 Fork数**: 72
-- **👀 Watch数**: 797
+- **⭐ Star数**: 712
+- **🔀 Fork数**: 91
+- **👀 Watch数**: 712
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, TypeScript, CSS, Objective-C++, C++, HTML
+- **💻 技术栈**: JavaScript, Python, Shell, claude, claude-code, claude-code-plugin
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [sol-advisor](https://github.com/DannyMac180/sol-advisor) ![Star](https://img.shields.io/github/stars/DannyMac180/sol-advisor?style=social)
+#### 6. [kage](https://github.com/MengTo/kage) ![Star](https://img.shields.io/github/stars/MengTo/kage?style=social)
 
-**📝 项目简介**: 一个使用Shell开发的开源项目：Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.，已获得757个star。
+<img src="./images/2026/week-33/kage/1_kage-preview.webp" alt="kage" width="500"/>
+
+**📝 项目简介**: 一个使用HTML开发的开源项目：An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.，已获得632个star。
 
 **✨ 核心特性**:
-- 757 stars
+- 632 stars
+- HTML
+
+**📊 项目统计**:
+- **⭐ Star数**: 632
+- **🔀 Fork数**: 109
+- **👀 Watch数**: 632
+- **📝 语言**: HTML
+- **🌐 官网**: [https://mengto.github.io/kage/](https://mengto.github.io/kage/)
+- **💻 技术栈**: HTML, creative-coding, generative-art, interactive-storytelling, japanese-design, threejs
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [oil-motion](https://github.com/oil-oil/oil-motion) ![Star](https://img.shields.io/github/stars/oil-oil/oil-motion?style=social)
+
+<img src="./images/2026/week-33/oil-motion/1_hero.svg" alt="oil-motion" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Create smooth, responsive interactive web animations.，已获得618个star。
+
+**✨ 核心特性**:
+- 618 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 618
+- **🔀 Fork数**: 59
+- **👀 Watch数**: 618
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, TypeScript
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) ![Star](https://img.shields.io/github/stars/jd-opensource/JoyAI-Video-Edit?style=social)
+
+<img src="./images/2026/week-33/joyai-video-edit/1_license-apache_2.0-blue.svg" alt="JoyAI-Video-Edit" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion，已获得632个star。
+
+**✨ 核心特性**:
+- 632 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 632
+- **🔀 Fork数**: 27
+- **👀 Watch数**: 632
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, Cuda, C++, Shell, C
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) ![Star](https://img.shields.io/github/stars/mikiarlo3/awesome-growth-hacking-skills?style=social)
+
+<img src="./images/2026/week-33/awesome-growth-hacking-skills/1_enso-claude-find-growth-hacks.png" alt="awesome-growth-hacking-skills" width="500"/>
+
+**📝 项目简介**: 一个使用Shell开发的开源项目：Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot，已获得799个star。
+
+**✨ 核心特性**:
+- 799 stars
 - Shell
 
 **📊 项目统计**:
-- **⭐ Star数**: 757
-- **🔀 Fork数**: 52
-- **👀 Watch数**: 757
+- **⭐ Star数**: 799
+- **🔀 Fork数**: 14
+- **👀 Watch数**: 799
 - **📝 语言**: Shell
 - **💻 技术栈**: Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [talivia](https://github.com/talivia-group/talivia) ![Star](https://img.shields.io/github/stars/talivia-group/talivia?style=social)
+#### 10. [asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) ![Star](https://img.shields.io/github/stars/xoreaxeaxeax/asm-hall-of-shame?style=social)
 
-<img src="./images/2026/week-32/talivia/1_talivia-gh-main.png" alt="talivia" width="500"/>
+<img src="./images/2026/week-33/asm-hall-of-shame/1_x86_graph.png" alt="asm-hall-of-shame" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative，已获得658个star。
-
-**✨ 核心特性**:
-- 658 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 658
-- **🔀 Fork数**: 68
-- **👀 Watch数**: 658
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://talivia.com](https://talivia.com)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, analytics, bing
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [WilonityLoader](https://github.com/WilonityDev/WilonityLoader) ![Star](https://img.shields.io/github/stars/WilonityDev/WilonityLoader?style=social)
-
-<img src="./images/2026/week-32/wilonityloader/1_ddd.png" alt="WilonityLoader" width="500"/>
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.，已获得1,216个star。
+**📝 项目简介**: 一个使用C开发的开源项目：Racing to the bottom of CPU performance，已获得670个star。
 
 **✨ 核心特性**:
-- 1,216 stars
-- Unknown
+- 670 stars
+- C
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,216
-- **🔀 Fork数**: 0
-- **👀 Watch数**: 1,216
-- **📝 语言**: Unknown
-- **🌐 官网**: [https://wilonity.xyz](https://wilonity.xyz)
-- **💻 技术栈**: arc-raiders, counter-strike-2, game, hack, meccha-chameleon-tools, minecraft
+- **⭐ Star数**: 670
+- **🔀 Fork数**: 7
+- **👀 Watch数**: 670
+- **📝 语言**: C
+- **💻 技术栈**: C, Makefile, Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -242,21 +238,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (5 个项目)
+1. **Python** (4 个项目)
 2. **Unknown** (2 个项目)
-3. **C** (1 个项目)
-4. **JavaScript** (1 个项目)
+3. **JavaScript** (1 个项目)
+4. **HTML** (1 个项目)
 5. **Shell** (1 个项目)
 
 **🏷️ 热门话题**:
 1. agent-skills (1)
-2. ai-agents (1)
-3. automation (1)
-4. copilot (1)
-5. copilot-cli (1)
-6. copilot-cowork (1)
-7. copilot-studio (1)
-8. electron (1)
+2. chinese-writing (1)
+3. creative-writing (1)
+4. writing-skill (1)
+5. claude (1)
+6. claude-code (1)
+7. claude-code-plugin (1)
+8. claude-skills (1)
 
 
 <!-- TRENDING-END -->
@@ -266,6 +262,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 08-15 | 2026年第33周 | 10 个 | [查看详情](./archives/2026/week-33/report.md) |
 | 08-08 | 2026年第32周 | 10 个 | [查看详情](./archives/2026/week-32/report.md) |
 | 08-01 | 2026年第31周 | 10 个 | [查看详情](./archives/2026/week-31/report.md) |
 | 07-25 | 2026年第30周 | 10 个 | [查看详情](./archives/2026/week-30/report.md) |
@@ -285,7 +282,6 @@
 | 04-18 | 2026年第16周 | 10 个 | [查看详情](./archives/2026/week-16/report.md) |
 | 04-11 | 2026年第15周 | 10 个 | [查看详情](./archives/2026/week-15/report.md) |
 | 04-04 | 2026年第14周 | 10 个 | [查看详情](./archives/2026/week-14/report.md) |
-| 03-28 | 2026年第13周 | 10 个 | [查看详情](./archives/2026/week-13/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

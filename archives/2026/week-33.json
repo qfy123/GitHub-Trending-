@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第33周",
+    "year": 2026,
+    "week": 33,
+    "week_range": {
+      "start": "2026-08-09",
+      "end": "2026-08-15"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-08-15 23:59:59",
+    "next_update": "2026-08-22"
+  },
+  "repositories": [
+    {
+      "full_name": "Binaryify/open-kimi-ppt-skill",
+      "rank": 1,
+      "stars": 1607,
+      "forks": 1162,
+      "overall_score": 78
+    },
+    {
+      "full_name": "KKKKhazix/human-writing",
+      "rank": 2,
+      "stars": 2134,
+      "forks": 189,
+      "overall_score": 70
+    },
+    {
+      "full_name": "ZzzLc0405/photo-abstract-editorial",
+      "rank": 3,
+      "stars": 2007,
+      "forks": 100,
+      "overall_score": 70
+    },
+    {
+      "full_name": "ShawnPana/phone-harness",
+      "rank": 4,
+      "stars": 955,
+      "forks": 77,
+      "overall_score": 68
+    },
+    {
+      "full_name": "0xwilliamortiz/claude-red",
+      "rank": 5,
+      "stars": 712,
+      "forks": 91,
+      "overall_score": 65
+    },
+    {
+      "full_name": "MengTo/kage",
+      "rank": 6,
+      "stars": 632,
+      "forks": 109,
+      "overall_score": 65
+    },
+    {
+      "full_name": "oil-oil/oil-motion",
+      "rank": 7,
+      "stars": 618,
+      "forks": 59,
+      "overall_score": 64
+    },
+    {
+      "full_name": "jd-opensource/JoyAI-Video-Edit",
+      "rank": 8,
+      "stars": 632,
+      "forks": 27,
+      "overall_score": 63
+    },
+    {
+      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
+      "rank": 9,
+      "stars": 799,
+      "forks": 14,
+      "overall_score": 61
+    },
+    {
+      "full_name": "xoreaxeaxeax/asm-hall-of-shame",
+      "rank": 10,
+      "stars": 670,
+      "forks": 7,
+      "overall_score": 61
+    }
+  ],
+  "generated_at": "2026-08-10T04:02:46.024Z"
+}
