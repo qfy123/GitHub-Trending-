@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第35周",
+    "year": 2026,
+    "week": 35,
+    "week_range": {
+      "start": "2026-08-23",
+      "end": "2026-08-29"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-08-29 23:59:59",
+    "next_update": "2026-09-05"
+  },
+  "repositories": [
+    {
+      "full_name": "MengTo/threeui",
+      "rank": 1,
+      "stars": 3001,
+      "forks": 298,
+      "overall_score": 74
+    },
+    {
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "rank": 2,
+      "stars": 3941,
+      "forks": 191,
+      "overall_score": 73
+    },
+    {
+      "full_name": "vvxw/deploy-vercel",
+      "rank": 3,
+      "stars": 1226,
+      "forks": 258,
+      "overall_score": 69
+    },
+    {
+      "full_name": "duty1g/x64dbg-mcp-server",
+      "rank": 4,
+      "stars": 954,
+      "forks": 95,
+      "overall_score": 67
+    },
+    {
+      "full_name": "ShadowAqueduct/watermark-remover",
+      "rank": 5,
+      "stars": 760,
+      "forks": 72,
+      "overall_score": 66
+    },
+    {
+      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "rank": 6,
+      "stars": 744,
+      "forks": 29,
+      "overall_score": 66
+    },
+    {
+      "full_name": "wang2122/sprix-sage-router",
+      "rank": 7,
+      "stars": 1450,
+      "forks": 23,
+      "overall_score": 65
+    },
+    {
+      "full_name": "cclank/lanshu-create-ai-presenter-video",
+      "rank": 8,
+      "stars": 686,
+      "forks": 113,
+      "overall_score": 65
+    },
+    {
+      "full_name": "DenisSergeevitch/desktop-fly",
+      "rank": 9,
+      "stars": 706,
+      "forks": 43,
+      "overall_score": 63
+    },
+    {
+      "full_name": "missuo/herdrm",
+      "rank": 10,
+      "stars": 613,
+      "forks": 38,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-08-24T03:11:01.715Z"
+}
