@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第36周",
+    "year": 2026,
+    "week": 36,
+    "week_range": {
+      "start": "2026-08-30",
+      "end": "2026-09-05"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-09-05 23:59:59",
+    "next_update": "2026-09-12"
+  },
+  "repositories": [
+    {
+      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "rank": 1,
+      "stars": 4169,
+      "forks": 658,
+      "overall_score": 85
+    },
+    {
+      "full_name": "sapientinc/PRAXIST",
+      "rank": 2,
+      "stars": 4814,
+      "forks": 472,
+      "overall_score": 76
+    },
+    {
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "rank": 3,
+      "stars": 1578,
+      "forks": 173,
+      "overall_score": 70
+    },
+    {
+      "full_name": "MetaMask-AI/metamask-desktop",
+      "rank": 4,
+      "stars": 1228,
+      "forks": 91,
+      "overall_score": 67
+    },
+    {
+      "full_name": "tradecatlabs/shulihuazixuecongshu",
+      "rank": 5,
+      "stars": 815,
+      "forks": 159,
+      "overall_score": 67
+    },
+    {
+      "full_name": "Nanako0129/sepia",
+      "rank": 6,
+      "stars": 1034,
+      "forks": 62,
+      "overall_score": 66
+    },
+    {
+      "full_name": "Tencent/WeMM-Embedding",
+      "rank": 7,
+      "stars": 954,
+      "forks": 66,
+      "overall_score": 66
+    },
+    {
+      "full_name": "jub0t/Concat",
+      "rank": 8,
+      "stars": 773,
+      "forks": 58,
+      "overall_score": 66
+    },
+    {
+      "full_name": "cbrock84/headcount",
+      "rank": 9,
+      "stars": 756,
+      "forks": 111,
+      "overall_score": 66
+    },
+    {
+      "full_name": "wide-trace/open-higgsfield",
+      "rank": 10,
+      "stars": 1106,
+      "forks": 16,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-08-31T08:32:46.732Z"
+}

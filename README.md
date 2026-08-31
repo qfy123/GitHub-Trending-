@@ -18,224 +18,215 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第35周
+### GitHub趋势排行榜 - 2026年第36周
 
-**📅 统计周期**: 2026-08-23 ~ 2026-08-29  
+**📅 统计周期**: 2026-08-30 ~ 2026-09-05  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 14,081  
-**🔄 更新时间**: 2026-08-29 23:59:59  
+**⭐ 总Star数**: 17,227  
+**🔄 更新时间**: 2026-09-05 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [threeui](https://github.com/MengTo/threeui) | 一个使用HTML开发的开源项目：Open-source ThreeUI Community catalog wit... | 3,001 | 298 | HTML | 🆕 |
-| 2 | [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 一个使用Unknown开发的开源项目：A compact Agent Skill for highly simpl... | 3,941 | 191 | Unknown | 🆕 |
-| 3 | [deploy-vercel](https://github.com/vvxw/deploy-vercel) | 一个使用JavaScript开发的开源项目：Install Command：npm install，已获得1,22... | 1,226 | 258 | JavaScript | 🆕 |
-| 4 | [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 一个使用Zig开发的开源项目：x64dbg-MCP Server is a native MCP (Model C... | 954 | 95 | Zig | 🆕 |
-| 5 | [watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | 一个使用Python开发的开源项目：Purge multi-vendor AI watermarks: clean... | 760 | 72 | Python | 🆕 |
-| 6 | [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 一个使用JavaScript开发的开源项目：DeepSeek Harness（DSH）一只住在 DSH 界面右下角... | 744 | 29 | JavaScript | 🆕 |
-| 7 | [sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 一个使用Python开发的开源项目：Sprix AI at 屿智同行 — state-aware SELF/COL... | 1,450 | 23 | Python | 🆕 |
-| 8 | [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 一个使用Python开发的开源项目：Provider-neutral Codex Skill for produc... | 686 | 113 | Python | 🆕 |
-| 9 | [desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | 一个使用Swift开发的开源项目：A 3D fruit fly living on your macOS desk... | 706 | 43 | Swift | 🆕 |
-| 10 | [herdrm](https://github.com/missuo/herdrm) | 一个使用Swift开发的开源项目：Native macOS console for herdr — all you... | 613 | 38 | Swift | 🆕 |
+| 1 | [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 一个热门的TeX开源项目，在GitHub上获得了4,169个star，值得关注。 | 4,169 | 658 | TeX | 🆕 |
+| 2 | [PRAXIST](https://github.com/sapientinc/PRAXIST) | 一个使用Python开发的开源项目：Autonomous research system for measurab... | 4,814 | 472 | Python | 🆕 |
+| 3 | [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 一个使用TypeScript开发的开源项目：ChatGPT thinks. Codex works. Use Ch... | 1,578 | 173 | TypeScript | 🆕 |
+| 4 | [metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 一个使用CSS开发的开源项目：🌐 🔌 The MetaMask desktop app enables bro... | 1,228 | 91 | CSS | 🆕 |
+| 5 | [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 一个热门的Python开源项目，在GitHub上获得了815个star，值得关注。 | 815 | 159 | Python | 🆕 |
+| 6 | [sepia](https://github.com/Nanako0129/sepia) | 一个使用Unknown开发的开源项目：De-AI writing skill for Claude Code, C... | 1,034 | 62 | Unknown | 🆕 |
+| 7 | [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 一个使用Python开发的开源项目：WeMM-Embedding is a family of universal... | 954 | 66 | Python | 🆕 |
+| 8 | [Concat](https://github.com/jub0t/Concat) | 一个使用TypeScript开发的开源项目：Free & Open-Source CapCut replaceme... | 773 | 58 | TypeScript | 🆕 |
+| 9 | [headcount](https://github.com/cbrock84/headcount) | 一个使用Markdown开发的开源项目：An agent organization for Claude Code... | 756 | 111 | Markdown | 🆕 |
+| 10 | [open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 一个使用TypeScript开发的开源项目：A studio for image and video genera... | 1,106 | 16 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [threeui](https://github.com/MengTo/threeui) ![Star](https://img.shields.io/github/stars/MengTo/threeui?style=social)
+#### 1. [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) ![Star](https://img.shields.io/github/stars/HEJustinSun/my-girlfriend-jingtian-latex?style=social)
 
-<img src="./images/2026/week-35/threeui/1_preview.jpg" alt="threeui" width="500"/>
-
-**📝 项目简介**: 一个使用HTML开发的开源项目：Open-source ThreeUI Community catalog with live interactive components and complete Community source.，已获得3,001个star。
+**📝 项目简介**: 一个热门的TeX开源项目，在GitHub上获得了4,169个star，值得关注。
 
 **✨ 核心特性**:
-- 3,001 stars
-- HTML
+- 4,169 stars
+- TeX
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,001
-- **🔀 Fork数**: 298
-- **👀 Watch数**: 3,001
-- **📝 语言**: HTML
-- **🌐 官网**: [https://threeui.com](https://threeui.com)
-- **💻 技术栈**: HTML, TypeScript, JavaScript, CSS, react, shaders
+- **⭐ Star数**: 4,169
+- **🔀 Fork数**: 658
+- **👀 Watch数**: 4,169
+- **📝 语言**: TeX
+- **💻 技术栈**: TeX
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) ![Star](https://img.shields.io/github/stars/s1dashu/ip-as-logo-skill?style=social)
+#### 2. [PRAXIST](https://github.com/sapientinc/PRAXIST) ![Star](https://img.shields.io/github/stars/sapientinc/PRAXIST?style=social)
 
-<img src="./images/2026/week-35/ip-as-logo-skill/1_ip-as-logo-wall.webp" alt="ip-as-logo-skill" width="500"/>
+<img src="./images/2026/week-36/praxist/1_praxist-banner.svg" alt="PRAXIST" width="500"/>
 
-**📝 项目简介**: 一个使用Unknown开发的开源项目：A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.，已获得3,941个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Autonomous research system for measurable, computer-executable research.，已获得4,814个star。
 
 **✨ 核心特性**:
-- 3,941 stars
+- 4,814 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 4,814
+- **🔀 Fork数**: 472
+- **👀 Watch数**: 4,814
+- **📝 语言**: Python
+- **🌐 官网**: [https://praxist.sapient.inc/en/docs](https://praxist.sapient.inc/en/docs)
+- **💻 技术栈**: Python, Jinja, Shell, Mako, Dockerfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) ![Star](https://img.shields.io/github/stars/XiaoDuoYa/codex-with-chatgpt?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.，已获得1,578个star。
+
+**✨ 核心特性**:
+- 1,578 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,578
+- **🔀 Fork数**: 173
+- **👀 Watch数**: 1,578
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, JavaScript, ai-agents, chatgpt, codex, mcp
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) ![Star](https://img.shields.io/github/stars/MetaMask-AI/metamask-desktop?style=social)
+
+**📝 项目简介**: 一个使用CSS开发的开源项目：🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites，已获得1,228个star。
+
+**✨ 核心特性**:
+- 1,228 stars
+- CSS
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,228
+- **🔀 Fork数**: 91
+- **👀 Watch数**: 1,228
+- **📝 语言**: CSS
+- **💻 技术栈**: CSS, JavaScript, HTML, bitcoin, bitcoin-wallet, crypto
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) ![Star](https://img.shields.io/github/stars/tradecatlabs/shulihuazixuecongshu?style=social)
+
+**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了815个star，值得关注。
+
+**✨ 核心特性**:
+- 815 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 815
+- **🔀 Fork数**: 159
+- **👀 Watch数**: 815
+- **📝 语言**: Python
+- **💻 技术栈**: Python, CSS, Makefile, Lua
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [sepia](https://github.com/Nanako0129/sepia) ![Star](https://img.shields.io/github/stars/Nanako0129/sepia?style=social)
+
+**📝 项目简介**: 一个使用Unknown开发的开源项目：De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).，已获得1,034个star。
+
+**✨ 核心特性**:
+- 1,034 stars
 - Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,941
-- **🔀 Fork数**: 191
-- **👀 Watch数**: 3,941
+- **⭐ Star数**: 1,034
+- **🔀 Fork数**: 62
+- **👀 Watch数**: 1,034
 - **📝 语言**: Unknown
-- **🌐 官网**: [https://ipaslogo.com](https://ipaslogo.com)
-- **💻 技术栈**: codex, codex-skill, image-generation, logo-design, mascot-design, Express
+- **💻 技术栈**: agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [deploy-vercel](https://github.com/vvxw/deploy-vercel) ![Star](https://img.shields.io/github/stars/vvxw/deploy-vercel?style=social)
+#### 7. [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) ![Star](https://img.shields.io/github/stars/Tencent/WeMM-Embedding?style=social)
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Install Command：npm install，已获得1,226个star。
+<img src="./images/2026/week-36/wemm-embedding/1_license-apache%202.0-blue.svg" alt="WeMM-Embedding" width="500"/>
 
-**✨ 核心特性**:
-- 1,226 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,226
-- **🔀 Fork数**: 258
-- **👀 Watch数**: 1,226
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) ![Star](https://img.shields.io/github/stars/duty1g/x64dbg-mcp-server?style=social)
-
-<img src="./images/2026/week-35/x64dbg-mcp-server/1_logo.png" alt="x64dbg-mcp-server" width="500"/>
-
-**📝 项目简介**: 一个使用Zig开发的开源项目：x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros，已获得954个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.，已获得954个star。
 
 **✨ 核心特性**:
 - 954 stars
-- Zig
+- Python
 
 **📊 项目统计**:
 - **⭐ Star数**: 954
-- **🔀 Fork数**: 95
+- **🔀 Fork数**: 66
 - **👀 Watch数**: 954
-- **📝 语言**: Zig
-- **💻 技术栈**: Zig, ai-agents, ai-debugging, binary-analysis, claude, claude-code
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) ![Star](https://img.shields.io/github/stars/ShadowAqueduct/watermark-remover?style=social)
-
-<img src="./images/2026/week-35/watermark-remover/1_badge.svg" alt="watermark-remover" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.，已获得760个star。
-
-**✨ 核心特性**:
-- 760 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 760
-- **🔀 Fork数**: 72
-- **👀 Watch数**: 760
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, PowerShell, Makefile, Dockerfile, claude-ai
+- **💻 技术栈**: Python, Shell, embedding-models, multimodal, multimodal-llm
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ![Star](https://img.shields.io/github/stars/MeteorNOX/DeepSeek-Balance-Whale-Widget?style=social)
+#### 8. [Concat](https://github.com/jub0t/Concat) ![Star](https://img.shields.io/github/stars/jub0t/Concat?style=social)
 
-<img src="./images/2026/week-35/deepseek-balance-whale-widget/1_dsh2.png" alt="DeepSeek-Balance-Whale-Widget" width="500"/>
+<img src="./images/2026/week-36/concat/1_concat_logo_dark_512.png" alt="Concat" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装，已获得744个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Free & Open-Source CapCut replacement.，已获得773个star。
 
 **✨ 核心特性**:
-- 744 stars
-- JavaScript
+- 773 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 744
-- **🔀 Fork数**: 29
-- **👀 Watch数**: 744
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, cordis, deepseek, deepseek-harness, developer-tools, dsh
+- **⭐ Star数**: 773
+- **🔀 Fork数**: 58
+- **👀 Watch数**: 773
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Rust, Python, CSS, JavaScript, Nix
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [sprix-sage-router](https://github.com/wang2122/sprix-sage-router) ![Star](https://img.shields.io/github/stars/wang2122/sprix-sage-router?style=social)
+#### 9. [headcount](https://github.com/cbrock84/headcount) ![Star](https://img.shields.io/github/stars/cbrock84/headcount?style=social)
 
-<img src="./images/2026/week-35/sprix-sage-router/1_badge.svg" alt="sprix-sage-router" width="500"/>
+<img src="./images/2026/week-36/headcount/1_org-chart-light.png" alt="headcount" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.，已获得1,450个star。
+**📝 项目简介**: 一个使用Markdown开发的开源项目：An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.，已获得756个star。
 
 **✨ 核心特性**:
-- 1,450 stars
-- Python
+- 756 stars
+- Markdown
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,450
-- **🔀 Fork数**: 23
-- **👀 Watch数**: 1,450
-- **📝 语言**: Python
-- **💻 技术栈**: Python, a2a, agent-orchestration, agent-routing, ai-agents, multi-agent-systems
+- **⭐ Star数**: 756
+- **🔀 Fork数**: 111
+- **👀 Watch数**: 756
+- **📝 语言**: Markdown
+- **🌐 官网**: [https://cbrock84.github.io/headcount/](https://cbrock84.github.io/headcount/)
+- **💻 技术栈**: Markdown, agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) ![Star](https://img.shields.io/github/stars/cclank/lanshu-create-ai-presenter-video?style=social)
+#### 10. [open-higgsfield](https://github.com/wide-trace/open-higgsfield) ![Star](https://img.shields.io/github/stars/wide-trace/open-higgsfield?style=social)
 
-<img src="./images/2026/week-35/lanshu-create-ai-presenter-video/1_badge.svg" alt="lanshu-create-ai-presenter-video" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.，已获得686个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.，已获得1,106个star。
 
 **✨ 核心特性**:
-- 686 stars
-- Python
+- 1,106 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 686
-- **🔀 Fork数**: 113
-- **👀 Watch数**: 686
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, ai-video, codex, codex-skill, digital-human
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) ![Star](https://img.shields.io/github/stars/DenisSergeevitch/desktop-fly?style=social)
-
-<img src="./images/2026/week-35/desktop-fly/1_fly.png" alt="desktop-fly" width="500"/>
-
-**📝 项目简介**: 一个使用Swift开发的开源项目：A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome，已获得706个star。
-
-**✨ 核心特性**:
-- 706 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 706
-- **🔀 Fork数**: 43
-- **👀 Watch数**: 706
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Python, Shell, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [herdrm](https://github.com/missuo/herdrm) ![Star](https://img.shields.io/github/stars/missuo/herdrm?style=social)
-
-<img src="./images/2026/week-35/herdrm/1_herdrm-banner.png" alt="herdrm" width="500"/>
-
-**📝 项目简介**: 一个使用Swift开发的开源项目：Native macOS console for herdr — all your coding agents and their live terminals, across devices，已获得613个star。
-
-**✨ 核心特性**:
-- 613 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 613
-- **🔀 Fork数**: 38
-- **👀 Watch数**: 613
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Makefile
+- **⭐ Star数**: 1,106
+- **🔀 Fork数**: 16
+- **👀 Watch数**: 1,106
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://openhiggsfield.ai](https://openhiggsfield.ai)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, React, Node.js, Express
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -244,20 +235,20 @@
 
 **🔥 热门语言**:
 1. **Python** (3 个项目)
-2. **JavaScript** (2 个项目)
-3. **Swift** (2 个项目)
-4. **HTML** (1 个项目)
+2. **TypeScript** (3 个项目)
+3. **TeX** (1 个项目)
+4. **CSS** (1 个项目)
 5. **Unknown** (1 个项目)
 
 **🏷️ 热门话题**:
-1. codex (3)
-2. codex-skill (3)
-3. ai-agents (2)
-4. claude-code (2)
-5. react (1)
-6. shaders (1)
-7. threejs (1)
-8. ui-components (1)
+1. codex (2)
+2. mcp (2)
+3. claude-code (2)
+4. ai-agents (1)
+5. chatgpt (1)
+6. model-context-protocol (1)
+7. oauth (1)
+8. bitcoin (1)
 
 
 <!-- TRENDING-END -->
@@ -267,6 +258,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-05 | 2026年第36周 | 10 个 | [查看详情](./archives/2026/week-36/report.md) |
 | 08-29 | 2026年第35周 | 10 个 | [查看详情](./archives/2026/week-35/report.md) |
 | 08-22 | 2026年第34周 | 10 个 | [查看详情](./archives/2026/week-34/report.md) |
 | 08-15 | 2026年第33周 | 10 个 | [查看详情](./archives/2026/week-33/report.md) |
@@ -286,7 +278,6 @@
 | 05-09 | 2026年第19周 | 10 个 | [查看详情](./archives/2026/week-19/report.md) |
 | 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
 | 04-25 | 2026年第17周 | 10 个 | [查看详情](./archives/2026/week-17/report.md) |
-| 04-18 | 2026年第16周 | 10 个 | [查看详情](./archives/2026/week-16/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
