@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第37周",
+    "year": 2026,
+    "week": 37,
+    "week_range": {
+      "start": "2026-09-06",
+      "end": "2026-09-12"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-09-12 23:59:59",
+    "next_update": "2026-09-19"
+  },
+  "repositories": [
+    {
+      "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "rank": 1,
+      "stars": 1425,
+      "forks": 1732,
+      "overall_score": 77
+    },
+    {
+      "full_name": "lnkiai/m3e-canvas",
+      "rank": 2,
+      "stars": 4416,
+      "forks": 380,
+      "overall_score": 75
+    },
+    {
+      "full_name": "ashemag/human-atlas",
+      "rank": 3,
+      "stars": 1547,
+      "forks": 407,
+      "overall_score": 74
+    },
+    {
+      "full_name": "anthropics/commerce-agents",
+      "rank": 4,
+      "stars": 2288,
+      "forks": 393,
+      "overall_score": 73
+    },
+    {
+      "full_name": "danielblnc/DLSS-NR-on-AMD",
+      "rank": 5,
+      "stars": 796,
+      "forks": 34,
+      "overall_score": 73
+    },
+    {
+      "full_name": "pierrenade/short-video-generator-AI",
+      "rank": 6,
+      "stars": 1065,
+      "forks": 155,
+      "overall_score": 68
+    },
+    {
+      "full_name": "vinzdg/codenotch",
+      "rank": 7,
+      "stars": 760,
+      "forks": 103,
+      "overall_score": 67
+    },
+    {
+      "full_name": "Albert-Weasker/niubigeo",
+      "rank": 8,
+      "stars": 622,
+      "forks": 51,
+      "overall_score": 66
+    },
+    {
+      "full_name": "anthropics/fermats-last-theorem",
+      "rank": 9,
+      "stars": 870,
+      "forks": 73,
+      "overall_score": 65
+    },
+    {
+      "full_name": "yczz/oc-english",
+      "rank": 10,
+      "stars": 841,
+      "forks": 12,
+      "overall_score": 62
+    }
+  ],
+  "generated_at": "2026-09-07T07:14:58.473Z"
+}

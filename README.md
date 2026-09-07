@@ -18,215 +18,214 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第36周
+### GitHub趋势排行榜 - 2026年第37周
 
-**📅 统计周期**: 2026-08-30 ~ 2026-09-05  
+**📅 统计周期**: 2026-09-06 ~ 2026-09-12  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 17,227  
-**🔄 更新时间**: 2026-09-05 23:59:59  
+**⭐ 总Star数**: 14,630  
+**🔄 更新时间**: 2026-09-12 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 一个热门的TeX开源项目，在GitHub上获得了4,169个star，值得关注。 | 4,169 | 658 | TeX | 🆕 |
-| 2 | [PRAXIST](https://github.com/sapientinc/PRAXIST) | 一个使用Python开发的开源项目：Autonomous research system for measurab... | 4,814 | 472 | Python | 🆕 |
-| 3 | [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 一个使用TypeScript开发的开源项目：ChatGPT thinks. Codex works. Use Ch... | 1,578 | 173 | TypeScript | 🆕 |
-| 4 | [metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 一个使用CSS开发的开源项目：🌐 🔌 The MetaMask desktop app enables bro... | 1,228 | 91 | CSS | 🆕 |
-| 5 | [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 一个热门的Python开源项目，在GitHub上获得了815个star，值得关注。 | 815 | 159 | Python | 🆕 |
-| 6 | [sepia](https://github.com/Nanako0129/sepia) | 一个使用Unknown开发的开源项目：De-AI writing skill for Claude Code, C... | 1,034 | 62 | Unknown | 🆕 |
-| 7 | [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 一个使用Python开发的开源项目：WeMM-Embedding is a family of universal... | 954 | 66 | Python | 🆕 |
-| 8 | [Concat](https://github.com/jub0t/Concat) | 一个使用TypeScript开发的开源项目：Free & Open-Source CapCut replaceme... | 773 | 58 | TypeScript | 🆕 |
-| 9 | [headcount](https://github.com/cbrock84/headcount) | 一个使用Markdown开发的开源项目：An agent organization for Claude Code... | 756 | 111 | Markdown | 🆕 |
-| 10 | [open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 一个使用TypeScript开发的开源项目：A studio for image and video genera... | 1,106 | 16 | TypeScript | 🆕 |
+| 1 | [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 一个使用Python开发的开源项目：Local-first WeChat intelligence system ... | 1,425 | 1,732 | Python | 🆕 |
+| 2 | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 一个使用TypeScript开发的开源项目：Sketch Material 3 Expressive screen... | 4,416 | 380 | TypeScript | 🆕 |
+| 3 | [human-atlas](https://github.com/ashemag/human-atlas) | 一个使用TypeScript开发的开源项目：Open-source 3D anatomy explorer: 2,... | 1,547 | 407 | TypeScript | 🆕 |
+| 4 | [commerce-agents](https://github.com/anthropics/commerce-agents) | 一个使用Python开发的开源项目：Reference blueprint for building shoppi... | 2,288 | 393 | Python | 🆕 |
+| 5 | [DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | 一个使用Unknown开发的开源项目：Run DLSS 5 Neural Rendering on your AM... | 796 | 34 | Unknown | 🆕 |
+| 6 | [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 一个使用Python开发的开源项目：Free open-source project designed for t... | 1,065 | 155 | Python | 🆕 |
+| 7 | [codenotch](https://github.com/vinzdg/codenotch) | 一个使用Swift开发的开源项目：A macOS app that pins usage limits from ... | 760 | 103 | Swift | 🆕 |
+| 8 | [niubigeo](https://github.com/Albert-Weasker/niubigeo) | 一个使用TypeScript开发的开源项目：Open-source AI brand visibility and... | 622 | 51 | TypeScript | 🆕 |
+| 9 | [fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | 一个热门的Lean开源项目，在GitHub上获得了870个star，值得关注。 | 870 | 73 | Lean | 🆕 |
+| 10 | [oc-english](https://github.com/yczz/oc-english) | 一个使用JavaScript开发的开源项目：养成类游戏英语学习，已获得841个star。 | 841 | 12 | JavaScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) ![Star](https://img.shields.io/github/stars/HEJustinSun/my-girlfriend-jingtian-latex?style=social)
+#### 1. [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) ![Star](https://img.shields.io/github/stars/Rion-Wu-tech/wechat-intelligence-hub?style=social)
 
-**📝 项目简介**: 一个热门的TeX开源项目，在GitHub上获得了4,169个star，值得关注。
-
-**✨ 核心特性**:
-- 4,169 stars
-- TeX
-
-**📊 项目统计**:
-- **⭐ Star数**: 4,169
-- **🔀 Fork数**: 658
-- **👀 Watch数**: 4,169
-- **📝 语言**: TeX
-- **💻 技术栈**: TeX
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [PRAXIST](https://github.com/sapientinc/PRAXIST) ![Star](https://img.shields.io/github/stars/sapientinc/PRAXIST?style=social)
-
-<img src="./images/2026/week-36/praxist/1_praxist-banner.svg" alt="PRAXIST" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Autonomous research system for measurable, computer-executable research.，已获得4,814个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.，已获得1,425个star。
 
 **✨ 核心特性**:
-- 4,814 stars
+- 1,425 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,814
-- **🔀 Fork数**: 472
-- **👀 Watch数**: 4,814
+- **⭐ Star数**: 1,425
+- **🔀 Fork数**: 1,732
+- **👀 Watch数**: 1,425
 - **📝 语言**: Python
-- **🌐 官网**: [https://praxist.sapient.inc/en/docs](https://praxist.sapient.inc/en/docs)
-- **💻 技术栈**: Python, Jinja, Shell, Mako, Dockerfile
+- **💻 技术栈**: Python, HTML, Shell, CSS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) ![Star](https://img.shields.io/github/stars/XiaoDuoYa/codex-with-chatgpt?style=social)
+#### 2. [m3e-canvas](https://github.com/lnkiai/m3e-canvas) ![Star](https://img.shields.io/github/stars/lnkiai/m3e-canvas?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.，已获得1,578个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.，已获得4,416个star。
 
 **✨ 核心特性**:
-- 1,578 stars
+- 4,416 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,578
-- **🔀 Fork数**: 173
-- **👀 Watch数**: 1,578
+- **⭐ Star数**: 4,416
+- **🔀 Fork数**: 380
+- **👀 Watch数**: 4,416
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, ai-agents, chatgpt, codex, mcp
+- **🌐 官网**: [https://lnkiai.github.io/m3e-canvas/](https://lnkiai.github.io/m3e-canvas/)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, design-tool, material-3-expressive, material-design
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) ![Star](https://img.shields.io/github/stars/MetaMask-AI/metamask-desktop?style=social)
+#### 3. [human-atlas](https://github.com/ashemag/human-atlas) ![Star](https://img.shields.io/github/stars/ashemag/human-atlas?style=social)
 
-**📝 项目简介**: 一个使用CSS开发的开源项目：🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites，已获得1,228个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.，已获得1,547个star。
 
 **✨ 核心特性**:
-- 1,228 stars
-- CSS
+- 1,547 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,228
-- **🔀 Fork数**: 91
-- **👀 Watch数**: 1,228
-- **📝 语言**: CSS
-- **💻 技术栈**: CSS, JavaScript, HTML, bitcoin, bitcoin-wallet, crypto
+- **⭐ Star数**: 1,547
+- **🔀 Fork数**: 407
+- **👀 Watch数**: 1,547
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://human-atlas-seven.vercel.app](https://human-atlas-seven.vercel.app)
+- **💻 技术栈**: TypeScript, JavaScript, Python, HTML, React, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) ![Star](https://img.shields.io/github/stars/tradecatlabs/shulihuazixuecongshu?style=social)
+#### 4. [commerce-agents](https://github.com/anthropics/commerce-agents) ![Star](https://img.shields.io/github/stars/anthropics/commerce-agents?style=social)
 
-**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了815个star，值得关注。
+**📝 项目简介**: 一个使用Python开发的开源项目：Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.，已获得2,288个star。
 
 **✨ 核心特性**:
-- 815 stars
+- 2,288 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 815
-- **🔀 Fork数**: 159
-- **👀 Watch数**: 815
+- **⭐ Star数**: 2,288
+- **🔀 Fork数**: 393
+- **👀 Watch数**: 2,288
 - **📝 语言**: Python
-- **💻 技术栈**: Python, CSS, Makefile, Lua
+- **🌐 官网**: [https://claude.com/solutions/commerce](https://claude.com/solutions/commerce)
+- **💻 技术栈**: Python, Shell, AWS, GCP
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [sepia](https://github.com/Nanako0129/sepia) ![Star](https://img.shields.io/github/stars/Nanako0129/sepia?style=social)
+#### 5. [DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) ![Star](https://img.shields.io/github/stars/danielblnc/DLSS-NR-on-AMD?style=social)
 
-**📝 项目简介**: 一个使用Unknown开发的开源项目：De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).，已获得1,034个star。
+**📝 项目简介**: 一个使用Unknown开发的开源项目：Run DLSS 5 Neural Rendering on your AMD GPU. Magic!，已获得796个star。
 
 **✨ 核心特性**:
-- 1,034 stars
+- 796 stars
 - Unknown
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,034
-- **🔀 Fork数**: 62
-- **👀 Watch数**: 1,034
+- **⭐ Star数**: 796
+- **🔀 Fork数**: 34
+- **👀 Watch数**: 796
 - **📝 语言**: Unknown
-- **💻 技术栈**: agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) ![Star](https://img.shields.io/github/stars/Tencent/WeMM-Embedding?style=social)
+#### 6. [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) ![Star](https://img.shields.io/github/stars/pierrenade/short-video-generator-AI?style=social)
 
-<img src="./images/2026/week-36/wemm-embedding/1_license-apache%202.0-blue.svg" alt="WeMM-Embedding" width="500"/>
+<img src="./images/2026/week-37/short-video-generator-ai/1_ex1.png" alt="short-video-generator-AI" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.，已获得954个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.，已获得1,065个star。
 
 **✨ 核心特性**:
-- 954 stars
+- 1,065 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 954
-- **🔀 Fork数**: 66
-- **👀 Watch数**: 954
+- **⭐ Star数**: 1,065
+- **🔀 Fork数**: 155
+- **👀 Watch数**: 1,065
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, embedding-models, multimodal, multimodal-llm
+- **💻 技术栈**: Python, HTML, ai, ai-video, python, short-video-maker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [Concat](https://github.com/jub0t/Concat) ![Star](https://img.shields.io/github/stars/jub0t/Concat?style=social)
+#### 7. [codenotch](https://github.com/vinzdg/codenotch) ![Star](https://img.shields.io/github/stars/vinzdg/codenotch?style=social)
 
-<img src="./images/2026/week-36/concat/1_concat_logo_dark_512.png" alt="Concat" width="500"/>
+<img src="./images/2026/week-37/codenotch/1_frame-124-hover-tooltip.png" alt="codenotch" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Free & Open-Source CapCut replacement.，已获得773个star。
+**📝 项目简介**: 一个使用Swift开发的开源项目：A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.，已获得760个star。
 
 **✨ 核心特性**:
-- 773 stars
+- 760 stars
+- Swift
+
+**📊 项目统计**:
+- **⭐ Star数**: 760
+- **🔀 Fork数**: 103
+- **👀 Watch数**: 760
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Makefile, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [niubigeo](https://github.com/Albert-Weasker/niubigeo) ![Star](https://img.shields.io/github/stars/Albert-Weasker/niubigeo?style=social)
+
+<img src="./images/2026/week-37/niubigeo/1_niubigeo-readme-hero.svg" alt="niubigeo" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source AI brand visibility and competitor reports，已获得622个star。
+
+**✨ 核心特性**:
+- 622 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 773
-- **🔀 Fork数**: 58
-- **👀 Watch数**: 773
+- **⭐ Star数**: 622
+- **🔀 Fork数**: 51
+- **👀 Watch数**: 622
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Rust, Python, CSS, JavaScript, Nix
+- **💻 技术栈**: TypeScript, HTML, Dockerfile, Node.js, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [headcount](https://github.com/cbrock84/headcount) ![Star](https://img.shields.io/github/stars/cbrock84/headcount?style=social)
+#### 9. [fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) ![Star](https://img.shields.io/github/stars/anthropics/fermats-last-theorem?style=social)
 
-<img src="./images/2026/week-36/headcount/1_org-chart-light.png" alt="headcount" width="500"/>
-
-**📝 项目简介**: 一个使用Markdown开发的开源项目：An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.，已获得756个star。
+**📝 项目简介**: 一个热门的Lean开源项目，在GitHub上获得了870个star，值得关注。
 
 **✨ 核心特性**:
-- 756 stars
-- Markdown
+- 870 stars
+- Lean
 
 **📊 项目统计**:
-- **⭐ Star数**: 756
-- **🔀 Fork数**: 111
-- **👀 Watch数**: 756
-- **📝 语言**: Markdown
-- **🌐 官网**: [https://cbrock84.github.io/headcount/](https://cbrock84.github.io/headcount/)
-- **💻 技术栈**: Markdown, agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills
+- **⭐ Star数**: 870
+- **🔀 Fork数**: 73
+- **👀 Watch数**: 870
+- **📝 语言**: Lean
+- **💻 技术栈**: Lean, HTML, Python, JavaScript, CSS, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [open-higgsfield](https://github.com/wide-trace/open-higgsfield) ![Star](https://img.shields.io/github/stars/wide-trace/open-higgsfield?style=social)
+#### 10. [oc-english](https://github.com/yczz/oc-english) ![Star](https://img.shields.io/github/stars/yczz/oc-english?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.，已获得1,106个star。
+<img src="./images/2026/week-37/oc-english/1_01-register.png" alt="oc-english" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：养成类游戏英语学习，已获得841个star。
 
 **✨ 核心特性**:
-- 1,106 stars
-- TypeScript
+- 841 stars
+- JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,106
-- **🔀 Fork数**: 16
-- **👀 Watch数**: 1,106
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://openhiggsfield.ai](https://openhiggsfield.ai)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, React, Node.js, Express
+- **⭐ Star数**: 841
+- **🔀 Fork数**: 12
+- **👀 Watch数**: 841
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, Rust, CSS, HTML, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -236,19 +235,19 @@
 **🔥 热门语言**:
 1. **Python** (3 个项目)
 2. **TypeScript** (3 个项目)
-3. **TeX** (1 个项目)
-4. **CSS** (1 个项目)
-5. **Unknown** (1 个项目)
+3. **Unknown** (1 个项目)
+4. **Swift** (1 个项目)
+5. **Lean** (1 个项目)
 
 **🏷️ 热门话题**:
-1. codex (2)
-2. mcp (2)
-3. claude-code (2)
-4. ai-agents (1)
-5. chatgpt (1)
-6. model-context-protocol (1)
-7. oauth (1)
-8. bitcoin (1)
+1. design-tool (1)
+2. material-3-expressive (1)
+3. material-design (1)
+4. material3 (1)
+5. nextjs (1)
+6. prompt (1)
+7. react (1)
+8. vibe-coding (1)
 
 
 <!-- TRENDING-END -->
@@ -258,6 +257,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-12 | 2026年第37周 | 10 个 | [查看详情](./archives/2026/week-37/report.md) |
 | 09-05 | 2026年第36周 | 10 个 | [查看详情](./archives/2026/week-36/report.md) |
 | 08-29 | 2026年第35周 | 10 个 | [查看详情](./archives/2026/week-35/report.md) |
 | 08-22 | 2026年第34周 | 10 个 | [查看详情](./archives/2026/week-34/report.md) |
@@ -277,7 +277,6 @@
 | 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
 | 05-09 | 2026年第19周 | 10 个 | [查看详情](./archives/2026/week-19/report.md) |
 | 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
-| 04-25 | 2026年第17周 | 10 个 | [查看详情](./archives/2026/week-17/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
