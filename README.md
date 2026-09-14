@@ -18,214 +18,217 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第37周
+### GitHub趋势排行榜 - 2026年第38周
 
-**📅 统计周期**: 2026-09-06 ~ 2026-09-12  
+**📅 统计周期**: 2026-09-13 ~ 2026-09-19  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 14,630  
-**🔄 更新时间**: 2026-09-12 23:59:59  
+**⭐ 总Star数**: 9,807  
+**🔄 更新时间**: 2026-09-19 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 一个使用Python开发的开源项目：Local-first WeChat intelligence system ... | 1,425 | 1,732 | Python | 🆕 |
-| 2 | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 一个使用TypeScript开发的开源项目：Sketch Material 3 Expressive screen... | 4,416 | 380 | TypeScript | 🆕 |
-| 3 | [human-atlas](https://github.com/ashemag/human-atlas) | 一个使用TypeScript开发的开源项目：Open-source 3D anatomy explorer: 2,... | 1,547 | 407 | TypeScript | 🆕 |
-| 4 | [commerce-agents](https://github.com/anthropics/commerce-agents) | 一个使用Python开发的开源项目：Reference blueprint for building shoppi... | 2,288 | 393 | Python | 🆕 |
-| 5 | [DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | 一个使用Unknown开发的开源项目：Run DLSS 5 Neural Rendering on your AM... | 796 | 34 | Unknown | 🆕 |
-| 6 | [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 一个使用Python开发的开源项目：Free open-source project designed for t... | 1,065 | 155 | Python | 🆕 |
-| 7 | [codenotch](https://github.com/vinzdg/codenotch) | 一个使用Swift开发的开源项目：A macOS app that pins usage limits from ... | 760 | 103 | Swift | 🆕 |
-| 8 | [niubigeo](https://github.com/Albert-Weasker/niubigeo) | 一个使用TypeScript开发的开源项目：Open-source AI brand visibility and... | 622 | 51 | TypeScript | 🆕 |
-| 9 | [fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | 一个热门的Lean开源项目，在GitHub上获得了870个star，值得关注。 | 870 | 73 | Lean | 🆕 |
-| 10 | [oc-english](https://github.com/yczz/oc-english) | 一个使用JavaScript开发的开源项目：养成类游戏英语学习，已获得841个star。 | 841 | 12 | JavaScript | 🆕 |
+| 1 | [Edge0](https://github.com/Edge0-AI/Edge0) | 一个热门的Python开源项目，在GitHub上获得了1,633个star，值得关注。 | 1,633 | 129 | Python | 🆕 |
+| 2 | [NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 一个使用Lean开发的开源项目：Lean certificates accompanying Navier-Sto... | 1,867 | 192 | Lean | 🆕 |
+| 3 | [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 一个使用TypeScript开发的开源项目：Topic in, narrated explainer video ... | 1,232 | 211 | TypeScript | 🆕 |
+| 4 | [Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 一个使用Swift开发的开源项目：Wish you could bring the iPhone Duo effe... | 817 | 59 | Swift | 🆕 |
+| 5 | [itsgiving](https://github.com/gazijarin/itsgiving) | 一个使用Python开发的开源项目：Express yourself in meetings (with meme... | 821 | 98 | Python | 🆕 |
+| 6 | [IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | 一个使用C#开发的开源项目：IDM激活与状态维护工具，已获得691个star。 | 691 | 175 | C# | 🆕 |
+| 7 | [text-humanizer](https://github.com/SpaceDudem/text-humanizer) | 一个使用Python开发的开源项目：text-humanizer is an open-source projec... | 742 | 110 | Python | 🆕 |
+| 8 | [recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 一个使用HTML开发的开源项目：Official Project Page for Recurrent Loope... | 633 | 68 | HTML | 🆕 |
+| 9 | [short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | 一个使用Python开发的开源项目：Free open-source project designed for t... | 725 | 112 | Python | 🆕 |
+| 10 | [bank-sampah](https://github.com/Faizpi/bank-sampah) | 一个热门的PHP开源项目，在GitHub上获得了646个star，值得关注。 | 646 | 1 | PHP | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) ![Star](https://img.shields.io/github/stars/Rion-Wu-tech/wechat-intelligence-hub?style=social)
+#### 1. [Edge0](https://github.com/Edge0-AI/Edge0) ![Star](https://img.shields.io/github/stars/Edge0-AI/Edge0?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.，已获得1,425个star。
+<img src="./images/2026/week-38/edge0/1_20260908-223115.jpg" alt="Edge0" width="500"/>
+
+**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了1,633个star，值得关注。
 
 **✨ 核心特性**:
-- 1,425 stars
+- 1,633 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,425
-- **🔀 Fork数**: 1,732
-- **👀 Watch数**: 1,425
+- **⭐ Star数**: 1,633
+- **🔀 Fork数**: 129
+- **👀 Watch数**: 1,633
 - **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, Shell, CSS
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [m3e-canvas](https://github.com/lnkiai/m3e-canvas) ![Star](https://img.shields.io/github/stars/lnkiai/m3e-canvas?style=social)
+#### 2. [NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) ![Star](https://img.shields.io/github/stars/openai/NavierStokesAndEuler?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.，已获得4,416个star。
-
-**✨ 核心特性**:
-- 4,416 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 4,416
-- **🔀 Fork数**: 380
-- **👀 Watch数**: 4,416
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://lnkiai.github.io/m3e-canvas/](https://lnkiai.github.io/m3e-canvas/)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, design-tool, material-3-expressive, material-design
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [human-atlas](https://github.com/ashemag/human-atlas) ![Star](https://img.shields.io/github/stars/ashemag/human-atlas?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.，已获得1,547个star。
+**📝 项目简介**: 一个使用Lean开发的开源项目：Lean certificates accompanying Navier-Stokes and Euler results，已获得1,867个star。
 
 **✨ 核心特性**:
-- 1,547 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,547
-- **🔀 Fork数**: 407
-- **👀 Watch数**: 1,547
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://human-atlas-seven.vercel.app](https://human-atlas-seven.vercel.app)
-- **💻 技术栈**: TypeScript, JavaScript, Python, HTML, React, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [commerce-agents](https://github.com/anthropics/commerce-agents) ![Star](https://img.shields.io/github/stars/anthropics/commerce-agents?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.，已获得2,288个star。
-
-**✨ 核心特性**:
-- 2,288 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,288
-- **🔀 Fork数**: 393
-- **👀 Watch数**: 2,288
-- **📝 语言**: Python
-- **🌐 官网**: [https://claude.com/solutions/commerce](https://claude.com/solutions/commerce)
-- **💻 技术栈**: Python, Shell, AWS, GCP
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) ![Star](https://img.shields.io/github/stars/danielblnc/DLSS-NR-on-AMD?style=social)
-
-**📝 项目简介**: 一个使用Unknown开发的开源项目：Run DLSS 5 Neural Rendering on your AMD GPU. Magic!，已获得796个star。
-
-**✨ 核心特性**:
-- 796 stars
-- Unknown
-
-**📊 项目统计**:
-- **⭐ Star数**: 796
-- **🔀 Fork数**: 34
-- **👀 Watch数**: 796
-- **📝 语言**: Unknown
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) ![Star](https://img.shields.io/github/stars/pierrenade/short-video-generator-AI?style=social)
-
-<img src="./images/2026/week-37/short-video-generator-ai/1_ex1.png" alt="short-video-generator-AI" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.，已获得1,065个star。
-
-**✨ 核心特性**:
-- 1,065 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,065
-- **🔀 Fork数**: 155
-- **👀 Watch数**: 1,065
-- **📝 语言**: Python
-- **💻 技术栈**: Python, HTML, ai, ai-video, python, short-video-maker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [codenotch](https://github.com/vinzdg/codenotch) ![Star](https://img.shields.io/github/stars/vinzdg/codenotch?style=social)
-
-<img src="./images/2026/week-37/codenotch/1_frame-124-hover-tooltip.png" alt="codenotch" width="500"/>
-
-**📝 项目简介**: 一个使用Swift开发的开源项目：A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.，已获得760个star。
-
-**✨ 核心特性**:
-- 760 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 760
-- **🔀 Fork数**: 103
-- **👀 Watch数**: 760
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, Makefile, Shell
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [niubigeo](https://github.com/Albert-Weasker/niubigeo) ![Star](https://img.shields.io/github/stars/Albert-Weasker/niubigeo?style=social)
-
-<img src="./images/2026/week-37/niubigeo/1_niubigeo-readme-hero.svg" alt="niubigeo" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Open-source AI brand visibility and competitor reports，已获得622个star。
-
-**✨ 核心特性**:
-- 622 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 622
-- **🔀 Fork数**: 51
-- **👀 Watch数**: 622
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, HTML, Dockerfile, Node.js, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) ![Star](https://img.shields.io/github/stars/anthropics/fermats-last-theorem?style=social)
-
-**📝 项目简介**: 一个热门的Lean开源项目，在GitHub上获得了870个star，值得关注。
-
-**✨ 核心特性**:
-- 870 stars
+- 1,867 stars
 - Lean
 
 **📊 项目统计**:
-- **⭐ Star数**: 870
-- **🔀 Fork数**: 73
-- **👀 Watch数**: 870
+- **⭐ Star数**: 1,867
+- **🔀 Fork数**: 192
+- **👀 Watch数**: 1,867
 - **📝 语言**: Lean
-- **💻 技术栈**: Lean, HTML, Python, JavaScript, CSS, Shell
+- **💻 技术栈**: Lean
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [oc-english](https://github.com/yczz/oc-english) ![Star](https://img.shields.io/github/stars/yczz/oc-english?style=social)
+#### 3. [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) ![Star](https://img.shields.io/github/stars/Vincentwei1021/anything2explainer?style=social)
 
-<img src="./images/2026/week-37/oc-english/1_01-register.png" alt="oc-english" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：养成类游戏英语学习，已获得841个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.，已获得1,232个star。
 
 **✨ 核心特性**:
-- 841 stars
-- JavaScript
+- 1,232 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 841
-- **🔀 Fork数**: 12
-- **👀 Watch数**: 841
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, Rust, CSS, HTML, Node.js
+- **⭐ Star数**: 1,232
+- **🔀 Fork数**: 211
+- **👀 Watch数**: 1,232
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, Python, Shell, agent-skills, ai-agents, ai-video
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [Mac-Duo](https://github.com/sumimakito/Mac-Duo) ![Star](https://img.shields.io/github/stars/sumimakito/Mac-Duo?style=social)
+
+<img src="./images/2026/week-38/mac-duo/1_menu.png" alt="Mac-Duo" width="500"/>
+
+**📝 项目简介**: 一个使用Swift开发的开源项目：Wish you could bring the iPhone Duo effect to your MacBook?，已获得817个star。
+
+**✨ 核心特性**:
+- 817 stars
+- Swift
+
+**📊 项目统计**:
+- **⭐ Star数**: 817
+- **🔀 Fork数**: 59
+- **👀 Watch数**: 817
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Shell, flip, iphone, iphoneduo, mac
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [itsgiving](https://github.com/gazijarin/itsgiving) ![Star](https://img.shields.io/github/stars/gazijarin/itsgiving?style=social)
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Express yourself in meetings (with memes, of course).，已获得821个star。
+
+**✨ 核心特性**:
+- 821 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 821
+- **🔀 Fork数**: 98
+- **👀 Watch数**: 821
+- **📝 语言**: Python
+- **💻 技术栈**: Python, React, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) ![Star](https://img.shields.io/github/stars/angusdevgo/IDM_Pro_Tool?style=social)
+
+<img src="./images/2026/week-38/idm_pro_tool/1_app_icon.png" alt="IDM_Pro_Tool" width="500"/>
+
+**📝 项目简介**: 一个使用C#开发的开源项目：IDM激活与状态维护工具，已获得691个star。
+
+**✨ 核心特性**:
+- 691 stars
+- C#
+
+**📊 项目统计**:
+- **⭐ Star数**: 691
+- **🔀 Fork数**: 175
+- **👀 Watch数**: 691
+- **📝 语言**: C#
+- **💻 技术栈**: C#, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [text-humanizer](https://github.com/SpaceDudem/text-humanizer) ![Star](https://img.shields.io/github/stars/SpaceDudem/text-humanizer?style=social)
+
+<img src="./images/2026/week-38/text-humanizer/1_license-mit-yellow.svg" alt="text-humanizer" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero，已获得742个star。
+
+**✨ 核心特性**:
+- 742 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 742
+- **🔀 Fork数**: 110
+- **👀 Watch数**: 742
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Dockerfile, ai-humanizer, gpt-zero, text-humanizer
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 8. [recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) ![Star](https://img.shields.io/github/stars/yifanzhang-pro/recurrent-looped-tranformer?style=social)
+
+<img src="./images/2026/week-38/recurrent-looped-tranformer/1_paper-b31b1b.svg" alt="recurrent-looped-tranformer" width="500"/>
+
+**📝 项目简介**: 一个使用HTML开发的开源项目：Official Project Page for Recurrent Looped Transformer (RLT)，已获得633个star。
+
+**✨ 核心特性**:
+- 633 stars
+- HTML
+
+**📊 项目统计**:
+- **⭐ Star数**: 633
+- **🔀 Fork数**: 68
+- **👀 Watch数**: 633
+- **📝 语言**: HTML
+- **🌐 官网**: [https://yifanzhang-pro.github.io/recurrent-looped-tranformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer)
+- **💻 技术栈**: HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) ![Star](https://img.shields.io/github/stars/Colafornia/short-video-generator-AI?style=social)
+
+<img src="./images/2026/week-38/short-video-generator-ai/1_ex1.png" alt="short-video-generator-AI" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.，已获得725个star。
+
+**✨ 核心特性**:
+- 725 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 725
+- **🔀 Fork数**: 112
+- **👀 Watch数**: 725
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, ai, ai-generation, short-video, short-video-maker
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [bank-sampah](https://github.com/Faizpi/bank-sampah) ![Star](https://img.shields.io/github/stars/Faizpi/bank-sampah?style=social)
+
+**📝 项目简介**: 一个热门的PHP开源项目，在GitHub上获得了646个star，值得关注。
+
+**✨ 核心特性**:
+- 646 stars
+- PHP
+
+**📊 项目统计**:
+- **⭐ Star数**: 646
+- **🔀 Fork数**: 1
+- **👀 Watch数**: 646
+- **📝 语言**: PHP
+- **💻 技术栈**: PHP, Blade, JavaScript, CSS, MySQL
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -233,21 +236,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **TypeScript** (3 个项目)
-3. **Unknown** (1 个项目)
+1. **Python** (4 个项目)
+2. **Lean** (1 个项目)
+3. **TypeScript** (1 个项目)
 4. **Swift** (1 个项目)
-5. **Lean** (1 个项目)
+5. **C#** (1 个项目)
 
 **🏷️ 热门话题**:
-1. design-tool (1)
-2. material-3-expressive (1)
-3. material-design (1)
-4. material3 (1)
-5. nextjs (1)
-6. prompt (1)
-7. react (1)
-8. vibe-coding (1)
+1. agent-skills (1)
+2. ai-agents (1)
+3. ai-video (1)
+4. claude-code (1)
+5. claude-code-skill (1)
+6. codex (1)
+7. edge-tts (1)
+8. educational-video (1)
 
 
 <!-- TRENDING-END -->
@@ -257,6 +260,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 09-19 | 2026年第38周 | 10 个 | [查看详情](./archives/2026/week-38/report.md) |
 | 09-12 | 2026年第37周 | 10 个 | [查看详情](./archives/2026/week-37/report.md) |
 | 09-05 | 2026年第36周 | 10 个 | [查看详情](./archives/2026/week-36/report.md) |
 | 08-29 | 2026年第35周 | 10 个 | [查看详情](./archives/2026/week-35/report.md) |
@@ -276,7 +280,6 @@
 | 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
 | 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
 | 05-09 | 2026年第19周 | 10 个 | [查看详情](./archives/2026/week-19/report.md) |
-| 05-02 | 2026年第18周 | 10 个 | [查看详情](./archives/2026/week-18/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

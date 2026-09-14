@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第38周",
+    "year": 2026,
+    "week": 38,
+    "week_range": {
+      "start": "2026-09-13",
+      "end": "2026-09-19"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-09-19 23:59:59",
+    "next_update": "2026-09-26"
+  },
+  "repositories": [
+    {
+      "full_name": "Edge0-AI/Edge0",
+      "rank": 1,
+      "stars": 1633,
+      "forks": 129,
+      "overall_score": 71
+    },
+    {
+      "full_name": "openai/NavierStokesAndEuler",
+      "rank": 2,
+      "stars": 1867,
+      "forks": 192,
+      "overall_score": 69
+    },
+    {
+      "full_name": "Vincentwei1021/anything2explainer",
+      "rank": 3,
+      "stars": 1232,
+      "forks": 211,
+      "overall_score": 69
+    },
+    {
+      "full_name": "sumimakito/Mac-Duo",
+      "rank": 4,
+      "stars": 817,
+      "forks": 59,
+      "overall_score": 69
+    },
+    {
+      "full_name": "gazijarin/itsgiving",
+      "rank": 5,
+      "stars": 821,
+      "forks": 98,
+      "overall_score": 66
+    },
+    {
+      "full_name": "angusdevgo/IDM_Pro_Tool",
+      "rank": 6,
+      "stars": 691,
+      "forks": 175,
+      "overall_score": 66
+    },
+    {
+      "full_name": "SpaceDudem/text-humanizer",
+      "rank": 7,
+      "stars": 742,
+      "forks": 110,
+      "overall_score": 65
+    },
+    {
+      "full_name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "rank": 8,
+      "stars": 633,
+      "forks": 68,
+      "overall_score": 65
+    },
+    {
+      "full_name": "Colafornia/short-video-generator-AI",
+      "rank": 9,
+      "stars": 725,
+      "forks": 112,
+      "overall_score": 64
+    },
+    {
+      "full_name": "Faizpi/bank-sampah",
+      "rank": 10,
+      "stars": 646,
+      "forks": 1,
+      "overall_score": 59
+    }
+  ],
+  "generated_at": "2026-09-14T07:49:05.655Z"
+}
