@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第39周",
+    "year": 2026,
+    "week": 39,
+    "week_range": {
+      "start": "2026-09-20",
+      "end": "2026-09-26"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-09-26 23:59:59",
+    "next_update": "2026-10-03"
+  },
+  "repositories": [
+    {
+      "full_name": "browser-use/jev-ultrafast",
+      "rank": 1,
+      "stars": 13333,
+      "forks": 823,
+      "overall_score": 90
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "rank": 2,
+      "stars": 6023,
+      "forks": 522,
+      "overall_score": 82
+    },
+    {
+      "full_name": "tamaratran/fast-jev-compaction",
+      "rank": 3,
+      "stars": 5581,
+      "forks": 303,
+      "overall_score": 82
+    },
+    {
+      "full_name": "zai-org/ZCode",
+      "rank": 4,
+      "stars": 4258,
+      "forks": 1139,
+      "overall_score": 82
+    },
+    {
+      "full_name": "robbietilton/Compositor",
+      "rank": 5,
+      "stars": 3924,
+      "forks": 420,
+      "overall_score": 82
+    },
+    {
+      "full_name": "mcncarl/jianying-headless",
+      "rank": 6,
+      "stars": 2176,
+      "forks": 1504,
+      "overall_score": 80
+    },
+    {
+      "full_name": "TheoLeeCJ/SemIf",
+      "rank": 7,
+      "stars": 2656,
+      "forks": 162,
+      "overall_score": 73
+    },
+    {
+      "full_name": "jarrodwatts/jev-trader",
+      "rank": 8,
+      "stars": 1641,
+      "forks": 308,
+      "overall_score": 71
+    },
+    {
+      "full_name": "TianyuCodings/NanoJev",
+      "rank": 9,
+      "stars": 1614,
+      "forks": 185,
+      "overall_score": 71
+    },
+    {
+      "full_name": "mizorewww/laya-mlx",
+      "rank": 10,
+      "stars": 2144,
+      "forks": 112,
+      "overall_score": 70
+    }
+  ],
+  "generated_at": "2026-09-21T07:52:48.777Z"
+}
