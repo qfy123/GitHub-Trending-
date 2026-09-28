@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第40周",
+    "year": 2026,
+    "week": 40,
+    "week_range": {
+      "start": "2026-09-27",
+      "end": "2026-10-03"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-03 23:59:59",
+    "next_update": "2026-10-10"
+  },
+  "repositories": [
+    {
+      "full_name": "Contrastive-LM/CLM",
+      "rank": 1,
+      "stars": 2060,
+      "forks": 182,
+      "overall_score": 73
+    },
+    {
+      "full_name": "tobi/disktree",
+      "rank": 2,
+      "stars": 1711,
+      "forks": 111,
+      "overall_score": 70
+    },
+    {
+      "full_name": "852wa/JIZURA",
+      "rank": 3,
+      "stars": 879,
+      "forks": 133,
+      "overall_score": 70
+    },
+    {
+      "full_name": "mexicat/pdoom-video",
+      "rank": 4,
+      "stars": 1455,
+      "forks": 145,
+      "overall_score": 69
+    },
+    {
+      "full_name": "dzhng/jevgrep",
+      "rank": 5,
+      "stars": 967,
+      "forks": 57,
+      "overall_score": 69
+    },
+    {
+      "full_name": "dgreenheck/tidewater",
+      "rank": 6,
+      "stars": 864,
+      "forks": 203,
+      "overall_score": 69
+    },
+    {
+      "full_name": "yetone/magpie",
+      "rank": 7,
+      "stars": 1416,
+      "forks": 86,
+      "overall_score": 68
+    },
+    {
+      "full_name": "JohnHeibel/PDoomVideo",
+      "rank": 8,
+      "stars": 1318,
+      "forks": 143,
+      "overall_score": 68
+    },
+    {
+      "full_name": "mikehasa/golive-skill",
+      "rank": 9,
+      "stars": 1024,
+      "forks": 75,
+      "overall_score": 66
+    },
+    {
+      "full_name": "kryvora-network/kryvora-node",
+      "rank": 10,
+      "stars": 1000,
+      "forks": 26,
+      "overall_score": 63
+    }
+  ],
+  "generated_at": "2026-09-28T08:34:16.005Z"
+}

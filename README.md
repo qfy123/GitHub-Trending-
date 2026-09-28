@@ -18,220 +18,218 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第39周
+### GitHub趋势排行榜 - 2026年第40周
 
-**📅 统计周期**: 2026-09-20 ~ 2026-09-26  
+**📅 统计周期**: 2026-09-27 ~ 2026-10-03  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 43,350  
-**🔄 更新时间**: 2026-09-26 23:59:59  
+**⭐ 总Star数**: 12,694  
+**🔄 更新时间**: 2026-10-03 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 一个使用Python开发的开源项目：i. am. speed.，已获得13,333个star。 | 13,333 | 823 | Python | 🆕 |
-| 2 | [laya](https://github.com/NandhaKishorM/laya) | 一个热门的Python开源项目，在GitHub上获得了6,023个star，值得关注。 | 6,023 | 522 | Python | 🆕 |
-| 3 | [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 一个使用TypeScript开发的开源项目：Claude Code plugin that replaces th... | 5,581 | 303 | TypeScript | 🆕 |
-| 4 | [ZCode](https://github.com/zai-org/ZCode) | 一个使用TypeScript开发的开源项目：Z.ai's coding agent harness. Powerf... | 4,258 | 1,139 | TypeScript | 🆕 |
-| 5 | [Compositor](https://github.com/robbietilton/Compositor) | 一个使用Swift开发的开源项目：The Photoshop alternative for Mac，已获得3,9... | 3,924 | 420 | Swift | 🆕 |
-| 6 | [jianying-headless](https://github.com/mcncarl/jianying-headless) | 一个使用Python开发的开源项目：Private source preview: native Jianying... | 2,176 | 1,504 | Python | 🆕 |
-| 7 | [SemIf](https://github.com/TheoLeeCJ/SemIf) | 一个使用Python开发的开源项目：Semantic ifs from open models, on a 309... | 2,656 | 162 | Python | 🆕 |
-| 8 | [jev-trader](https://github.com/jarrodwatts/jev-trader) | 一个使用TypeScript开发的开源项目：One AI trade decision every Monad b... | 1,641 | 308 | TypeScript | 🆕 |
-| 9 | [NanoJev](https://github.com/TianyuCodings/NanoJev) | 一个使用Python开发的开源项目：A nano replica of Jev: parallel decisio... | 1,614 | 185 | Python | 🆕 |
-| 10 | [laya-mlx](https://github.com/mizorewww/laya-mlx) | 一个使用Python开发的开源项目：Native MLX runtime for Laya typed decis... | 2,144 | 112 | Python | 🆕 |
+| 1 | [CLM](https://github.com/Contrastive-LM/CLM) | 一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。 | 2,060 | 182 | Python | 🆕 |
+| 2 | [disktree](https://github.com/tobi/disktree) | 一个使用Rust开发的开源项目：A treemap for finding and removing what f... | 1,711 | 111 | Rust | 🆕 |
+| 3 | [JIZURA](https://github.com/852wa/JIZURA) | 一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。 | 879 | 133 | HTML | 🆕 |
+| 4 | [pdoom-video](https://github.com/mexicat/pdoom-video) | 一个使用TypeScript开发的开源项目：Code-rendered music video for "I'm ... | 1,455 | 145 | TypeScript | 🆕 |
+| 5 | [jevgrep](https://github.com/dzhng/jevgrep) | 一个使用TypeScript开发的开源项目：Find code by asking what it does. A... | 967 | 57 | TypeScript | 🆕 |
+| 6 | [tidewater](https://github.com/dgreenheck/tidewater) | 一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获... | 864 | 203 | JavaScript | 🆕 |
+| 7 | [magpie](https://github.com/yetone/magpie) | 一个使用Go开发的开源项目：Every agent's model. One place. Codex on De... | 1,416 | 86 | Go | 🆕 |
+| 8 | [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5... | 1,318 | 143 | JavaScript | 🆕 |
+| 9 | [golive-skill](https://github.com/mikehasa/golive-skill) | 一个使用TypeScript开发的开源项目：Take your agent-built product live:... | 1,024 | 75 | TypeScript | 🆕 |
+| 10 | [kryvora-node](https://github.com/kryvora-network/kryvora-node) | 一个使用Go开发的开源项目：Reference client daemon and verification wo... | 1,000 | 26 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) ![Star](https://img.shields.io/github/stars/browser-use/jev-ultrafast?style=social)
+#### 1. [CLM](https://github.com/Contrastive-LM/CLM) ![Star](https://img.shields.io/github/stars/Contrastive-LM/CLM?style=social)
 
-<img src="./images/2026/week-39/jev-ultrafast/1_banner.svg" alt="jev-ultrafast" width="500"/>
+<img src="./images/2026/week-40/clm/1_logo.png" alt="CLM" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：i. am. speed.，已获得13,333个star。
+**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。
 
 **✨ 核心特性**:
-- 13,333 stars
+- 2,060 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 13,333
-- **🔀 Fork数**: 823
-- **👀 Watch数**: 13,333
+- **⭐ Star数**: 2,060
+- **🔀 Fork数**: 182
+- **👀 Watch数**: 2,060
 - **📝 语言**: Python
-- **🌐 官网**: [https://browser-use.com](https://browser-use.com)
-- **💻 技术栈**: Python, HTML, JavaScript, CSS
+- **💻 技术栈**: Python, JavaScript, CSS, HTML, Shell, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [laya](https://github.com/NandhaKishorM/laya) ![Star](https://img.shields.io/github/stars/NandhaKishorM/laya?style=social)
+#### 2. [disktree](https://github.com/tobi/disktree) ![Star](https://img.shields.io/github/stars/tobi/disktree?style=social)
 
-<img src="./images/2026/week-39/laya/1_colab-badge.svg" alt="laya" width="500"/>
+<img src="./images/2026/week-40/disktree/1_screenshot.png" alt="disktree" width="500"/>
 
-**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了6,023个star，值得关注。
+**📝 项目简介**: 一个使用Rust开发的开源项目：A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.，已获得1,711个star。
 
 **✨ 核心特性**:
-- 6,023 stars
-- Python
+- 1,711 stars
+- Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 6,023
-- **🔀 Fork数**: 522
-- **👀 Watch数**: 6,023
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Jupyter Notebook
+- **⭐ Star数**: 1,711
+- **🔀 Fork数**: 111
+- **👀 Watch数**: 1,711
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Makefile, Shell, AWS
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) ![Star](https://img.shields.io/github/stars/tamaratran/fast-jev-compaction?style=social)
+#### 3. [JIZURA](https://github.com/852wa/JIZURA) ![Star](https://img.shields.io/github/stars/852wa/JIZURA?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.，已获得5,581个star。
+**📝 项目简介**: 一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。
 
 **✨ 核心特性**:
-- 5,581 stars
+- 879 stars
+- HTML
+
+**📊 项目统计**:
+- **⭐ Star数**: 879
+- **🔀 Fork数**: 133
+- **👀 Watch数**: 879
+- **📝 语言**: HTML
+- **🌐 官网**: [https://852wa.github.io/JIZURA/](https://852wa.github.io/JIZURA/)
+- **💻 技术栈**: HTML, JavaScript, Python, CSS, Node.js, Express
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [pdoom-video](https://github.com/mexicat/pdoom-video) ![Star](https://img.shields.io/github/stars/mexicat/pdoom-video?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Code-rendered music video for "I'm Upping My P(doom)"，已获得1,455个star。
+
+**✨ 核心特性**:
+- 1,455 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,581
-- **🔀 Fork数**: 303
-- **👀 Watch数**: 5,581
+- **⭐ Star数**: 1,455
+- **🔀 Fork数**: 145
+- **👀 Watch数**: 1,455
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript
+- **💻 技术栈**: TypeScript, Python, JavaScript, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [ZCode](https://github.com/zai-org/ZCode) ![Star](https://img.shields.io/github/stars/zai-org/ZCode?style=social)
+#### 5. [jevgrep](https://github.com/dzhng/jevgrep) ![Star](https://img.shields.io/github/stars/dzhng/jevgrep?style=social)
 
-<img src="./images/2026/week-39/zcode/1_1024x1024.png" alt="ZCode" width="500"/>
+<img src="./images/2026/week-40/jevgrep/1_cover.png" alt="jevgrep" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Z.ai's coding agent harness. Powerful, intelligent, extensible.，已获得4,258个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.，已获得967个star。
 
 **✨ 核心特性**:
-- 4,258 stars
+- 967 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,258
-- **🔀 Fork数**: 1,139
-- **👀 Watch数**: 4,258
+- **⭐ Star数**: 967
+- **🔀 Fork数**: 57
+- **👀 Watch数**: 967
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://zcode.z.ai/](https://zcode.z.ai/)
-- **💻 技术栈**: TypeScript, JavaScript, CSS, C#, NSIS, HTML
+- **💻 技术栈**: TypeScript, JavaScript, Python, Shell, Dockerfile, ai-sdk
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Compositor](https://github.com/robbietilton/Compositor) ![Star](https://img.shields.io/github/stars/robbietilton/Compositor?style=social)
+#### 6. [tidewater](https://github.com/dgreenheck/tidewater) ![Star](https://img.shields.io/github/stars/dgreenheck/tidewater?style=social)
 
-**📝 项目简介**: 一个使用Swift开发的开源项目：The Photoshop alternative for Mac，已获得3,924个star。
+<img src="./images/2026/week-40/tidewater/1_screenshot.jpg" alt="tidewater" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获得864个star。
 
 **✨ 核心特性**:
-- 3,924 stars
-- Swift
+- 864 stars
+- JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,924
-- **🔀 Fork数**: 420
-- **👀 Watch数**: 3,924
-- **📝 语言**: Swift
-- **💻 技术栈**: Swift, C, Shell, Objective-C
+- **⭐ Star数**: 864
+- **🔀 Fork数**: 203
+- **👀 Watch数**: 864
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://dgreenheck.github.io/tidewater/](https://dgreenheck.github.io/tidewater/)
+- **💻 技术栈**: JavaScript, CSS, HTML, Python, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [jianying-headless](https://github.com/mcncarl/jianying-headless) ![Star](https://img.shields.io/github/stars/mcncarl/jianying-headless?style=social)
+#### 7. [magpie](https://github.com/yetone/magpie) ![Star](https://img.shields.io/github/stars/yetone/magpie?style=social)
 
-<img src="./images/2026/week-39/jianying-headless/1_hypit-original-frames.png" alt="jianying-headless" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.，已获得2,176个star。
+**📝 项目简介**: 一个使用Go开发的开源项目：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.，已获得1,416个star。
 
 **✨ 核心特性**:
-- 2,176 stars
-- Python
+- 1,416 stars
+- Go
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,176
-- **🔀 Fork数**: 1,504
-- **👀 Watch数**: 2,176
-- **📝 语言**: Python
-- **💻 技术栈**: Python, C++
+- **⭐ Star数**: 1,416
+- **🔀 Fork数**: 86
+- **👀 Watch数**: 1,416
+- **📝 语言**: Go
+- **🌐 官网**: [https://usemagpie.ai](https://usemagpie.ai)
+- **💻 技术栈**: Go, JavaScript, HTML, CSS, Shell, Makefile
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [SemIf](https://github.com/TheoLeeCJ/SemIf) ![Star](https://img.shields.io/github/stars/TheoLeeCJ/SemIf?style=social)
+#### 8. [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) ![Star](https://img.shields.io/github/stars/JohnHeibel/PDoomVideo?style=social)
 
-<img src="./images/2026/week-39/semif/1_semif-phase1-replay.gif" alt="SemIf" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.，已获得2,656个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)，已获得1,318个star。
 
 **✨ 核心特性**:
-- 2,656 stars
-- Python
+- 1,318 stars
+- JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,656
-- **🔀 Fork数**: 162
-- **👀 Watch数**: 2,656
-- **📝 语言**: Python
-- **🌐 官网**: [openjev.com](openjev.com)
-- **💻 技术栈**: Python, JavaScript, HTML
+- **⭐ Star数**: 1,318
+- **🔀 Fork数**: 143
+- **👀 Watch数**: 1,318
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, HTML, Node.js
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [jev-trader](https://github.com/jarrodwatts/jev-trader) ![Star](https://img.shields.io/github/stars/jarrodwatts/jev-trader?style=social)
+#### 9. [golive-skill](https://github.com/mikehasa/golive-skill) ![Star](https://img.shields.io/github/stars/mikehasa/golive-skill?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：One AI trade decision every Monad block. Jev on Kuru MON-USDC.，已获得1,641个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.，已获得1,024个star。
 
 **✨ 核心特性**:
-- 1,641 stars
+- 1,024 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,641
-- **🔀 Fork数**: 308
-- **👀 Watch数**: 1,641
+- **⭐ Star数**: 1,024
+- **🔀 Fork数**: 75
+- **👀 Watch数**: 1,024
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, Dockerfile
+- **🌐 官网**: [https://trytofu.ai](https://trytofu.ai)
+- **💻 技术栈**: TypeScript, JavaScript, Shell, agent-skill, agent-skills, ai-agents
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [NanoJev](https://github.com/TianyuCodings/NanoJev) ![Star](https://img.shields.io/github/stars/TianyuCodings/NanoJev?style=social)
+#### 10. [kryvora-node](https://github.com/kryvora-network/kryvora-node) ![Star](https://img.shields.io/github/stars/kryvora-network/kryvora-node?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.，已获得1,614个star。
+<img src="./images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg" alt="kryvora-node" width="500"/>
 
-**✨ 核心特性**:
-- 1,614 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,614
-- **🔀 Fork数**: 185
-- **👀 Watch数**: 1,614
-- **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, HTML, CSS
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [laya-mlx](https://github.com/mizorewww/laya-mlx) ![Star](https://img.shields.io/github/stars/mizorewww/laya-mlx?style=social)
-
-<img src="./images/2026/week-39/laya-mlx/1_snake-demo.gif" alt="laya-mlx" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.，已获得2,144个star。
+**📝 项目简介**: 一个使用Go开发的开源项目：Reference client daemon and verification worker for Kryvora Network nodes.，已获得1,000个star。
 
 **✨ 核心特性**:
-- 2,144 stars
-- Python
+- 1,000 stars
+- Go
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,144
-- **🔀 Fork数**: 112
-- **👀 Watch数**: 2,144
-- **📝 语言**: Python
-- **🌐 官网**: [https://pypi.org/project/laya-mlx/](https://pypi.org/project/laya-mlx/)
-- **💻 技术栈**: Python, apple-silicon, decision-model, inference, laya, local-ai
+- **⭐ Star数**: 1,000
+- **🔀 Fork数**: 26
+- **👀 Watch数**: 1,000
+- **📝 语言**: Go
+- **💻 技术栈**: Go, Shell, Dockerfile, Makefile, depin, distributed-systems
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -239,19 +237,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (6 个项目)
-2. **TypeScript** (3 个项目)
-3. **Swift** (1 个项目)
+1. **TypeScript** (3 个项目)
+2. **JavaScript** (2 个项目)
+3. **Go** (2 个项目)
+4. **Python** (1 个项目)
+5. **Rust** (1 个项目)
 
 **🏷️ 热门话题**:
-1. apple-silicon (1)
-2. decision-model (1)
-3. inference (1)
-4. laya (1)
-5. local-ai (1)
-6. machine-learning (1)
-7. mlx (1)
-8. modernbert (1)
+1. claude-code (3)
+2. codex (3)
+3. developer-tools (2)
+4. infrastructure (2)
+5. ai-sdk (1)
+6. cli (1)
+7. code-search (1)
+8. coding-agents (1)
 
 
 <!-- TRENDING-END -->
@@ -261,6 +261,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-03 | 2026年第40周 | 10 个 | [查看详情](./archives/2026/week-40/report.md) |
 | 09-26 | 2026年第39周 | 10 个 | [查看详情](./archives/2026/week-39/report.md) |
 | 09-19 | 2026年第38周 | 10 个 | [查看详情](./archives/2026/week-38/report.md) |
 | 09-12 | 2026年第37周 | 10 个 | [查看详情](./archives/2026/week-37/report.md) |
@@ -280,7 +281,6 @@
 | 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
 | 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
 | 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
-| 05-16 | 2026年第20周 | 10 个 | [查看详情](./archives/2026/week-20/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

@@ -1,0 +1,853 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第40周",
+    "year": 2026,
+    "week": 40,
+    "week_range": {
+      "start": "2026-09-27",
+      "end": "2026-10-03"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-03 23:59:59",
+    "next_update": "2026-10-10"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "CLM",
+      "full_name": "Contrastive-LM/CLM",
+      "owner": "Contrastive-LM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4",
+      "stars": 2060,
+      "forks": 182,
+      "issues": 19,
+      "watchers": 2060,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/Contrastive-LM/CLM.git",
+      "ssh_url": "git@github.com:Contrastive-LM/CLM.git",
+      "html_url": "https://github.com/Contrastive-LM/CLM",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 132716,
+        "JavaScript": 36097,
+        "CSS": 22072,
+        "HTML": 11240,
+        "Shell": 1819
+      },
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Shell",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-09-23T19:29:56Z",
+      "updated_at": "2026-09-28T08:31:09Z",
+      "pushed_at": "2026-09-24T23:10:28Z",
+      "ai_summary": {
+        "summary": "一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。",
+        "highlights": [
+          "2,060 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_logo.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm/1_logo.png",
+            "size": 233432,
+            "content_type": "image/png",
+            "downloaded_at": "2026-09-28T08:34:06.652Z",
+            "original_url": "assets/logo.png",
+            "absolute_url": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm",
+        "representative_image": {
+          "filename": "1_logo.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm/1_logo.png",
+          "size": 233432,
+          "content_type": "image/png",
+          "downloaded_at": "2026-09-28T08:34:06.652Z",
+          "original_url": "assets/logo.png",
+          "absolute_url": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png"
+        }
+      },
+      "activity_score": 62,
+      "popularity_score": 69,
+      "freshness_score": 100,
+      "overall_score": 73,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 2,
+      "name": "disktree",
+      "full_name": "tobi/disktree",
+      "owner": "tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4",
+      "stars": 1711,
+      "forks": 111,
+      "issues": 12,
+      "watchers": 1711,
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "homepage": null,
+      "clone_url": "https://github.com/tobi/disktree.git",
+      "ssh_url": "git@github.com:tobi/disktree.git",
+      "html_url": "https://github.com/tobi/disktree",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 768418,
+        "Makefile": 3908,
+        "Shell": 2145
+      },
+      "tech_stack": [
+        "Rust",
+        "Makefile",
+        "Shell",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-09-24T20:56:29Z",
+      "updated_at": "2026-09-28T08:31:26Z",
+      "pushed_at": "2026-09-27T02:04:35Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.，已获得1,711个star。",
+        "highlights": [
+          "1,711 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_screenshot.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree/1_screenshot.png",
+            "size": 868381,
+            "content_type": "image/png",
+            "downloaded_at": "2026-09-28T08:34:07.737Z",
+            "original_url": "assets/screenshot.png",
+            "absolute_url": "https://raw.githubusercontent.com/tobi/disktree/main/assets/screenshot.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree",
+        "representative_image": {
+          "filename": "1_screenshot.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree/1_screenshot.png",
+          "size": 868381,
+          "content_type": "image/png",
+          "downloaded_at": "2026-09-28T08:34:07.737Z",
+          "original_url": "assets/screenshot.png",
+          "absolute_url": "https://raw.githubusercontent.com/tobi/disktree/main/assets/screenshot.png"
+        }
+      },
+      "activity_score": 58,
+      "popularity_score": 66,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "JIZURA",
+      "full_name": "852wa/JIZURA",
+      "owner": "852wa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137879019?v=4",
+      "stars": 879,
+      "forks": 133,
+      "issues": 20,
+      "watchers": 879,
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "homepage": "https://852wa.github.io/JIZURA/",
+      "clone_url": "https://github.com/852wa/JIZURA.git",
+      "ssh_url": "git@github.com:852wa/JIZURA.git",
+      "html_url": "https://github.com/852wa/JIZURA",
+      "language": "HTML",
+      "primary_language": "HTML",
+      "languages": {
+        "HTML": 16592799,
+        "JavaScript": 11342799,
+        "Python": 376703,
+        "CSS": 31690
+      },
+      "tech_stack": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "CSS",
+        "Node.js",
+        "Express"
+      ],
+      "topics": [],
+      "created_at": "2026-09-23T04:04:13Z",
+      "updated_at": "2026-09-28T08:29:10Z",
+      "pushed_at": "2026-09-26T21:02:05Z",
+      "ai_summary": {
+        "summary": "一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。",
+        "highlights": [
+          "879 stars",
+          "HTML"
+        ],
+        "tech_summary": "HTML",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jizura",
+        "representative_image": null
+      },
+      "activity_score": 64,
+      "popularity_score": 62,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "pdoom-video",
+      "full_name": "mexicat/pdoom-video",
+      "owner": "mexicat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "stars": 1455,
+      "forks": 145,
+      "issues": 1,
+      "watchers": 1455,
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "homepage": null,
+      "clone_url": "https://github.com/mexicat/pdoom-video.git",
+      "ssh_url": "git@github.com:mexicat/pdoom-video.git",
+      "html_url": "https://github.com/mexicat/pdoom-video",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 1108214,
+        "Python": 65116,
+        "JavaScript": 2160,
+        "HTML": 1907
+      },
+      "tech_stack": [
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "HTML"
+      ],
+      "topics": [],
+      "created_at": "2026-09-24T21:33:53Z",
+      "updated_at": "2026-09-28T08:32:29Z",
+      "pushed_at": "2026-09-28T06:53:29Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：Code-rendered music video for \"I'm Upping My P(doom)\"，已获得1,455个star。",
+        "highlights": [
+          "1,455 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/pdoom-video",
+        "representative_image": null
+      },
+      "activity_score": 54,
+      "popularity_score": 66,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "jevgrep",
+      "full_name": "dzhng/jevgrep",
+      "owner": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "stars": 967,
+      "forks": 57,
+      "issues": 19,
+      "watchers": 967,
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "homepage": "",
+      "clone_url": "https://github.com/dzhng/jevgrep.git",
+      "ssh_url": "git@github.com:dzhng/jevgrep.git",
+      "html_url": "https://github.com/dzhng/jevgrep",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 533466,
+        "JavaScript": 165717,
+        "Python": 126175,
+        "Shell": 4153,
+        "Dockerfile": 3350
+      },
+      "tech_stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Shell",
+        "Dockerfile",
+        "ai-sdk",
+        "claude-code",
+        "cli"
+      ],
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "updated_at": "2026-09-28T08:30:55Z",
+      "pushed_at": "2026-09-28T07:45:24Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.，已获得967个star。",
+        "highlights": [
+          "967 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_cover.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep/1_cover.png",
+            "size": 1329893,
+            "content_type": "image/png",
+            "downloaded_at": "2026-09-28T08:34:13.883Z",
+            "original_url": "assets/cover.png",
+            "absolute_url": "https://raw.githubusercontent.com/dzhng/jevgrep/main/assets/cover.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep",
+        "representative_image": {
+          "filename": "1_cover.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep/1_cover.png",
+          "size": 1329893,
+          "content_type": "image/png",
+          "downloaded_at": "2026-09-28T08:34:13.883Z",
+          "original_url": "assets/cover.png",
+          "absolute_url": "https://raw.githubusercontent.com/dzhng/jevgrep/main/assets/cover.png"
+        }
+      },
+      "activity_score": 63,
+      "popularity_score": 60,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "tidewater",
+      "full_name": "dgreenheck/tidewater",
+      "owner": "dgreenheck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3814912?v=4",
+      "stars": 864,
+      "forks": 203,
+      "issues": 12,
+      "watchers": 864,
+      "description": "Coastal town built with Opus 5.5",
+      "homepage": "https://dgreenheck.github.io/tidewater/",
+      "clone_url": "https://github.com/dgreenheck/tidewater.git",
+      "ssh_url": "git@github.com:dgreenheck/tidewater.git",
+      "html_url": "https://github.com/dgreenheck/tidewater",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 3392239,
+        "CSS": 60577,
+        "HTML": 9730,
+        "Python": 8955,
+        "Shell": 2899
+      },
+      "tech_stack": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Python",
+        "Shell"
+      ],
+      "topics": [],
+      "created_at": "2026-09-23T21:40:29Z",
+      "updated_at": "2026-09-28T08:26:14Z",
+      "pushed_at": "2026-09-25T04:02:40Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获得864个star。",
+        "highlights": [
+          "864 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_screenshot.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater/1_screenshot.jpg",
+            "size": 245947,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2026-09-28T08:34:15.992Z",
+            "original_url": "docs/screenshot.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/dgreenheck/tidewater/main/docs/screenshot.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater",
+        "representative_image": {
+          "filename": "1_screenshot.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater/1_screenshot.jpg",
+          "size": 245947,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-09-28T08:34:15.992Z",
+          "original_url": "docs/screenshot.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/dgreenheck/tidewater/main/docs/screenshot.jpg"
+        }
+      },
+      "activity_score": 58,
+      "popularity_score": 63,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "magpie",
+      "full_name": "yetone/magpie",
+      "owner": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "stars": 1416,
+      "forks": 86,
+      "issues": 1,
+      "watchers": 1416,
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "homepage": "https://usemagpie.ai",
+      "clone_url": "https://github.com/yetone/magpie.git",
+      "ssh_url": "git@github.com:yetone/magpie.git",
+      "html_url": "https://github.com/yetone/magpie",
+      "language": "Go",
+      "primary_language": "Go",
+      "languages": {
+        "Go": 3043955,
+        "JavaScript": 571867,
+        "HTML": 286071,
+        "CSS": 160598,
+        "Shell": 6128,
+        "Makefile": 5337
+      },
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Shell",
+        "Makefile",
+        "claude-code",
+        "codex"
+      ],
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-28T08:33:17Z",
+      "pushed_at": "2026-09-28T08:32:26Z",
+      "ai_summary": {
+        "summary": "一个使用Go开发的开源项目：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.，已获得1,416个star。",
+        "highlights": [
+          "1,416 stars",
+          "Go"
+        ],
+        "tech_summary": "Go",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/magpie",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 64,
+      "freshness_score": 100,
+      "overall_score": 68,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "PDoomVideo",
+      "full_name": "JohnHeibel/PDoomVideo",
+      "owner": "JohnHeibel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "stars": 1318,
+      "forks": 143,
+      "issues": 2,
+      "watchers": 1318,
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "homepage": null,
+      "clone_url": "https://github.com/JohnHeibel/PDoomVideo.git",
+      "ssh_url": "git@github.com:JohnHeibel/PDoomVideo.git",
+      "html_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 579359,
+        "HTML": 94228
+      },
+      "tech_stack": [
+        "JavaScript",
+        "HTML",
+        "Node.js"
+      ],
+      "topics": [],
+      "created_at": "2026-09-22T23:32:19Z",
+      "updated_at": "2026-09-28T08:29:48Z",
+      "pushed_at": "2026-09-25T15:11:03Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)，已获得1,318个star。",
+        "highlights": [
+          "1,318 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/pdoomvideo",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 68,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "golive-skill",
+      "full_name": "mikehasa/golive-skill",
+      "owner": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "stars": 1024,
+      "forks": 75,
+      "issues": 1,
+      "watchers": 1024,
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "homepage": "https://trytofu.ai",
+      "clone_url": "https://github.com/mikehasa/golive-skill.git",
+      "ssh_url": "git@github.com:mikehasa/golive-skill.git",
+      "html_url": "https://github.com/mikehasa/golive-skill",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 2463638,
+        "JavaScript": 1163704,
+        "Shell": 189
+      },
+      "tech_stack": [
+        "TypeScript",
+        "JavaScript",
+        "Shell",
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare"
+      ],
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "created_at": "2026-09-23T13:37:26Z",
+      "updated_at": "2026-09-28T08:13:41Z",
+      "pushed_at": "2026-09-27T05:07:13Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.，已获得1,024个star。",
+        "highlights": [
+          "1,024 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/golive-skill",
+        "representative_image": null
+      },
+      "activity_score": 51,
+      "popularity_score": 61,
+      "freshness_score": 100,
+      "overall_score": 66,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 10,
+      "name": "kryvora-node",
+      "full_name": "kryvora-network/kryvora-node",
+      "owner": "kryvora-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332587460?v=4",
+      "stars": 1000,
+      "forks": 26,
+      "issues": 0,
+      "watchers": 1000,
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "homepage": null,
+      "clone_url": "https://github.com/kryvora-network/kryvora-node.git",
+      "ssh_url": "git@github.com:kryvora-network/kryvora-node.git",
+      "html_url": "https://github.com/kryvora-network/kryvora-node",
+      "language": "Go",
+      "primary_language": "Go",
+      "languages": {
+        "Go": 17837,
+        "Shell": 2557,
+        "Dockerfile": 529,
+        "Makefile": 249
+      },
+      "tech_stack": [
+        "Go",
+        "Shell",
+        "Dockerfile",
+        "Makefile",
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure"
+      ],
+      "topics": [
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure",
+        "node-runner",
+        "telemetry",
+        "worker-daemon"
+      ],
+      "created_at": "2026-09-22T16:10:23Z",
+      "updated_at": "2026-09-28T08:28:54Z",
+      "pushed_at": "2026-09-22T19:02:39Z",
+      "ai_summary": {
+        "summary": "一个使用Go开发的开源项目：Reference client daemon and verification worker for Kryvora Network nodes.，已获得1,000个star。",
+        "highlights": [
+          "1,000 stars",
+          "Go"
+        ],
+        "tech_summary": "Go",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_go-%3e%3d%201.22-30363d.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg",
+            "size": 2840,
+            "content_type": "image/svg+xml;charset=utf-8",
+            "downloaded_at": "2026-09-28T08:34:12.828Z",
+            "original_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go",
+            "absolute_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node",
+        "representative_image": {
+          "filename": "1_go-%3e%3d%201.22-30363d.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg",
+          "size": 2840,
+          "content_type": "image/svg+xml;charset=utf-8",
+          "downloaded_at": "2026-09-28T08:34:12.828Z",
+          "original_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go",
+          "absolute_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go"
+        }
+      },
+      "activity_score": 46,
+      "popularity_score": 58,
+      "freshness_score": 100,
+      "overall_score": 63,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 12694,
+    "total_forks": 1161,
+    "average_stars": 1269,
+    "average_forks": 116,
+    "top_languages": [
+      {
+        "name": "TypeScript",
+        "count": 3
+      },
+      {
+        "name": "JavaScript",
+        "count": 2
+      },
+      {
+        "name": "Go",
+        "count": 2
+      },
+      {
+        "name": "Python",
+        "count": 1
+      },
+      {
+        "name": "Rust",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "claude-code",
+        "count": 3
+      },
+      {
+        "name": "codex",
+        "count": 3
+      },
+      {
+        "name": "developer-tools",
+        "count": 2
+      },
+      {
+        "name": "infrastructure",
+        "count": 2
+      },
+      {
+        "name": "ai-sdk",
+        "count": 1
+      },
+      {
+        "name": "cli",
+        "count": 1
+      },
+      {
+        "name": "code-search",
+        "count": 1
+      },
+      {
+        "name": "coding-agents",
+        "count": 1
+      },
+      {
+        "name": "context-retrieval",
+        "count": 1
+      },
+      {
+        "name": "jev",
+        "count": 1
+      }
+    ],
+    "score_distribution": {
+      "min": 63,
+      "max": 73,
+      "average": 69,
+      "median": 69
+    }
+  },
+  "generated_at": "2026-09-28T08:34:16.005Z"
+}

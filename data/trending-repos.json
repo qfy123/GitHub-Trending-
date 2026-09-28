@@ -1,404 +1,57 @@
 {
   "metadata": {
-    "report_title": "GitHub趋势排行榜 - 2026年第39周",
+    "report_title": "GitHub趋势排行榜 - 2026年第40周",
     "year": 2026,
-    "week": 39,
+    "week": 40,
     "week_range": {
-      "start": "2026-09-20",
-      "end": "2026-09-26"
+      "start": "2026-09-27",
+      "end": "2026-10-03"
     },
     "total_repositories": 10,
-    "generation_date": "2026-09-26 23:59:59",
-    "next_update": "2026-10-03"
+    "generation_date": "2026-10-03 23:59:59",
+    "next_update": "2026-10-10"
   },
   "repositories": [
     {
       "rank": 1,
-      "name": "jev-ultrafast",
-      "full_name": "browser-use/jev-ultrafast",
-      "owner": "browser-use",
-      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "stars": 13333,
-      "forks": 823,
-      "issues": 91,
-      "watchers": 13333,
-      "description": "i. am. speed.",
-      "homepage": "https://browser-use.com",
-      "clone_url": "https://github.com/browser-use/jev-ultrafast.git",
-      "ssh_url": "git@github.com:browser-use/jev-ultrafast.git",
-      "html_url": "https://github.com/browser-use/jev-ultrafast",
-      "language": "Python",
-      "primary_language": "Python",
-      "languages": {
-        "Python": 68448,
-        "HTML": 21865,
-        "JavaScript": 15717,
-        "CSS": 12312
-      },
-      "tech_stack": [
-        "Python",
-        "HTML",
-        "JavaScript",
-        "CSS"
-      ],
-      "topics": [],
-      "created_at": "2026-09-16T21:30:12Z",
-      "updated_at": "2026-09-21T07:51:59Z",
-      "pushed_at": "2026-09-18T16:28:35Z",
-      "ai_summary": {
-        "summary": "一个使用Python开发的开源项目：i. am. speed.，已获得13,333个star。",
-        "highlights": [
-          "13,333 stars",
-          "Python"
-        ],
-        "tech_summary": "Python",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_banner.svg",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jev-ultrafast/1_banner.svg",
-            "size": 1871,
-            "content_type": "image/svg+xml",
-            "downloaded_at": "2026-09-21T07:52:39.202Z",
-            "original_url": "docs/banner.svg",
-            "absolute_url": "https://raw.githubusercontent.com/browser-use/jev-ultrafast/main/docs/banner.svg"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jev-ultrafast",
-        "representative_image": {
-          "filename": "1_banner.svg",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jev-ultrafast/1_banner.svg",
-          "size": 1871,
-          "content_type": "image/svg+xml",
-          "downloaded_at": "2026-09-21T07:52:39.202Z",
-          "original_url": "docs/banner.svg",
-          "absolute_url": "https://raw.githubusercontent.com/browser-use/jev-ultrafast/main/docs/banner.svg"
-        }
-      },
-      "activity_score": 94,
-      "popularity_score": 83,
-      "freshness_score": 100,
-      "overall_score": 90,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 2,
-      "name": "laya",
-      "full_name": "NandhaKishorM/laya",
-      "owner": "NandhaKishorM",
-      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4",
-      "stars": 6023,
-      "forks": 522,
-      "issues": 29,
-      "watchers": 6023,
+      "name": "CLM",
+      "full_name": "Contrastive-LM/CLM",
+      "owner": "Contrastive-LM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4",
+      "stars": 2060,
+      "forks": 182,
+      "issues": 19,
+      "watchers": 2060,
       "description": "",
       "homepage": null,
-      "clone_url": "https://github.com/NandhaKishorM/laya.git",
-      "ssh_url": "git@github.com:NandhaKishorM/laya.git",
-      "html_url": "https://github.com/NandhaKishorM/laya",
+      "clone_url": "https://github.com/Contrastive-LM/CLM.git",
+      "ssh_url": "git@github.com:Contrastive-LM/CLM.git",
+      "html_url": "https://github.com/Contrastive-LM/CLM",
       "language": "Python",
       "primary_language": "Python",
       "languages": {
-        "Python": 184937,
-        "Jupyter Notebook": 85171
+        "Python": 132716,
+        "JavaScript": 36097,
+        "CSS": 22072,
+        "HTML": 11240,
+        "Shell": 1819
       },
       "tech_stack": [
         "Python",
-        "Jupyter Notebook"
-      ],
-      "topics": [],
-      "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-09-21T07:51:55Z",
-      "pushed_at": "2026-09-20T17:44:55Z",
-      "ai_summary": {
-        "summary": "一个热门的Python开源项目，在GitHub上获得了6,023个star，值得关注。",
-        "highlights": [
-          "6,023 stars",
-          "Python"
-        ],
-        "tech_summary": "Python",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_colab-badge.svg",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya/1_colab-badge.svg",
-            "size": 2369,
-            "content_type": "image/svg+xml",
-            "downloaded_at": "2026-09-21T07:52:40.307Z",
-            "original_url": "https://colab.research.google.com/assets/colab-badge.svg",
-            "absolute_url": "https://colab.research.google.com/assets/colab-badge.svg"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya",
-        "representative_image": {
-          "filename": "1_colab-badge.svg",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya/1_colab-badge.svg",
-          "size": 2369,
-          "content_type": "image/svg+xml",
-          "downloaded_at": "2026-09-21T07:52:40.307Z",
-          "original_url": "https://colab.research.google.com/assets/colab-badge.svg",
-          "absolute_url": "https://colab.research.google.com/assets/colab-badge.svg"
-        }
-      },
-      "activity_score": 78,
-      "popularity_score": 77,
-      "freshness_score": 100,
-      "overall_score": 82,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 3,
-      "name": "fast-jev-compaction",
-      "full_name": "tamaratran/fast-jev-compaction",
-      "owner": "tamaratran",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "stars": 5581,
-      "forks": 303,
-      "issues": 59,
-      "watchers": 5581,
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "homepage": "",
-      "clone_url": "https://github.com/tamaratran/fast-jev-compaction.git",
-      "ssh_url": "git@github.com:tamaratran/fast-jev-compaction.git",
-      "html_url": "https://github.com/tamaratran/fast-jev-compaction",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
-      "languages": {
-        "TypeScript": 64120
-      },
-      "tech_stack": [
-        "TypeScript"
-      ],
-      "topics": [],
-      "created_at": "2026-09-17T05:57:20Z",
-      "updated_at": "2026-09-21T07:50:46Z",
-      "pushed_at": "2026-09-18T04:45:31Z",
-      "ai_summary": {
-        "summary": "一个使用TypeScript开发的开源项目：Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.，已获得5,581个star。",
-        "highlights": [
-          "5,581 stars",
-          "TypeScript"
-        ],
-        "tech_summary": "TypeScript",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 0,
-        "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/fast-jev-compaction",
-        "representative_image": null
-      },
-      "activity_score": 83,
-      "popularity_score": 75,
-      "freshness_score": 100,
-      "overall_score": 82,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 4,
-      "name": "ZCode",
-      "full_name": "zai-org/ZCode",
-      "owner": "zai-org",
-      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4",
-      "stars": 4258,
-      "forks": 1139,
-      "issues": 11,
-      "watchers": 4258,
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "homepage": "https://zcode.z.ai/",
-      "clone_url": "https://github.com/zai-org/ZCode.git",
-      "ssh_url": "git@github.com:zai-org/ZCode.git",
-      "html_url": "https://github.com/zai-org/ZCode",
-      "language": "TypeScript",
-      "primary_language": "TypeScript",
-      "languages": {
-        "TypeScript": 33596474,
-        "JavaScript": 576678,
-        "CSS": 103551,
-        "C#": 64121,
-        "NSIS": 21608,
-        "HTML": 20763,
-        "Shell": 12108,
-        "CMake": 6215,
-        "Swift": 2976,
-        "Dockerfile": 773
-      },
-      "tech_stack": [
-        "TypeScript",
         "JavaScript",
         "CSS",
-        "C#",
-        "NSIS",
         "HTML",
         "Shell",
-        "CMake"
+        "AWS"
       ],
       "topics": [],
-      "created_at": "2026-09-20T12:01:16Z",
-      "updated_at": "2026-09-21T07:52:07Z",
-      "pushed_at": "2026-09-21T00:02:36Z",
+      "created_at": "2026-09-23T19:29:56Z",
+      "updated_at": "2026-09-28T08:31:09Z",
+      "pushed_at": "2026-09-24T23:10:28Z",
       "ai_summary": {
-        "summary": "一个使用TypeScript开发的开源项目：Z.ai's coding agent harness. Powerful, intelligent, extensible.，已获得4,258个star。",
+        "summary": "一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。",
         "highlights": [
-          "4,258 stars",
-          "TypeScript"
-        ],
-        "tech_summary": "TypeScript",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_1024x1024.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/zcode/1_1024x1024.png",
-            "size": 263521,
-            "content_type": "image/png",
-            "downloaded_at": "2026-09-21T07:52:42.324Z",
-            "original_url": "public/logo/icons/1024x1024.png",
-            "absolute_url": "https://raw.githubusercontent.com/zai-org/ZCode/main/public/logo/icons/1024x1024.png"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/zcode",
-        "representative_image": {
-          "filename": "1_1024x1024.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/zcode/1_1024x1024.png",
-          "size": 263521,
-          "content_type": "image/png",
-          "downloaded_at": "2026-09-21T07:52:42.324Z",
-          "original_url": "public/logo/icons/1024x1024.png",
-          "absolute_url": "https://raw.githubusercontent.com/zai-org/ZCode/main/public/logo/icons/1024x1024.png"
-        }
-      },
-      "activity_score": 77,
-      "popularity_score": 78,
-      "freshness_score": 100,
-      "overall_score": 82,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Compositor",
-      "full_name": "robbietilton/Compositor",
-      "owner": "robbietilton",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4",
-      "stars": 3924,
-      "forks": 420,
-      "issues": 40,
-      "watchers": 3924,
-      "description": "The Photoshop alternative for Mac",
-      "homepage": null,
-      "clone_url": "https://github.com/robbietilton/Compositor.git",
-      "ssh_url": "git@github.com:robbietilton/Compositor.git",
-      "html_url": "https://github.com/robbietilton/Compositor",
-      "language": "Swift",
-      "primary_language": "Swift",
-      "languages": {
-        "Swift": 1589043,
-        "C": 41731,
-        "Shell": 6596,
-        "Objective-C": 271
-      },
-      "tech_stack": [
-        "Swift",
-        "C",
-        "Shell",
-        "Objective-C"
-      ],
-      "topics": [],
-      "created_at": "2026-09-16T20:35:54Z",
-      "updated_at": "2026-09-21T07:50:25Z",
-      "pushed_at": "2026-09-21T05:34:18Z",
-      "ai_summary": {
-        "summary": "一个使用Swift开发的开源项目：The Photoshop alternative for Mac，已获得3,924个star。",
-        "highlights": [
-          "3,924 stars",
-          "Swift"
-        ],
-        "tech_summary": "Swift",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 0,
-        "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/compositor",
-        "representative_image": null
-      },
-      "activity_score": 82,
-      "popularity_score": 75,
-      "freshness_score": 100,
-      "overall_score": 82,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 6,
-      "name": "jianying-headless",
-      "full_name": "mcncarl/jianying-headless",
-      "owner": "mcncarl",
-      "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4",
-      "stars": 2176,
-      "forks": 1504,
-      "issues": 9,
-      "watchers": 2176,
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "homepage": null,
-      "clone_url": "https://github.com/mcncarl/jianying-headless.git",
-      "ssh_url": "git@github.com:mcncarl/jianying-headless.git",
-      "html_url": "https://github.com/mcncarl/jianying-headless",
-      "language": "Python",
-      "primary_language": "Python",
-      "languages": {
-        "Python": 437497,
-        "C++": 34647
-      },
-      "tech_stack": [
-        "Python",
-        "C++"
-      ],
-      "topics": [],
-      "created_at": "2026-09-15T11:51:15Z",
-      "updated_at": "2026-09-21T07:51:21Z",
-      "pushed_at": "2026-09-20T06:12:56Z",
-      "ai_summary": {
-        "summary": "一个使用Python开发的开源项目：Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.，已获得2,176个star。",
-        "highlights": [
-          "2,176 stars",
+          "2,060 stars",
           "Python"
         ],
         "tech_summary": "Python",
@@ -409,104 +62,28 @@
         "total_count": 1,
         "image_list": [
           {
-            "filename": "1_hypit-original-frames.png",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jianying-headless/1_hypit-original-frames.png",
-            "size": 947936,
+            "filename": "1_logo.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm/1_logo.png",
+            "size": 233432,
             "content_type": "image/png",
-            "downloaded_at": "2026-09-21T07:52:45.479Z",
-            "original_url": "docs/media/hypit-original-frames.png",
-            "absolute_url": "https://raw.githubusercontent.com/mcncarl/jianying-headless/main/docs/media/hypit-original-frames.png"
+            "downloaded_at": "2026-09-28T08:34:06.652Z",
+            "original_url": "assets/logo.png",
+            "absolute_url": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png"
           }
         ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jianying-headless",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm",
         "representative_image": {
-          "filename": "1_hypit-original-frames.png",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jianying-headless/1_hypit-original-frames.png",
-          "size": 947936,
+          "filename": "1_logo.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/clm/1_logo.png",
+          "size": 233432,
           "content_type": "image/png",
-          "downloaded_at": "2026-09-21T07:52:45.479Z",
-          "original_url": "docs/media/hypit-original-frames.png",
-          "absolute_url": "https://raw.githubusercontent.com/mcncarl/jianying-headless/main/docs/media/hypit-original-frames.png"
+          "downloaded_at": "2026-09-28T08:34:06.652Z",
+          "original_url": "assets/logo.png",
+          "absolute_url": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png"
         }
       },
-      "activity_score": 74,
-      "popularity_score": 75,
-      "freshness_score": 100,
-      "overall_score": 80,
-      "trend": {
-        "status": "new",
-        "star_change": 0,
-        "rank_change": 0,
-        "is_new": true
-      }
-    },
-    {
-      "rank": 7,
-      "name": "SemIf",
-      "full_name": "TheoLeeCJ/SemIf",
-      "owner": "TheoLeeCJ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4",
-      "stars": 2656,
-      "forks": 162,
-      "issues": 16,
-      "watchers": 2656,
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "homepage": "openjev.com",
-      "clone_url": "https://github.com/TheoLeeCJ/SemIf.git",
-      "ssh_url": "git@github.com:TheoLeeCJ/SemIf.git",
-      "html_url": "https://github.com/TheoLeeCJ/SemIf",
-      "language": "Python",
-      "primary_language": "Python",
-      "languages": {
-        "Python": 164582,
-        "JavaScript": 23466,
-        "HTML": 11505
-      },
-      "tech_stack": [
-        "Python",
-        "JavaScript",
-        "HTML"
-      ],
-      "topics": [],
-      "created_at": "2026-09-16T03:51:21Z",
-      "updated_at": "2026-09-21T07:52:02Z",
-      "pushed_at": "2026-09-19T04:46:36Z",
-      "ai_summary": {
-        "summary": "一个使用Python开发的开源项目：Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.，已获得2,656个star。",
-        "highlights": [
-          "2,656 stars",
-          "Python"
-        ],
-        "tech_summary": "Python",
-        "use_case": "开发工具",
-        "source": "fallback"
-      },
-      "images": {
-        "total_count": 1,
-        "image_list": [
-          {
-            "filename": "1_semif-phase1-replay.gif",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/semif/1_semif-phase1-replay.gif",
-            "size": 538164,
-            "content_type": "image/gif",
-            "downloaded_at": "2026-09-21T07:52:44.338Z",
-            "original_url": "demo/assets/semif-phase1-replay.gif",
-            "absolute_url": "https://raw.githubusercontent.com/TheoLeeCJ/SemIf/master/demo/assets/semif-phase1-replay.gif"
-          }
-        ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/semif",
-        "representative_image": {
-          "filename": "1_semif-phase1-replay.gif",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/semif/1_semif-phase1-replay.gif",
-          "size": 538164,
-          "content_type": "image/gif",
-          "downloaded_at": "2026-09-21T07:52:44.338Z",
-          "original_url": "demo/assets/semif-phase1-replay.gif",
-          "absolute_url": "https://raw.githubusercontent.com/TheoLeeCJ/SemIf/master/demo/assets/semif-phase1-replay.gif"
-        }
-      },
-      "activity_score": 61,
-      "popularity_score": 70,
+      "activity_score": 62,
+      "popularity_score": 69,
       "freshness_score": 100,
       "overall_score": 73,
       "trend": {
@@ -517,40 +94,181 @@
       }
     },
     {
-      "rank": 8,
-      "name": "jev-trader",
-      "full_name": "jarrodwatts/jev-trader",
-      "owner": "jarrodwatts",
-      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4",
-      "stars": 1641,
-      "forks": 308,
-      "issues": 4,
-      "watchers": 1641,
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "rank": 2,
+      "name": "disktree",
+      "full_name": "tobi/disktree",
+      "owner": "tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4",
+      "stars": 1711,
+      "forks": 111,
+      "issues": 12,
+      "watchers": 1711,
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
       "homepage": null,
-      "clone_url": "https://github.com/jarrodwatts/jev-trader.git",
-      "ssh_url": "git@github.com:jarrodwatts/jev-trader.git",
-      "html_url": "https://github.com/jarrodwatts/jev-trader",
+      "clone_url": "https://github.com/tobi/disktree.git",
+      "ssh_url": "git@github.com:tobi/disktree.git",
+      "html_url": "https://github.com/tobi/disktree",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 768418,
+        "Makefile": 3908,
+        "Shell": 2145
+      },
+      "tech_stack": [
+        "Rust",
+        "Makefile",
+        "Shell",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-09-24T20:56:29Z",
+      "updated_at": "2026-09-28T08:31:26Z",
+      "pushed_at": "2026-09-27T02:04:35Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.，已获得1,711个star。",
+        "highlights": [
+          "1,711 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_screenshot.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree/1_screenshot.png",
+            "size": 868381,
+            "content_type": "image/png",
+            "downloaded_at": "2026-09-28T08:34:07.737Z",
+            "original_url": "assets/screenshot.png",
+            "absolute_url": "https://raw.githubusercontent.com/tobi/disktree/main/assets/screenshot.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree",
+        "representative_image": {
+          "filename": "1_screenshot.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/disktree/1_screenshot.png",
+          "size": 868381,
+          "content_type": "image/png",
+          "downloaded_at": "2026-09-28T08:34:07.737Z",
+          "original_url": "assets/screenshot.png",
+          "absolute_url": "https://raw.githubusercontent.com/tobi/disktree/main/assets/screenshot.png"
+        }
+      },
+      "activity_score": 58,
+      "popularity_score": 66,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "JIZURA",
+      "full_name": "852wa/JIZURA",
+      "owner": "852wa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137879019?v=4",
+      "stars": 879,
+      "forks": 133,
+      "issues": 20,
+      "watchers": 879,
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "homepage": "https://852wa.github.io/JIZURA/",
+      "clone_url": "https://github.com/852wa/JIZURA.git",
+      "ssh_url": "git@github.com:852wa/JIZURA.git",
+      "html_url": "https://github.com/852wa/JIZURA",
+      "language": "HTML",
+      "primary_language": "HTML",
+      "languages": {
+        "HTML": 16592799,
+        "JavaScript": 11342799,
+        "Python": 376703,
+        "CSS": 31690
+      },
+      "tech_stack": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "CSS",
+        "Node.js",
+        "Express"
+      ],
+      "topics": [],
+      "created_at": "2026-09-23T04:04:13Z",
+      "updated_at": "2026-09-28T08:29:10Z",
+      "pushed_at": "2026-09-26T21:02:05Z",
+      "ai_summary": {
+        "summary": "一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。",
+        "highlights": [
+          "879 stars",
+          "HTML"
+        ],
+        "tech_summary": "HTML",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jizura",
+        "representative_image": null
+      },
+      "activity_score": 64,
+      "popularity_score": 62,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "pdoom-video",
+      "full_name": "mexicat/pdoom-video",
+      "owner": "mexicat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "stars": 1455,
+      "forks": 145,
+      "issues": 1,
+      "watchers": 1455,
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "homepage": null,
+      "clone_url": "https://github.com/mexicat/pdoom-video.git",
+      "ssh_url": "git@github.com:mexicat/pdoom-video.git",
+      "html_url": "https://github.com/mexicat/pdoom-video",
       "language": "TypeScript",
       "primary_language": "TypeScript",
       "languages": {
-        "TypeScript": 131629,
-        "CSS": 17935,
-        "Dockerfile": 194
+        "TypeScript": 1108214,
+        "Python": 65116,
+        "JavaScript": 2160,
+        "HTML": 1907
       },
       "tech_stack": [
         "TypeScript",
-        "CSS",
-        "Dockerfile"
+        "Python",
+        "JavaScript",
+        "HTML"
       ],
       "topics": [],
-      "created_at": "2026-09-16T21:36:20Z",
-      "updated_at": "2026-09-21T07:51:51Z",
-      "pushed_at": "2026-09-17T02:48:22Z",
+      "created_at": "2026-09-24T21:33:53Z",
+      "updated_at": "2026-09-28T08:32:29Z",
+      "pushed_at": "2026-09-28T06:53:29Z",
       "ai_summary": {
-        "summary": "一个使用TypeScript开发的开源项目：One AI trade decision every Monad block. Jev on Kuru MON-USDC.，已获得1,641个star。",
+        "summary": "一个使用TypeScript开发的开源项目：Code-rendered music video for \"I'm Upping My P(doom)\"，已获得1,455个star。",
         "highlights": [
-          "1,641 stars",
+          "1,455 stars",
           "TypeScript"
         ],
         "tech_summary": "TypeScript",
@@ -560,13 +278,319 @@
       "images": {
         "total_count": 0,
         "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/jev-trader",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/pdoom-video",
         "representative_image": null
       },
-      "activity_score": 55,
-      "popularity_score": 69,
+      "activity_score": 54,
+      "popularity_score": 66,
       "freshness_score": 100,
-      "overall_score": 71,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "jevgrep",
+      "full_name": "dzhng/jevgrep",
+      "owner": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "stars": 967,
+      "forks": 57,
+      "issues": 19,
+      "watchers": 967,
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "homepage": "",
+      "clone_url": "https://github.com/dzhng/jevgrep.git",
+      "ssh_url": "git@github.com:dzhng/jevgrep.git",
+      "html_url": "https://github.com/dzhng/jevgrep",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 533466,
+        "JavaScript": 165717,
+        "Python": 126175,
+        "Shell": 4153,
+        "Dockerfile": 3350
+      },
+      "tech_stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Shell",
+        "Dockerfile",
+        "ai-sdk",
+        "claude-code",
+        "cli"
+      ],
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "updated_at": "2026-09-28T08:30:55Z",
+      "pushed_at": "2026-09-28T07:45:24Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.，已获得967个star。",
+        "highlights": [
+          "967 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_cover.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep/1_cover.png",
+            "size": 1329893,
+            "content_type": "image/png",
+            "downloaded_at": "2026-09-28T08:34:13.883Z",
+            "original_url": "assets/cover.png",
+            "absolute_url": "https://raw.githubusercontent.com/dzhng/jevgrep/main/assets/cover.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep",
+        "representative_image": {
+          "filename": "1_cover.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/jevgrep/1_cover.png",
+          "size": 1329893,
+          "content_type": "image/png",
+          "downloaded_at": "2026-09-28T08:34:13.883Z",
+          "original_url": "assets/cover.png",
+          "absolute_url": "https://raw.githubusercontent.com/dzhng/jevgrep/main/assets/cover.png"
+        }
+      },
+      "activity_score": 63,
+      "popularity_score": 60,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "tidewater",
+      "full_name": "dgreenheck/tidewater",
+      "owner": "dgreenheck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3814912?v=4",
+      "stars": 864,
+      "forks": 203,
+      "issues": 12,
+      "watchers": 864,
+      "description": "Coastal town built with Opus 5.5",
+      "homepage": "https://dgreenheck.github.io/tidewater/",
+      "clone_url": "https://github.com/dgreenheck/tidewater.git",
+      "ssh_url": "git@github.com:dgreenheck/tidewater.git",
+      "html_url": "https://github.com/dgreenheck/tidewater",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 3392239,
+        "CSS": 60577,
+        "HTML": 9730,
+        "Python": 8955,
+        "Shell": 2899
+      },
+      "tech_stack": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Python",
+        "Shell"
+      ],
+      "topics": [],
+      "created_at": "2026-09-23T21:40:29Z",
+      "updated_at": "2026-09-28T08:26:14Z",
+      "pushed_at": "2026-09-25T04:02:40Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获得864个star。",
+        "highlights": [
+          "864 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_screenshot.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater/1_screenshot.jpg",
+            "size": 245947,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2026-09-28T08:34:15.992Z",
+            "original_url": "docs/screenshot.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/dgreenheck/tidewater/main/docs/screenshot.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater",
+        "representative_image": {
+          "filename": "1_screenshot.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/tidewater/1_screenshot.jpg",
+          "size": 245947,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-09-28T08:34:15.992Z",
+          "original_url": "docs/screenshot.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/dgreenheck/tidewater/main/docs/screenshot.jpg"
+        }
+      },
+      "activity_score": 58,
+      "popularity_score": 63,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "magpie",
+      "full_name": "yetone/magpie",
+      "owner": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "stars": 1416,
+      "forks": 86,
+      "issues": 1,
+      "watchers": 1416,
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "homepage": "https://usemagpie.ai",
+      "clone_url": "https://github.com/yetone/magpie.git",
+      "ssh_url": "git@github.com:yetone/magpie.git",
+      "html_url": "https://github.com/yetone/magpie",
+      "language": "Go",
+      "primary_language": "Go",
+      "languages": {
+        "Go": 3043955,
+        "JavaScript": 571867,
+        "HTML": 286071,
+        "CSS": 160598,
+        "Shell": 6128,
+        "Makefile": 5337
+      },
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Shell",
+        "Makefile",
+        "claude-code",
+        "codex"
+      ],
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-28T08:33:17Z",
+      "pushed_at": "2026-09-28T08:32:26Z",
+      "ai_summary": {
+        "summary": "一个使用Go开发的开源项目：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.，已获得1,416个star。",
+        "highlights": [
+          "1,416 stars",
+          "Go"
+        ],
+        "tech_summary": "Go",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/magpie",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 64,
+      "freshness_score": 100,
+      "overall_score": 68,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "PDoomVideo",
+      "full_name": "JohnHeibel/PDoomVideo",
+      "owner": "JohnHeibel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "stars": 1318,
+      "forks": 143,
+      "issues": 2,
+      "watchers": 1318,
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "homepage": null,
+      "clone_url": "https://github.com/JohnHeibel/PDoomVideo.git",
+      "ssh_url": "git@github.com:JohnHeibel/PDoomVideo.git",
+      "html_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 579359,
+        "HTML": 94228
+      },
+      "tech_stack": [
+        "JavaScript",
+        "HTML",
+        "Node.js"
+      ],
+      "topics": [],
+      "created_at": "2026-09-22T23:32:19Z",
+      "updated_at": "2026-09-28T08:29:48Z",
+      "pushed_at": "2026-09-25T15:11:03Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)，已获得1,318个star。",
+        "highlights": [
+          "1,318 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/pdoomvideo",
+        "representative_image": null
+      },
+      "activity_score": 52,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 68,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -576,57 +600,81 @@
     },
     {
       "rank": 9,
-      "name": "NanoJev",
-      "full_name": "TianyuCodings/NanoJev",
-      "owner": "TianyuCodings",
-      "avatar_url": "https://avatars.githubusercontent.com/u/48460209?v=4",
-      "stars": 1614,
-      "forks": 185,
-      "issues": 6,
-      "watchers": 1614,
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "homepage": null,
-      "clone_url": "https://github.com/TianyuCodings/NanoJev.git",
-      "ssh_url": "git@github.com:TianyuCodings/NanoJev.git",
-      "html_url": "https://github.com/TianyuCodings/NanoJev",
-      "language": "Python",
-      "primary_language": "Python",
+      "name": "golive-skill",
+      "full_name": "mikehasa/golive-skill",
+      "owner": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "stars": 1024,
+      "forks": 75,
+      "issues": 1,
+      "watchers": 1024,
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "homepage": "https://trytofu.ai",
+      "clone_url": "https://github.com/mikehasa/golive-skill.git",
+      "ssh_url": "git@github.com:mikehasa/golive-skill.git",
+      "html_url": "https://github.com/mikehasa/golive-skill",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
       "languages": {
-        "Python": 1997266,
-        "JavaScript": 351062,
-        "HTML": 42894,
-        "CSS": 6170
+        "TypeScript": 2463638,
+        "JavaScript": 1163704,
+        "Shell": 189
       },
       "tech_stack": [
-        "Python",
+        "TypeScript",
         "JavaScript",
-        "HTML",
-        "CSS"
+        "Shell",
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare"
       ],
-      "topics": [],
-      "created_at": "2026-09-17T16:08:30Z",
-      "updated_at": "2026-09-21T07:51:35Z",
-      "pushed_at": "2026-09-20T11:13:01Z",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "created_at": "2026-09-23T13:37:26Z",
+      "updated_at": "2026-09-28T08:13:41Z",
+      "pushed_at": "2026-09-27T05:07:13Z",
       "ai_summary": {
-        "summary": "一个使用Python开发的开源项目：A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.，已获得1,614个star。",
+        "summary": "一个使用TypeScript开发的开源项目：Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.，已获得1,024个star。",
         "highlights": [
-          "1,614 stars",
-          "Python"
+          "1,024 stars",
+          "TypeScript"
         ],
-        "tech_summary": "Python",
+        "tech_summary": "TypeScript",
         "use_case": "开发工具",
         "source": "fallback"
       },
       "images": {
         "total_count": 0,
         "image_list": [],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/nanojev",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/golive-skill",
         "representative_image": null
       },
-      "activity_score": 57,
-      "popularity_score": 67,
+      "activity_score": 51,
+      "popularity_score": 61,
       "freshness_score": 100,
-      "overall_score": 71,
+      "overall_score": 66,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -636,56 +684,56 @@
     },
     {
       "rank": 10,
-      "name": "laya-mlx",
-      "full_name": "mizorewww/laya-mlx",
-      "owner": "mizorewww",
-      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "stars": 2144,
-      "forks": 112,
-      "issues": 4,
-      "watchers": 2144,
-      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "homepage": "https://pypi.org/project/laya-mlx/",
-      "clone_url": "https://github.com/mizorewww/laya-mlx.git",
-      "ssh_url": "git@github.com:mizorewww/laya-mlx.git",
-      "html_url": "https://github.com/mizorewww/laya-mlx",
-      "language": "Python",
-      "primary_language": "Python",
+      "name": "kryvora-node",
+      "full_name": "kryvora-network/kryvora-node",
+      "owner": "kryvora-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332587460?v=4",
+      "stars": 1000,
+      "forks": 26,
+      "issues": 0,
+      "watchers": 1000,
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "homepage": null,
+      "clone_url": "https://github.com/kryvora-network/kryvora-node.git",
+      "ssh_url": "git@github.com:kryvora-network/kryvora-node.git",
+      "html_url": "https://github.com/kryvora-network/kryvora-node",
+      "language": "Go",
+      "primary_language": "Go",
       "languages": {
-        "Python": 247473
+        "Go": 17837,
+        "Shell": 2557,
+        "Dockerfile": 529,
+        "Makefile": 249
       },
       "tech_stack": [
-        "Python",
-        "apple-silicon",
-        "decision-model",
-        "inference",
-        "laya",
-        "local-ai",
-        "machine-learning",
-        "mlx"
+        "Go",
+        "Shell",
+        "Dockerfile",
+        "Makefile",
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure"
       ],
       "topics": [
-        "apple-silicon",
-        "decision-model",
-        "inference",
-        "laya",
-        "local-ai",
-        "machine-learning",
-        "mlx",
-        "modernbert",
-        "system-one",
-        "typed-decisions"
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure",
+        "node-runner",
+        "telemetry",
+        "worker-daemon"
       ],
-      "created_at": "2026-09-19T13:50:26Z",
-      "updated_at": "2026-09-21T07:51:57Z",
-      "pushed_at": "2026-09-19T16:32:30Z",
+      "created_at": "2026-09-22T16:10:23Z",
+      "updated_at": "2026-09-28T08:28:54Z",
+      "pushed_at": "2026-09-22T19:02:39Z",
       "ai_summary": {
-        "summary": "一个使用Python开发的开源项目：Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.，已获得2,144个star。",
+        "summary": "一个使用Go开发的开源项目：Reference client daemon and verification worker for Kryvora Network nodes.，已获得1,000个star。",
         "highlights": [
-          "2,144 stars",
-          "Python"
+          "1,000 stars",
+          "Go"
         ],
-        "tech_summary": "Python",
+        "tech_summary": "Go",
         "use_case": "开发工具",
         "source": "fallback"
       },
@@ -693,30 +741,30 @@
         "total_count": 1,
         "image_list": [
           {
-            "filename": "1_snake-demo.gif",
-            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya-mlx/1_snake-demo.gif",
-            "size": 1788018,
-            "content_type": "image/gif",
-            "downloaded_at": "2026-09-21T07:52:46.646Z",
-            "original_url": "https://raw.githubusercontent.com/mizorewww/laya-mlx/main/docs/assets/snake-demo.gif",
-            "absolute_url": "https://raw.githubusercontent.com/mizorewww/laya-mlx/main/docs/assets/snake-demo.gif"
+            "filename": "1_go-%3e%3d%201.22-30363d.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg",
+            "size": 2840,
+            "content_type": "image/svg+xml;charset=utf-8",
+            "downloaded_at": "2026-09-28T08:34:12.828Z",
+            "original_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go",
+            "absolute_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go"
           }
         ],
-        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya-mlx",
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node",
         "representative_image": {
-          "filename": "1_snake-demo.gif",
-          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-39/laya-mlx/1_snake-demo.gif",
-          "size": 1788018,
-          "content_type": "image/gif",
-          "downloaded_at": "2026-09-21T07:52:46.646Z",
-          "original_url": "https://raw.githubusercontent.com/mizorewww/laya-mlx/main/docs/assets/snake-demo.gif",
-          "absolute_url": "https://raw.githubusercontent.com/mizorewww/laya-mlx/main/docs/assets/snake-demo.gif"
+          "filename": "1_go-%3e%3d%201.22-30363d.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg",
+          "size": 2840,
+          "content_type": "image/svg+xml;charset=utf-8",
+          "downloaded_at": "2026-09-28T08:34:12.828Z",
+          "original_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go",
+          "absolute_url": "https://img.shields.io/badge/go-%3E%3D%201.22-30363d.svg?style=flat-square&logo=go"
         }
       },
-      "activity_score": 54,
-      "popularity_score": 68,
+      "activity_score": 46,
+      "popularity_score": 58,
       "freshness_score": 100,
-      "overall_score": 70,
+      "overall_score": 63,
       "trend": {
         "status": "new",
         "star_change": 0,
@@ -726,72 +774,80 @@
     }
   ],
   "statistics": {
-    "total_stars": 43350,
-    "total_forks": 5478,
-    "average_stars": 4335,
-    "average_forks": 548,
+    "total_stars": 12694,
+    "total_forks": 1161,
+    "average_stars": 1269,
+    "average_forks": 116,
     "top_languages": [
-      {
-        "name": "Python",
-        "count": 6
-      },
       {
         "name": "TypeScript",
         "count": 3
       },
       {
-        "name": "Swift",
+        "name": "JavaScript",
+        "count": 2
+      },
+      {
+        "name": "Go",
+        "count": 2
+      },
+      {
+        "name": "Python",
+        "count": 1
+      },
+      {
+        "name": "Rust",
         "count": 1
       }
     ],
     "top_topics": [
       {
-        "name": "apple-silicon",
+        "name": "claude-code",
+        "count": 3
+      },
+      {
+        "name": "codex",
+        "count": 3
+      },
+      {
+        "name": "developer-tools",
+        "count": 2
+      },
+      {
+        "name": "infrastructure",
+        "count": 2
+      },
+      {
+        "name": "ai-sdk",
         "count": 1
       },
       {
-        "name": "decision-model",
+        "name": "cli",
         "count": 1
       },
       {
-        "name": "inference",
+        "name": "code-search",
         "count": 1
       },
       {
-        "name": "laya",
+        "name": "coding-agents",
         "count": 1
       },
       {
-        "name": "local-ai",
+        "name": "context-retrieval",
         "count": 1
       },
       {
-        "name": "machine-learning",
-        "count": 1
-      },
-      {
-        "name": "mlx",
-        "count": 1
-      },
-      {
-        "name": "modernbert",
-        "count": 1
-      },
-      {
-        "name": "system-one",
-        "count": 1
-      },
-      {
-        "name": "typed-decisions",
+        "name": "jev",
         "count": 1
       }
     ],
     "score_distribution": {
-      "min": 70,
-      "max": 90,
-      "average": 78,
-      "median": 81
+      "min": 63,
+      "max": 73,
+      "average": 69,
+      "median": 69
     }
   },
-  "generated_at": "2026-09-21T07:52:48.777Z"
+  "generated_at": "2026-09-28T08:34:16.005Z"
 }
