@@ -18,218 +18,220 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第40周
+### GitHub趋势排行榜 - 2026年第41周
 
-**📅 统计周期**: 2026-09-27 ~ 2026-10-03  
+**📅 统计周期**: 2026-10-04 ~ 2026-10-10  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 12,694  
-**🔄 更新时间**: 2026-10-03 23:59:59  
+**⭐ 总Star数**: 18,258  
+**🔄 更新时间**: 2026-10-10 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [CLM](https://github.com/Contrastive-LM/CLM) | 一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。 | 2,060 | 182 | Python | 🆕 |
-| 2 | [disktree](https://github.com/tobi/disktree) | 一个使用Rust开发的开源项目：A treemap for finding and removing what f... | 1,711 | 111 | Rust | 🆕 |
-| 3 | [JIZURA](https://github.com/852wa/JIZURA) | 一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。 | 879 | 133 | HTML | 🆕 |
-| 4 | [pdoom-video](https://github.com/mexicat/pdoom-video) | 一个使用TypeScript开发的开源项目：Code-rendered music video for "I'm ... | 1,455 | 145 | TypeScript | 🆕 |
-| 5 | [jevgrep](https://github.com/dzhng/jevgrep) | 一个使用TypeScript开发的开源项目：Find code by asking what it does. A... | 967 | 57 | TypeScript | 🆕 |
-| 6 | [tidewater](https://github.com/dgreenheck/tidewater) | 一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获... | 864 | 203 | JavaScript | 🆕 |
-| 7 | [magpie](https://github.com/yetone/magpie) | 一个使用Go开发的开源项目：Every agent's model. One place. Codex on De... | 1,416 | 86 | Go | 🆕 |
-| 8 | [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5... | 1,318 | 143 | JavaScript | 🆕 |
-| 9 | [golive-skill](https://github.com/mikehasa/golive-skill) | 一个使用TypeScript开发的开源项目：Take your agent-built product live:... | 1,024 | 75 | TypeScript | 🆕 |
-| 10 | [kryvora-node](https://github.com/kryvora-network/kryvora-node) | 一个使用Go开发的开源项目：Reference client daemon and verification wo... | 1,000 | 26 | Go | 🆕 |
+| 1 | [OpenDots](https://github.com/CopilotKit/OpenDots) | 一个使用TypeScript开发的开源项目：Your always-on AI coworkers that mo... | 3,337 | 444 | TypeScript | 🆕 |
+| 2 | [muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 一个使用C开发的开源项目：Open source SDK to build Muse gadgets，已获得1,2... | 1,299 | 241 | C | 🆕 |
+| 3 | [universal-modder](https://github.com/rehan-remade/universal-modder) | 一个使用Python开发的开源项目：Point Claude at any game. Skills, tools... | 3,436 | 297 | Python | 🆕 |
+| 4 | [photocraft](https://github.com/storytold/photocraft) | 一个热门的Rust开源项目，在GitHub上获得了1,216个star，值得关注。 | 1,216 | 122 | Rust | 🆕 |
+| 5 | [dots](https://github.com/feder-cr/dots) | 一个使用Python开发的开源项目：Open-source dots for the web: an AI age... | 2,609 | 437 | Python | 🆕 |
+| 6 | [floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 一个热门的HTML开源项目，在GitHub上获得了1,411个star，值得关注。 | 1,411 | 291 | HTML | 🆕 |
+| 7 | [sales-crm](https://github.com/kargulstudio/sales-crm) | 一个热门的TypeScript开源项目，在GitHub上获得了1,121个star，值得关注。 | 1,121 | 224 | TypeScript | 🆕 |
+| 8 | [yomiyasu](https://github.com/nanaism/yomiyasu) | 一个使用Python开发的开源项目：AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent... | 1,448 | 33 | Python | 🆕 |
+| 9 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 一个使用JavaScript开发的开源项目：Answer me with HTML — an agent skil... | 1,210 | 82 | JavaScript | 🆕 |
+| 10 | [vibe-wise](https://github.com/nykooi1/vibe-wise) | 一个使用Python开发的开源项目：A Claude Code plugin that helps you lea... | 1,171 | 60 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [CLM](https://github.com/Contrastive-LM/CLM) ![Star](https://img.shields.io/github/stars/Contrastive-LM/CLM?style=social)
+#### 1. [OpenDots](https://github.com/CopilotKit/OpenDots) ![Star](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social)
 
-<img src="./images/2026/week-40/clm/1_logo.png" alt="CLM" width="500"/>
+<img src="./images/2026/week-41/opendots/1_badge.svg" alt="OpenDots" width="500"/>
 
-**📝 项目简介**: 一个热门的Python开源项目，在GitHub上获得了2,060个star，值得关注。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Your always-on AI coworkers that move between text, calls, and Slack.，已获得3,337个star。
 
 **✨ 核心特性**:
-- 2,060 stars
+- 3,337 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,337
+- **🔀 Fork数**: 444
+- **👀 Watch数**: 3,337
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://www.copilotkit.ai/opendots](https://www.copilotkit.ai/opendots)
+- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, HTML, React
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 2. [muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) ![Star](https://img.shields.io/github/stars/facebookincubator/muse-gadget-sdk?style=social)
+
+<img src="./images/2026/week-41/muse-gadget-sdk/1_muse-gadgets-light.png" alt="muse-gadget-sdk" width="500"/>
+
+**📝 项目简介**: 一个使用C开发的开源项目：Open source SDK to build Muse gadgets，已获得1,299个star。
+
+**✨ 核心特性**:
+- 1,299 stars
+- C
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,299
+- **🔀 Fork数**: 241
+- **👀 Watch数**: 1,299
+- **📝 语言**: C
+- **🌐 官网**: [gadgets.muse.ai](gadgets.muse.ai)
+- **💻 技术栈**: C, Python, C++, Shell, CMake, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [universal-modder](https://github.com/rehan-remade/universal-modder) ![Star](https://img.shields.io/github/stars/rehan-remade/universal-modder?style=social)
+
+<img src="./images/2026/week-41/universal-modder/1_banner.png" alt="universal-modder" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.，已获得3,436个star。
+
+**✨ 核心特性**:
+- 3,436 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,060
-- **🔀 Fork数**: 182
-- **👀 Watch数**: 2,060
+- **⭐ Star数**: 3,436
+- **🔀 Fork数**: 297
+- **👀 Watch数**: 3,436
 - **📝 语言**: Python
-- **💻 技术栈**: Python, JavaScript, CSS, HTML, Shell, AWS
+- **💻 技术栈**: Python, PowerShell, Shell, age-of-empires, claude-code, claude-code-plugin
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [disktree](https://github.com/tobi/disktree) ![Star](https://img.shields.io/github/stars/tobi/disktree?style=social)
+#### 4. [photocraft](https://github.com/storytold/photocraft) ![Star](https://img.shields.io/github/stars/storytold/photocraft?style=social)
 
-<img src="./images/2026/week-40/disktree/1_screenshot.png" alt="disktree" width="500"/>
+<img src="./images/2026/week-41/photocraft/1_artcraft-logo.svg" alt="photocraft" width="500"/>
 
-**📝 项目简介**: 一个使用Rust开发的开源项目：A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.，已获得1,711个star。
+**📝 项目简介**: 一个热门的Rust开源项目，在GitHub上获得了1,216个star，值得关注。
 
 **✨ 核心特性**:
-- 1,711 stars
+- 1,216 stars
 - Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,711
-- **🔀 Fork数**: 111
-- **👀 Watch数**: 1,711
+- **⭐ Star数**: 1,216
+- **🔀 Fork数**: 122
+- **👀 Watch数**: 1,216
 - **📝 语言**: Rust
-- **💻 技术栈**: Rust, Makefile, Shell, AWS
+- **💻 技术栈**: Rust, WGSL, Shell, PowerShell, HTML, Angular
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [JIZURA](https://github.com/852wa/JIZURA) ![Star](https://img.shields.io/github/stars/852wa/JIZURA?style=social)
+#### 5. [dots](https://github.com/feder-cr/dots) ![Star](https://img.shields.io/github/stars/feder-cr/dots?style=social)
 
-**📝 项目简介**: 一个使用HTML开发的开源项目：歌詞から文字PVを自動で組み立てるブラウザアプリ，已获得879个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.，已获得2,609个star。
 
 **✨ 核心特性**:
-- 879 stars
+- 2,609 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,609
+- **🔀 Fork数**: 437
+- **👀 Watch数**: 2,609
+- **📝 语言**: Python
+- **💻 技术栈**: Python, Shell, ai-agent, ai-agents, ai-browser, anti-detect-browser
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [floorplan-3d](https://github.com/wy51ai/floorplan-3d) ![Star](https://img.shields.io/github/stars/wy51ai/floorplan-3d?style=social)
+
+**📝 项目简介**: 一个热门的HTML开源项目，在GitHub上获得了1,411个star，值得关注。
+
+**✨ 核心特性**:
+- 1,411 stars
 - HTML
 
 **📊 项目统计**:
-- **⭐ Star数**: 879
-- **🔀 Fork数**: 133
-- **👀 Watch数**: 879
+- **⭐ Star数**: 1,411
+- **🔀 Fork数**: 291
+- **👀 Watch数**: 1,411
 - **📝 语言**: HTML
-- **🌐 官网**: [https://852wa.github.io/JIZURA/](https://852wa.github.io/JIZURA/)
-- **💻 技术栈**: HTML, JavaScript, Python, CSS, Node.js, Express
+- **💻 技术栈**: HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [pdoom-video](https://github.com/mexicat/pdoom-video) ![Star](https://img.shields.io/github/stars/mexicat/pdoom-video?style=social)
+#### 7. [sales-crm](https://github.com/kargulstudio/sales-crm) ![Star](https://img.shields.io/github/stars/kargulstudio/sales-crm?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Code-rendered music video for "I'm Upping My P(doom)"，已获得1,455个star。
+**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了1,121个star，值得关注。
 
 **✨ 核心特性**:
-- 1,455 stars
+- 1,121 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,455
-- **🔀 Fork数**: 145
-- **👀 Watch数**: 1,455
+- **⭐ Star数**: 1,121
+- **🔀 Fork数**: 224
+- **👀 Watch数**: 1,121
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, Python, JavaScript, HTML
+- **💻 技术栈**: TypeScript, JavaScript, CSS, Shell, HTML, React
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [jevgrep](https://github.com/dzhng/jevgrep) ![Star](https://img.shields.io/github/stars/dzhng/jevgrep?style=social)
+#### 8. [yomiyasu](https://github.com/nanaism/yomiyasu) ![Star](https://img.shields.io/github/stars/nanaism/yomiyasu?style=social)
 
-<img src="./images/2026/week-40/jevgrep/1_cover.png" alt="jevgrep" width="500"/>
+<img src="./images/2026/week-41/yomiyasu/1_license-mit-blue.svg" alt="yomiyasu" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.，已获得967个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese，已获得1,448个star。
 
 **✨ 核心特性**:
-- 967 stars
-- TypeScript
+- 1,448 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 967
-- **🔀 Fork数**: 57
-- **👀 Watch数**: 967
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, Python, Shell, Dockerfile, ai-sdk
+- **⭐ Star数**: 1,448
+- **🔀 Fork数**: 33
+- **👀 Watch数**: 1,448
+- **📝 语言**: Python
+- **💻 技术栈**: Python, agent-skills, ai-writing, antigravity, claude-code, codex
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [tidewater](https://github.com/dgreenheck/tidewater) ![Star](https://img.shields.io/github/stars/dgreenheck/tidewater?style=social)
+#### 9. [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) ![Star](https://img.shields.io/github/stars/QingYunA/answer-me-with-html?style=social)
 
-<img src="./images/2026/week-40/tidewater/1_screenshot.jpg" alt="tidewater" width="500"/>
+<img src="./images/2026/week-41/answer-me-with-html/1_logo.svg" alt="answer-me-with-html" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Coastal town built with Opus 5.5，已获得864个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。，已获得1,210个star。
 
 **✨ 核心特性**:
-- 864 stars
+- 1,210 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 864
-- **🔀 Fork数**: 203
-- **👀 Watch数**: 864
+- **⭐ Star数**: 1,210
+- **🔀 Fork数**: 82
+- **👀 Watch数**: 1,210
 - **📝 语言**: JavaScript
-- **🌐 官网**: [https://dgreenheck.github.io/tidewater/](https://dgreenheck.github.io/tidewater/)
-- **💻 技术栈**: JavaScript, CSS, HTML, Python, Shell
+- **💻 技术栈**: JavaScript, CSS, agent-skill, ai-agent, claude-code, cli
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [magpie](https://github.com/yetone/magpie) ![Star](https://img.shields.io/github/stars/yetone/magpie?style=social)
+#### 10. [vibe-wise](https://github.com/nykooi1/vibe-wise) ![Star](https://img.shields.io/github/stars/nykooi1/vibe-wise?style=social)
 
-**📝 项目简介**: 一个使用Go开发的开源项目：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.，已获得1,416个star。
+<img src="./images/2026/week-41/vibe-wise/1_icon.svg" alt="vibe-wise" width="500"/>
 
-**✨ 核心特性**:
-- 1,416 stars
-- Go
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,416
-- **🔀 Fork数**: 86
-- **👀 Watch数**: 1,416
-- **📝 语言**: Go
-- **🌐 官网**: [https://usemagpie.ai](https://usemagpie.ai)
-- **💻 技术栈**: Go, JavaScript, HTML, CSS, Shell, Makefile
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) ![Star](https://img.shields.io/github/stars/JohnHeibel/PDoomVideo?style=social)
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)，已获得1,318个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：A Claude Code plugin that helps you learn how to build while AI writes the code.，已获得1,171个star。
 
 **✨ 核心特性**:
-- 1,318 stars
-- JavaScript
+- 1,171 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,318
-- **🔀 Fork数**: 143
-- **👀 Watch数**: 1,318
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, HTML, Node.js
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [golive-skill](https://github.com/mikehasa/golive-skill) ![Star](https://img.shields.io/github/stars/mikehasa/golive-skill?style=social)
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.，已获得1,024个star。
-
-**✨ 核心特性**:
-- 1,024 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,024
-- **🔀 Fork数**: 75
-- **👀 Watch数**: 1,024
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://trytofu.ai](https://trytofu.ai)
-- **💻 技术栈**: TypeScript, JavaScript, Shell, agent-skill, agent-skills, ai-agents
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [kryvora-node](https://github.com/kryvora-network/kryvora-node) ![Star](https://img.shields.io/github/stars/kryvora-network/kryvora-node?style=social)
-
-<img src="./images/2026/week-40/kryvora-node/1_go-%3e%3d%201.22-30363d.svg" alt="kryvora-node" width="500"/>
-
-**📝 项目简介**: 一个使用Go开发的开源项目：Reference client daemon and verification worker for Kryvora Network nodes.，已获得1,000个star。
-
-**✨ 核心特性**:
-- 1,000 stars
-- Go
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,000
-- **🔀 Fork数**: 26
-- **👀 Watch数**: 1,000
-- **📝 语言**: Go
-- **💻 技术栈**: Go, Shell, Dockerfile, Makefile, depin, distributed-systems
+- **⭐ Star数**: 1,171
+- **🔀 Fork数**: 60
+- **👀 Watch数**: 1,171
+- **📝 语言**: Python
+- **💻 技术栈**: Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -237,21 +239,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **TypeScript** (3 个项目)
-2. **JavaScript** (2 个项目)
-3. **Go** (2 个项目)
-4. **Python** (1 个项目)
-5. **Rust** (1 个项目)
+1. **Python** (4 个项目)
+2. **TypeScript** (2 个项目)
+3. **C** (1 个项目)
+4. **Rust** (1 个项目)
+5. **HTML** (1 个项目)
 
 **🏷️ 热门话题**:
 1. claude-code (3)
-2. codex (3)
-3. developer-tools (2)
-4. infrastructure (2)
-5. ai-sdk (1)
-6. cli (1)
-7. code-search (1)
-8. coding-agents (1)
+2. mcp (2)
+3. ai-agent (2)
+4. llm (2)
+5. age-of-empires (1)
+6. claude-code-plugin (1)
+7. fal (1)
+8. game-assets (1)
 
 
 <!-- TRENDING-END -->
@@ -261,6 +263,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-10 | 2026年第41周 | 10 个 | [查看详情](./archives/2026/week-41/report.md) |
 | 10-03 | 2026年第40周 | 10 个 | [查看详情](./archives/2026/week-40/report.md) |
 | 09-26 | 2026年第39周 | 10 个 | [查看详情](./archives/2026/week-39/report.md) |
 | 09-19 | 2026年第38周 | 10 个 | [查看详情](./archives/2026/week-38/report.md) |
@@ -280,7 +283,6 @@
 | 06-13 | 2026年第24周 | 10 个 | [查看详情](./archives/2026/week-24/report.md) |
 | 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
 | 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
-| 05-23 | 2026年第21周 | 10 个 | [查看详情](./archives/2026/week-21/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->

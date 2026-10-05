@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第41周",
+    "year": 2026,
+    "week": 41,
+    "week_range": {
+      "start": "2026-10-04",
+      "end": "2026-10-10"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-10 23:59:59",
+    "next_update": "2026-10-17"
+  },
+  "repositories": [
+    {
+      "full_name": "CopilotKit/OpenDots",
+      "rank": 1,
+      "stars": 3337,
+      "forks": 444,
+      "overall_score": 83
+    },
+    {
+      "full_name": "facebookincubator/muse-gadget-sdk",
+      "rank": 2,
+      "stars": 1299,
+      "forks": 241,
+      "overall_score": 77
+    },
+    {
+      "full_name": "rehan-remade/universal-modder",
+      "rank": 3,
+      "stars": 3436,
+      "forks": 297,
+      "overall_score": 75
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "rank": 4,
+      "stars": 1216,
+      "forks": 122,
+      "overall_score": 75
+    },
+    {
+      "full_name": "feder-cr/dots",
+      "rank": 5,
+      "stars": 2609,
+      "forks": 437,
+      "overall_score": 74
+    },
+    {
+      "full_name": "wy51ai/floorplan-3d",
+      "rank": 6,
+      "stars": 1411,
+      "forks": 291,
+      "overall_score": 70
+    },
+    {
+      "full_name": "kargulstudio/sales-crm",
+      "rank": 7,
+      "stars": 1121,
+      "forks": 224,
+      "overall_score": 69
+    },
+    {
+      "full_name": "nanaism/yomiyasu",
+      "rank": 8,
+      "stars": 1448,
+      "forks": 33,
+      "overall_score": 67
+    },
+    {
+      "full_name": "QingYunA/answer-me-with-html",
+      "rank": 9,
+      "stars": 1210,
+      "forks": 82,
+      "overall_score": 67
+    },
+    {
+      "full_name": "nykooi1/vibe-wise",
+      "rank": 10,
+      "stars": 1171,
+      "forks": 60,
+      "overall_score": 67
+    }
+  ],
+  "generated_at": "2026-10-05T08:48:51.063Z"
+}
