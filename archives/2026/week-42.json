@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第42周",
+    "year": 2026,
+    "week": 42,
+    "week_range": {
+      "start": "2026-10-11",
+      "end": "2026-10-17"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-17 23:59:59",
+    "next_update": "2026-10-24"
+  },
+  "repositories": [
+    {
+      "full_name": "storytold/wordcraft",
+      "rank": 1,
+      "stars": 7167,
+      "forks": 1976,
+      "overall_score": 91
+    },
+    {
+      "full_name": "storytold/gridcraft",
+      "rank": 2,
+      "stars": 3240,
+      "forks": 1365,
+      "overall_score": 89
+    },
+    {
+      "full_name": "storytold/cadcraft",
+      "rank": 3,
+      "stars": 2939,
+      "forks": 1353,
+      "overall_score": 88
+    },
+    {
+      "full_name": "openai/math",
+      "rank": 4,
+      "stars": 14231,
+      "forks": 1603,
+      "overall_score": 82
+    },
+    {
+      "full_name": "mhtsec/ARTEX",
+      "rank": 5,
+      "stars": 3404,
+      "forks": 5829,
+      "overall_score": 81
+    },
+    {
+      "full_name": "nullmoth/nvidia-macos-driver",
+      "rank": 6,
+      "stars": 2628,
+      "forks": 243,
+      "overall_score": 81
+    },
+    {
+      "full_name": "zhongerxin/iPhone-use",
+      "rank": 7,
+      "stars": 3246,
+      "forks": 325,
+      "overall_score": 76
+    },
+    {
+      "full_name": "wheresryan22/anatomy",
+      "rank": 8,
+      "stars": 4355,
+      "forks": 335,
+      "overall_score": 75
+    },
+    {
+      "full_name": "alchaincyf/huashu-art-motion",
+      "rank": 9,
+      "stars": 3496,
+      "forks": 390,
+      "overall_score": 75
+    },
+    {
+      "full_name": "LosaLosSantos/aurelio-finance",
+      "rank": 10,
+      "stars": 2509,
+      "forks": 308,
+      "overall_score": 72
+    }
+  ],
+  "generated_at": "2026-10-12T09:00:34.908Z"
+}

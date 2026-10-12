@@ -1,0 +1,906 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第42周",
+    "year": 2026,
+    "week": 42,
+    "week_range": {
+      "start": "2026-10-11",
+      "end": "2026-10-17"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-17 23:59:59",
+    "next_update": "2026-10-24"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "wordcraft",
+      "full_name": "storytold/wordcraft",
+      "owner": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "stars": 7167,
+      "forks": 1976,
+      "issues": 264,
+      "watchers": 7167,
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "homepage": "https://getartcraft.com/apps/wordcraft",
+      "clone_url": "https://github.com/storytold/wordcraft.git",
+      "ssh_url": "git@github.com:storytold/wordcraft.git",
+      "html_url": "https://github.com/storytold/wordcraft",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 7678919,
+        "Max": 163599,
+        "Shell": 26440,
+        "PowerShell": 13851,
+        "Python": 6155,
+        "HTML": 928
+      },
+      "tech_stack": [
+        "Rust",
+        "Max",
+        "Shell",
+        "PowerShell",
+        "Python",
+        "HTML",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-10-07T08:34:24Z",
+      "updated_at": "2026-10-12T08:59:53Z",
+      "pushed_at": "2026-10-12T08:55:45Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：An open-source, clean-room reimplementation of Microsoft Word in pure Rust，已获得7,167个star。",
+        "highlights": [
+          "7,167 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_artcraft-logo.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/wordcraft/1_artcraft-logo.svg",
+            "size": 5394,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-10-12T09:00:26.038Z",
+            "original_url": "docs/brand/artcraft-logo.svg",
+            "absolute_url": "https://raw.githubusercontent.com/storytold/wordcraft/main/docs/brand/artcraft-logo.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/wordcraft",
+        "representative_image": {
+          "filename": "1_artcraft-logo.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/wordcraft/1_artcraft-logo.svg",
+          "size": 5394,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-10-12T09:00:26.038Z",
+          "original_url": "docs/brand/artcraft-logo.svg",
+          "absolute_url": "https://raw.githubusercontent.com/storytold/wordcraft/main/docs/brand/artcraft-logo.svg"
+        }
+      },
+      "activity_score": 100,
+      "popularity_score": 82,
+      "freshness_score": 100,
+      "overall_score": 91,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 2,
+      "name": "gridcraft",
+      "full_name": "storytold/gridcraft",
+      "owner": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "stars": 3240,
+      "forks": 1365,
+      "issues": 308,
+      "watchers": 3240,
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "homepage": "",
+      "clone_url": "https://github.com/storytold/gridcraft.git",
+      "ssh_url": "git@github.com:storytold/gridcraft.git",
+      "html_url": "https://github.com/storytold/gridcraft",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 5170724,
+        "PowerShell": 29352,
+        "Shell": 29073,
+        "Python": 6155,
+        "HTML": 928
+      },
+      "tech_stack": [
+        "Rust",
+        "PowerShell",
+        "Shell",
+        "Python",
+        "HTML",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-10-07T05:18:16Z",
+      "updated_at": "2026-10-12T08:54:44Z",
+      "pushed_at": "2026-10-12T01:25:48Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.，已获得3,240个star。",
+        "highlights": [
+          "3,240 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_artcraft-logo.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/gridcraft/1_artcraft-logo.svg",
+            "size": 5394,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-10-12T09:00:31.631Z",
+            "original_url": "docs/brand/artcraft-logo.svg",
+            "absolute_url": "https://raw.githubusercontent.com/storytold/gridcraft/main/docs/brand/artcraft-logo.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/gridcraft",
+        "representative_image": {
+          "filename": "1_artcraft-logo.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/gridcraft/1_artcraft-logo.svg",
+          "size": 5394,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-10-12T09:00:31.631Z",
+          "original_url": "docs/brand/artcraft-logo.svg",
+          "absolute_url": "https://raw.githubusercontent.com/storytold/gridcraft/main/docs/brand/artcraft-logo.svg"
+        }
+      },
+      "activity_score": 100,
+      "popularity_score": 77,
+      "freshness_score": 100,
+      "overall_score": 89,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "cadcraft",
+      "full_name": "storytold/cadcraft",
+      "owner": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "stars": 2939,
+      "forks": 1353,
+      "issues": 119,
+      "watchers": 2939,
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "homepage": null,
+      "clone_url": "https://github.com/storytold/cadcraft.git",
+      "ssh_url": "git@github.com:storytold/cadcraft.git",
+      "html_url": "https://github.com/storytold/cadcraft",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 6660864,
+        "Shell": 25819,
+        "PowerShell": 11824,
+        "Python": 6153,
+        "HTML": 848
+      },
+      "tech_stack": [
+        "Rust",
+        "Shell",
+        "PowerShell",
+        "Python",
+        "HTML",
+        "Angular",
+        "Express",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-10-07T05:22:31Z",
+      "updated_at": "2026-10-12T08:59:23Z",
+      "pushed_at": "2026-10-12T07:35:13Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust，已获得2,939个star。",
+        "highlights": [
+          "2,939 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_artcraft-logo.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/cadcraft/1_artcraft-logo.svg",
+            "size": 5394,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-10-12T09:00:32.651Z",
+            "original_url": "docs/brand/artcraft-logo.svg",
+            "absolute_url": "https://raw.githubusercontent.com/storytold/cadcraft/main/docs/brand/artcraft-logo.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/cadcraft",
+        "representative_image": {
+          "filename": "1_artcraft-logo.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/cadcraft/1_artcraft-logo.svg",
+          "size": 5394,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-10-12T09:00:32.651Z",
+          "original_url": "docs/brand/artcraft-logo.svg",
+          "absolute_url": "https://raw.githubusercontent.com/storytold/cadcraft/main/docs/brand/artcraft-logo.svg"
+        }
+      },
+      "activity_score": 100,
+      "popularity_score": 76,
+      "freshness_score": 100,
+      "overall_score": 88,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "math",
+      "full_name": "openai/math",
+      "owner": "openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "stars": 14231,
+      "forks": 1603,
+      "issues": 0,
+      "watchers": 14231,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/openai/math.git",
+      "ssh_url": "org-14957082@github.com:openai/math.git",
+      "html_url": "https://github.com/openai/math",
+      "language": "Lean",
+      "primary_language": "Lean",
+      "languages": {
+        "Lean": 1575788914,
+        "TeX": 140400631,
+        "Python": 962194,
+        "C++": 114709,
+        "Mermaid": 1272
+      },
+      "tech_stack": [
+        "Lean",
+        "TeX",
+        "Python",
+        "C++",
+        "Mermaid"
+      ],
+      "topics": [],
+      "created_at": "2026-10-06T21:47:02Z",
+      "updated_at": "2026-10-12T08:57:35Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "ai_summary": {
+        "summary": "一个热门的Lean开源项目，在GitHub上获得了14,231个star，值得关注。",
+        "highlights": [
+          "14,231 stars",
+          "Lean"
+        ],
+        "tech_summary": "Lean",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/math",
+        "representative_image": null
+      },
+      "activity_score": 66,
+      "popularity_score": 85,
+      "freshness_score": 100,
+      "overall_score": 82,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "ARTEX",
+      "full_name": "mhtsec/ARTEX",
+      "owner": "mhtsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83952182?v=4",
+      "stars": 3404,
+      "forks": 5829,
+      "issues": 0,
+      "watchers": 3404,
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "homepage": null,
+      "clone_url": "https://github.com/mhtsec/ARTEX.git",
+      "ssh_url": "git@github.com:mhtsec/ARTEX.git",
+      "html_url": "https://github.com/mhtsec/ARTEX",
+      "language": "Go",
+      "primary_language": "Go",
+      "languages": {
+        "Go": 4597750,
+        "TypeScript": 2087641,
+        "PLpgSQL": 79119,
+        "Shell": 30436,
+        "JavaScript": 29919,
+        "Python": 23968,
+        "CSS": 19546,
+        "Dockerfile": 3861,
+        "Batchfile": 1653
+      },
+      "tech_stack": [
+        "Go",
+        "TypeScript",
+        "PLpgSQL",
+        "Shell",
+        "JavaScript",
+        "Python",
+        "CSS",
+        "Dockerfile"
+      ],
+      "topics": [],
+      "created_at": "2026-10-08T05:33:06Z",
+      "updated_at": "2026-10-12T08:56:44Z",
+      "pushed_at": "2026-10-10T09:16:20Z",
+      "ai_summary": {
+        "summary": "一个使用Go开发的开源项目：AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目，已获得3,404个star。",
+        "highlights": [
+          "3,404 stars",
+          "Go"
+        ],
+        "tech_summary": "Go",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_dashboard.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/artex/1_dashboard.png",
+            "size": 356519,
+            "content_type": "image/png",
+            "downloaded_at": "2026-10-12T09:00:29.359Z",
+            "original_url": "screenshots/dashboard.png",
+            "absolute_url": "https://raw.githubusercontent.com/mhtsec/ARTEX/main/screenshots/dashboard.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/artex",
+        "representative_image": {
+          "filename": "1_dashboard.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/artex/1_dashboard.png",
+          "size": 356519,
+          "content_type": "image/png",
+          "downloaded_at": "2026-10-12T09:00:29.359Z",
+          "original_url": "screenshots/dashboard.png",
+          "absolute_url": "https://raw.githubusercontent.com/mhtsec/ARTEX/main/screenshots/dashboard.png"
+        }
+      },
+      "activity_score": 69,
+      "popularity_score": 81,
+      "freshness_score": 100,
+      "overall_score": 81,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "nvidia-macos-driver",
+      "full_name": "nullmoth/nvidia-macos-driver",
+      "owner": "nullmoth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333880792?v=4",
+      "stars": 2628,
+      "forks": 243,
+      "issues": 126,
+      "watchers": 2628,
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "homepage": "https://nullmothsystems.com",
+      "clone_url": "https://github.com/nullmoth/nvidia-macos-driver.git",
+      "ssh_url": "git@github.com:nullmoth/nvidia-macos-driver.git",
+      "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 10890395,
+        "C": 2362303,
+        "C++": 1279373,
+        "Objective-C": 871147,
+        "Python": 298558,
+        "Shell": 244926,
+        "Swift": 196214,
+        "JavaScript": 21370,
+        "HTML": 9409,
+        "Metal": 8657,
+        "CSS": 8473
+      },
+      "tech_stack": [
+        "Rust",
+        "C",
+        "C++",
+        "Objective-C",
+        "Python",
+        "Shell",
+        "Swift",
+        "JavaScript"
+      ],
+      "topics": [],
+      "created_at": "2026-10-07T08:13:12Z",
+      "updated_at": "2026-10-12T08:50:03Z",
+      "pushed_at": "2026-10-12T06:12:24Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.，已获得2,628个star。",
+        "highlights": [
+          "2,628 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/nvidia-macos-driver",
+        "representative_image": null
+      },
+      "activity_score": 85,
+      "popularity_score": 71,
+      "freshness_score": 100,
+      "overall_score": 81,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "iPhone-use",
+      "full_name": "zhongerxin/iPhone-use",
+      "owner": "zhongerxin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4",
+      "stars": 3246,
+      "forks": 325,
+      "issues": 15,
+      "watchers": 3246,
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "homepage": null,
+      "clone_url": "https://github.com/zhongerxin/iPhone-use.git",
+      "ssh_url": "git@github.com:zhongerxin/iPhone-use.git",
+      "html_url": "https://github.com/zhongerxin/iPhone-use",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 627310,
+        "HTML": 551715,
+        "JavaScript": 41920,
+        "TypeScript": 23678,
+        "Objective-C": 1177,
+        "Shell": 933
+      },
+      "tech_stack": [
+        "Python",
+        "HTML",
+        "JavaScript",
+        "TypeScript",
+        "Objective-C",
+        "Shell",
+        "Node.js"
+      ],
+      "topics": [],
+      "created_at": "2026-10-06T15:09:33Z",
+      "updated_at": "2026-10-12T08:59:20Z",
+      "pushed_at": "2026-10-10T13:58:28Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。，已获得3,246个star。",
+        "highlights": [
+          "3,246 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_iphone-use-demo.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/iphone-use/1_iphone-use-demo.png",
+            "size": 2900492,
+            "content_type": "image/png",
+            "downloaded_at": "2026-10-12T09:00:30.561Z",
+            "original_url": "assets/iphone-use-demo.png",
+            "absolute_url": "https://raw.githubusercontent.com/zhongerxin/iPhone-use/main/assets/iphone-use-demo.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/iphone-use",
+        "representative_image": {
+          "filename": "1_iphone-use-demo.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/iphone-use/1_iphone-use-demo.png",
+          "size": 2900492,
+          "content_type": "image/png",
+          "downloaded_at": "2026-10-12T09:00:30.561Z",
+          "original_url": "assets/iphone-use-demo.png",
+          "absolute_url": "https://raw.githubusercontent.com/zhongerxin/iPhone-use/main/assets/iphone-use-demo.png"
+        }
+      },
+      "activity_score": 65,
+      "popularity_score": 73,
+      "freshness_score": 100,
+      "overall_score": 76,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "anatomy",
+      "full_name": "wheresryan22/anatomy",
+      "owner": "wheresryan22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "stars": 4355,
+      "forks": 335,
+      "issues": 4,
+      "watchers": 4355,
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "homepage": "https://skills.wheresryan.sh/anatomy",
+      "clone_url": "https://github.com/wheresryan22/anatomy.git",
+      "ssh_url": "git@github.com:wheresryan22/anatomy.git",
+      "html_url": "https://github.com/wheresryan22/anatomy",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 846469,
+        "TypeScript": 49890,
+        "CSS": 7698
+      },
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "CSS",
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization",
+        "React"
+      ],
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "created_at": "2026-10-08T10:12:49Z",
+      "updated_at": "2026-10-12T08:59:50Z",
+      "pushed_at": "2026-10-12T01:05:12Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.，已获得4,355个star。",
+        "highlights": [
+          "4,355 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_badge.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/anatomy/1_badge.svg",
+            "size": 2263,
+            "content_type": "image/svg+xml; charset=utf-8",
+            "downloaded_at": "2026-10-12T09:00:27.246Z",
+            "original_url": "https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml/badge.svg",
+            "absolute_url": "https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml/badge.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/anatomy",
+        "representative_image": {
+          "filename": "1_badge.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/anatomy/1_badge.svg",
+          "size": 2263,
+          "content_type": "image/svg+xml; charset=utf-8",
+          "downloaded_at": "2026-10-12T09:00:27.246Z",
+          "original_url": "https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml/badge.svg",
+          "absolute_url": "https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml/badge.svg"
+        }
+      },
+      "activity_score": 59,
+      "popularity_score": 74,
+      "freshness_score": 100,
+      "overall_score": 75,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "huashu-art-motion",
+      "full_name": "alchaincyf/huashu-art-motion",
+      "owner": "alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "stars": 3496,
+      "forks": 390,
+      "issues": 3,
+      "watchers": 3496,
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "homepage": null,
+      "clone_url": "https://github.com/alchaincyf/huashu-art-motion.git",
+      "ssh_url": "git@github.com:alchaincyf/huashu-art-motion.git",
+      "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 2265668,
+        "Python": 319555,
+        "HTML": 3262
+      },
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "HTML"
+      ],
+      "topics": [],
+      "created_at": "2026-10-06T04:49:37Z",
+      "updated_at": "2026-10-12T08:58:41Z",
+      "pushed_at": "2026-10-10T10:03:21Z",
+      "ai_summary": {
+        "summary": "一个使用JavaScript开发的开源项目：艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。，已获得3,496个star。",
+        "highlights": [
+          "3,496 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_promo-banner.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/huashu-art-motion/1_promo-banner.jpg",
+            "size": 605945,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2026-10-12T09:00:28.304Z",
+            "original_url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/huashu-art-motion",
+        "representative_image": {
+          "filename": "1_promo-banner.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/huashu-art-motion/1_promo-banner.jpg",
+          "size": 605945,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-10-12T09:00:28.304Z",
+          "original_url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg"
+        }
+      },
+      "activity_score": 59,
+      "popularity_score": 74,
+      "freshness_score": 100,
+      "overall_score": 75,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 10,
+      "name": "aurelio-finance",
+      "full_name": "LosaLosSantos/aurelio-finance",
+      "owner": "LosaLosSantos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "stars": 2509,
+      "forks": 308,
+      "issues": 0,
+      "watchers": 2509,
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "homepage": null,
+      "clone_url": "https://github.com/LosaLosSantos/aurelio-finance.git",
+      "ssh_url": "git@github.com:LosaLosSantos/aurelio-finance.git",
+      "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 2530686,
+        "TypeScript": 640887,
+        "CSS": 5291,
+        "JavaScript": 5132,
+        "Shell": 2532,
+        "PowerShell": 2198,
+        "Mako": 704,
+        "HTML": 359
+      },
+      "tech_stack": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "Shell",
+        "PowerShell",
+        "Mako",
+        "HTML"
+      ],
+      "topics": [
+        "ai",
+        "dividends",
+        "etf",
+        "finance",
+        "financial-planning",
+        "fintech",
+        "investing",
+        "llm",
+        "net-worth",
+        "personal-finance",
+        "portfolio-tracker",
+        "self-hosted",
+        "stocks",
+        "wealth-management"
+      ],
+      "created_at": "2026-10-06T20:14:19Z",
+      "updated_at": "2026-10-12T08:59:25Z",
+      "pushed_at": "2026-10-11T19:25:34Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.，已获得2,509个star。",
+        "highlights": [
+          "2,509 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_badge.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/aurelio-finance/1_badge.svg",
+            "size": 2263,
+            "content_type": "image/svg+xml; charset=utf-8",
+            "downloaded_at": "2026-10-12T09:00:34.899Z",
+            "original_url": "https://github.com/LosaLosSantos/aurelio-finance/actions/workflows/ci.yml/badge.svg",
+            "absolute_url": "https://github.com/LosaLosSantos/aurelio-finance/actions/workflows/ci.yml/badge.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/aurelio-finance",
+        "representative_image": {
+          "filename": "1_badge.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-42/aurelio-finance/1_badge.svg",
+          "size": 2263,
+          "content_type": "image/svg+xml; charset=utf-8",
+          "downloaded_at": "2026-10-12T09:00:34.899Z",
+          "original_url": "https://github.com/LosaLosSantos/aurelio-finance/actions/workflows/ci.yml/badge.svg",
+          "absolute_url": "https://github.com/LosaLosSantos/aurelio-finance/actions/workflows/ci.yml/badge.svg"
+        }
+      },
+      "activity_score": 56,
+      "popularity_score": 71,
+      "freshness_score": 100,
+      "overall_score": 72,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 47215,
+    "total_forks": 13727,
+    "average_stars": 4722,
+    "average_forks": 1373,
+    "top_languages": [
+      {
+        "name": "Rust",
+        "count": 4
+      },
+      {
+        "name": "Python",
+        "count": 2
+      },
+      {
+        "name": "JavaScript",
+        "count": 2
+      },
+      {
+        "name": "Lean",
+        "count": 1
+      },
+      {
+        "name": "Go",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "agent-skill",
+        "count": 1
+      },
+      {
+        "name": "open-source",
+        "count": 1
+      },
+      {
+        "name": "svg",
+        "count": 1
+      },
+      {
+        "name": "vizualization",
+        "count": 1
+      },
+      {
+        "name": "ai",
+        "count": 1
+      },
+      {
+        "name": "dividends",
+        "count": 1
+      },
+      {
+        "name": "etf",
+        "count": 1
+      },
+      {
+        "name": "finance",
+        "count": 1
+      },
+      {
+        "name": "financial-planning",
+        "count": 1
+      },
+      {
+        "name": "fintech",
+        "count": 1
+      }
+    ],
+    "score_distribution": {
+      "min": 72,
+      "max": 91,
+      "average": 81,
+      "median": 81
+    }
+  },
+  "generated_at": "2026-10-12T09:00:34.908Z"
+}

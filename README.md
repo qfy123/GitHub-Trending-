@@ -18,220 +18,223 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第41周
+### GitHub趋势排行榜 - 2026年第42周
 
-**📅 统计周期**: 2026-10-04 ~ 2026-10-10  
+**📅 统计周期**: 2026-10-11 ~ 2026-10-17  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 18,258  
-**🔄 更新时间**: 2026-10-10 23:59:59  
+**⭐ 总Star数**: 47,215  
+**🔄 更新时间**: 2026-10-17 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [OpenDots](https://github.com/CopilotKit/OpenDots) | 一个使用TypeScript开发的开源项目：Your always-on AI coworkers that mo... | 3,337 | 444 | TypeScript | 🆕 |
-| 2 | [muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 一个使用C开发的开源项目：Open source SDK to build Muse gadgets，已获得1,2... | 1,299 | 241 | C | 🆕 |
-| 3 | [universal-modder](https://github.com/rehan-remade/universal-modder) | 一个使用Python开发的开源项目：Point Claude at any game. Skills, tools... | 3,436 | 297 | Python | 🆕 |
-| 4 | [photocraft](https://github.com/storytold/photocraft) | 一个热门的Rust开源项目，在GitHub上获得了1,216个star，值得关注。 | 1,216 | 122 | Rust | 🆕 |
-| 5 | [dots](https://github.com/feder-cr/dots) | 一个使用Python开发的开源项目：Open-source dots for the web: an AI age... | 2,609 | 437 | Python | 🆕 |
-| 6 | [floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 一个热门的HTML开源项目，在GitHub上获得了1,411个star，值得关注。 | 1,411 | 291 | HTML | 🆕 |
-| 7 | [sales-crm](https://github.com/kargulstudio/sales-crm) | 一个热门的TypeScript开源项目，在GitHub上获得了1,121个star，值得关注。 | 1,121 | 224 | TypeScript | 🆕 |
-| 8 | [yomiyasu](https://github.com/nanaism/yomiyasu) | 一个使用Python开发的开源项目：AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent... | 1,448 | 33 | Python | 🆕 |
-| 9 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 一个使用JavaScript开发的开源项目：Answer me with HTML — an agent skil... | 1,210 | 82 | JavaScript | 🆕 |
-| 10 | [vibe-wise](https://github.com/nykooi1/vibe-wise) | 一个使用Python开发的开源项目：A Claude Code plugin that helps you lea... | 1,171 | 60 | Python | 🆕 |
+| 1 | [wordcraft](https://github.com/storytold/wordcraft) | 一个使用Rust开发的开源项目：An open-source, clean-room reimplementati... | 7,167 | 1,976 | Rust | 🆕 |
+| 2 | [gridcraft](https://github.com/storytold/gridcraft) | 一个使用Rust开发的开源项目：GridCraft: an open-source, clean-room spr... | 3,240 | 1,365 | Rust | 🆕 |
+| 3 | [cadcraft](https://github.com/storytold/cadcraft) | 一个使用Rust开发的开源项目：CADCraft: computer-aided design and draft... | 2,939 | 1,353 | Rust | 🆕 |
+| 4 | [math](https://github.com/openai/math) | 一个热门的Lean开源项目，在GitHub上获得了14,231个star，值得关注。 | 14,231 | 1,603 | Lean | 🆕 |
+| 5 | [ARTEX](https://github.com/mhtsec/ARTEX) | 一个使用Go开发的开源项目：AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目，已获得3,404个... | 3,404 | 5,829 | Go | 🆕 |
+| 6 | [nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 一个使用Rust开发的开源项目：Metal driver for NVIDIA GeForce RTX cards... | 2,628 | 243 | Rust | 🆕 |
+| 7 | [iPhone-use](https://github.com/zhongerxin/iPhone-use) | 一个使用Python开发的开源项目：让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化... | 3,246 | 325 | Python | 🆕 |
+| 8 | [anatomy](https://github.com/wheresryan22/anatomy) | 一个使用JavaScript开发的开源项目：An agent skill for creating detaile... | 4,355 | 335 | JavaScript | 🆕 |
+| 9 | [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 一个使用JavaScript开发的开源项目：艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。，... | 3,496 | 390 | JavaScript | 🆕 |
+| 10 | [aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 一个使用Python开发的开源项目：Open-source personal finance app with a... | 2,509 | 308 | Python | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [OpenDots](https://github.com/CopilotKit/OpenDots) ![Star](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social)
+#### 1. [wordcraft](https://github.com/storytold/wordcraft) ![Star](https://img.shields.io/github/stars/storytold/wordcraft?style=social)
 
-<img src="./images/2026/week-41/opendots/1_badge.svg" alt="OpenDots" width="500"/>
+<img src="./images/2026/week-42/wordcraft/1_artcraft-logo.svg" alt="wordcraft" width="500"/>
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Your always-on AI coworkers that move between text, calls, and Slack.，已获得3,337个star。
-
-**✨ 核心特性**:
-- 3,337 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,337
-- **🔀 Fork数**: 444
-- **👀 Watch数**: 3,337
-- **📝 语言**: TypeScript
-- **🌐 官网**: [https://www.copilotkit.ai/opendots](https://www.copilotkit.ai/opendots)
-- **💻 技术栈**: TypeScript, CSS, JavaScript, Dockerfile, HTML, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 2. [muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) ![Star](https://img.shields.io/github/stars/facebookincubator/muse-gadget-sdk?style=social)
-
-<img src="./images/2026/week-41/muse-gadget-sdk/1_muse-gadgets-light.png" alt="muse-gadget-sdk" width="500"/>
-
-**📝 项目简介**: 一个使用C开发的开源项目：Open source SDK to build Muse gadgets，已获得1,299个star。
+**📝 项目简介**: 一个使用Rust开发的开源项目：An open-source, clean-room reimplementation of Microsoft Word in pure Rust，已获得7,167个star。
 
 **✨ 核心特性**:
-- 1,299 stars
-- C
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,299
-- **🔀 Fork数**: 241
-- **👀 Watch数**: 1,299
-- **📝 语言**: C
-- **🌐 官网**: [gadgets.muse.ai](gadgets.muse.ai)
-- **💻 技术栈**: C, Python, C++, Shell, CMake, HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 3. [universal-modder](https://github.com/rehan-remade/universal-modder) ![Star](https://img.shields.io/github/stars/rehan-remade/universal-modder?style=social)
-
-<img src="./images/2026/week-41/universal-modder/1_banner.png" alt="universal-modder" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.，已获得3,436个star。
-
-**✨ 核心特性**:
-- 3,436 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 3,436
-- **🔀 Fork数**: 297
-- **👀 Watch数**: 3,436
-- **📝 语言**: Python
-- **💻 技术栈**: Python, PowerShell, Shell, age-of-empires, claude-code, claude-code-plugin
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 4. [photocraft](https://github.com/storytold/photocraft) ![Star](https://img.shields.io/github/stars/storytold/photocraft?style=social)
-
-<img src="./images/2026/week-41/photocraft/1_artcraft-logo.svg" alt="photocraft" width="500"/>
-
-**📝 项目简介**: 一个热门的Rust开源项目，在GitHub上获得了1,216个star，值得关注。
-
-**✨ 核心特性**:
-- 1,216 stars
+- 7,167 stars
 - Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,216
-- **🔀 Fork数**: 122
-- **👀 Watch数**: 1,216
+- **⭐ Star数**: 7,167
+- **🔀 Fork数**: 1,976
+- **👀 Watch数**: 7,167
 - **📝 语言**: Rust
-- **💻 技术栈**: Rust, WGSL, Shell, PowerShell, HTML, Angular
+- **🌐 官网**: [https://getartcraft.com/apps/wordcraft](https://getartcraft.com/apps/wordcraft)
+- **💻 技术栈**: Rust, Max, Shell, PowerShell, Python, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [dots](https://github.com/feder-cr/dots) ![Star](https://img.shields.io/github/stars/feder-cr/dots?style=social)
+#### 2. [gridcraft](https://github.com/storytold/gridcraft) ![Star](https://img.shields.io/github/stars/storytold/gridcraft?style=social)
 
-**📝 项目简介**: 一个使用Python开发的开源项目：Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.，已获得2,609个star。
+<img src="./images/2026/week-42/gridcraft/1_artcraft-logo.svg" alt="gridcraft" width="500"/>
+
+**📝 项目简介**: 一个使用Rust开发的开源项目：GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.，已获得3,240个star。
 
 **✨ 核心特性**:
-- 2,609 stars
+- 3,240 stars
+- Rust
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,240
+- **🔀 Fork数**: 1,365
+- **👀 Watch数**: 3,240
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, PowerShell, Shell, Python, HTML, AWS
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [cadcraft](https://github.com/storytold/cadcraft) ![Star](https://img.shields.io/github/stars/storytold/cadcraft?style=social)
+
+<img src="./images/2026/week-42/cadcraft/1_artcraft-logo.svg" alt="cadcraft" width="500"/>
+
+**📝 项目简介**: 一个使用Rust开发的开源项目：CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust，已获得2,939个star。
+
+**✨ 核心特性**:
+- 2,939 stars
+- Rust
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,939
+- **🔀 Fork数**: 1,353
+- **👀 Watch数**: 2,939
+- **📝 语言**: Rust
+- **💻 技术栈**: Rust, Shell, PowerShell, Python, HTML, Angular
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [math](https://github.com/openai/math) ![Star](https://img.shields.io/github/stars/openai/math?style=social)
+
+**📝 项目简介**: 一个热门的Lean开源项目，在GitHub上获得了14,231个star，值得关注。
+
+**✨ 核心特性**:
+- 14,231 stars
+- Lean
+
+**📊 项目统计**:
+- **⭐ Star数**: 14,231
+- **🔀 Fork数**: 1,603
+- **👀 Watch数**: 14,231
+- **📝 语言**: Lean
+- **💻 技术栈**: Lean, TeX, Python, C++, Mermaid
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 5. [ARTEX](https://github.com/mhtsec/ARTEX) ![Star](https://img.shields.io/github/stars/mhtsec/ARTEX?style=social)
+
+<img src="./images/2026/week-42/artex/1_dashboard.png" alt="ARTEX" width="500"/>
+
+**📝 项目简介**: 一个使用Go开发的开源项目：AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目，已获得3,404个star。
+
+**✨ 核心特性**:
+- 3,404 stars
+- Go
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,404
+- **🔀 Fork数**: 5,829
+- **👀 Watch数**: 3,404
+- **📝 语言**: Go
+- **💻 技术栈**: Go, TypeScript, PLpgSQL, Shell, JavaScript, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) ![Star](https://img.shields.io/github/stars/nullmoth/nvidia-macos-driver?style=social)
+
+**📝 项目简介**: 一个使用Rust开发的开源项目：Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.，已获得2,628个star。
+
+**✨ 核心特性**:
+- 2,628 stars
+- Rust
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,628
+- **🔀 Fork数**: 243
+- **👀 Watch数**: 2,628
+- **📝 语言**: Rust
+- **🌐 官网**: [https://nullmothsystems.com](https://nullmothsystems.com)
+- **💻 技术栈**: Rust, C, C++, Objective-C, Python, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 7. [iPhone-use](https://github.com/zhongerxin/iPhone-use) ![Star](https://img.shields.io/github/stars/zhongerxin/iPhone-use?style=social)
+
+<img src="./images/2026/week-42/iphone-use/1_iphone-use-demo.png" alt="iPhone-use" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。，已获得3,246个star。
+
+**✨ 核心特性**:
+- 3,246 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,609
-- **🔀 Fork数**: 437
-- **👀 Watch数**: 2,609
+- **⭐ Star数**: 3,246
+- **🔀 Fork数**: 325
+- **👀 Watch数**: 3,246
 - **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, ai-agent, ai-agents, ai-browser, anti-detect-browser
+- **💻 技术栈**: Python, HTML, JavaScript, TypeScript, Objective-C, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [floorplan-3d](https://github.com/wy51ai/floorplan-3d) ![Star](https://img.shields.io/github/stars/wy51ai/floorplan-3d?style=social)
+#### 8. [anatomy](https://github.com/wheresryan22/anatomy) ![Star](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social)
 
-**📝 项目简介**: 一个热门的HTML开源项目，在GitHub上获得了1,411个star，值得关注。
+<img src="./images/2026/week-42/anatomy/1_badge.svg" alt="anatomy" width="500"/>
 
-**✨ 核心特性**:
-- 1,411 stars
-- HTML
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,411
-- **🔀 Fork数**: 291
-- **👀 Watch数**: 1,411
-- **📝 语言**: HTML
-- **💻 技术栈**: HTML
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [sales-crm](https://github.com/kargulstudio/sales-crm) ![Star](https://img.shields.io/github/stars/kargulstudio/sales-crm?style=social)
-
-**📝 项目简介**: 一个热门的TypeScript开源项目，在GitHub上获得了1,121个star，值得关注。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.，已获得4,355个star。
 
 **✨ 核心特性**:
-- 1,121 stars
-- TypeScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,121
-- **🔀 Fork数**: 224
-- **👀 Watch数**: 1,121
-- **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, JavaScript, CSS, Shell, HTML, React
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [yomiyasu](https://github.com/nanaism/yomiyasu) ![Star](https://img.shields.io/github/stars/nanaism/yomiyasu?style=social)
-
-<img src="./images/2026/week-41/yomiyasu/1_license-mit-blue.svg" alt="yomiyasu" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese，已获得1,448个star。
-
-**✨ 核心特性**:
-- 1,448 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,448
-- **🔀 Fork数**: 33
-- **👀 Watch数**: 1,448
-- **📝 语言**: Python
-- **💻 技术栈**: Python, agent-skills, ai-writing, antigravity, claude-code, codex
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) ![Star](https://img.shields.io/github/stars/QingYunA/answer-me-with-html?style=social)
-
-<img src="./images/2026/week-41/answer-me-with-html/1_logo.svg" alt="answer-me-with-html" width="500"/>
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。，已获得1,210个star。
-
-**✨ 核心特性**:
-- 1,210 stars
+- 4,355 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,210
-- **🔀 Fork数**: 82
-- **👀 Watch数**: 1,210
+- **⭐ Star数**: 4,355
+- **🔀 Fork数**: 335
+- **👀 Watch数**: 4,355
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, CSS, agent-skill, ai-agent, claude-code, cli
+- **🌐 官网**: [https://skills.wheresryan.sh/anatomy](https://skills.wheresryan.sh/anatomy)
+- **💻 技术栈**: JavaScript, TypeScript, CSS, agent-skill, open-source, svg
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [vibe-wise](https://github.com/nykooi1/vibe-wise) ![Star](https://img.shields.io/github/stars/nykooi1/vibe-wise?style=social)
+#### 9. [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) ![Star](https://img.shields.io/github/stars/alchaincyf/huashu-art-motion?style=social)
 
-<img src="./images/2026/week-41/vibe-wise/1_icon.svg" alt="vibe-wise" width="500"/>
+<img src="./images/2026/week-42/huashu-art-motion/1_promo-banner.jpg" alt="huashu-art-motion" width="500"/>
 
-**📝 项目简介**: 一个使用Python开发的开源项目：A Claude Code plugin that helps you learn how to build while AI writes the code.，已获得1,171个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。，已获得3,496个star。
 
 **✨ 核心特性**:
-- 1,171 stars
+- 3,496 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,496
+- **🔀 Fork数**: 390
+- **👀 Watch数**: 3,496
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, Python, HTML
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) ![Star](https://img.shields.io/github/stars/LosaLosSantos/aurelio-finance?style=social)
+
+<img src="./images/2026/week-42/aurelio-finance/1_badge.svg" alt="aurelio-finance" width="500"/>
+
+**📝 项目简介**: 一个使用Python开发的开源项目：Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.，已获得2,509个star。
+
+**✨ 核心特性**:
+- 2,509 stars
 - Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,171
-- **🔀 Fork数**: 60
-- **👀 Watch数**: 1,171
+- **⭐ Star数**: 2,509
+- **🔀 Fork数**: 308
+- **👀 Watch数**: 2,509
 - **📝 语言**: Python
-- **💻 技术栈**: Python
+- **💻 技术栈**: Python, TypeScript, CSS, JavaScript, Shell, PowerShell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -239,21 +242,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (4 个项目)
-2. **TypeScript** (2 个项目)
-3. **C** (1 个项目)
-4. **Rust** (1 个项目)
-5. **HTML** (1 个项目)
+1. **Rust** (4 个项目)
+2. **Python** (2 个项目)
+3. **JavaScript** (2 个项目)
+4. **Lean** (1 个项目)
+5. **Go** (1 个项目)
 
 **🏷️ 热门话题**:
-1. claude-code (3)
-2. mcp (2)
-3. ai-agent (2)
-4. llm (2)
-5. age-of-empires (1)
-6. claude-code-plugin (1)
-7. fal (1)
-8. game-assets (1)
+1. agent-skill (1)
+2. open-source (1)
+3. svg (1)
+4. vizualization (1)
+5. ai (1)
+6. dividends (1)
+7. etf (1)
+8. finance (1)
 
 
 <!-- TRENDING-END -->
@@ -263,6 +266,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 10-17 | 2026年第42周 | 10 个 | [查看详情](./archives/2026/week-42/report.md) |
 | 10-10 | 2026年第41周 | 10 个 | [查看详情](./archives/2026/week-41/report.md) |
 | 10-03 | 2026年第40周 | 10 个 | [查看详情](./archives/2026/week-40/report.md) |
 | 09-26 | 2026年第39周 | 10 个 | [查看详情](./archives/2026/week-39/report.md) |
@@ -282,7 +286,6 @@
 | 06-20 | 2026年第25周 | 10 个 | [查看详情](./archives/2026/week-25/report.md) |
 | 06-13 | 2026年第24周 | 10 个 | [查看详情](./archives/2026/week-24/report.md) |
 | 06-06 | 2026年第23周 | 10 个 | [查看详情](./archives/2026/week-23/report.md) |
-| 05-30 | 2026年第22周 | 10 个 | [查看详情](./archives/2026/week-22/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
