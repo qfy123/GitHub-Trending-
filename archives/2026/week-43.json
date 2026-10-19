@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第43周",
+    "year": 2026,
+    "week": 43,
+    "week_range": {
+      "start": "2026-10-18",
+      "end": "2026-10-24"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-24 23:59:59",
+    "next_update": "2026-10-31"
+  },
+  "repositories": [
+    {
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "rank": 1,
+      "stars": 3157,
+      "forks": 579,
+      "overall_score": 76
+    },
+    {
+      "full_name": "Supermedo/uncharted_pc",
+      "rank": 2,
+      "stars": 1480,
+      "forks": 76,
+      "overall_score": 76
+    },
+    {
+      "full_name": "Gathin23/tv-vibehack",
+      "rank": 3,
+      "stars": 2747,
+      "forks": 329,
+      "overall_score": 75
+    },
+    {
+      "full_name": "HeyPuter/everything",
+      "rank": 4,
+      "stars": 2257,
+      "forks": 322,
+      "overall_score": 74
+    },
+    {
+      "full_name": "feder-cr/git-ai",
+      "rank": 5,
+      "stars": 2328,
+      "forks": 260,
+      "overall_score": 72
+    },
+    {
+      "full_name": "ly05010419/MacNativeGames",
+      "rank": 6,
+      "stars": 1170,
+      "forks": 201,
+      "overall_score": 72
+    },
+    {
+      "full_name": "ahwootech/BRUTAL",
+      "rank": 7,
+      "stars": 1933,
+      "forks": 102,
+      "overall_score": 71
+    },
+    {
+      "full_name": "chenglou/handwired",
+      "rank": 8,
+      "stars": 1753,
+      "forks": 146,
+      "overall_score": 70
+    },
+    {
+      "full_name": "Caho1/open-claude-ui",
+      "rank": 9,
+      "stars": 1218,
+      "forks": 262,
+      "overall_score": 70
+    },
+    {
+      "full_name": "Leonxlnx/earshot",
+      "rank": 10,
+      "stars": 989,
+      "forks": 56,
+      "overall_score": 65
+    }
+  ],
+  "generated_at": "2026-10-19T07:37:06.901Z"
+}
