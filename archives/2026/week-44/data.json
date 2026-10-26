@@ -1,0 +1,872 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第44周",
+    "year": 2026,
+    "week": 44,
+    "week_range": {
+      "start": "2026-10-25",
+      "end": "2026-10-31"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-31 23:59:59",
+    "next_update": "2026-11-07"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "aerial-tv",
+      "full_name": "pengchujin/aerial-tv",
+      "owner": "pengchujin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "stars": 5500,
+      "forks": 455,
+      "issues": 267,
+      "watchers": 5500,
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "homepage": "https://aerial.qust.me",
+      "clone_url": "https://github.com/pengchujin/aerial-tv.git",
+      "ssh_url": "git@github.com:pengchujin/aerial-tv.git",
+      "html_url": "https://github.com/pengchujin/aerial-tv",
+      "language": "Kotlin",
+      "primary_language": "Kotlin",
+      "languages": {
+        "Kotlin": 919393,
+        "HTML": 180232,
+        "Shell": 28346,
+        "CSS": 20553,
+        "Python": 11415,
+        "JavaScript": 11070,
+        "Swift": 588
+      },
+      "tech_stack": [
+        "Kotlin",
+        "HTML",
+        "Shell",
+        "CSS",
+        "Python",
+        "JavaScript",
+        "Swift"
+      ],
+      "topics": [],
+      "created_at": "2026-10-20T09:13:06Z",
+      "updated_at": "2026-10-26T07:39:29Z",
+      "pushed_at": "2026-10-26T02:11:19Z",
+      "ai_summary": {
+        "summary": "一个使用Kotlin开发的开源项目：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.，已获得5,500个star。",
+        "highlights": [
+          "5,500 stars",
+          "Kotlin"
+        ],
+        "tech_summary": "Kotlin",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_home.jpg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/aerial-tv/1_home.jpg",
+            "size": 188660,
+            "content_type": "image/jpeg",
+            "downloaded_at": "2026-10-26T07:40:44.666Z",
+            "original_url": "site/img/home.jpg",
+            "absolute_url": "https://raw.githubusercontent.com/pengchujin/aerial-tv/main/site/img/home.jpg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/aerial-tv",
+        "representative_image": {
+          "filename": "1_home.jpg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/aerial-tv/1_home.jpg",
+          "size": 188660,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-10-26T07:40:44.666Z",
+          "original_url": "site/img/home.jpg",
+          "absolute_url": "https://raw.githubusercontent.com/pengchujin/aerial-tv/main/site/img/home.jpg"
+        }
+      },
+      "activity_score": 89,
+      "popularity_score": 77,
+      "freshness_score": 100,
+      "overall_score": 85,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 2,
+      "name": "gpu-unlock-ada",
+      "full_name": "JustAResearcher/gpu-unlock-ada",
+      "owner": "JustAResearcher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4",
+      "stars": 3221,
+      "forks": 427,
+      "issues": 7,
+      "watchers": 3221,
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "homepage": null,
+      "clone_url": "https://github.com/JustAResearcher/gpu-unlock-ada.git",
+      "ssh_url": "git@github.com:JustAResearcher/gpu-unlock-ada.git",
+      "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "language": "C",
+      "primary_language": "C",
+      "languages": {
+        "C": 498960,
+        "Python": 131114,
+        "Cuda": 17357,
+        "PowerShell": 12047,
+        "Makefile": 6853,
+        "Shell": 2208
+      },
+      "tech_stack": [
+        "C",
+        "Python",
+        "Cuda",
+        "PowerShell",
+        "Makefile",
+        "Shell"
+      ],
+      "topics": [],
+      "created_at": "2026-10-23T21:00:53Z",
+      "updated_at": "2026-10-26T07:39:31Z",
+      "pushed_at": "2026-10-26T04:24:46Z",
+      "ai_summary": {
+        "summary": "一个使用C开发的开源项目：GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally，已获得3,221个star。",
+        "highlights": [
+          "3,221 stars",
+          "C"
+        ],
+        "tech_summary": "C",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/gpu-unlock-ada",
+        "representative_image": null
+      },
+      "activity_score": 63,
+      "popularity_score": 74,
+      "freshness_score": 100,
+      "overall_score": 76,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "php2shell-poc",
+      "full_name": "ikow/php2shell-poc",
+      "owner": "ikow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "stars": 1805,
+      "forks": 624,
+      "issues": 4,
+      "watchers": 1805,
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "homepage": null,
+      "clone_url": "https://github.com/ikow/php2shell-poc.git",
+      "ssh_url": "git@github.com:ikow/php2shell-poc.git",
+      "html_url": "https://github.com/ikow/php2shell-poc",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 62693,
+        "Shell": 17579,
+        "PHP": 5172,
+        "Lua": 3925
+      },
+      "tech_stack": [
+        "Python",
+        "Shell",
+        "PHP",
+        "Lua",
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit"
+      ],
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit",
+        "php-exploit",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "session-upload-progress",
+        "suricata-rules",
+        "vulnerability-research",
+        "waf-rules",
+        "wordpress-security"
+      ],
+      "created_at": "2026-10-21T07:55:16Z",
+      "updated_at": "2026-10-26T07:02:28Z",
+      "pushed_at": "2026-10-22T22:41:36Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.，已获得1,805个star。",
+        "highlights": [
+          "1,805 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_cover.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/php2shell-poc/1_cover.png",
+            "size": 2767482,
+            "content_type": "image/png",
+            "downloaded_at": "2026-10-26T07:40:49.333Z",
+            "original_url": "docs/cover.png",
+            "absolute_url": "https://raw.githubusercontent.com/ikow/php2shell-poc/main/docs/cover.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/php2shell-poc",
+        "representative_image": {
+          "filename": "1_cover.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/php2shell-poc/1_cover.png",
+          "size": 2767482,
+          "content_type": "image/png",
+          "downloaded_at": "2026-10-26T07:40:49.333Z",
+          "original_url": "docs/cover.png",
+          "absolute_url": "https://raw.githubusercontent.com/ikow/php2shell-poc/main/docs/cover.png"
+        }
+      },
+      "activity_score": 62,
+      "popularity_score": 71,
+      "freshness_score": 100,
+      "overall_score": 74,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "3d-model-anything",
+      "full_name": "wesbos/3d-model-anything",
+      "owner": "wesbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "stars": 1980,
+      "forks": 293,
+      "issues": 10,
+      "watchers": 1980,
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "homepage": "https://wesbos.github.io/3d-model-anything/",
+      "clone_url": "https://github.com/wesbos/3d-model-anything.git",
+      "ssh_url": "git@github.com:wesbos/3d-model-anything.git",
+      "html_url": "https://github.com/wesbos/3d-model-anything",
+      "language": "Swift",
+      "primary_language": "Swift",
+      "languages": {
+        "Swift": 518775,
+        "TypeScript": 220067,
+        "Python": 66768,
+        "HTML": 26864,
+        "CSS": 14802,
+        "JavaScript": 7117,
+        "Shell": 4905
+      },
+      "tech_stack": [
+        "Swift",
+        "TypeScript",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Shell",
+        "Node.js"
+      ],
+      "topics": [],
+      "created_at": "2026-10-21T19:38:50Z",
+      "updated_at": "2026-10-26T07:35:20Z",
+      "pushed_at": "2026-10-22T13:10:22Z",
+      "ai_summary": {
+        "summary": "一个使用Swift开发的开源项目：Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.，已获得1,980个star。",
+        "highlights": [
+          "1,980 stars",
+          "Swift"
+        ],
+        "tech_summary": "Swift",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_thumb-1.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/3d-model-anything/1_thumb-1.png",
+            "size": 2899393,
+            "content_type": "image/png",
+            "downloaded_at": "2026-10-26T07:40:46.826Z",
+            "original_url": "docs/images/thumb-1.png",
+            "absolute_url": "https://raw.githubusercontent.com/wesbos/3d-model-anything/main/docs/images/thumb-1.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/3d-model-anything",
+        "representative_image": {
+          "filename": "1_thumb-1.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/3d-model-anything/1_thumb-1.png",
+          "size": 2899393,
+          "content_type": "image/png",
+          "downloaded_at": "2026-10-26T07:40:46.826Z",
+          "original_url": "docs/images/thumb-1.png",
+          "absolute_url": "https://raw.githubusercontent.com/wesbos/3d-model-anything/main/docs/images/thumb-1.png"
+        }
+      },
+      "activity_score": 59,
+      "popularity_score": 70,
+      "freshness_score": 100,
+      "overall_score": 73,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "php2shell-bypass-aslr-exp",
+      "full_name": "9bie/php2shell-bypass-aslr-exp",
+      "owner": "9bie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "stars": 1449,
+      "forks": 422,
+      "issues": 6,
+      "watchers": 1449,
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "homepage": "",
+      "clone_url": "https://github.com/9bie/php2shell-bypass-aslr-exp.git",
+      "ssh_url": "git@github.com:9bie/php2shell-bypass-aslr-exp.git",
+      "html_url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 300373,
+        "GDB": 79584,
+        "PHP": 26790,
+        "Shell": 25831
+      },
+      "tech_stack": [
+        "Python",
+        "GDB",
+        "PHP",
+        "Shell",
+        "Docker"
+      ],
+      "topics": [],
+      "created_at": "2026-10-21T11:11:57Z",
+      "updated_at": "2026-10-26T06:47:47Z",
+      "pushed_at": "2026-10-23T20:40:43Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.，已获得1,449个star。",
+        "highlights": [
+          "1,449 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/php2shell-bypass-aslr-exp",
+        "representative_image": null
+      },
+      "activity_score": 60,
+      "popularity_score": 69,
+      "freshness_score": 100,
+      "overall_score": 73,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "day-trader-skill",
+      "full_name": "Jakeschincariol/day-trader-skill",
+      "owner": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "stars": 1777,
+      "forks": 380,
+      "issues": 8,
+      "watchers": 1777,
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "homepage": null,
+      "clone_url": "https://github.com/Jakeschincariol/day-trader-skill.git",
+      "ssh_url": "git@github.com:Jakeschincariol/day-trader-skill.git",
+      "html_url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 606958
+      },
+      "tech_stack": [
+        "Python",
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "created_at": "2026-10-20T14:17:54Z",
+      "updated_at": "2026-10-26T07:35:41Z",
+      "pushed_at": "2026-10-20T14:18:00Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.，已获得1,777个star。",
+        "highlights": [
+          "1,777 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/day-trader-skill",
+        "representative_image": null
+      },
+      "activity_score": 57,
+      "popularity_score": 70,
+      "freshness_score": 100,
+      "overall_score": 72,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "hackios-xnu-kernel",
+      "full_name": "oosexgang/hackios-xnu-kernel",
+      "owner": "oosexgang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343646710?v=4",
+      "stars": 1518,
+      "forks": 275,
+      "issues": 8,
+      "watchers": 1518,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/oosexgang/hackios-xnu-kernel.git",
+      "ssh_url": "git@github.com:oosexgang/hackios-xnu-kernel.git",
+      "html_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "language": "C",
+      "primary_language": "C",
+      "languages": {
+        "C": 4997164,
+        "Python": 631817,
+        "C++": 227293,
+        "Shell": 208649,
+        "Objective-C": 57634,
+        "Pawn": 10525,
+        "BitBake": 6265,
+        "Makefile": 3388,
+        "DenizenScript": 2457,
+        "Meson": 1393,
+        "Assembly": 1304,
+        "Metal": 1126,
+        "Raku": 777
+      },
+      "tech_stack": [
+        "C",
+        "Python",
+        "C++",
+        "Shell",
+        "Objective-C",
+        "Pawn",
+        "BitBake",
+        "Makefile"
+      ],
+      "topics": [],
+      "created_at": "2026-10-22T06:20:11Z",
+      "updated_at": "2026-10-26T07:40:04Z",
+      "pushed_at": "2026-10-26T01:50:02Z",
+      "ai_summary": {
+        "summary": "一个热门的C开源项目，在GitHub上获得了1,518个star，值得关注。",
+        "highlights": [
+          "1,518 stars",
+          "C"
+        ],
+        "tech_summary": "C",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/hackios-xnu-kernel",
+        "representative_image": null
+      },
+      "activity_score": 60,
+      "popularity_score": 68,
+      "freshness_score": 100,
+      "overall_score": 72,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "hatchzip",
+      "full_name": "xevrion/hatchzip",
+      "owner": "xevrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77008538?v=4",
+      "stars": 1976,
+      "forks": 53,
+      "issues": 3,
+      "watchers": 1976,
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "homepage": "https://hatchzip.dev",
+      "clone_url": "https://github.com/xevrion/hatchzip.git",
+      "ssh_url": "git@github.com:xevrion/hatchzip.git",
+      "html_url": "https://github.com/xevrion/hatchzip",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 874809,
+        "HTML": 85281,
+        "Slint": 39966,
+        "Shell": 23537,
+        "PowerShell": 20948,
+        "Python": 19795,
+        "Inno Setup": 7902,
+        "CSS": 6816,
+        "Ruby": 4958
+      },
+      "tech_stack": [
+        "Rust",
+        "HTML",
+        "Slint",
+        "Shell",
+        "PowerShell",
+        "Python",
+        "Inno Setup",
+        "CSS"
+      ],
+      "topics": [
+        "7z",
+        "7zip",
+        "archive",
+        "archive-extractor",
+        "cli",
+        "crash-safe",
+        "disk-space",
+        "extract",
+        "extractor",
+        "gui",
+        "in-place",
+        "linux",
+        "macos",
+        "rar",
+        "rust",
+        "tar",
+        "unrar",
+        "unzip",
+        "windows",
+        "zip"
+      ],
+      "created_at": "2026-10-21T17:29:28Z",
+      "updated_at": "2026-10-26T07:39:38Z",
+      "pushed_at": "2026-10-25T17:45:27Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.，已获得1,976个star。",
+        "highlights": [
+          "1,976 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_badge.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/hatchzip/1_badge.svg",
+            "size": 2263,
+            "content_type": "image/svg+xml; charset=utf-8",
+            "downloaded_at": "2026-10-26T07:40:48.248Z",
+            "original_url": "https://github.com/xevrion/hatchzip/actions/workflows/ci.yml/badge.svg",
+            "absolute_url": "https://github.com/xevrion/hatchzip/actions/workflows/ci.yml/badge.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/hatchzip",
+        "representative_image": {
+          "filename": "1_badge.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/hatchzip/1_badge.svg",
+          "size": 2263,
+          "content_type": "image/svg+xml; charset=utf-8",
+          "downloaded_at": "2026-10-26T07:40:48.248Z",
+          "original_url": "https://github.com/xevrion/hatchzip/actions/workflows/ci.yml/badge.svg",
+          "absolute_url": "https://github.com/xevrion/hatchzip/actions/workflows/ci.yml/badge.svg"
+        }
+      },
+      "activity_score": 53,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 68,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "php2shell-checker",
+      "full_name": "openai/php2shell-checker",
+      "owner": "openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "stars": 1405,
+      "forks": 130,
+      "issues": 2,
+      "watchers": 1405,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/openai/php2shell-checker.git",
+      "ssh_url": "org-14957082@github.com:openai/php2shell-checker.git",
+      "html_url": "https://github.com/openai/php2shell-checker",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 12218
+      },
+      "tech_stack": [
+        "JavaScript"
+      ],
+      "topics": [],
+      "created_at": "2026-10-21T00:29:12Z",
+      "updated_at": "2026-10-26T07:29:36Z",
+      "pushed_at": "2026-10-22T22:55:16Z",
+      "ai_summary": {
+        "summary": "一个热门的JavaScript开源项目，在GitHub上获得了1,405个star，值得关注。",
+        "highlights": [
+          "1,405 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/php2shell-checker",
+        "representative_image": null
+      },
+      "activity_score": 51,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 68,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 10,
+      "name": "reylo",
+      "full_name": "colinhacks/reylo",
+      "owner": "colinhacks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "stars": 1272,
+      "forks": 10,
+      "issues": 10,
+      "watchers": 1272,
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "homepage": "https://reylo.dev",
+      "clone_url": "https://github.com/colinhacks/reylo.git",
+      "ssh_url": "git@github.com:colinhacks/reylo.git",
+      "html_url": "https://github.com/colinhacks/reylo",
+      "language": "Rust",
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 2486272,
+        "TypeScript": 1776525,
+        "MDX": 177949,
+        "CSS": 91678,
+        "C": 48278,
+        "JavaScript": 47141,
+        "Shell": 14758,
+        "PLpgSQL": 11623,
+        "Python": 3165,
+        "HTML": 597
+      },
+      "tech_stack": [
+        "Rust",
+        "TypeScript",
+        "MDX",
+        "CSS",
+        "C",
+        "JavaScript",
+        "Shell",
+        "PLpgSQL"
+      ],
+      "topics": [],
+      "created_at": "2026-10-21T00:16:54Z",
+      "updated_at": "2026-10-26T07:20:41Z",
+      "pushed_at": "2026-10-25T16:05:29Z",
+      "ai_summary": {
+        "summary": "一个使用Rust开发的开源项目：Import .sql files into TypeScript with full type inference and zero codegen.，已获得1,272个star。",
+        "highlights": [
+          "1,272 stars",
+          "Rust"
+        ],
+        "tech_summary": "Rust",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_readme-logo-light.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/reylo/1_readme-logo-light.svg",
+            "size": 4846,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-10-26T07:40:54.450Z",
+            "original_url": "site/public/readme-logo-light.svg",
+            "absolute_url": "https://raw.githubusercontent.com/colinhacks/reylo/main/site/public/readme-logo-light.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/reylo",
+        "representative_image": {
+          "filename": "1_readme-logo-light.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-44/reylo/1_readme-logo-light.svg",
+          "size": 4846,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-10-26T07:40:54.450Z",
+          "original_url": "site/public/readme-logo-light.svg",
+          "absolute_url": "https://raw.githubusercontent.com/colinhacks/reylo/main/site/public/readme-logo-light.svg"
+        }
+      },
+      "activity_score": 56,
+      "popularity_score": 58,
+      "freshness_score": 100,
+      "overall_score": 66,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 21903,
+    "total_forks": 3069,
+    "average_stars": 2190,
+    "average_forks": 307,
+    "top_languages": [
+      {
+        "name": "Python",
+        "count": 3
+      },
+      {
+        "name": "C",
+        "count": 2
+      },
+      {
+        "name": "Rust",
+        "count": 2
+      },
+      {
+        "name": "Kotlin",
+        "count": 1
+      },
+      {
+        "name": "Swift",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "cve-2026-109618",
+        "count": 1
+      },
+      {
+        "name": "cve-2026-109619",
+        "count": 1
+      },
+      {
+        "name": "detection-rules",
+        "count": 1
+      },
+      {
+        "name": "exploit",
+        "count": 1
+      },
+      {
+        "name": "php-exploit",
+        "count": 1
+      },
+      {
+        "name": "php-security",
+        "count": 1
+      },
+      {
+        "name": "php2shell",
+        "count": 1
+      },
+      {
+        "name": "poc",
+        "count": 1
+      },
+      {
+        "name": "rce",
+        "count": 1
+      },
+      {
+        "name": "session-upload-progress",
+        "count": 1
+      }
+    ],
+    "score_distribution": {
+      "min": 66,
+      "max": 85,
+      "average": 73,
+      "median": 73
+    }
+  },
+  "generated_at": "2026-10-26T07:40:54.456Z"
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第44周",
+    "year": 2026,
+    "week": 44,
+    "week_range": {
+      "start": "2026-10-25",
+      "end": "2026-10-31"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-10-31 23:59:59",
+    "next_update": "2026-11-07"
+  },
+  "repositories": [
+    {
+      "full_name": "pengchujin/aerial-tv",
+      "rank": 1,
+      "stars": 5500,
+      "forks": 455,
+      "overall_score": 85
+    },
+    {
+      "full_name": "JustAResearcher/gpu-unlock-ada",
+      "rank": 2,
+      "stars": 3221,
+      "forks": 427,
+      "overall_score": 76
+    },
+    {
+      "full_name": "ikow/php2shell-poc",
+      "rank": 3,
+      "stars": 1805,
+      "forks": 624,
+      "overall_score": 74
+    },
+    {
+      "full_name": "wesbos/3d-model-anything",
+      "rank": 4,
+      "stars": 1980,
+      "forks": 293,
+      "overall_score": 73
+    },
+    {
+      "full_name": "9bie/php2shell-bypass-aslr-exp",
+      "rank": 5,
+      "stars": 1449,
+      "forks": 422,
+      "overall_score": 73
+    },
+    {
+      "full_name": "Jakeschincariol/day-trader-skill",
+      "rank": 6,
+      "stars": 1777,
+      "forks": 380,
+      "overall_score": 72
+    },
+    {
+      "full_name": "oosexgang/hackios-xnu-kernel",
+      "rank": 7,
+      "stars": 1518,
+      "forks": 275,
+      "overall_score": 72
+    },
+    {
+      "full_name": "xevrion/hatchzip",
+      "rank": 8,
+      "stars": 1976,
+      "forks": 53,
+      "overall_score": 68
+    },
+    {
+      "full_name": "openai/php2shell-checker",
+      "rank": 9,
+      "stars": 1405,
+      "forks": 130,
+      "overall_score": 68
+    },
+    {
+      "full_name": "colinhacks/reylo",
+      "rank": 10,
+      "stars": 1272,
+      "forks": 10,
+      "overall_score": 66
+    }
+  ],
+  "generated_at": "2026-10-26T07:40:54.456Z"
+}
