@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第45周",
+    "year": 2026,
+    "week": 45,
+    "week_range": {
+      "start": "2026-11-01",
+      "end": "2026-11-07"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-11-07 23:59:59",
+    "next_update": "2026-11-14"
+  },
+  "repositories": [
+    {
+      "full_name": "wangzan101/Mika",
+      "rank": 1,
+      "stars": 4634,
+      "forks": 877,
+      "overall_score": 88
+    },
+    {
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "rank": 2,
+      "stars": 5346,
+      "forks": 1367,
+      "overall_score": 83
+    },
+    {
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "rank": 3,
+      "stars": 10533,
+      "forks": 1077,
+      "overall_score": 82
+    },
+    {
+      "full_name": "valentderah/totk-pc-recomp",
+      "rank": 4,
+      "stars": 3457,
+      "forks": 277,
+      "overall_score": 82
+    },
+    {
+      "full_name": "Djihads80/Eglantine",
+      "rank": 5,
+      "stars": 2147,
+      "forks": 255,
+      "overall_score": 81
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "rank": 6,
+      "stars": 1995,
+      "forks": 314,
+      "overall_score": 81
+    },
+    {
+      "full_name": "haydenschmitty/floorplan",
+      "rank": 7,
+      "stars": 1966,
+      "forks": 144,
+      "overall_score": 77
+    },
+    {
+      "full_name": "heydamir/unslop",
+      "rank": 8,
+      "stars": 5282,
+      "forks": 259,
+      "overall_score": 75
+    },
+    {
+      "full_name": "patch-gg/pixelfx",
+      "rank": 9,
+      "stars": 3079,
+      "forks": 410,
+      "overall_score": 74
+    },
+    {
+      "full_name": "paipiange/nvzhuang",
+      "rank": 10,
+      "stars": 2007,
+      "forks": 519,
+      "overall_score": 73
+    }
+  ],
+  "generated_at": "2026-11-02T09:15:13.630Z"
+}

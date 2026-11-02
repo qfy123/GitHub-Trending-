@@ -18,218 +18,220 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第44周
+### GitHub趋势排行榜 - 2026年第45周
 
-**📅 统计周期**: 2026-10-25 ~ 2026-10-31  
+**📅 统计周期**: 2026-11-01 ~ 2026-11-07  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 21,903  
-**🔄 更新时间**: 2026-10-31 23:59:59  
+**⭐ 总Star数**: 40,446  
+**🔄 更新时间**: 2026-11-07 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [aerial-tv](https://github.com/pengchujin/aerial-tv) | 一个使用Kotlin开发的开源项目：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌... | 5,500 | 455 | Kotlin | 🆕 |
-| 2 | [gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 一个使用C开发的开源项目：GPU tensor unlock source for RTX 4090 and ex... | 3,221 | 427 | C | 🆕 |
-| 3 | [php2shell-poc](https://github.com/ikow/php2shell-poc) | 一个使用Python开发的开源项目：CVE-2026-109618/109619 — 5 RCE chains +... | 1,805 | 624 | Python | 🆕 |
-| 4 | [3d-model-anything](https://github.com/wesbos/3d-model-anything) | 一个使用Swift开发的开源项目：Capture iPhone LiDAR and photos, reconst... | 1,980 | 293 | Swift | 🆕 |
-| 5 | [php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 一个使用Python开发的开源项目：A php2shell exploit that requires no mo... | 1,449 | 422 | Python | 🆕 |
-| 6 | [day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 一个使用Python开发的开源项目：11 Claude skills for day trading: scan ... | 1,777 | 380 | Python | 🆕 |
-| 7 | [hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 一个热门的C开源项目，在GitHub上获得了1,518个star，值得关注。 | 1,518 | 275 | C | 🆕 |
-| 8 | [hatchzip](https://github.com/xevrion/hatchzip) | 一个使用Rust开发的开源项目：HatchZip is a free, open-source archive e... | 1,976 | 53 | Rust | 🆕 |
-| 9 | [php2shell-checker](https://github.com/openai/php2shell-checker) | 一个热门的JavaScript开源项目，在GitHub上获得了1,405个star，值得关注。 | 1,405 | 130 | JavaScript | 🆕 |
-| 10 | [reylo](https://github.com/colinhacks/reylo) | 一个使用Rust开发的开源项目：Import .sql files into TypeScript with fu... | 1,272 | 10 | Rust | 🆕 |
+| 1 | [Mika](https://github.com/wangzan101/Mika) | 一个使用Kotlin开发的开源项目：An on-device AI agent for Android that ... | 4,634 | 877 | Kotlin | 🆕 |
+| 2 | [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 一个使用TypeScript开发的开源项目：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 /... | 5,346 | 1,367 | TypeScript | 🆕 |
+| 3 | [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 一个使用TypeScript开发的开源项目：Towards a More Autonomous Agent Sys... | 10,533 | 1,077 | TypeScript | 🆕 |
+| 4 | [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 一个使用C开发的开源项目：Static recompilation of The Legend of Zelda:... | 3,457 | 277 | C | 🆕 |
+| 5 | [Eglantine](https://github.com/Djihads80/Eglantine) | 一个使用C++开发的开源项目：VERY experimental Nintendo Switch 2 emulat... | 2,147 | 255 | C++ | 🆕 |
+| 6 | [craft-anything](https://github.com/storytold/craft-anything) | 一个使用Rust开发的开源项目：Craft Anything: understand how any softwa... | 1,995 | 314 | Rust | 🆕 |
+| 7 | [floorplan](https://github.com/haydenschmitty/floorplan) | 一个使用JavaScript开发的开源项目：See how your app actually fits toge... | 1,966 | 144 | JavaScript | 🆕 |
+| 8 | [unslop](https://github.com/heydamir/unslop) | 一个使用JavaScript开发的开源项目：A Claude skill that turns vibecoded... | 5,282 | 259 | JavaScript | 🆕 |
+| 9 | [pixelfx](https://github.com/patch-gg/pixelfx) | 一个使用JavaScript开发的开源项目：244 pixel art effects, every one a ... | 3,079 | 410 | JavaScript | 🆕 |
+| 10 | [nvzhuang](https://github.com/paipiange/nvzhuang) | 一个使用Go开发的开源项目：1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Image... | 2,007 | 519 | Go | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [aerial-tv](https://github.com/pengchujin/aerial-tv) ![Star](https://img.shields.io/github/stars/pengchujin/aerial-tv?style=social)
+#### 1. [Mika](https://github.com/wangzan101/Mika) ![Star](https://img.shields.io/github/stars/wangzan101/Mika?style=social)
 
-<img src="./images/2026/week-44/aerial-tv/1_home.jpg" alt="aerial-tv" width="500"/>
+<img src="./images/2026/week-45/mika/1_logo.png" alt="Mika" width="500"/>
 
-**📝 项目简介**: 一个使用Kotlin开发的开源项目：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.，已获得5,500个star。
+**📝 项目简介**: 一个使用Kotlin开发的开源项目：An on-device AI agent for Android that operates apps and the web to get things done for you.，已获得4,634个star。
 
 **✨ 核心特性**:
-- 5,500 stars
+- 4,634 stars
 - Kotlin
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,500
-- **🔀 Fork数**: 455
-- **👀 Watch数**: 5,500
+- **⭐ Star数**: 4,634
+- **🔀 Fork数**: 877
+- **👀 Watch数**: 4,634
 - **📝 语言**: Kotlin
-- **🌐 官网**: [https://aerial.qust.me](https://aerial.qust.me)
-- **💻 技术栈**: Kotlin, HTML, Shell, CSS, Python, JavaScript
+- **💻 技术栈**: Kotlin, JavaScript, Python, Go, HTML, Java
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) ![Star](https://img.shields.io/github/stars/JustAResearcher/gpu-unlock-ada?style=social)
+#### 2. [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) ![Star](https://img.shields.io/github/stars/anhao/ai-pose-gallery-zh?style=social)
 
-**📝 项目简介**: 一个使用C开发的开源项目：GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally，已获得3,221个star。
+<img src="./images/2026/week-45/ai-pose-gallery-zh/1_preview.jpg" alt="ai-pose-gallery-zh" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊，已获得5,346个star。
 
 **✨ 核心特性**:
-- 3,221 stars
+- 5,346 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 5,346
+- **🔀 Fork数**: 1,367
+- **👀 Watch数**: 5,346
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://ai-pose-gallery.anhao.app](https://ai-pose-gallery.anhao.app)
+- **💻 技术栈**: TypeScript, Python, JavaScript, CSS, HTML, Shell
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) ![Star](https://img.shields.io/github/stars/deepseek-ai/dsh-superagent-prototype?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：Towards a More Autonomous Agent System，已获得10,533个star。
+
+**✨ 核心特性**:
+- 10,533 stars
+- TypeScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 10,533
+- **🔀 Fork数**: 1,077
+- **👀 Watch数**: 10,533
+- **📝 语言**: TypeScript
+- **💻 技术栈**: TypeScript, CSS, Python
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 4. [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) ![Star](https://img.shields.io/github/stars/valentderah/totk-pc-recomp?style=social)
+
+**📝 项目简介**: 一个使用C开发的开源项目：Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.，已获得3,457个star。
+
+**✨ 核心特性**:
+- 3,457 stars
 - C
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,221
-- **🔀 Fork数**: 427
-- **👀 Watch数**: 3,221
+- **⭐ Star数**: 3,457
+- **🔀 Fork数**: 277
+- **👀 Watch数**: 3,457
 - **📝 语言**: C
-- **💻 技术栈**: C, Python, Cuda, PowerShell, Makefile, Shell
+- **💻 技术栈**: C, Python, C++, C#, GLSL, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [php2shell-poc](https://github.com/ikow/php2shell-poc) ![Star](https://img.shields.io/github/stars/ikow/php2shell-poc?style=social)
+#### 5. [Eglantine](https://github.com/Djihads80/Eglantine) ![Star](https://img.shields.io/github/stars/Djihads80/Eglantine?style=social)
 
-<img src="./images/2026/week-44/php2shell-poc/1_cover.png" alt="php2shell-poc" width="500"/>
-
-**📝 项目简介**: 一个使用Python开发的开源项目：CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.，已获得1,805个star。
+**📝 项目简介**: 一个使用C++开发的开源项目：VERY experimental Nintendo Switch 2 emulator，已获得2,147个star。
 
 **✨ 核心特性**:
-- 1,805 stars
-- Python
+- 2,147 stars
+- C++
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,805
-- **🔀 Fork数**: 624
-- **👀 Watch数**: 1,805
-- **📝 语言**: Python
-- **💻 技术栈**: Python, Shell, PHP, Lua, cve-2026-109618, cve-2026-109619
+- **⭐ Star数**: 2,147
+- **🔀 Fork数**: 255
+- **👀 Watch数**: 2,147
+- **📝 语言**: C++
+- **💻 技术栈**: C++, Kotlin, CMake, GLSL, Shell, Python
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [3d-model-anything](https://github.com/wesbos/3d-model-anything) ![Star](https://img.shields.io/github/stars/wesbos/3d-model-anything?style=social)
+#### 6. [craft-anything](https://github.com/storytold/craft-anything) ![Star](https://img.shields.io/github/stars/storytold/craft-anything?style=social)
 
-<img src="./images/2026/week-44/3d-model-anything/1_thumb-1.png" alt="3d-model-anything" width="500"/>
+<img src="./images/2026/week-45/craft-anything/1_artcraft-logo.svg" alt="craft-anything" width="500"/>
 
-**📝 项目简介**: 一个使用Swift开发的开源项目：Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.，已获得1,980个star。
-
-**✨ 核心特性**:
-- 1,980 stars
-- Swift
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,980
-- **🔀 Fork数**: 293
-- **👀 Watch数**: 1,980
-- **📝 语言**: Swift
-- **🌐 官网**: [https://wesbos.github.io/3d-model-anything/](https://wesbos.github.io/3d-model-anything/)
-- **💻 技术栈**: Swift, TypeScript, Python, HTML, CSS, JavaScript
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 5. [php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) ![Star](https://img.shields.io/github/stars/9bie/php2shell-bypass-aslr-exp?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.，已获得1,449个star。
+**📝 项目简介**: 一个使用Rust开发的开源项目：Craft Anything: understand how any software works, and craft your own.，已获得1,995个star。
 
 **✨ 核心特性**:
-- 1,449 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,449
-- **🔀 Fork数**: 422
-- **👀 Watch数**: 1,449
-- **📝 语言**: Python
-- **💻 技术栈**: Python, GDB, PHP, Shell, Docker
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 6. [day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) ![Star](https://img.shields.io/github/stars/Jakeschincariol/day-trader-skill?style=social)
-
-**📝 项目简介**: 一个使用Python开发的开源项目：11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.，已获得1,777个star。
-
-**✨ 核心特性**:
-- 1,777 stars
-- Python
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,777
-- **🔀 Fork数**: 380
-- **👀 Watch数**: 1,777
-- **📝 语言**: Python
-- **💻 技术栈**: Python, backtesting, claude, claude-skills, day-trading, stock-market
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 7. [hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) ![Star](https://img.shields.io/github/stars/oosexgang/hackios-xnu-kernel?style=social)
-
-**📝 项目简介**: 一个热门的C开源项目，在GitHub上获得了1,518个star，值得关注。
-
-**✨ 核心特性**:
-- 1,518 stars
-- C
-
-**📊 项目统计**:
-- **⭐ Star数**: 1,518
-- **🔀 Fork数**: 275
-- **👀 Watch数**: 1,518
-- **📝 语言**: C
-- **💻 技术栈**: C, Python, C++, Shell, Objective-C, Pawn
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 8. [hatchzip](https://github.com/xevrion/hatchzip) ![Star](https://img.shields.io/github/stars/xevrion/hatchzip?style=social)
-
-<img src="./images/2026/week-44/hatchzip/1_badge.svg" alt="hatchzip" width="500"/>
-
-**📝 项目简介**: 一个使用Rust开发的开源项目：HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.，已获得1,976个star。
-
-**✨ 核心特性**:
-- 1,976 stars
+- 1,995 stars
 - Rust
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,976
-- **🔀 Fork数**: 53
-- **👀 Watch数**: 1,976
+- **⭐ Star数**: 1,995
+- **🔀 Fork数**: 314
+- **👀 Watch数**: 1,995
 - **📝 语言**: Rust
-- **🌐 官网**: [https://hatchzip.dev](https://hatchzip.dev)
-- **💻 技术栈**: Rust, HTML, Slint, Shell, PowerShell, Python
+- **💻 技术栈**: Rust, Shell, PowerShell, Java, Python, Swift
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 9. [php2shell-checker](https://github.com/openai/php2shell-checker) ![Star](https://img.shields.io/github/stars/openai/php2shell-checker?style=social)
+#### 7. [floorplan](https://github.com/haydenschmitty/floorplan) ![Star](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=social)
 
-**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了1,405个star，值得关注。
+<img src="./images/2026/week-45/floorplan/1_logo-light.png" alt="floorplan" width="500"/>
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.，已获得1,966个star。
 
 **✨ 核心特性**:
-- 1,405 stars
+- 1,966 stars
 - JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,405
-- **🔀 Fork数**: 130
-- **👀 Watch数**: 1,405
+- **⭐ Star数**: 1,966
+- **🔀 Fork数**: 144
+- **👀 Watch数**: 1,966
 - **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript
+- **🌐 官网**: [https://haydenschmitty.github.io/floorplan-demo/](https://haydenschmitty.github.io/floorplan-demo/)
+- **💻 技术栈**: JavaScript, HTML, ai-coding, architecture-diagram, claude, claude-code
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 10. [reylo](https://github.com/colinhacks/reylo) ![Star](https://img.shields.io/github/stars/colinhacks/reylo?style=social)
+#### 8. [unslop](https://github.com/heydamir/unslop) ![Star](https://img.shields.io/github/stars/heydamir/unslop?style=social)
 
-<img src="./images/2026/week-44/reylo/1_readme-logo-light.svg" alt="reylo" width="500"/>
+<img src="./images/2026/week-45/unslop/1_story-dashboard-frames.webp" alt="unslop" width="500"/>
 
-**📝 项目简介**: 一个使用Rust开发的开源项目：Import .sql files into TypeScript with full type inference and zero codegen.，已获得1,272个star。
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：A Claude skill that turns vibecoded, AI-looking UI into a designed interface，已获得5,282个star。
 
 **✨ 核心特性**:
-- 1,272 stars
-- Rust
+- 5,282 stars
+- JavaScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,272
-- **🔀 Fork数**: 10
-- **👀 Watch数**: 1,272
-- **📝 语言**: Rust
-- **🌐 官网**: [https://reylo.dev](https://reylo.dev)
-- **💻 技术栈**: Rust, TypeScript, MDX, CSS, C, JavaScript
+- **⭐ Star数**: 5,282
+- **🔀 Fork数**: 259
+- **👀 Watch数**: 5,282
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, React, Vue
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 9. [pixelfx](https://github.com/patch-gg/pixelfx) ![Star](https://img.shields.io/github/stars/patch-gg/pixelfx?style=social)
+
+**📝 项目简介**: 一个使用JavaScript开发的开源项目：244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.，已获得3,079个star。
+
+**✨ 核心特性**:
+- 3,079 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,079
+- **🔀 Fork数**: 410
+- **👀 Watch数**: 3,079
+- **📝 语言**: JavaScript
+- **🌐 官网**: [https://patch-gg.github.io/pixelfx/](https://patch-gg.github.io/pixelfx/)
+- **💻 技术栈**: JavaScript, CSS, HTML, agent-skills, animation, canvas
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 10. [nvzhuang](https://github.com/paipiange/nvzhuang) ![Star](https://img.shields.io/github/stars/paipiange/nvzhuang?style=social)
+
+<img src="./images/2026/week-45/nvzhuang/1_screenshot-zh.png" alt="nvzhuang" width="500"/>
+
+**📝 项目简介**: 一个使用Go开发的开源项目：1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang，已获得2,007个star。
+
+**✨ 核心特性**:
+- 2,007 stars
+- Go
+
+**📊 项目统计**:
+- **⭐ Star数**: 2,007
+- **🔀 Fork数**: 519
+- **👀 Watch数**: 2,007
+- **📝 语言**: Go
+- **🌐 官网**: [https://paipiange.github.io/nvzhuang/](https://paipiange.github.io/nvzhuang/)
+- **💻 技术栈**: Go, HTML, JavaScript, Spring, Docker
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -237,21 +239,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **Python** (3 个项目)
-2. **C** (2 个项目)
-3. **Rust** (2 个项目)
-4. **Kotlin** (1 个项目)
-5. **Swift** (1 个项目)
+1. **JavaScript** (3 个项目)
+2. **TypeScript** (2 个项目)
+3. **Kotlin** (1 个项目)
+4. **C** (1 个项目)
+5. **C++** (1 个项目)
 
 **🏷️ 热门话题**:
-1. cve-2026-109618 (1)
-2. cve-2026-109619 (1)
-3. detection-rules (1)
-4. exploit (1)
-5. php-exploit (1)
-6. php-security (1)
-7. php2shell (1)
-8. poc (1)
+1. claude-code-plugin (2)
+2. accessibility (1)
+3. ai-agent (1)
+4. android (1)
+5. automation (1)
+6. jetpack-compose (1)
+7. kotlin (1)
+8. llm (1)
 
 
 <!-- TRENDING-END -->
@@ -261,6 +263,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 11-07 | 2026年第45周 | 10 个 | [查看详情](./archives/2026/week-45/report.md) |
 | 10-31 | 2026年第44周 | 10 个 | [查看详情](./archives/2026/week-44/report.md) |
 | 10-24 | 2026年第43周 | 10 个 | [查看详情](./archives/2026/week-43/report.md) |
 | 10-17 | 2026年第42周 | 10 个 | [查看详情](./archives/2026/week-42/report.md) |
@@ -280,7 +283,6 @@
 | 07-11 | 2026年第28周 | 10 个 | [查看详情](./archives/2026/week-28/report.md) |
 | 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
 | 06-27 | 2026年第26周 | 10 个 | [查看详情](./archives/2026/week-26/report.md) |
-| 06-20 | 2026年第25周 | 10 个 | [查看详情](./archives/2026/week-25/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
