@@ -1,0 +1,912 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第46周",
+    "year": 2026,
+    "week": 46,
+    "week_range": {
+      "start": "2026-11-08",
+      "end": "2026-11-14"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-11-14 23:59:59",
+    "next_update": "2026-11-21"
+  },
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "Hookshot",
+      "full_name": "NotRexed/Hookshot",
+      "owner": "NotRexed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179062254?v=4",
+      "stars": 3570,
+      "forks": 345,
+      "issues": 89,
+      "watchers": 3570,
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "homepage": "",
+      "clone_url": "https://github.com/NotRexed/Hookshot.git",
+      "ssh_url": "git@github.com:NotRexed/Hookshot.git",
+      "html_url": "https://github.com/NotRexed/Hookshot",
+      "language": "C++",
+      "primary_language": "C++",
+      "languages": {
+        "C++": 4652207,
+        "C": 1753494,
+        "Python": 990989,
+        "C#": 131576,
+        "Shell": 27349,
+        "CMake": 6785,
+        "PowerShell": 3571,
+        "Batchfile": 716,
+        "GLSL": 692
+      },
+      "tech_stack": [
+        "C++",
+        "C",
+        "Python",
+        "C#",
+        "Shell",
+        "CMake",
+        "PowerShell",
+        "Batchfile"
+      ],
+      "topics": [],
+      "created_at": "2026-11-05T12:18:58Z",
+      "updated_at": "2026-11-09T09:32:06Z",
+      "pushed_at": "2026-11-09T09:10:30Z",
+      "ai_summary": {
+        "summary": "一个使用C++开发的开源项目：A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake，已获得3,570个star。",
+        "highlights": [
+          "3,570 stars",
+          "C++"
+        ],
+        "tech_summary": "C++",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_hookshot.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/hookshot/1_hookshot.png",
+            "size": 55559,
+            "content_type": "image/png",
+            "downloaded_at": "2026-11-09T09:34:16.172Z",
+            "original_url": "assets/hookshot.png",
+            "absolute_url": "https://raw.githubusercontent.com/NotRexed/Hookshot/main/assets/hookshot.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/hookshot",
+        "representative_image": {
+          "filename": "1_hookshot.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/hookshot/1_hookshot.png",
+          "size": 55559,
+          "content_type": "image/png",
+          "downloaded_at": "2026-11-09T09:34:16.172Z",
+          "original_url": "assets/hookshot.png",
+          "absolute_url": "https://raw.githubusercontent.com/NotRexed/Hookshot/main/assets/hookshot.png"
+        }
+      },
+      "activity_score": 87,
+      "popularity_score": 74,
+      "freshness_score": 100,
+      "overall_score": 83,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "owner": "worldonlyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "stars": 3315,
+      "forks": 1217,
+      "issues": 26,
+      "watchers": 3315,
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "homepage": null,
+      "clone_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto.git",
+      "ssh_url": "git@github.com:worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto.git",
+      "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 115568,
+        "HTML": 33367,
+        "Batchfile": 1128
+      },
+      "tech_stack": [
+        "Python",
+        "HTML",
+        "Batchfile"
+      ],
+      "topics": [],
+      "created_at": "2026-11-04T14:54:56Z",
+      "updated_at": "2026-11-09T09:23:54Z",
+      "pushed_at": "2026-11-06T03:52:06Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：Google_AI_Pro_2Year_ZeroCost_Auto，已获得3,315个star。",
+        "highlights": [
+          "3,315 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/google_ai_pro_2year_zerocost_auto",
+        "representative_image": null
+      },
+      "activity_score": 83,
+      "popularity_score": 77,
+      "freshness_score": 100,
+      "overall_score": 83,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 3,
+      "name": "HGhub",
+      "full_name": "Minireel/HGhub",
+      "owner": "Minireel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328980256?v=4",
+      "stars": 4496,
+      "forks": 1742,
+      "issues": 8,
+      "watchers": 4496,
+      "description": "YellowFruit third-party client",
+      "homepage": "",
+      "clone_url": "https://github.com/Minireel/HGhub.git",
+      "ssh_url": "git@github.com:Minireel/HGhub.git",
+      "html_url": "https://github.com/Minireel/HGhub",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 273779,
+        "Rust": 127735,
+        "JavaScript": 31478,
+        "CSS": 27243,
+        "Python": 2018,
+        "HTML": 1373
+      },
+      "tech_stack": [
+        "TypeScript",
+        "Rust",
+        "JavaScript",
+        "CSS",
+        "Python",
+        "HTML",
+        "android",
+        "drama"
+      ],
+      "topics": [
+        "android",
+        "drama",
+        "free",
+        "movie-web-app",
+        "reels",
+        "windows"
+      ],
+      "created_at": "2026-11-03T14:04:27Z",
+      "updated_at": "2026-11-09T09:33:11Z",
+      "pushed_at": "2026-11-09T02:09:10Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：YellowFruit third-party client，已获得4,496个star。",
+        "highlights": [
+          "4,496 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 0,
+        "image_list": [],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/hghub",
+        "representative_image": null
+      },
+      "activity_score": 75,
+      "popularity_score": 79,
+      "freshness_score": 100,
+      "overall_score": 82,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 4,
+      "name": "agent-autoloop",
+      "full_name": "KKKKhazix/agent-autoloop",
+      "owner": "KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "stars": 4211,
+      "forks": 765,
+      "issues": 4,
+      "watchers": 4211,
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "homepage": "",
+      "clone_url": "https://github.com/KKKKhazix/agent-autoloop.git",
+      "ssh_url": "git@github.com:KKKKhazix/agent-autoloop.git",
+      "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 1215423,
+        "Shell": 9578,
+        "PowerShell": 5012,
+        "JavaScript": 590,
+        "Batchfile": 81
+      },
+      "tech_stack": [
+        "TypeScript",
+        "Shell",
+        "PowerShell",
+        "JavaScript",
+        "Batchfile",
+        "ai-agents",
+        "automation",
+        "claude-code"
+      ],
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "created_at": "2026-11-03T08:02:11Z",
+      "updated_at": "2026-11-09T09:27:54Z",
+      "pushed_at": "2026-11-09T08:29:55Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。，已获得4,211个star。",
+        "highlights": [
+          "4,211 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_architecture.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/agent-autoloop/1_architecture.svg",
+            "size": 10650,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-11-09T09:34:15.148Z",
+            "original_url": "docs/architecture.svg",
+            "absolute_url": "https://raw.githubusercontent.com/KKKKhazix/agent-autoloop/main/docs/architecture.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/agent-autoloop",
+        "representative_image": {
+          "filename": "1_architecture.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/agent-autoloop/1_architecture.svg",
+          "size": 10650,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-11-09T09:34:15.148Z",
+          "original_url": "docs/architecture.svg",
+          "absolute_url": "https://raw.githubusercontent.com/KKKKhazix/agent-autoloop/main/docs/architecture.svg"
+        }
+      },
+      "activity_score": 68,
+      "popularity_score": 77,
+      "freshness_score": 100,
+      "overall_score": 79,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 5,
+      "name": "sheeridVerify",
+      "full_name": "JenkinWoo/sheeridVerify",
+      "owner": "JenkinWoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51308528?v=4",
+      "stars": 1897,
+      "forks": 1016,
+      "issues": 0,
+      "watchers": 1897,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/JenkinWoo/sheeridVerify.git",
+      "ssh_url": "git@github.com:JenkinWoo/sheeridVerify.git",
+      "html_url": "https://github.com/JenkinWoo/sheeridVerify",
+      "language": "JavaScript",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 226522,
+        "CSS": 17428,
+        "HTML": 2929
+      },
+      "tech_stack": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Node.js"
+      ],
+      "topics": [],
+      "created_at": "2026-11-06T09:28:09Z",
+      "updated_at": "2026-11-09T09:14:34Z",
+      "pushed_at": "2026-11-06T09:54:37Z",
+      "ai_summary": {
+        "summary": "一个热门的JavaScript开源项目，在GitHub上获得了1,897个star，值得关注。",
+        "highlights": [
+          "1,897 stars",
+          "JavaScript"
+        ],
+        "tech_summary": "JavaScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_badge.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sheeridverify/1_badge.svg",
+            "size": 2273,
+            "content_type": "image/svg+xml; charset=utf-8",
+            "downloaded_at": "2026-11-09T09:34:19.613Z",
+            "original_url": "https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml/badge.svg",
+            "absolute_url": "https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml/badge.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sheeridverify",
+        "representative_image": {
+          "filename": "1_badge.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sheeridverify/1_badge.svg",
+          "size": 2273,
+          "content_type": "image/svg+xml; charset=utf-8",
+          "downloaded_at": "2026-11-09T09:34:19.613Z",
+          "original_url": "https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml/badge.svg",
+          "absolute_url": "https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml/badge.svg"
+        }
+      },
+      "activity_score": 68,
+      "popularity_score": 73,
+      "freshness_score": 100,
+      "overall_score": 77,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 6,
+      "name": "NX2navi",
+      "full_name": "tangerineturtle1/NX2navi",
+      "owner": "tangerineturtle1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178368288?v=4",
+      "stars": 1690,
+      "forks": 89,
+      "issues": 203,
+      "watchers": 1690,
+      "description": "",
+      "homepage": null,
+      "clone_url": "https://github.com/tangerineturtle1/NX2navi.git",
+      "ssh_url": "git@github.com:tangerineturtle1/NX2navi.git",
+      "html_url": "https://github.com/tangerineturtle1/NX2navi",
+      "language": "C",
+      "primary_language": "C",
+      "languages": {
+        "C": 5285963,
+        "Python": 1555804,
+        "C++": 312013,
+        "C#": 207903,
+        "GLSL": 5607,
+        "Shell": 1619
+      },
+      "tech_stack": [
+        "C",
+        "Python",
+        "C++",
+        "C#",
+        "GLSL",
+        "Shell",
+        "AWS"
+      ],
+      "topics": [],
+      "created_at": "2026-11-07T10:01:23Z",
+      "updated_at": "2026-11-09T09:32:28Z",
+      "pushed_at": "2026-11-09T09:28:44Z",
+      "ai_summary": {
+        "summary": "一个热门的C开源项目，在GitHub上获得了1,690个star，值得关注。",
+        "highlights": [
+          "1,690 stars",
+          "C"
+        ],
+        "tech_summary": "C",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_navi.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/nx2navi/1_navi.png",
+            "size": 2906,
+            "content_type": "image/png",
+            "downloaded_at": "2026-11-09T09:34:21.699Z",
+            "original_url": "docs/images/navi.png",
+            "absolute_url": "https://raw.githubusercontent.com/tangerineturtle1/NX2navi/main/docs/images/navi.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/nx2navi",
+        "representative_image": {
+          "filename": "1_navi.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/nx2navi/1_navi.png",
+          "size": 2906,
+          "content_type": "image/png",
+          "downloaded_at": "2026-11-09T09:34:21.699Z",
+          "original_url": "docs/images/navi.png",
+          "absolute_url": "https://raw.githubusercontent.com/tangerineturtle1/NX2navi/main/docs/images/navi.png"
+        }
+      },
+      "activity_score": 82,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 77,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 7,
+      "name": "terminal-mac",
+      "full_name": "govijr/terminal-mac",
+      "owner": "govijr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111436589?v=4",
+      "stars": 2446,
+      "forks": 168,
+      "issues": 5,
+      "watchers": 2446,
+      "description": "Entire MacOS running in your terminal.",
+      "homepage": "",
+      "clone_url": "https://github.com/govijr/terminal-mac.git",
+      "ssh_url": "git@github.com:govijr/terminal-mac.git",
+      "html_url": "https://github.com/govijr/terminal-mac",
+      "language": "Swift",
+      "primary_language": "Swift",
+      "languages": {
+        "Swift": 192091,
+        "Shell": 22423,
+        "C": 731
+      },
+      "tech_stack": [
+        "Swift",
+        "Shell",
+        "C",
+        "cli",
+        "gui",
+        "macos",
+        "shell",
+        "swift"
+      ],
+      "topics": [
+        "cli",
+        "gui",
+        "macos",
+        "shell",
+        "swift",
+        "terminal",
+        "tui"
+      ],
+      "created_at": "2026-11-03T03:22:56Z",
+      "updated_at": "2026-11-09T09:23:04Z",
+      "pushed_at": "2026-11-09T08:39:21Z",
+      "ai_summary": {
+        "summary": "一个使用Swift开发的开源项目：Entire MacOS running in your terminal.，已获得2,446个star。",
+        "highlights": [
+          "2,446 stars",
+          "Swift"
+        ],
+        "tech_summary": "Swift",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_orange_img.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/terminal-mac/1_orange_img.png",
+            "size": 1455,
+            "content_type": "image/png",
+            "downloaded_at": "2026-11-09T09:34:18.247Z",
+            "original_url": "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png",
+            "absolute_url": "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/terminal-mac",
+        "representative_image": {
+          "filename": "1_orange_img.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/terminal-mac/1_orange_img.png",
+          "size": 1455,
+          "content_type": "image/png",
+          "downloaded_at": "2026-11-09T09:34:18.247Z",
+          "original_url": "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png",
+          "absolute_url": "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+        }
+      },
+      "activity_score": 56,
+      "popularity_score": 70,
+      "freshness_score": 100,
+      "overall_score": 72,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 8,
+      "name": "cinecode",
+      "full_name": "sarpstar/cinecode",
+      "owner": "sarpstar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56429320?v=4",
+      "stars": 1751,
+      "forks": 311,
+      "issues": 7,
+      "watchers": 1751,
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "homepage": null,
+      "clone_url": "https://github.com/sarpstar/cinecode.git",
+      "ssh_url": "git@github.com:sarpstar/cinecode.git",
+      "html_url": "https://github.com/sarpstar/cinecode",
+      "language": "Python",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 1013465,
+        "HTML": 150017,
+        "JavaScript": 75184
+      },
+      "tech_stack": [
+        "Python",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "Redis"
+      ],
+      "topics": [],
+      "created_at": "2026-11-03T10:08:16Z",
+      "updated_at": "2026-11-09T09:32:07Z",
+      "pushed_at": "2026-11-03T15:21:18Z",
+      "ai_summary": {
+        "summary": "一个使用Python开发的开源项目：Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.，已获得1,751个star。",
+        "highlights": [
+          "1,751 stars",
+          "Python"
+        ],
+        "tech_summary": "Python",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_lockup.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/cinecode/1_lockup.png",
+            "size": 16116,
+            "content_type": "image/png",
+            "downloaded_at": "2026-11-09T09:34:20.692Z",
+            "original_url": "docs/media/lockup.png",
+            "absolute_url": "https://raw.githubusercontent.com/sarpstar/cinecode/main/docs/media/lockup.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/cinecode",
+        "representative_image": {
+          "filename": "1_lockup.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/cinecode/1_lockup.png",
+          "size": 16116,
+          "content_type": "image/png",
+          "downloaded_at": "2026-11-09T09:34:20.692Z",
+          "original_url": "docs/media/lockup.png",
+          "absolute_url": "https://raw.githubusercontent.com/sarpstar/cinecode/main/docs/media/lockup.png"
+        }
+      },
+      "activity_score": 55,
+      "popularity_score": 69,
+      "freshness_score": 100,
+      "overall_score": 71,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 9,
+      "name": "sand3d",
+      "full_name": "Sandflow-ai/sand3d",
+      "owner": "Sandflow-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335944997?v=4",
+      "stars": 1514,
+      "forks": 169,
+      "issues": 8,
+      "watchers": 1514,
+      "description": "3D modeling in Python, built for LLMs.",
+      "homepage": "https://sandflow.ai/sand3d/",
+      "clone_url": "https://github.com/Sandflow-ai/sand3d.git",
+      "ssh_url": "git@github.com:Sandflow-ai/sand3d.git",
+      "html_url": "https://github.com/Sandflow-ai/sand3d",
+      "language": "HTML",
+      "primary_language": "HTML",
+      "languages": {
+        "HTML": 5538895,
+        "Python": 679579,
+        "CSS": 14107
+      },
+      "tech_stack": [
+        "HTML",
+        "Python",
+        "CSS",
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling"
+      ],
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ],
+      "created_at": "2026-11-03T08:23:03Z",
+      "updated_at": "2026-11-09T09:33:13Z",
+      "pushed_at": "2026-11-06T11:03:55Z",
+      "ai_summary": {
+        "summary": "一个使用HTML开发的开源项目：3D modeling in Python, built for LLMs.，已获得1,514个star。",
+        "highlights": [
+          "1,514 stars",
+          "HTML"
+        ],
+        "tech_summary": "HTML",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_sandflow-symbol-black.svg",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sand3d/1_sandflow-symbol-black.svg",
+            "size": 1874,
+            "content_type": "image/svg+xml",
+            "downloaded_at": "2026-11-09T09:34:22.774Z",
+            "original_url": "https://raw.githubusercontent.com/Sandflow-ai/sand3d/main/docs/readme/sandflow-symbol-black.svg",
+            "absolute_url": "https://raw.githubusercontent.com/Sandflow-ai/sand3d/main/docs/readme/sandflow-symbol-black.svg"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sand3d",
+        "representative_image": {
+          "filename": "1_sandflow-symbol-black.svg",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/sand3d/1_sandflow-symbol-black.svg",
+          "size": 1874,
+          "content_type": "image/svg+xml",
+          "downloaded_at": "2026-11-09T09:34:22.774Z",
+          "original_url": "https://raw.githubusercontent.com/Sandflow-ai/sand3d/main/docs/readme/sandflow-symbol-black.svg",
+          "absolute_url": "https://raw.githubusercontent.com/Sandflow-ai/sand3d/main/docs/readme/sandflow-symbol-black.svg"
+        }
+      },
+      "activity_score": 56,
+      "popularity_score": 66,
+      "freshness_score": 100,
+      "overall_score": 70,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    },
+    {
+      "rank": 10,
+      "name": "player",
+      "full_name": "livliv-dev/player",
+      "owner": "livliv-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352250088?v=4",
+      "stars": 1366,
+      "forks": 145,
+      "issues": 3,
+      "watchers": 1366,
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "homepage": "https://livliv-dev.github.io/player/",
+      "clone_url": "https://github.com/livliv-dev/player.git",
+      "ssh_url": "git@github.com:livliv-dev/player.git",
+      "html_url": "https://github.com/livliv-dev/player",
+      "language": "TypeScript",
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 382439,
+        "HTML": 77555,
+        "JavaScript": 66379
+      },
+      "tech_stack": [
+        "TypeScript",
+        "HTML",
+        "JavaScript",
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber"
+      ],
+      "topics": [
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber",
+        "vrm",
+        "vtuber",
+        "webgl2"
+      ],
+      "created_at": "2026-11-04T03:28:33Z",
+      "updated_at": "2026-11-09T09:07:30Z",
+      "pushed_at": "2026-11-09T06:08:52Z",
+      "ai_summary": {
+        "summary": "一个使用TypeScript开发的开源项目：A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.，已获得1,366个star。",
+        "highlights": [
+          "1,366 stars",
+          "TypeScript"
+        ],
+        "tech_summary": "TypeScript",
+        "use_case": "开发工具",
+        "source": "fallback"
+      },
+      "images": {
+        "total_count": 1,
+        "image_list": [
+          {
+            "filename": "1_livliv-player-wordmark-2000.png",
+            "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/player/1_livliv-player-wordmark-2000.png",
+            "size": 51050,
+            "content_type": "image/png",
+            "downloaded_at": "2026-11-09T09:34:23.852Z",
+            "original_url": "media/livliv-player-wordmark-2000.png",
+            "absolute_url": "https://raw.githubusercontent.com/livliv-dev/player/main/media/livliv-player-wordmark-2000.png"
+          }
+        ],
+        "image_dir": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/player",
+        "representative_image": {
+          "filename": "1_livliv-player-wordmark-2000.png",
+          "filepath": "/home/runner/work/GitHub-Trending-/GitHub-Trending-/images/2026/week-46/player/1_livliv-player-wordmark-2000.png",
+          "size": 51050,
+          "content_type": "image/png",
+          "downloaded_at": "2026-11-09T09:34:23.852Z",
+          "original_url": "media/livliv-player-wordmark-2000.png",
+          "absolute_url": "https://raw.githubusercontent.com/livliv-dev/player/main/media/livliv-player-wordmark-2000.png"
+        }
+      },
+      "activity_score": 55,
+      "popularity_score": 65,
+      "freshness_score": 100,
+      "overall_score": 69,
+      "trend": {
+        "status": "new",
+        "star_change": 0,
+        "rank_change": 0,
+        "is_new": true
+      }
+    }
+  ],
+  "statistics": {
+    "total_stars": 26256,
+    "total_forks": 5967,
+    "average_stars": 2626,
+    "average_forks": 597,
+    "top_languages": [
+      {
+        "name": "TypeScript",
+        "count": 3
+      },
+      {
+        "name": "Python",
+        "count": 2
+      },
+      {
+        "name": "C++",
+        "count": 1
+      },
+      {
+        "name": "JavaScript",
+        "count": 1
+      },
+      {
+        "name": "C",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "cli",
+        "count": 2
+      },
+      {
+        "name": "android",
+        "count": 1
+      },
+      {
+        "name": "drama",
+        "count": 1
+      },
+      {
+        "name": "free",
+        "count": 1
+      },
+      {
+        "name": "movie-web-app",
+        "count": 1
+      },
+      {
+        "name": "reels",
+        "count": 1
+      },
+      {
+        "name": "windows",
+        "count": 1
+      },
+      {
+        "name": "ai-agents",
+        "count": 1
+      },
+      {
+        "name": "automation",
+        "count": 1
+      },
+      {
+        "name": "claude-code",
+        "count": 1
+      }
+    ],
+    "score_distribution": {
+      "min": 69,
+      "max": 83,
+      "average": 76,
+      "median": 77
+    }
+  },
+  "generated_at": "2026-11-09T09:34:23.861Z"
+}

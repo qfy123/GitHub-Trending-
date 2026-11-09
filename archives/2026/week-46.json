@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "report_title": "GitHub趋势排行榜 - 2026年第46周",
+    "year": 2026,
+    "week": 46,
+    "week_range": {
+      "start": "2026-11-08",
+      "end": "2026-11-14"
+    },
+    "total_repositories": 10,
+    "generation_date": "2026-11-14 23:59:59",
+    "next_update": "2026-11-21"
+  },
+  "repositories": [
+    {
+      "full_name": "NotRexed/Hookshot",
+      "rank": 1,
+      "stars": 3570,
+      "forks": 345,
+      "overall_score": 83
+    },
+    {
+      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "rank": 2,
+      "stars": 3315,
+      "forks": 1217,
+      "overall_score": 83
+    },
+    {
+      "full_name": "Minireel/HGhub",
+      "rank": 3,
+      "stars": 4496,
+      "forks": 1742,
+      "overall_score": 82
+    },
+    {
+      "full_name": "KKKKhazix/agent-autoloop",
+      "rank": 4,
+      "stars": 4211,
+      "forks": 765,
+      "overall_score": 79
+    },
+    {
+      "full_name": "JenkinWoo/sheeridVerify",
+      "rank": 5,
+      "stars": 1897,
+      "forks": 1016,
+      "overall_score": 77
+    },
+    {
+      "full_name": "tangerineturtle1/NX2navi",
+      "rank": 6,
+      "stars": 1690,
+      "forks": 89,
+      "overall_score": 77
+    },
+    {
+      "full_name": "govijr/terminal-mac",
+      "rank": 7,
+      "stars": 2446,
+      "forks": 168,
+      "overall_score": 72
+    },
+    {
+      "full_name": "sarpstar/cinecode",
+      "rank": 8,
+      "stars": 1751,
+      "forks": 311,
+      "overall_score": 71
+    },
+    {
+      "full_name": "Sandflow-ai/sand3d",
+      "rank": 9,
+      "stars": 1514,
+      "forks": 169,
+      "overall_score": 70
+    },
+    {
+      "full_name": "livliv-dev/player",
+      "rank": 10,
+      "stars": 1366,
+      "forks": 145,
+      "overall_score": 69
+    }
+  ],
+  "generated_at": "2026-11-09T09:34:23.861Z"
+}

@@ -18,220 +18,222 @@
 ## 📈 本周排行榜
 
 <!-- TRENDING-START -->
-### GitHub趋势排行榜 - 2026年第45周
+### GitHub趋势排行榜 - 2026年第46周
 
-**📅 统计周期**: 2026-11-01 ~ 2026-11-07  
+**📅 统计周期**: 2026-11-08 ~ 2026-11-14  
 **📊 项目总数**: 10 个  
-**⭐ 总Star数**: 40,446  
-**🔄 更新时间**: 2026-11-07 23:59:59  
+**⭐ 总Star数**: 26,256  
+**🔄 更新时间**: 2026-11-14 23:59:59  
 
 | 排名 | 项目 | 描述 | Star | Fork | 语言 | 趋势 |
 |------|------|------|------|------|------|------|
-| 1 | [Mika](https://github.com/wangzan101/Mika) | 一个使用Kotlin开发的开源项目：An on-device AI agent for Android that ... | 4,634 | 877 | Kotlin | 🆕 |
-| 2 | [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 一个使用TypeScript开发的开源项目：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 /... | 5,346 | 1,367 | TypeScript | 🆕 |
-| 3 | [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 一个使用TypeScript开发的开源项目：Towards a More Autonomous Agent Sys... | 10,533 | 1,077 | TypeScript | 🆕 |
-| 4 | [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 一个使用C开发的开源项目：Static recompilation of The Legend of Zelda:... | 3,457 | 277 | C | 🆕 |
-| 5 | [Eglantine](https://github.com/Djihads80/Eglantine) | 一个使用C++开发的开源项目：VERY experimental Nintendo Switch 2 emulat... | 2,147 | 255 | C++ | 🆕 |
-| 6 | [craft-anything](https://github.com/storytold/craft-anything) | 一个使用Rust开发的开源项目：Craft Anything: understand how any softwa... | 1,995 | 314 | Rust | 🆕 |
-| 7 | [floorplan](https://github.com/haydenschmitty/floorplan) | 一个使用JavaScript开发的开源项目：See how your app actually fits toge... | 1,966 | 144 | JavaScript | 🆕 |
-| 8 | [unslop](https://github.com/heydamir/unslop) | 一个使用JavaScript开发的开源项目：A Claude skill that turns vibecoded... | 5,282 | 259 | JavaScript | 🆕 |
-| 9 | [pixelfx](https://github.com/patch-gg/pixelfx) | 一个使用JavaScript开发的开源项目：244 pixel art effects, every one a ... | 3,079 | 410 | JavaScript | 🆕 |
-| 10 | [nvzhuang](https://github.com/paipiange/nvzhuang) | 一个使用Go开发的开源项目：1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Image... | 2,007 | 519 | Go | 🆕 |
+| 1 | [Hookshot](https://github.com/NotRexed/Hookshot) | 一个使用C++开发的开源项目：A Native Recompilation Of The Legend Of Ze... | 3,570 | 345 | C++ | 🆕 |
+| 2 | [Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | 一个使用Python开发的开源项目：Google_AI_Pro_2Year_ZeroCost_Auto，已获得3,... | 3,315 | 1,217 | Python | 🆕 |
+| 3 | [HGhub](https://github.com/Minireel/HGhub) | 一个使用TypeScript开发的开源项目：YellowFruit third-party client，已获得4... | 4,496 | 1,742 | TypeScript | 🆕 |
+| 4 | [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 一个使用TypeScript开发的开源项目：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇... | 4,211 | 765 | TypeScript | 🆕 |
+| 5 | [sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 一个热门的JavaScript开源项目，在GitHub上获得了1,897个star，值得关注。 | 1,897 | 1,016 | JavaScript | 🆕 |
+| 6 | [NX2navi](https://github.com/tangerineturtle1/NX2navi) | 一个热门的C开源项目，在GitHub上获得了1,690个star，值得关注。 | 1,690 | 89 | C | 🆕 |
+| 7 | [terminal-mac](https://github.com/govijr/terminal-mac) | 一个使用Swift开发的开源项目：Entire MacOS running in your terminal.，已... | 2,446 | 168 | Swift | 🆕 |
+| 8 | [cinecode](https://github.com/sarpstar/cinecode) | 一个使用Python开发的开源项目：Films made with code. Short films, long... | 1,751 | 311 | Python | 🆕 |
+| 9 | [sand3d](https://github.com/Sandflow-ai/sand3d) | 一个使用HTML开发的开源项目：3D modeling in Python, built for LLMs.，已获... | 1,514 | 169 | HTML | 🆕 |
+| 10 | [player](https://github.com/livliv-dev/player) | 一个使用TypeScript开发的开源项目：A lightweight 2.5D character player... | 1,366 | 145 | TypeScript | 🆕 |
 
 ### 🔥 详细介绍
 
-#### 1. [Mika](https://github.com/wangzan101/Mika) ![Star](https://img.shields.io/github/stars/wangzan101/Mika?style=social)
+#### 1. [Hookshot](https://github.com/NotRexed/Hookshot) ![Star](https://img.shields.io/github/stars/NotRexed/Hookshot?style=social)
 
-<img src="./images/2026/week-45/mika/1_logo.png" alt="Mika" width="500"/>
+<img src="./images/2026/week-46/hookshot/1_hookshot.png" alt="Hookshot" width="500"/>
 
-**📝 项目简介**: 一个使用Kotlin开发的开源项目：An on-device AI agent for Android that operates apps and the web to get things done for you.，已获得4,634个star。
+**📝 项目简介**: 一个使用C++开发的开源项目：A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake，已获得3,570个star。
 
 **✨ 核心特性**:
-- 4,634 stars
-- Kotlin
+- 3,570 stars
+- C++
 
 **📊 项目统计**:
-- **⭐ Star数**: 4,634
-- **🔀 Fork数**: 877
-- **👀 Watch数**: 4,634
-- **📝 语言**: Kotlin
-- **💻 技术栈**: Kotlin, JavaScript, Python, Go, HTML, Java
+- **⭐ Star数**: 3,570
+- **🔀 Fork数**: 345
+- **👀 Watch数**: 3,570
+- **📝 语言**: C++
+- **💻 技术栈**: C++, C, Python, C#, Shell, CMake
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 2. [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) ![Star](https://img.shields.io/github/stars/anhao/ai-pose-gallery-zh?style=social)
+#### 2. [Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) ![Star](https://img.shields.io/github/stars/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto?style=social)
 
-<img src="./images/2026/week-45/ai-pose-gallery-zh/1_preview.jpg" alt="ai-pose-gallery-zh" width="500"/>
-
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊，已获得5,346个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Google_AI_Pro_2Year_ZeroCost_Auto，已获得3,315个star。
 
 **✨ 核心特性**:
-- 5,346 stars
+- 3,315 stars
+- Python
+
+**📊 项目统计**:
+- **⭐ Star数**: 3,315
+- **🔀 Fork数**: 1,217
+- **👀 Watch数**: 3,315
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, Batchfile
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 3. [HGhub](https://github.com/Minireel/HGhub) ![Star](https://img.shields.io/github/stars/Minireel/HGhub?style=social)
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：YellowFruit third-party client，已获得4,496个star。
+
+**✨ 核心特性**:
+- 4,496 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 5,346
-- **🔀 Fork数**: 1,367
-- **👀 Watch数**: 5,346
+- **⭐ Star数**: 4,496
+- **🔀 Fork数**: 1,742
+- **👀 Watch数**: 4,496
 - **📝 语言**: TypeScript
-- **🌐 官网**: [https://ai-pose-gallery.anhao.app](https://ai-pose-gallery.anhao.app)
-- **💻 技术栈**: TypeScript, Python, JavaScript, CSS, HTML, Shell
+- **💻 技术栈**: TypeScript, Rust, JavaScript, CSS, Python, HTML
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 3. [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) ![Star](https://img.shields.io/github/stars/deepseek-ai/dsh-superagent-prototype?style=social)
+#### 4. [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) ![Star](https://img.shields.io/github/stars/KKKKhazix/agent-autoloop?style=social)
 
-**📝 项目简介**: 一个使用TypeScript开发的开源项目：Towards a More Autonomous Agent System，已获得10,533个star。
+<img src="./images/2026/week-46/agent-autoloop/1_architecture.svg" alt="agent-autoloop" width="500"/>
+
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。，已获得4,211个star。
 
 **✨ 核心特性**:
-- 10,533 stars
+- 4,211 stars
 - TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 10,533
-- **🔀 Fork数**: 1,077
-- **👀 Watch数**: 10,533
+- **⭐ Star数**: 4,211
+- **🔀 Fork数**: 765
+- **👀 Watch数**: 4,211
 - **📝 语言**: TypeScript
-- **💻 技术栈**: TypeScript, CSS, Python
+- **💻 技术栈**: TypeScript, Shell, PowerShell, JavaScript, Batchfile, ai-agents
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 4. [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) ![Star](https://img.shields.io/github/stars/valentderah/totk-pc-recomp?style=social)
+#### 5. [sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) ![Star](https://img.shields.io/github/stars/JenkinWoo/sheeridVerify?style=social)
 
-**📝 项目简介**: 一个使用C开发的开源项目：Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.，已获得3,457个star。
+<img src="./images/2026/week-46/sheeridverify/1_badge.svg" alt="sheeridVerify" width="500"/>
+
+**📝 项目简介**: 一个热门的JavaScript开源项目，在GitHub上获得了1,897个star，值得关注。
 
 **✨ 核心特性**:
-- 3,457 stars
+- 1,897 stars
+- JavaScript
+
+**📊 项目统计**:
+- **⭐ Star数**: 1,897
+- **🔀 Fork数**: 1,016
+- **👀 Watch数**: 1,897
+- **📝 语言**: JavaScript
+- **💻 技术栈**: JavaScript, CSS, HTML, Node.js
+- **📈 趋势**: 🆕 新上榜项目
+
+---
+
+#### 6. [NX2navi](https://github.com/tangerineturtle1/NX2navi) ![Star](https://img.shields.io/github/stars/tangerineturtle1/NX2navi?style=social)
+
+<img src="./images/2026/week-46/nx2navi/1_navi.png" alt="NX2navi" width="500"/>
+
+**📝 项目简介**: 一个热门的C开源项目，在GitHub上获得了1,690个star，值得关注。
+
+**✨ 核心特性**:
+- 1,690 stars
 - C
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,457
-- **🔀 Fork数**: 277
-- **👀 Watch数**: 3,457
+- **⭐ Star数**: 1,690
+- **🔀 Fork数**: 89
+- **👀 Watch数**: 1,690
 - **📝 语言**: C
 - **💻 技术栈**: C, Python, C++, C#, GLSL, Shell
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 5. [Eglantine](https://github.com/Djihads80/Eglantine) ![Star](https://img.shields.io/github/stars/Djihads80/Eglantine?style=social)
+#### 7. [terminal-mac](https://github.com/govijr/terminal-mac) ![Star](https://img.shields.io/github/stars/govijr/terminal-mac?style=social)
 
-**📝 项目简介**: 一个使用C++开发的开源项目：VERY experimental Nintendo Switch 2 emulator，已获得2,147个star。
+<img src="./images/2026/week-46/terminal-mac/1_orange_img.png" alt="terminal-mac" width="500"/>
+
+**📝 项目简介**: 一个使用Swift开发的开源项目：Entire MacOS running in your terminal.，已获得2,446个star。
 
 **✨ 核心特性**:
-- 2,147 stars
-- C++
+- 2,446 stars
+- Swift
 
 **📊 项目统计**:
-- **⭐ Star数**: 2,147
-- **🔀 Fork数**: 255
-- **👀 Watch数**: 2,147
-- **📝 语言**: C++
-- **💻 技术栈**: C++, Kotlin, CMake, GLSL, Shell, Python
+- **⭐ Star数**: 2,446
+- **🔀 Fork数**: 168
+- **👀 Watch数**: 2,446
+- **📝 语言**: Swift
+- **💻 技术栈**: Swift, Shell, C, cli, gui, macos
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 6. [craft-anything](https://github.com/storytold/craft-anything) ![Star](https://img.shields.io/github/stars/storytold/craft-anything?style=social)
+#### 8. [cinecode](https://github.com/sarpstar/cinecode) ![Star](https://img.shields.io/github/stars/sarpstar/cinecode?style=social)
 
-<img src="./images/2026/week-45/craft-anything/1_artcraft-logo.svg" alt="craft-anything" width="500"/>
+<img src="./images/2026/week-46/cinecode/1_lockup.png" alt="cinecode" width="500"/>
 
-**📝 项目简介**: 一个使用Rust开发的开源项目：Craft Anything: understand how any software works, and craft your own.，已获得1,995个star。
+**📝 项目简介**: 一个使用Python开发的开源项目：Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.，已获得1,751个star。
 
 **✨ 核心特性**:
-- 1,995 stars
-- Rust
+- 1,751 stars
+- Python
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,995
-- **🔀 Fork数**: 314
-- **👀 Watch数**: 1,995
-- **📝 语言**: Rust
-- **💻 技术栈**: Rust, Shell, PowerShell, Java, Python, Swift
+- **⭐ Star数**: 1,751
+- **🔀 Fork数**: 311
+- **👀 Watch数**: 1,751
+- **📝 语言**: Python
+- **💻 技术栈**: Python, HTML, JavaScript, Node.js, Redis
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 7. [floorplan](https://github.com/haydenschmitty/floorplan) ![Star](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=social)
+#### 9. [sand3d](https://github.com/Sandflow-ai/sand3d) ![Star](https://img.shields.io/github/stars/Sandflow-ai/sand3d?style=social)
 
-<img src="./images/2026/week-45/floorplan/1_logo-light.png" alt="floorplan" width="500"/>
+<img src="./images/2026/week-46/sand3d/1_sandflow-symbol-black.svg" alt="sand3d" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.，已获得1,966个star。
+**📝 项目简介**: 一个使用HTML开发的开源项目：3D modeling in Python, built for LLMs.，已获得1,514个star。
 
 **✨ 核心特性**:
-- 1,966 stars
-- JavaScript
+- 1,514 stars
+- HTML
 
 **📊 项目统计**:
-- **⭐ Star数**: 1,966
-- **🔀 Fork数**: 144
-- **👀 Watch数**: 1,966
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://haydenschmitty.github.io/floorplan-demo/](https://haydenschmitty.github.io/floorplan-demo/)
-- **💻 技术栈**: JavaScript, HTML, ai-coding, architecture-diagram, claude, claude-code
+- **⭐ Star数**: 1,514
+- **🔀 Fork数**: 169
+- **👀 Watch数**: 1,514
+- **📝 语言**: HTML
+- **🌐 官网**: [https://sandflow.ai/sand3d/](https://sandflow.ai/sand3d/)
+- **💻 技术栈**: HTML, Python, CSS, 3d, blender, cad
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
 
-#### 8. [unslop](https://github.com/heydamir/unslop) ![Star](https://img.shields.io/github/stars/heydamir/unslop?style=social)
+#### 10. [player](https://github.com/livliv-dev/player) ![Star](https://img.shields.io/github/stars/livliv-dev/player?style=social)
 
-<img src="./images/2026/week-45/unslop/1_story-dashboard-frames.webp" alt="unslop" width="500"/>
+<img src="./images/2026/week-46/player/1_livliv-player-wordmark-2000.png" alt="player" width="500"/>
 
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：A Claude skill that turns vibecoded, AI-looking UI into a designed interface，已获得5,282个star。
-
-**✨ 核心特性**:
-- 5,282 stars
-- JavaScript
-
-**📊 项目统计**:
-- **⭐ Star数**: 5,282
-- **🔀 Fork数**: 259
-- **👀 Watch数**: 5,282
-- **📝 语言**: JavaScript
-- **💻 技术栈**: JavaScript, React, Vue
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 9. [pixelfx](https://github.com/patch-gg/pixelfx) ![Star](https://img.shields.io/github/stars/patch-gg/pixelfx?style=social)
-
-**📝 项目简介**: 一个使用JavaScript开发的开源项目：244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.，已获得3,079个star。
+**📝 项目简介**: 一个使用TypeScript开发的开源项目：A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.，已获得1,366个star。
 
 **✨ 核心特性**:
-- 3,079 stars
-- JavaScript
+- 1,366 stars
+- TypeScript
 
 **📊 项目统计**:
-- **⭐ Star数**: 3,079
-- **🔀 Fork数**: 410
-- **👀 Watch数**: 3,079
-- **📝 语言**: JavaScript
-- **🌐 官网**: [https://patch-gg.github.io/pixelfx/](https://patch-gg.github.io/pixelfx/)
-- **💻 技术栈**: JavaScript, CSS, HTML, agent-skills, animation, canvas
-- **📈 趋势**: 🆕 新上榜项目
-
----
-
-#### 10. [nvzhuang](https://github.com/paipiange/nvzhuang) ![Star](https://img.shields.io/github/stars/paipiange/nvzhuang?style=social)
-
-<img src="./images/2026/week-45/nvzhuang/1_screenshot-zh.png" alt="nvzhuang" width="500"/>
-
-**📝 项目简介**: 一个使用Go开发的开源项目：1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang，已获得2,007个star。
-
-**✨ 核心特性**:
-- 2,007 stars
-- Go
-
-**📊 项目统计**:
-- **⭐ Star数**: 2,007
-- **🔀 Fork数**: 519
-- **👀 Watch数**: 2,007
-- **📝 语言**: Go
-- **🌐 官网**: [https://paipiange.github.io/nvzhuang/](https://paipiange.github.io/nvzhuang/)
-- **💻 技术栈**: Go, HTML, JavaScript, Spring, Docker
+- **⭐ Star数**: 1,366
+- **🔀 Fork数**: 145
+- **👀 Watch数**: 1,366
+- **📝 语言**: TypeScript
+- **🌐 官网**: [https://livliv-dev.github.io/player/](https://livliv-dev.github.io/player/)
+- **💻 技术栈**: TypeScript, HTML, JavaScript, avatar, character, face-tracking
 - **📈 趋势**: 🆕 新上榜项目
 
 ---
@@ -239,21 +241,21 @@
 ### 📈 本周统计
 
 **🔥 热门语言**:
-1. **JavaScript** (3 个项目)
-2. **TypeScript** (2 个项目)
-3. **Kotlin** (1 个项目)
-4. **C** (1 个项目)
-5. **C++** (1 个项目)
+1. **TypeScript** (3 个项目)
+2. **Python** (2 个项目)
+3. **C++** (1 个项目)
+4. **JavaScript** (1 个项目)
+5. **C** (1 个项目)
 
 **🏷️ 热门话题**:
-1. claude-code-plugin (2)
-2. accessibility (1)
-3. ai-agent (1)
-4. android (1)
-5. automation (1)
-6. jetpack-compose (1)
-7. kotlin (1)
-8. llm (1)
+1. cli (2)
+2. android (1)
+3. drama (1)
+4. free (1)
+5. movie-web-app (1)
+6. reels (1)
+7. windows (1)
+8. ai-agents (1)
 
 
 <!-- TRENDING-END -->
@@ -263,6 +265,7 @@
 <!-- HISTORY-START -->
 | 时间 | 周期 | 项目数 | 链接 |
 |------|------|--------|------|
+| 11-14 | 2026年第46周 | 10 个 | [查看详情](./archives/2026/week-46/report.md) |
 | 11-07 | 2026年第45周 | 10 个 | [查看详情](./archives/2026/week-45/report.md) |
 | 10-31 | 2026年第44周 | 10 个 | [查看详情](./archives/2026/week-44/report.md) |
 | 10-24 | 2026年第43周 | 10 个 | [查看详情](./archives/2026/week-43/report.md) |
@@ -282,7 +285,6 @@
 | 07-18 | 2026年第29周 | 10 个 | [查看详情](./archives/2026/week-29/report.md) |
 | 07-11 | 2026年第28周 | 10 个 | [查看详情](./archives/2026/week-28/report.md) |
 | 07-04 | 2026年第27周 | 10 个 | [查看详情](./archives/2026/week-27/report.md) |
-| 06-27 | 2026年第26周 | 10 个 | [查看详情](./archives/2026/week-26/report.md) |
 
 [查看完整历史数据](./archives/)
 <!-- HISTORY-END -->
